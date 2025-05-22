@@ -1,3 +1,5 @@
+---- UPDATING ----
+---- REMIND ----
 MariaDB: remote database lưu trữ thông tin bang biểu của hive bằng các table
 trino/hive: lưu trữ các schema, database nhưng chỉ là khung, không có dữ lieu, dữ liệu nằm trong minio
 
