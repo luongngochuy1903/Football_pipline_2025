@@ -1,0 +1,110 @@
+[
+    {
+        "team_name": "Bayern Munich",
+        "rank": "1",
+        "point": "71",
+        "manager": "Unknown"
+    },
+    {
+        "team_name": "Dortmund",
+        "rank": "2",
+        "point": "71",
+        "manager": "Unknown"
+    },
+    {
+        "team_name": "RB Leipzig",
+        "rank": "3",
+        "point": "66",
+        "manager": "Unknown"
+    },
+    {
+        "team_name": "Union Berlin",
+        "rank": "4",
+        "point": "62",
+        "manager": "Unknown"
+    },
+    {
+        "team_name": "Freiburg",
+        "rank": "5",
+        "point": "59",
+        "manager": "Unknown"
+    },
+    {
+        "team_name": "Leverkusen",
+        "rank": "6",
+        "point": "50",
+        "manager": "Unknown"
+    },
+    {
+        "team_name": "Eint Frankfurt",
+        "rank": "7",
+        "point": "50",
+        "manager": "Unknown"
+    },
+    {
+        "team_name": "Wolfsburg",
+        "rank": "8",
+        "point": "49",
+        "manager": "Unknown"
+    },
+    {
+        "team_name": "Mainz 05",
+        "rank": "9",
+        "point": "46",
+        "manager": "Unknown"
+    },
+    {
+        "team_name": "Gladbach",
+        "rank": "10",
+        "point": "43",
+        "manager": "Unknown"
+    },
+    {
+        "team_name": "Köln",
+        "rank": "11",
+        "point": "42",
+        "manager": "Unknown"
+    },
+    {
+        "team_name": "Hoffenheim",
+        "rank": "12",
+        "point": "36",
+        "manager": "Unknown"
+    },
+    {
+        "team_name": "Werder Bremen",
+        "rank": "13",
+        "point": "36",
+        "manager": "Unknown"
+    },
+    {
+        "team_name": "Bochum",
+        "rank": "14",
+        "point": "35",
+        "manager": "Unknown"
+    },
+    {
+        "team_name": "Augsburg",
+        "rank": "15",
+        "point": "34",
+        "manager": "Unknown"
+    },
+    {
+        "team_name": "Stuttgart",
+        "rank": "16",
+        "point": "33",
+        "manager": "Unknown"
+    },
+    {
+        "team_name": "Schalke 04",
+        "rank": "17",
+        "point": "31",
+        "manager": "Unknown"
+    },
+    {
+        "team_name": "Hertha BSC",
+        "rank": "18",
+        "point": "29",
+        "manager": "Unknown"
+    }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "team": "Juventus",
+    "incomes": "€ 107,400,000",
+    "expense": "€ 102,400,000",
+    "balance": "€ 5,281,110"
+  },
+  {
+    "team": "Napoli",
+    "incomes": "€ 80,950,000",
+    "expense": "€ 68,050,000",
+    "balance": "€ 13,625,263"
+  },
+  {
+    "team": "Atalanta",
+    "incomes": "€ 80,720,000",
+    "expense": "€ 98,000,000",
+    "balance": "€ -18,251,515"
+  },
+  {
+    "team": "Sassuolo",
+    "incomes": "€ 75,000,000",
+    "expense": "€ 48,000,000",
+    "balance": "€ 28,517,992"
+  },
+  {
+    "team": "Udinese",
+    "incomes": "€ 61,700,000",
+    "expense": "€ 52,500,000",
+    "balance": "€ 9,717,242"
+  },
+  {
+    "team": "Roma",
+    "incomes": "€ 52,100,000",
+    "expense": "€ 9,000,000",
+    "balance": "€ 45,523,166"
+  },
+  {
+    "team": "Torino",
+    "incomes": "€ 50,680,000",
+    "expense": "€ 28,350,000",
+    "balance": "€ 23,585,436"
+  },
+  {
+    "team": "Fiorentina",
+    "incomes": "€ 45,800,000",
+    "expense": "€ 36,700,000",
+    "balance": "€ 9,611,620"
+  },
+  {
+    "team": "Bologna",
+    "incomes": "€ 45,700,000",
+    "expense": "€ 34,500,000",
+    "balance": "€ 11,829,686"
+  },
+  {
+    "team": "Lazio",
+    "incomes": "€ 36,130,000",
+    "expense": "€ 39,700,000",
+    "balance": "€ -3,770,712"
+  },
+  {
+    "team": "Hellas Verona",
+    "incomes": "€ 34,600,000",
+    "expense": "€ 39,500,000",
+    "balance": "€ -5,175,488"
+  },
+  {
+    "team": "Spezia",
+    "incomes": "€ 32,350,000",
+    "expense": "€ 15,900,000",
+    "balance": "€ 17,374,851"
+  },
+  {
+    "team": "Sampdoria",
+    "incomes": "€ 32,300,000",
+    "expense": "€ 6,000,000",
+    "balance": "€ 27,778,637"
+  },
+  {
+    "team": "Empoli",
+    "incomes": "€ 31,420,000",
+    "expense": "€ 14,200,000",
+    "balance": "€ 18,188,142"
+  },
+  {
+    "team": "Salernitana",
+    "incomes": "€ 21,100,000",
+    "expense": "€ 44,830,000",
+    "balance": "€ -25,064,147"
+  },
+  {
+    "team": "AC Milan",
+    "incomes": "€ 13,050,000",
+    "expense": "€ 48,670,000",
+    "balance": "€ -37,622,626"
+  },
+  {
+    "team": "Inter Milan",
+    "incomes": "€ 8,400,000",
+    "expense": "€ 38,600,000",
+    "balance": "€ -31,897,903"
+  },
+  {
+    "team": "Lecce",
+    "incomes": "€ 3,550,000",
+    "expense": "€ 6,850,000",
+    "balance": "€ -3,485,532"
+  },
+  {
+    "team": "Cremonese",
+    "incomes": "€ 0",
+    "expense": "€ 26,300,000",
+    "balance": "€ -27,778,637"
+  },
+  {
+    "team": "Monza",
+    "incomes": "€ 0",
+    "expense": "€ 23,900,000",
+    "balance": "€ -25,243,704"
+  }
+]

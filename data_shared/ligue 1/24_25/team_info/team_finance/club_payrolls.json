@@ -1,0 +1,164 @@
+[
+  {
+    "team": "PSG",
+    "gross/w": "€ 3,784,423",
+    "gross/y": "€ 196,790,000",
+    "gross_keeper": "€ 17,020,000",
+    "gross_defense": "€ 78,440,000",
+    "gross_midfield": "€ 33,290,000",
+    "gross_forward": "€ 68,040,000"
+  },
+  {
+    "team": "Marseille",
+    "gross/w": "€ 1,463,269",
+    "gross/y": "€ 76,090,000",
+    "gross_keeper": "€ 5,840,000",
+    "gross_defense": "€ 20,050,000",
+    "gross_midfield": "€ 27,810,000",
+    "gross_forward": "€ 22,390,000"
+  },
+  {
+    "team": "Lyon",
+    "gross/w": "€ 1,037,692",
+    "gross/y": "€ 53,960,000",
+    "gross_keeper": "€ 1,530,000",
+    "gross_defense": "€ 15,520,000",
+    "gross_midfield": "€ 16,470,000",
+    "gross_forward": "€ 20,440,000"
+  },
+  {
+    "team": "Monaco",
+    "gross/w": "€ 919,615",
+    "gross/y": "€ 47,820,000",
+    "gross_keeper": "€ 2,540,000",
+    "gross_defense": "€ 17,020,000",
+    "gross_midfield": "€ 7,530,000",
+    "gross_forward": "€ 20,730,000"
+  },
+  {
+    "team": "Lille",
+    "gross/w": "€ 780,769",
+    "gross/y": "€ 40,600,000",
+    "gross_keeper": "€ 1,570,000",
+    "gross_defense": "€ 18,690,000",
+    "gross_midfield": "€ 9,960,000",
+    "gross_forward": "€ 10,380,000"
+  },
+  {
+    "team": "Rennes",
+    "gross/w": "€ 716,346",
+    "gross/y": "€ 37,250,000",
+    "gross_keeper": "€ 7,840,000",
+    "gross_defense": "€ 9,620,000",
+    "gross_midfield": "€ 9,460,000",
+    "gross_forward": "€ 10,330,000"
+  },
+  {
+    "team": "Nice",
+    "gross/w": "€ 630,577",
+    "gross/y": "€ 32,790,000",
+    "gross_keeper": "€ 900,000",
+    "gross_defense": "€ 8,950,000",
+    "gross_midfield": "€ 9,350,000",
+    "gross_forward": "€ 13,590,000"
+  },
+  {
+    "team": "Nantes",
+    "gross/w": "€ 480,577",
+    "gross/y": "€ 24,990,000",
+    "gross_keeper": "€ 4,460,000",
+    "gross_defense": "€ 7,040,000",
+    "gross_midfield": "€ 3,920,000",
+    "gross_forward": "€ 9,570,000"
+  },
+  {
+    "team": "Brest",
+    "gross/w": "€ 466,346",
+    "gross/y": "€ 24,250,000",
+    "gross_keeper": "€ 1,330,000",
+    "gross_defense": "€ 6,600,000",
+    "gross_midfield": "€ 8,260,000",
+    "gross_forward": "€ 8,060,000"
+  },
+  {
+    "team": "Lens",
+    "gross/w": "€ 426,923",
+    "gross/y": "€ 22,200,000",
+    "gross_keeper": "€ 1,860,000",
+    "gross_defense": "€ 7,770,000",
+    "gross_midfield": "€ 2,590,000",
+    "gross_forward": "€ 9,980,000"
+  },
+  {
+    "team": "Strasbourg",
+    "gross/w": "€ 367,885",
+    "gross/y": "€ 19,130,000",
+    "gross_keeper": "€ 2,790,000",
+    "gross_defense": "€ 6,780,000",
+    "gross_midfield": "€ 3,590,000",
+    "gross_forward": "€ 5,970,000"
+  },
+  {
+    "team": "Reims",
+    "gross/w": "€ 329,423",
+    "gross/y": "€ 17,130,000",
+    "gross_keeper": "€ 1,270,000",
+    "gross_defense": "€ 4,950,000",
+    "gross_midfield": "€ 3,770,000",
+    "gross_forward": "€ 7,140,000"
+  },
+  {
+    "team": "Montpellier",
+    "gross/w": "€ 319,423",
+    "gross/y": "€ 16,610,000",
+    "gross_keeper": "€ 2,100,000",
+    "gross_defense": "€ 4,990,000",
+    "gross_midfield": "€ 1,980,000",
+    "gross_forward": "€ 7,540,000"
+  },
+  {
+    "team": "Auxerre",
+    "gross/w": "€ 304,038",
+    "gross/y": "€ 15,810,000",
+    "gross_keeper": "€ 960,000",
+    "gross_defense": "€ 6,590,000",
+    "gross_midfield": "€ 2,530,000",
+    "gross_forward": "€ 5,730,000"
+  },
+  {
+    "team": "St-Etienne",
+    "gross/w": "€ 288,462",
+    "gross/y": "€ 15,000,000",
+    "gross_keeper": "€ 1,080,000",
+    "gross_defense": "€ 5,980,000",
+    "gross_midfield": "€ 3,140,000",
+    "gross_forward": "€ 4,800,000"
+  },
+  {
+    "team": "Le Havre",
+    "gross/w": "€ 278,462",
+    "gross/y": "€ 14,480,000",
+    "gross_keeper": "€ 650,000",
+    "gross_defense": "€ 4,210,000",
+    "gross_midfield": "€ 4,970,000",
+    "gross_forward": "€ 4,650,000"
+  },
+  {
+    "team": "Angers",
+    "gross/w": "€ 267,692",
+    "gross/y": "€ 13,920,000",
+    "gross_keeper": "€ 440,000",
+    "gross_defense": "€ 3,840,000",
+    "gross_midfield": "€ 2,590,000",
+    "gross_forward": "€ 7,050,000"
+  },
+  {
+    "team": "Toulouse",
+    "gross/w": "€ 267,115",
+    "gross/y": "€ 13,890,000",
+    "gross_keeper": "€ 1,080,000",
+    "gross_defense": "€ 5,390,000",
+    "gross_midfield": "€ 3,800,000",
+    "gross_forward": "€ 3,620,000"
+  }
+]

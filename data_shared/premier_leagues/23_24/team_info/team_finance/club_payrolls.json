@@ -1,0 +1,182 @@
+[
+  {
+    "team": "Manchester United",
+    "gross/w": "£ 3,814,346",
+    "gross/y": "£ 198,346,000",
+    "gross_keeper": "£ 10,400,000",
+    "gross_defense": "£ 67,366,000",
+    "gross_midfield": "£ 38,480,000",
+    "gross_forward": "£ 82,100,000"
+  },
+  {
+    "team": "Manchester City",
+    "gross/w": "£ 3,786,000",
+    "gross/y": "£ 196,872,000",
+    "gross_keeper": "£ 13,832,000",
+    "gross_defense": "£ 63,440,000",
+    "gross_midfield": "£ 26,000,000",
+    "gross_forward": "£ 93,600,000"
+  },
+  {
+    "team": "Arsenal",
+    "gross/w": "£ 3,298,000",
+    "gross/y": "£ 171,496,000",
+    "gross_keeper": "£ 11,180,000",
+    "gross_defense": "£ 47,476,000",
+    "gross_midfield": "£ 31,460,000",
+    "gross_forward": "£ 81,380,000"
+  },
+  {
+    "team": "Chelsea",
+    "gross/w": "£ 3,022,500",
+    "gross/y": "£ 157,170,000",
+    "gross_keeper": "£ 6,240,000",
+    "gross_defense": "£ 73,840,000",
+    "gross_midfield": "£ 30,030,000",
+    "gross_forward": "£ 47,060,000"
+  },
+  {
+    "team": "Liverpool",
+    "gross/w": "£ 2,730,000",
+    "gross/y": "£ 141,960,000",
+    "gross_keeper": "£ 11,440,000",
+    "gross_defense": "£ 48,100,000",
+    "gross_midfield": "£ 37,700,000",
+    "gross_forward": "£ 44,720,000"
+  },
+  {
+    "team": "Tottenham",
+    "gross/w": "£ 2,542,500",
+    "gross/y": "£ 132,210,000",
+    "gross_keeper": "£ 14,170,000",
+    "gross_defense": "£ 36,660,000",
+    "gross_midfield": "£ 29,900,000",
+    "gross_forward": "£ 51,480,000"
+  },
+  {
+    "team": "Aston Villa",
+    "gross/w": "£ 2,212,885",
+    "gross/y": "£ 115,070,000",
+    "gross_keeper": "£ 9,360,000",
+    "gross_defense": "£ 42,640,000",
+    "gross_midfield": "£ 29,640,000",
+    "gross_forward": "£ 33,430,000"
+  },
+  {
+    "team": "West Ham",
+    "gross/w": "£ 2,013,000",
+    "gross/y": "£ 104,676,000",
+    "gross_keeper": "£ 9,828,000",
+    "gross_defense": "£ 29,900,000",
+    "gross_midfield": "£ 23,920,000",
+    "gross_forward": "£ 41,028,000"
+  },
+  {
+    "team": "Newcastle",
+    "gross/w": "£ 1,695,000",
+    "gross/y": "£ 88,140,000",
+    "gross_keeper": "£ 6,240,000",
+    "gross_defense": "£ 32,864,000",
+    "gross_midfield": "£ 26,624,000",
+    "gross_forward": "£ 22,412,000"
+  },
+  {
+    "team": "Everton",
+    "gross/w": "£ 1,563,808",
+    "gross/y": "£ 81,318,000",
+    "gross_keeper": "£ 7,280,000",
+    "gross_defense": "£ 24,492,000",
+    "gross_midfield": "£ 25,860,000",
+    "gross_forward": "£ 23,686,000"
+  },
+  {
+    "team": "Nottingham Forest",
+    "gross/w": "£ 1,418,077",
+    "gross/y": "£ 73,740,000",
+    "gross_keeper": "£ 7,910,000",
+    "gross_defense": "£ 26,000,000",
+    "gross_midfield": "£ 14,040,000",
+    "gross_forward": "£ 25,790,000"
+  },
+  {
+    "team": "Crystal Palace",
+    "gross/w": "£ 1,415,000",
+    "gross/y": "£ 73,580,000",
+    "gross_keeper": "£ 8,190,000",
+    "gross_defense": "£ 24,700,000",
+    "gross_midfield": "£ 18,720,000",
+    "gross_forward": "£ 21,970,000"
+  },
+  {
+    "team": "Fulham",
+    "gross/w": "£ 1,307,500",
+    "gross/y": "£ 67,990,000",
+    "gross_keeper": "£ 8,060,000",
+    "gross_defense": "£ 19,890,000",
+    "gross_midfield": "£ 11,960,000",
+    "gross_forward": "£ 28,080,000"
+  },
+  {
+    "team": "Brighton",
+    "gross/w": "£ 1,240,000",
+    "gross/y": "£ 64,480,000",
+    "gross_keeper": "£ 3,380,000",
+    "gross_defense": "£ 19,240,000",
+    "gross_midfield": "£ 12,870,000",
+    "gross_forward": "£ 28,990,000"
+  },
+  {
+    "team": "Bournemouth",
+    "gross/w": "£ 1,102,500",
+    "gross/y": "£ 57,330,000",
+    "gross_keeper": "£ 6,500,000",
+    "gross_defense": "£ 14,456,000",
+    "gross_midfield": "£ 11,934,000",
+    "gross_forward": "£ 24,440,000"
+  },
+  {
+    "team": "Wolverhampton",
+    "gross/w": "£ 1,060,000",
+    "gross/y": "£ 55,120,000",
+    "gross_keeper": "£ 3,120,000",
+    "gross_defense": "£ 17,420,000",
+    "gross_midfield": "£ 10,140,000",
+    "gross_forward": "£ 24,440,000"
+  },
+  {
+    "team": "Brentford",
+    "gross/w": "£ 898,500",
+    "gross/y": "£ 46,722,000",
+    "gross_keeper": "£ 3,900,000",
+    "gross_defense": "£ 19,032,000",
+    "gross_midfield": "£ 11,310,000",
+    "gross_forward": "£ 12,480,000"
+  },
+  {
+    "team": "Burnley",
+    "gross/w": "£ 785,500",
+    "gross/y": "£ 40,846,000",
+    "gross_keeper": "£ 3,120,000",
+    "gross_defense": "£ 9,308,000",
+    "gross_midfield": "£ 9,620,000",
+    "gross_forward": "£ 18,798,000"
+  },
+  {
+    "team": "Sheffield United",
+    "gross/w": "£ 680,000",
+    "gross/y": "£ 35,360,000",
+    "gross_keeper": "£ 3,302,000",
+    "gross_defense": "£ 13,338,000",
+    "gross_midfield": "£ 10,790,000",
+    "gross_forward": "£ 7,930,000"
+  },
+  {
+    "team": "Luton Town",
+    "gross/w": "£ 503,500",
+    "gross/y": "£ 26,182,000",
+    "gross_keeper": "£ 2,990,000",
+    "gross_defense": "£ 8,190,000",
+    "gross_midfield": "£ 7,540,000",
+    "gross_forward": "£ 7,462,000"
+  }
+]

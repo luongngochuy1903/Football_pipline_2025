@@ -1,0 +1,5006 @@
+[
+  {
+    "player_name": "Robert Lewandowski",
+    "team": "Barcelona",
+    "gross/w": "€ 520,769",
+    "gross/y": "€ 27,080,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Toni Kroos",
+    "team": "Real Madrid",
+    "gross/w": "€ 468,846",
+    "gross/y": "€ 24,380,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "David Alaba",
+    "team": "Real Madrid",
+    "gross/w": "€ 432,692",
+    "gross/y": "€ 22,500,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Luka Modric",
+    "team": "Real Madrid",
+    "gross/w": "€ 420,769",
+    "gross/y": "€ 21,880,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Jude Bellingham",
+    "team": "Real Madrid",
+    "gross/w": "€ 400,577",
+    "gross/y": "€ 20,830,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Jan Oblak",
+    "team": "Atletico Madrid",
+    "gross/w": "€ 400,577",
+    "gross/y": "€ 20,830,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Vinicius Junior",
+    "team": "Real Madrid",
+    "gross/w": "€ 400,577",
+    "gross/y": "€ 20,830,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "İlkay Gündoğan",
+    "team": "Barcelona",
+    "gross/w": "€ 360,577",
+    "gross/y": "€ 18,750,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Frenkie de Jong",
+    "team": "Barcelona",
+    "gross/w": "€ 346,154",
+    "gross/y": "€ 18,000,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Federico Valverde",
+    "team": "Real Madrid",
+    "gross/w": "€ 320,577",
+    "gross/y": "€ 16,670,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Thibaut Courtois",
+    "team": "Real Madrid",
+    "gross/w": "€ 288,462",
+    "gross/y": "€ 15,000,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Antonio Rüdiger",
+    "team": "Real Madrid",
+    "gross/w": "€ 280,385",
+    "gross/y": "€ 14,580,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Éder Militão",
+    "team": "Real Madrid",
+    "gross/w": "€ 280,385",
+    "gross/y": "€ 14,580,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Jules Koundé",
+    "team": "Barcelona",
+    "gross/w": "€ 260,577",
+    "gross/y": "€ 13,550,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Álvaro Morata",
+    "team": "Atletico Madrid",
+    "gross/w": "€ 260,385",
+    "gross/y": "€ 13,540,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Yannick Carrasco",
+    "team": "Atletico Madrid",
+    "gross/w": "€ 252,500",
+    "gross/y": "€ 13,130,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Antoine Griezmann",
+    "team": "Atletico Madrid",
+    "gross/w": "€ 240,385",
+    "gross/y": "€ 12,500,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "João Cancelo",
+    "team": "Barcelona",
+    "gross/w": "€ 240,385",
+    "gross/y": "€ 12,500,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Rodrygo",
+    "team": "Real Madrid",
+    "gross/w": "€ 240,385",
+    "gross/y": "€ 12,500,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Aurélien Tchouaméni",
+    "team": "Real Madrid",
+    "gross/w": "€ 240,385",
+    "gross/y": "€ 12,500,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Raphinha",
+    "team": "Barcelona",
+    "gross/w": "€ 240,385",
+    "gross/y": "€ 12,500,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Eduardo Camavinga",
+    "team": "Real Madrid",
+    "gross/w": "€ 240,385",
+    "gross/y": "€ 12,500,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Saúl Ñíguez",
+    "team": "Atletico Madrid",
+    "gross/w": "€ 230,769",
+    "gross/y": "€ 12,000,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Nacho Fernández",
+    "team": "Real Madrid",
+    "gross/w": "€ 220,385",
+    "gross/y": "€ 11,460,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Iñaki Williams",
+    "team": "Athletic Club",
+    "gross/w": "€ 219,231",
+    "gross/y": "€ 11,400,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Dani Ceballos",
+    "team": "Real Madrid",
+    "gross/w": "€ 200,385",
+    "gross/y": "€ 10,420,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Daniel Carvajal",
+    "team": "Real Madrid",
+    "gross/w": "€ 200,385",
+    "gross/y": "€ 10,420,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Nico Williams",
+    "team": "Athletic Club",
+    "gross/w": "€ 200,385",
+    "gross/y": "€ 10,420,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Ferland Mendy",
+    "team": "Real Madrid",
+    "gross/w": "€ 200,385",
+    "gross/y": "€ 10,420,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Ferran Torres",
+    "team": "Barcelona",
+    "gross/w": "€ 192,308",
+    "gross/y": "€ 10,000,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Lucas Vázquez",
+    "team": "Real Madrid",
+    "gross/w": "€ 180,385",
+    "gross/y": "€ 9,380,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Pedri",
+    "team": "Barcelona",
+    "gross/w": "€ 180,385",
+    "gross/y": "€ 9,380,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Iñigo Martínez",
+    "team": "Barcelona",
+    "gross/w": "€ 174,231",
+    "gross/y": "€ 9,060,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Andreas Christensen",
+    "team": "Barcelona",
+    "gross/w": "€ 173,077",
+    "gross/y": "€ 9,000,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Kepa Arrizabalaga",
+    "team": "Real Madrid",
+    "gross/w": "€ 173,077",
+    "gross/y": "€ 9,000,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Memphis Depay",
+    "team": "Atletico Madrid",
+    "gross/w": "€ 168,269",
+    "gross/y": "€ 8,750,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Axel Witsel",
+    "team": "Atletico Madrid",
+    "gross/w": "€ 160,192",
+    "gross/y": "€ 8,330,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Marcos Llorente",
+    "team": "Atletico Madrid",
+    "gross/w": "€ 160,192",
+    "gross/y": "€ 8,330,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Mario Hermoso",
+    "team": "Atletico Madrid",
+    "gross/w": "€ 160,192",
+    "gross/y": "€ 8,330,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "César Azpilicueta",
+    "team": "Atletico Madrid",
+    "gross/w": "€ 153,846",
+    "gross/y": "€ 8,000,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Brahim Díaz",
+    "team": "Real Madrid",
+    "gross/w": "€ 140,192",
+    "gross/y": "€ 7,290,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Ronald Araujo",
+    "team": "Barcelona",
+    "gross/w": "€ 134,615",
+    "gross/y": "€ 7,000,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Gavi",
+    "team": "Barcelona",
+    "gross/w": "€ 130,769",
+    "gross/y": "€ 6,800,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Nabil Fekir",
+    "team": "Real Betis",
+    "gross/w": "€ 130,769",
+    "gross/y": "€ 6,800,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Koke",
+    "team": "Atletico Madrid",
+    "gross/w": "€ 128,269",
+    "gross/y": "€ 6,670,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Rodrigo de Paul",
+    "team": "Atletico Madrid",
+    "gross/w": "€ 128,269",
+    "gross/y": "€ 6,670,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Kieran Tierney",
+    "team": "Real Sociedad",
+    "gross/w": "€ 128,269",
+    "gross/y": "€ 6,670,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Ivan Rakitic",
+    "team": "Sevilla",
+    "gross/w": "€ 124,038",
+    "gross/y": "€ 6,450,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Marc-André ter Stegen",
+    "team": "Barcelona",
+    "gross/w": "€ 121,154",
+    "gross/y": "€ 6,300,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "José Giménez",
+    "team": "Atletico Madrid",
+    "gross/w": "€ 120,192",
+    "gross/y": "€ 6,250,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Marcos Alonso",
+    "team": "Barcelona",
+    "gross/w": "€ 120,192",
+    "gross/y": "€ 6,250,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Isco",
+    "team": "Real Betis",
+    "gross/w": "€ 120,192",
+    "gross/y": "€ 6,250,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Eric García",
+    "team": "Girona",
+    "gross/w": "€ 115,385",
+    "gross/y": "€ 6,000,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "José Gayà",
+    "team": "Valencia",
+    "gross/w": "€ 112,115",
+    "gross/y": "€ 5,830,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Gonçalo Guedes",
+    "team": "Villarreal",
+    "gross/w": "€ 103,846",
+    "gross/y": "€ 5,400,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Gabriel Paulista",
+    "team": "Valencia",
+    "gross/w": "€ 102,500",
+    "gross/y": "€ 5,330,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Mariano Díaz",
+    "team": "Sevilla",
+    "gross/w": "€ 100,192",
+    "gross/y": "€ 5,210,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Fran García",
+    "team": "Real Madrid",
+    "gross/w": "€ 100,192",
+    "gross/y": "€ 5,210,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Arda Güler",
+    "team": "Real Madrid",
+    "gross/w": "€ 100,000",
+    "gross/y": "€ 5,200,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "André Silva",
+    "team": "Real Sociedad",
+    "gross/w": "€ 96,154",
+    "gross/y": "€ 5,000,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Sergi Roberto",
+    "team": "Barcelona",
+    "gross/w": "€ 96,154",
+    "gross/y": "€ 5,000,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Boubakary Soumaré",
+    "team": "Sevilla",
+    "gross/w": "€ 93,269",
+    "gross/y": "€ 4,850,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Borja Mayoral",
+    "team": "Getafe",
+    "gross/w": "€ 92,115",
+    "gross/y": "€ 4,790,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Vedat Muriqi",
+    "team": "Mallorca",
+    "gross/w": "€ 88,077",
+    "gross/y": "€ 4,580,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Stefan Savic",
+    "team": "Atletico Madrid",
+    "gross/w": "€ 86,538",
+    "gross/y": "€ 4,500,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Marcão",
+    "team": "Sevilla",
+    "gross/w": "€ 84,231",
+    "gross/y": "€ 4,380,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Unai Simón",
+    "team": "Athletic Club",
+    "gross/w": "€ 82,308",
+    "gross/y": "€ 4,280,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Yuri Berchiche",
+    "team": "Athletic Club",
+    "gross/w": "€ 82,308",
+    "gross/y": "€ 4,280,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Djibril Sow",
+    "team": "Sevilla",
+    "gross/w": "€ 80,192",
+    "gross/y": "€ 4,170,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Tanguy Nianzou",
+    "team": "Sevilla",
+    "gross/w": "€ 80,192",
+    "gross/y": "€ 4,170,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Jonathan Bamba",
+    "team": "Celta Vigo",
+    "gross/w": "€ 80,000",
+    "gross/y": "€ 4,160,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Nemanja Gudelj",
+    "team": "Sevilla",
+    "gross/w": "€ 78,846",
+    "gross/y": "€ 4,100,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Pau Cubarsí",
+    "team": "Barcelona",
+    "gross/w": "€ 76,923",
+    "gross/y": "€ 4,000,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Mouctar Diakhaby",
+    "team": "Valencia",
+    "gross/w": "€ 76,923",
+    "gross/y": "€ 4,000,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Diadié Samassékou",
+    "team": "Cadiz",
+    "gross/w": "€ 75,000",
+    "gross/y": "€ 3,900,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "David López",
+    "team": "Girona",
+    "gross/w": "€ 72,115",
+    "gross/y": "€ 3,750,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Francis Coquelin",
+    "team": "Villarreal",
+    "gross/w": "€ 71,923",
+    "gross/y": "€ 3,740,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Maxi Gómez",
+    "team": "Cadiz",
+    "gross/w": "€ 70,192",
+    "gross/y": "€ 3,650,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Gerard Moreno",
+    "team": "Villarreal",
+    "gross/w": "€ 69,615",
+    "gross/y": "€ 3,620,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Joan Jordán",
+    "team": "Sevilla",
+    "gross/w": "€ 69,231",
+    "gross/y": "€ 3,600,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Alexander Sörloth",
+    "team": "Villarreal",
+    "gross/w": "€ 69,231",
+    "gross/y": "€ 3,600,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Mikel Oyarzabal",
+    "team": "Real Sociedad",
+    "gross/w": "€ 69,231",
+    "gross/y": "€ 3,600,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Vitor Roque",
+    "team": "Barcelona",
+    "gross/w": "€ 67,308",
+    "gross/y": "€ 3,500,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Bertrand Traoré",
+    "team": "Villarreal",
+    "gross/w": "€ 67,308",
+    "gross/y": "€ 3,500,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Ángel Correa",
+    "team": "Atletico Madrid",
+    "gross/w": "€ 67,308",
+    "gross/y": "€ 3,500,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Oriol Romeu",
+    "team": "Barcelona",
+    "gross/w": "€ 67,308",
+    "gross/y": "€ 3,500,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Loïc Badé",
+    "team": "Sevilla",
+    "gross/w": "€ 63,462",
+    "gross/y": "€ 3,300,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Erik Lamela",
+    "team": "Sevilla",
+    "gross/w": "€ 63,462",
+    "gross/y": "€ 3,300,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Thomas Lemar",
+    "team": "Atletico Madrid",
+    "gross/w": "€ 62,500",
+    "gross/y": "€ 3,250,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Iñaki Peña",
+    "team": "Barcelona",
+    "gross/w": "€ 62,500",
+    "gross/y": "€ 3,250,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Javi Galán",
+    "team": "Real Sociedad",
+    "gross/w": "€ 62,500",
+    "gross/y": "€ 3,250,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Javi Galán",
+    "team": "Atletico Madrid",
+    "gross/w": "€ 62,500",
+    "gross/y": "€ 3,250,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Mikel Merino",
+    "team": "Real Sociedad",
+    "gross/w": "€ 61,538",
+    "gross/y": "€ 3,200,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Adnan Januzaj",
+    "team": "Sevilla",
+    "gross/w": "€ 61,538",
+    "gross/y": "€ 3,200,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Dani Vivian",
+    "team": "Athletic Club",
+    "gross/w": "€ 60,192",
+    "gross/y": "€ 3,130,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Jesús Navas",
+    "team": "Sevilla",
+    "gross/w": "€ 60,192",
+    "gross/y": "€ 3,130,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Dani Parejo",
+    "team": "Villarreal",
+    "gross/w": "€ 60,192",
+    "gross/y": "€ 3,130,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Arthur Vermeeren",
+    "team": "Atletico Madrid",
+    "gross/w": "€ 60,192",
+    "gross/y": "€ 3,130,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Denis Suárez",
+    "team": "Villarreal",
+    "gross/w": "€ 60,192",
+    "gross/y": "€ 3,130,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Eric Bailly",
+    "team": "Villarreal",
+    "gross/w": "€ 60,192",
+    "gross/y": "€ 3,130,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Pablo Fornals",
+    "team": "Real Betis",
+    "gross/w": "€ 60,000",
+    "gross/y": "€ 3,120,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Héctor Bellerín",
+    "team": "Real Betis",
+    "gross/w": "€ 60,000",
+    "gross/y": "€ 3,120,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Raúl de Tomás",
+    "team": "Rayo Vallecano",
+    "gross/w": "€ 59,615",
+    "gross/y": "€ 3,100,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Marc Roca",
+    "team": "Real Betis",
+    "gross/w": "€ 58,269",
+    "gross/y": "€ 3,030,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Clément Lenglet",
+    "team": "Barcelona",
+    "gross/w": "€ 57,692",
+    "gross/y": "€ 3,000,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Ander Herrera",
+    "team": "Athletic Club",
+    "gross/w": "€ 57,692",
+    "gross/y": "€ 3,000,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Youssef En-Nesyri",
+    "team": "Sevilla",
+    "gross/w": "€ 57,692",
+    "gross/y": "€ 3,000,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Sergiño Dest",
+    "team": "Barcelona",
+    "gross/w": "€ 57,692",
+    "gross/y": "€ 3,000,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Martín Zubimendi",
+    "team": "Real Sociedad",
+    "gross/w": "€ 57,692",
+    "gross/y": "€ 3,000,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Dodi Lukébakio",
+    "team": "Sevilla",
+    "gross/w": "€ 57,692",
+    "gross/y": "€ 3,000,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Marcos Acuña",
+    "team": "Sevilla",
+    "gross/w": "€ 55,769",
+    "gross/y": "€ 2,900,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Iago Aspas",
+    "team": "Celta Vigo",
+    "gross/w": "€ 55,769",
+    "gross/y": "€ 2,900,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Raúl Albiol",
+    "team": "Villarreal",
+    "gross/w": "€ 54,615",
+    "gross/y": "€ 2,840,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Andriy Lunin",
+    "team": "Real Madrid",
+    "gross/w": "€ 54,038",
+    "gross/y": "€ 2,810,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Fernando",
+    "team": "Sevilla",
+    "gross/w": "€ 53,846",
+    "gross/y": "€ 2,800,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Robin Le Normand",
+    "team": "Real Sociedad",
+    "gross/w": "€ 53,846",
+    "gross/y": "€ 2,800,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Álex Remiro",
+    "team": "Real Sociedad",
+    "gross/w": "€ 53,846",
+    "gross/y": "€ 2,800,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Suso",
+    "team": "Sevilla",
+    "gross/w": "€ 53,846",
+    "gross/y": "€ 2,800,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Dani García",
+    "team": "Athletic Club",
+    "gross/w": "€ 53,269",
+    "gross/y": "€ 2,770,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Ansu Fati",
+    "team": "Barcelona",
+    "gross/w": "€ 52,115",
+    "gross/y": "€ 2,710,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Álvaro Odriozola",
+    "team": "Real Sociedad",
+    "gross/w": "€ 51,923",
+    "gross/y": "€ 2,700,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Gabriel Paulista",
+    "team": "Atletico Madrid",
+    "gross/w": "€ 50,000",
+    "gross/y": "€ 2,600,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Roman Yaremchuk",
+    "team": "Valencia",
+    "gross/w": "€ 50,000",
+    "gross/y": "€ 2,600,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Carles Pérez",
+    "team": "Celta Vigo",
+    "gross/w": "€ 49,231",
+    "gross/y": "€ 2,560,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Mauro Arambarri",
+    "team": "Getafe",
+    "gross/w": "€ 48,462",
+    "gross/y": "€ 2,520,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Takefusa Kubo",
+    "team": "Real Sociedad",
+    "gross/w": "€ 48,077",
+    "gross/y": "€ 2,500,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Joselu",
+    "team": "Real Madrid",
+    "gross/w": "€ 48,077",
+    "gross/y": "€ 2,500,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Germán Pezzella",
+    "team": "Real Betis",
+    "gross/w": "€ 48,077",
+    "gross/y": "€ 2,500,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Artem Dovbyk",
+    "team": "Girona",
+    "gross/w": "€ 48,077",
+    "gross/y": "€ 2,500,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Oihan Sancet",
+    "team": "Athletic Club",
+    "gross/w": "€ 48,077",
+    "gross/y": "€ 2,500,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Çağlar Söyüncü",
+    "team": "Atletico Madrid",
+    "gross/w": "€ 48,077",
+    "gross/y": "€ 2,500,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Vicente Guaita",
+    "team": "Celta Vigo",
+    "gross/w": "€ 46,154",
+    "gross/y": "€ 2,400,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Juanmi",
+    "team": "Cadiz",
+    "gross/w": "€ 46,154",
+    "gross/y": "€ 2,400,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Chimy Ávila",
+    "team": "Real Betis",
+    "gross/w": "€ 46,154",
+    "gross/y": "€ 2,400,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Hamari Traoré",
+    "team": "Real Sociedad",
+    "gross/w": "€ 46,154",
+    "gross/y": "€ 2,400,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Yeray Álvarez",
+    "team": "Athletic Club",
+    "gross/w": "€ 46,154",
+    "gross/y": "€ 2,400,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "William Carvalho",
+    "team": "Real Betis",
+    "gross/w": "€ 45,192",
+    "gross/y": "€ 2,350,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Óliver Torres",
+    "team": "Sevilla",
+    "gross/w": "€ 44,231",
+    "gross/y": "€ 2,300,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Sokratis",
+    "team": "Real Betis",
+    "gross/w": "€ 44,038",
+    "gross/y": "€ 2,290,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Sergio Ramos",
+    "team": "Sevilla",
+    "gross/w": "€ 44,038",
+    "gross/y": "€ 2,290,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Sergi Darder",
+    "team": "Mallorca",
+    "gross/w": "€ 43,269",
+    "gross/y": "€ 2,250,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Iker Muniain",
+    "team": "Athletic Club",
+    "gross/w": "€ 42,308",
+    "gross/y": "€ 2,200,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Aritz Elustondo",
+    "team": "Real Sociedad",
+    "gross/w": "€ 42,308",
+    "gross/y": "€ 2,200,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Brais Méndez",
+    "team": "Real Sociedad",
+    "gross/w": "€ 42,308",
+    "gross/y": "€ 2,200,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Alfonso Pedraza",
+    "team": "Villarreal",
+    "gross/w": "€ 42,308",
+    "gross/y": "€ 2,200,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Willian José",
+    "team": "Real Betis",
+    "gross/w": "€ 42,308",
+    "gross/y": "€ 2,200,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Djené",
+    "team": "Getafe",
+    "gross/w": "€ 42,308",
+    "gross/y": "€ 2,200,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Jaime Mata",
+    "team": "Getafe",
+    "gross/w": "€ 41,154",
+    "gross/y": "€ 2,140,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Hugo Duro",
+    "team": "Valencia",
+    "gross/w": "€ 40,000",
+    "gross/y": "€ 2,080,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Gorka Guruzeta",
+    "team": "Athletic Club",
+    "gross/w": "€ 40,000",
+    "gross/y": "€ 2,080,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Luís Maximiano",
+    "team": "Almeria",
+    "gross/w": "€ 40,000",
+    "gross/y": "€ 2,080,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Nemanja Maksimovic",
+    "team": "Getafe",
+    "gross/w": "€ 40,000",
+    "gross/y": "€ 2,080,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Marc Bartra",
+    "team": "Real Betis",
+    "gross/w": "€ 40,000",
+    "gross/y": "€ 2,080,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Mikel Vesga",
+    "team": "Athletic Club",
+    "gross/w": "€ 40,000",
+    "gross/y": "€ 2,080,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Filip Jørgensen",
+    "team": "Villarreal",
+    "gross/w": "€ 40,000",
+    "gross/y": "€ 2,080,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Isaac Romero",
+    "team": "Sevilla",
+    "gross/w": "€ 40,000",
+    "gross/y": "€ 2,080,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Miguel Crespo",
+    "team": "Rayo Vallecano",
+    "gross/w": "€ 40,000",
+    "gross/y": "€ 2,080,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Raúl García",
+    "team": "Athletic Club",
+    "gross/w": "€ 40,000",
+    "gross/y": "€ 2,080,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Juan Foyth",
+    "team": "Villarreal",
+    "gross/w": "€ 38,462",
+    "gross/y": "€ 2,000,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Fran Beltrán",
+    "team": "Celta Vigo",
+    "gross/w": "€ 38,462",
+    "gross/y": "€ 2,000,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Álex Baena",
+    "team": "Villarreal",
+    "gross/w": "€ 38,462",
+    "gross/y": "€ 2,000,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Igor Zubeldia",
+    "team": "Real Sociedad",
+    "gross/w": "€ 38,462",
+    "gross/y": "€ 2,000,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Hugo Guillamón",
+    "team": "Valencia",
+    "gross/w": "€ 36,923",
+    "gross/y": "€ 1,920,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Étienne Capoue",
+    "team": "Villarreal",
+    "gross/w": "€ 36,538",
+    "gross/y": "€ 1,900,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Rafa Mir",
+    "team": "Sevilla",
+    "gross/w": "€ 36,538",
+    "gross/y": "€ 1,900,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Dimitri Foulquier",
+    "team": "Valencia",
+    "gross/w": "€ 35,962",
+    "gross/y": "€ 1,870,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Máximo Perrone",
+    "team": "Las Palmas",
+    "gross/w": "€ 35,385",
+    "gross/y": "€ 1,840,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Thierry Correia",
+    "team": "Valencia",
+    "gross/w": "€ 35,385",
+    "gross/y": "€ 1,840,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Jesús Vallejo",
+    "team": "Granada",
+    "gross/w": "€ 34,615",
+    "gross/y": "€ 1,800,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Portu",
+    "team": "Girona",
+    "gross/w": "€ 34,615",
+    "gross/y": "€ 1,800,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Gonzalo Escalante",
+    "team": "Cadiz",
+    "gross/w": "€ 34,423",
+    "gross/y": "€ 1,790,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Daley Blind",
+    "team": "Girona",
+    "gross/w": "€ 34,231",
+    "gross/y": "€ 1,780,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Asier Villalibre",
+    "team": "Athletic Club",
+    "gross/w": "€ 34,038",
+    "gross/y": "€ 1,770,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Munir El Haddadi",
+    "team": "Las Palmas",
+    "gross/w": "€ 33,654",
+    "gross/y": "€ 1,750,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Guido Rodríguez",
+    "team": "Real Betis",
+    "gross/w": "€ 32,692",
+    "gross/y": "€ 1,700,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Lucas Ocampos",
+    "team": "Sevilla",
+    "gross/w": "€ 32,692",
+    "gross/y": "€ 1,700,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Unai Núñez",
+    "team": "Celta Vigo",
+    "gross/w": "€ 32,692",
+    "gross/y": "€ 1,700,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Álex Berenguer",
+    "team": "Athletic Club",
+    "gross/w": "€ 32,692",
+    "gross/y": "€ 1,700,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Matteo Gabbia",
+    "team": "Villarreal",
+    "gross/w": "€ 32,115",
+    "gross/y": "€ 1,670,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Luka Romero",
+    "team": "Almeria",
+    "gross/w": "€ 32,115",
+    "gross/y": "€ 1,670,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Alejandro Balde",
+    "team": "Barcelona",
+    "gross/w": "€ 32,115",
+    "gross/y": "€ 1,670,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Lamine Yamal",
+    "team": "Barcelona",
+    "gross/w": "€ 32,115",
+    "gross/y": "€ 1,670,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Nemanja Radonjic",
+    "team": "Mallorca",
+    "gross/w": "€ 32,115",
+    "gross/y": "€ 1,670,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Ilaix Moriba",
+    "team": "Getafe",
+    "gross/w": "€ 31,154",
+    "gross/y": "€ 1,620,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Joseph Aidoo",
+    "team": "Celta Vigo",
+    "gross/w": "€ 30,769",
+    "gross/y": "€ 1,600,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Aïssa Mandi",
+    "team": "Villarreal",
+    "gross/w": "€ 30,769",
+    "gross/y": "€ 1,600,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Borja Iglesias",
+    "team": "Real Betis",
+    "gross/w": "€ 30,769",
+    "gross/y": "€ 1,600,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Ander Barrenetxea",
+    "team": "Real Sociedad",
+    "gross/w": "€ 30,000",
+    "gross/y": "€ 1,560,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Julián Araujo",
+    "team": "Las Palmas",
+    "gross/w": "€ 30,000",
+    "gross/y": "€ 1,560,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Gonzalo Villar",
+    "team": "Granada",
+    "gross/w": "€ 29,615",
+    "gross/y": "€ 1,540,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "David Soria",
+    "team": "Getafe",
+    "gross/w": "€ 29,038",
+    "gross/y": "€ 1,510,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Luis Suárez",
+    "team": "Almeria",
+    "gross/w": "€ 28,846",
+    "gross/y": "€ 1,500,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Alejo Véliz",
+    "team": "Sevilla",
+    "gross/w": "€ 28,846",
+    "gross/y": "€ 1,500,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Sergi Canós",
+    "team": "Valencia",
+    "gross/w": "€ 28,846",
+    "gross/y": "€ 1,500,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Chimy Ávila",
+    "team": "Osasuna",
+    "gross/w": "€ 28,846",
+    "gross/y": "€ 1,500,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Giorgi Mamardashvili",
+    "team": "Valencia",
+    "gross/w": "€ 28,846",
+    "gross/y": "€ 1,500,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "João Félix",
+    "team": "Atletico Madrid",
+    "gross/w": "€ 28,846",
+    "gross/y": "€ 1,500,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Toni Lato",
+    "team": "Mallorca",
+    "gross/w": "€ 28,846",
+    "gross/y": "€ 1,500,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "José Callejón",
+    "team": "Granada",
+    "gross/w": "€ 28,846",
+    "gross/y": "€ 1,500,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Pepe Reina",
+    "team": "Villarreal",
+    "gross/w": "€ 28,846",
+    "gross/y": "€ 1,500,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Daley Sinkgraven",
+    "team": "Las Palmas",
+    "gross/w": "€ 28,846",
+    "gross/y": "€ 1,500,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Mason Greenwood",
+    "team": "Getafe",
+    "gross/w": "€ 28,846",
+    "gross/y": "€ 1,500,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Ianis Hagi",
+    "team": "Alaves",
+    "gross/w": "€ 28,846",
+    "gross/y": "€ 1,500,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "José Luis Morales",
+    "team": "Villarreal",
+    "gross/w": "€ 28,846",
+    "gross/y": "€ 1,500,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Sandro Ramírez",
+    "team": "Las Palmas",
+    "gross/w": "€ 28,654",
+    "gross/y": "€ 1,490,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Álvaro García",
+    "team": "Rayo Vallecano",
+    "gross/w": "€ 27,885",
+    "gross/y": "€ 1,450,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Jaume Doménech",
+    "team": "Valencia",
+    "gross/w": "€ 27,885",
+    "gross/y": "€ 1,450,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Cristian Rivero",
+    "team": "Valencia",
+    "gross/w": "€ 27,885",
+    "gross/y": "€ 1,450,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Darwin Machís",
+    "team": "Cadiz",
+    "gross/w": "€ 27,885",
+    "gross/y": "€ 1,450,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Viktor Tsyhankov",
+    "team": "Girona",
+    "gross/w": "€ 26,923",
+    "gross/y": "€ 1,400,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Andrés Guardado",
+    "team": "Real Betis",
+    "gross/w": "€ 26,923",
+    "gross/y": "€ 1,400,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Agustín Marchesín",
+    "team": "Celta Vigo",
+    "gross/w": "€ 26,923",
+    "gross/y": "€ 1,400,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Alberto Moreno",
+    "team": "Villarreal",
+    "gross/w": "€ 26,923",
+    "gross/y": "€ 1,400,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Sheraldo Becker",
+    "team": "Real Sociedad",
+    "gross/w": "€ 26,923",
+    "gross/y": "€ 1,400,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Vitolo",
+    "team": "Atletico Madrid",
+    "gross/w": "€ 25,962",
+    "gross/y": "€ 1,350,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Ante Budimir",
+    "team": "Osasuna",
+    "gross/w": "€ 25,962",
+    "gross/y": "€ 1,350,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Yeremi Pino",
+    "team": "Villarreal",
+    "gross/w": "€ 25,962",
+    "gross/y": "€ 1,350,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Rubén García",
+    "team": "Osasuna",
+    "gross/w": "€ 25,962",
+    "gross/y": "€ 1,350,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Manu Morlanes",
+    "team": "Mallorca",
+    "gross/w": "€ 25,192",
+    "gross/y": "€ 1,310,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Anastasios Douvikas",
+    "team": "Celta Vigo",
+    "gross/w": "€ 25,000",
+    "gross/y": "€ 1,300,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Pepelu",
+    "team": "Valencia",
+    "gross/w": "€ 25,000",
+    "gross/y": "€ 1,300,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Juan Miranda",
+    "team": "Real Betis",
+    "gross/w": "€ 25,000",
+    "gross/y": "€ 1,300,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Marko Dmitrović",
+    "team": "Sevilla",
+    "gross/w": "€ 24,231",
+    "gross/y": "€ 1,260,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Ayoze Pérez",
+    "team": "Real Betis",
+    "gross/w": "€ 24,038",
+    "gross/y": "€ 1,250,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Aitor Paredes",
+    "team": "Athletic Club",
+    "gross/w": "€ 24,038",
+    "gross/y": "€ 1,250,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Santi Comesaña",
+    "team": "Villarreal",
+    "gross/w": "€ 24,038",
+    "gross/y": "€ 1,250,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Óscar de Marcos",
+    "team": "Athletic Club",
+    "gross/w": "€ 24,038",
+    "gross/y": "€ 1,250,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Samuel Lino",
+    "team": "Atletico Madrid",
+    "gross/w": "€ 24,038",
+    "gross/y": "€ 1,250,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Florian Lejeune",
+    "team": "Rayo Vallecano",
+    "gross/w": "€ 24,038",
+    "gross/y": "€ 1,250,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Paulo Gazzaniga",
+    "team": "Girona",
+    "gross/w": "€ 23,846",
+    "gross/y": "€ 1,240,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Miguel Rubio",
+    "team": "Granada",
+    "gross/w": "€ 23,462",
+    "gross/y": "€ 1,220,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Óscar Rodríguez",
+    "team": "Getafe",
+    "gross/w": "€ 23,077",
+    "gross/y": "€ 1,200,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Omar Alderete",
+    "team": "Getafe",
+    "gross/w": "€ 23,077",
+    "gross/y": "€ 1,200,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Manu Trigueros",
+    "team": "Villarreal",
+    "gross/w": "€ 23,077",
+    "gross/y": "€ 1,200,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Aleix García",
+    "team": "Girona",
+    "gross/w": "€ 23,077",
+    "gross/y": "€ 1,200,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Cristhian Stuani",
+    "team": "Girona",
+    "gross/w": "€ 23,077",
+    "gross/y": "€ 1,200,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Diego Rico",
+    "team": "Getafe",
+    "gross/w": "€ 23,077",
+    "gross/y": "€ 1,200,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Falcao",
+    "team": "Rayo Vallecano",
+    "gross/w": "€ 23,077",
+    "gross/y": "€ 1,200,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Jonathan Viera",
+    "team": "Las Palmas",
+    "gross/w": "€ 23,077",
+    "gross/y": "€ 1,200,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Isi Palazón",
+    "team": "Rayo Vallecano",
+    "gross/w": "€ 23,077",
+    "gross/y": "€ 1,200,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Franco Cervi",
+    "team": "Celta Vigo",
+    "gross/w": "€ 23,077",
+    "gross/y": "€ 1,200,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Edgar González",
+    "team": "Almeria",
+    "gross/w": "€ 23,077",
+    "gross/y": "€ 1,200,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Cédric Bakambu",
+    "team": "Real Betis",
+    "gross/w": "€ 23,077",
+    "gross/y": "€ 1,200,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Claudio Bravo",
+    "team": "Real Betis",
+    "gross/w": "€ 23,077",
+    "gross/y": "€ 1,200,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Umar Sadiq",
+    "team": "Real Sociedad",
+    "gross/w": "€ 23,077",
+    "gross/y": "€ 1,200,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Facundo Pellistri",
+    "team": "Granada",
+    "gross/w": "€ 23,077",
+    "gross/y": "€ 1,200,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Nahuel Molina",
+    "team": "Atletico Madrid",
+    "gross/w": "€ 23,077",
+    "gross/y": "€ 1,200,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Pablo Barrios",
+    "team": "Atletico Madrid",
+    "gross/w": "€ 22,115",
+    "gross/y": "€ 1,150,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Óscar Mingueza",
+    "team": "Celta Vigo",
+    "gross/w": "€ 22,115",
+    "gross/y": "€ 1,150,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Javier Manquillo",
+    "team": "Celta Vigo",
+    "gross/w": "€ 21,923",
+    "gross/y": "€ 1,140,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Ignasi Miquel",
+    "team": "Granada",
+    "gross/w": "€ 21,923",
+    "gross/y": "€ 1,140,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Carl Starfelt",
+    "team": "Celta Vigo",
+    "gross/w": "€ 21,154",
+    "gross/y": "€ 1,100,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Lucas Robertone",
+    "team": "Almeria",
+    "gross/w": "€ 21,154",
+    "gross/y": "€ 1,100,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Johan Mojica",
+    "team": "Osasuna",
+    "gross/w": "€ 21,154",
+    "gross/y": "€ 1,100,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Adrià Pedrosa",
+    "team": "Sevilla",
+    "gross/w": "€ 21,154",
+    "gross/y": "€ 1,100,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "César Montes",
+    "team": "Almeria",
+    "gross/w": "€ 21,154",
+    "gross/y": "€ 1,100,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Yangel Herrera",
+    "team": "Girona",
+    "gross/w": "€ 21,154",
+    "gross/y": "€ 1,100,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Roger Martí",
+    "team": "Cadiz",
+    "gross/w": "€ 20,769",
+    "gross/y": "€ 1,080,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Domingos Duarte",
+    "team": "Getafe",
+    "gross/w": "€ 20,769",
+    "gross/y": "€ 1,080,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Tadeo Allende",
+    "team": "Celta Vigo",
+    "gross/w": "€ 20,192",
+    "gross/y": "€ 1,050,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Jorge Cuenca",
+    "team": "Villarreal",
+    "gross/w": "€ 20,192",
+    "gross/y": "€ 1,050,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Mihailo Ristic",
+    "team": "Celta Vigo",
+    "gross/w": "€ 20,192",
+    "gross/y": "€ 1,050,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Horaţiu Moldovan",
+    "team": "Atletico Madrid",
+    "gross/w": "€ 20,000",
+    "gross/y": "€ 1,040,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Óscar Melendo",
+    "team": "Granada",
+    "gross/w": "€ 20,000",
+    "gross/y": "€ 1,040,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Iván Villar",
+    "team": "Celta Vigo",
+    "gross/w": "€ 20,000",
+    "gross/y": "€ 1,040,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Sávio",
+    "team": "Girona",
+    "gross/w": "€ 20,000",
+    "gross/y": "€ 1,040,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Beñat Prados",
+    "team": "Athletic Club",
+    "gross/w": "€ 20,000",
+    "gross/y": "€ 1,040,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Kamil Jóźwiak",
+    "team": "Granada",
+    "gross/w": "€ 19,615",
+    "gross/y": "€ 1,020,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Iñigo Lekue",
+    "team": "Athletic Club",
+    "gross/w": "€ 19,231",
+    "gross/y": "€ 1,000,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Alejandro Catena",
+    "team": "Osasuna",
+    "gross/w": "€ 19,231",
+    "gross/y": "€ 1,000,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Andoni Gorosabel",
+    "team": "Alaves",
+    "gross/w": "€ 19,231",
+    "gross/y": "€ 1,000,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Carlos Fernández",
+    "team": "Real Sociedad",
+    "gross/w": "€ 19,231",
+    "gross/y": "€ 1,000,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Kiko Femenía",
+    "team": "Villarreal",
+    "gross/w": "€ 19,231",
+    "gross/y": "€ 1,000,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Álvaro Negredo",
+    "team": "Cadiz",
+    "gross/w": "€ 19,231",
+    "gross/y": "€ 1,000,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Jeremías Ledesma",
+    "team": "Cadiz",
+    "gross/w": "€ 19,231",
+    "gross/y": "€ 1,000,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Samu Castillejo",
+    "team": "Valencia",
+    "gross/w": "€ 19,231",
+    "gross/y": "€ 1,000,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Manu Sánchez",
+    "team": "Celta Vigo",
+    "gross/w": "€ 19,231",
+    "gross/y": "€ 1,000,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Jorge Meré",
+    "team": "Cadiz",
+    "gross/w": "€ 19,231",
+    "gross/y": "€ 1,000,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Jon Moncayola",
+    "team": "Osasuna",
+    "gross/w": "€ 19,231",
+    "gross/y": "€ 1,000,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Abner",
+    "team": "Real Betis",
+    "gross/w": "€ 19,231",
+    "gross/y": "€ 1,000,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Pablo Maffeo",
+    "team": "Mallorca",
+    "gross/w": "€ 18,846",
+    "gross/y": "€ 980,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Adrián Embarba",
+    "team": "Almeria",
+    "gross/w": "€ 18,462",
+    "gross/y": "€ 960,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Sergio Herrera",
+    "team": "Osasuna",
+    "gross/w": "€ 18,269",
+    "gross/y": "€ 950,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Hannibal",
+    "team": "Sevilla",
+    "gross/w": "€ 18,077",
+    "gross/y": "€ 940,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Jailson",
+    "team": "Celta Vigo",
+    "gross/w": "€ 17,885",
+    "gross/y": "€ 930,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Bruno Méndez",
+    "team": "Granada",
+    "gross/w": "€ 17,308",
+    "gross/y": "€ 900,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Rui Silva",
+    "team": "Real Betis",
+    "gross/w": "€ 17,308",
+    "gross/y": "€ 900,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Joseba Zaldua",
+    "team": "Cadiz",
+    "gross/w": "€ 17,308",
+    "gross/y": "€ 900,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Moi Gómez",
+    "team": "Osasuna",
+    "gross/w": "€ 17,308",
+    "gross/y": "€ 900,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Ander Guevara",
+    "team": "Alaves",
+    "gross/w": "€ 17,308",
+    "gross/y": "€ 900,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Lucas Boyé",
+    "team": "Granada",
+    "gross/w": "€ 17,308",
+    "gross/y": "€ 900,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Antonio Sivera",
+    "team": "Alaves",
+    "gross/w": "€ 16,923",
+    "gross/y": "€ 880,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Óscar Valentín",
+    "team": "Rayo Vallecano",
+    "gross/w": "€ 16,923",
+    "gross/y": "€ 880,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Antonio Raíllo",
+    "team": "Mallorca",
+    "gross/w": "€ 16,923",
+    "gross/y": "€ 880,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Sergio Ruiz",
+    "team": "Granada",
+    "gross/w": "€ 16,731",
+    "gross/y": "€ 870,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Nacho Vidal",
+    "team": "Mallorca",
+    "gross/w": "€ 16,731",
+    "gross/y": "€ 870,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Nacho Vidal",
+    "team": "Osasuna",
+    "gross/w": "€ 16,731",
+    "gross/y": "€ 870,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Aihen Muñoz",
+    "team": "Real Sociedad",
+    "gross/w": "€ 16,538",
+    "gross/y": "€ 860,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Enes Ünal",
+    "team": "Getafe",
+    "gross/w": "€ 16,538",
+    "gross/y": "€ 860,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Ivo Grbic",
+    "team": "Atletico Madrid",
+    "gross/w": "€ 16,538",
+    "gross/y": "€ 860,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Martin Hongla",
+    "team": "Granada",
+    "gross/w": "€ 16,346",
+    "gross/y": "€ 850,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Siebe Van der Heyden",
+    "team": "Mallorca",
+    "gross/w": "€ 16,346",
+    "gross/y": "€ 850,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Famara Diédhiou",
+    "team": "Granada",
+    "gross/w": "€ 16,346",
+    "gross/y": "€ 850,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Youssouf Sabaly",
+    "team": "Real Betis",
+    "gross/w": "€ 16,346",
+    "gross/y": "€ 850,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Antonio Sánchez",
+    "team": "Mallorca",
+    "gross/w": "€ 16,154",
+    "gross/y": "€ 840,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Cyle Larin",
+    "team": "Mallorca",
+    "gross/w": "€ 16,154",
+    "gross/y": "€ 840,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Predrag Rajkovic",
+    "team": "Mallorca",
+    "gross/w": "€ 16,154",
+    "gross/y": "€ 840,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Rubén Peña",
+    "team": "Osasuna",
+    "gross/w": "€ 15,962",
+    "gross/y": "€ 830,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Kirian Rodríguez",
+    "team": "Las Palmas",
+    "gross/w": "€ 15,962",
+    "gross/y": "€ 830,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Omar Mascarell",
+    "team": "Mallorca",
+    "gross/w": "€ 15,769",
+    "gross/y": "€ 820,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Iddrisu Baba",
+    "team": "Almeria",
+    "gross/w": "€ 15,769",
+    "gross/y": "€ 820,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Luis Rioja",
+    "team": "Alaves",
+    "gross/w": "€ 15,769",
+    "gross/y": "€ 820,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Giovanni González",
+    "team": "Mallorca",
+    "gross/w": "€ 15,385",
+    "gross/y": "€ 800,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Sory Kaba",
+    "team": "Las Palmas",
+    "gross/w": "€ 15,385",
+    "gross/y": "€ 800,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Jorge de Frutos",
+    "team": "Rayo Vallecano",
+    "gross/w": "€ 15,385",
+    "gross/y": "€ 800,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Rubén Sobrino",
+    "team": "Cadiz",
+    "gross/w": "€ 15,385",
+    "gross/y": "€ 800,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Abde Ezzalzouli",
+    "team": "Real Betis",
+    "gross/w": "€ 15,385",
+    "gross/y": "€ 800,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "David García",
+    "team": "Osasuna",
+    "gross/w": "€ 15,385",
+    "gross/y": "€ 800,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Diego López",
+    "team": "Valencia",
+    "gross/w": "€ 15,385",
+    "gross/y": "€ 800,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Luiz Henrique",
+    "team": "Real Betis",
+    "gross/w": "€ 15,385",
+    "gross/y": "€ 800,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Reinildo Mandava",
+    "team": "Atletico Madrid",
+    "gross/w": "€ 15,385",
+    "gross/y": "€ 800,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Fali",
+    "team": "Cadiz",
+    "gross/w": "€ 15,000",
+    "gross/y": "€ 780,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Augusto Batalla",
+    "team": "Granada",
+    "gross/w": "€ 15,000",
+    "gross/y": "€ 780,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Luis Milla",
+    "team": "Getafe",
+    "gross/w": "€ 15,000",
+    "gross/y": "€ 780,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Iñigo Ruiz de Galarreta",
+    "team": "Athletic Club",
+    "gross/w": "€ 14,615",
+    "gross/y": "€ 760,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Rubén Alcaraz",
+    "team": "Cadiz",
+    "gross/w": "€ 14,423",
+    "gross/y": "€ 750,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Alexander Callens",
+    "team": "Girona",
+    "gross/w": "€ 14,423",
+    "gross/y": "€ 750,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Arsen Zakharyan",
+    "team": "Real Sociedad",
+    "gross/w": "€ 14,423",
+    "gross/y": "€ 750,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Lucas Torró",
+    "team": "Osasuna",
+    "gross/w": "€ 14,423",
+    "gross/y": "€ 750,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Lucien Agoume",
+    "team": "Sevilla",
+    "gross/w": "€ 14,038",
+    "gross/y": "€ 730,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Aleksandar Sedlar",
+    "team": "Alaves",
+    "gross/w": "€ 14,038",
+    "gross/y": "€ 730,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Julen Agirrezabala",
+    "team": "Athletic Club",
+    "gross/w": "€ 14,038",
+    "gross/y": "€ 730,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Rominigue Kouamé",
+    "team": "Cadiz",
+    "gross/w": "€ 14,038",
+    "gross/y": "€ 730,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Ørjan Nyland",
+    "team": "Sevilla",
+    "gross/w": "€ 14,038",
+    "gross/y": "€ 730,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Javi Muñoz",
+    "team": "Las Palmas",
+    "gross/w": "€ 13,846",
+    "gross/y": "€ 720,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Pejiño",
+    "team": "Las Palmas",
+    "gross/w": "€ 13,846",
+    "gross/y": "€ 720,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Alejandro Pozo",
+    "team": "Almeria",
+    "gross/w": "€ 13,846",
+    "gross/y": "€ 720,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Myrto Uzuni",
+    "team": "Granada",
+    "gross/w": "€ 13,846",
+    "gross/y": "€ 720,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Fede San Emeterio",
+    "team": "Cadiz",
+    "gross/w": "€ 13,846",
+    "gross/y": "€ 720,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Alberto Perea",
+    "team": "Granada",
+    "gross/w": "€ 13,846",
+    "gross/y": "€ 720,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Choco Lozano",
+    "team": "Getafe",
+    "gross/w": "€ 13,462",
+    "gross/y": "€ 700,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Martin Valjent",
+    "team": "Mallorca",
+    "gross/w": "€ 13,462",
+    "gross/y": "€ 700,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Samú Costa",
+    "team": "Mallorca",
+    "gross/w": "€ 13,462",
+    "gross/y": "€ 700,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Aitor Fernández",
+    "team": "Osasuna",
+    "gross/w": "€ 13,462",
+    "gross/y": "€ 700,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Choco Lozano",
+    "team": "Almeria",
+    "gross/w": "€ 13,462",
+    "gross/y": "€ 700,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Iza Carcelén",
+    "team": "Cadiz",
+    "gross/w": "€ 13,462",
+    "gross/y": "€ 700,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Johnny",
+    "team": "Real Betis",
+    "gross/w": "€ 13,462",
+    "gross/y": "€ 700,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "José Manuel Arnáiz",
+    "team": "Osasuna",
+    "gross/w": "€ 13,077",
+    "gross/y": "€ 680,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Xeber Alkain",
+    "team": "Alaves",
+    "gross/w": "€ 12,692",
+    "gross/y": "€ 660,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Stole Dimitrievski",
+    "team": "Rayo Vallecano",
+    "gross/w": "€ 12,692",
+    "gross/y": "€ 660,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Gastón Álvarez",
+    "team": "Getafe",
+    "gross/w": "€ 12,500",
+    "gross/y": "€ 650,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Sergio Camello",
+    "team": "Rayo Vallecano",
+    "gross/w": "€ 12,500",
+    "gross/y": "€ 650,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Gerard Gumbau",
+    "team": "Granada",
+    "gross/w": "€ 12,500",
+    "gross/y": "€ 650,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Kike García",
+    "team": "Alaves",
+    "gross/w": "€ 12,500",
+    "gross/y": "€ 650,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Kaiky",
+    "team": "Almeria",
+    "gross/w": "€ 12,308",
+    "gross/y": "€ 640,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Antonio Puertas",
+    "team": "Granada",
+    "gross/w": "€ 12,308",
+    "gross/y": "€ 640,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Fermín López",
+    "team": "Barcelona",
+    "gross/w": "€ 12,115",
+    "gross/y": "€ 630,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Carles Aleñá",
+    "team": "Getafe",
+    "gross/w": "€ 12,115",
+    "gross/y": "€ 630,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Alex Suárez",
+    "team": "Las Palmas",
+    "gross/w": "€ 12,115",
+    "gross/y": "€ 630,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Luis Hernández",
+    "team": "Cadiz",
+    "gross/w": "€ 12,115",
+    "gross/y": "€ 630,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Marc Cardona",
+    "team": "Las Palmas",
+    "gross/w": "€ 12,115",
+    "gross/y": "€ 630,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Damián Suárez",
+    "team": "Getafe",
+    "gross/w": "€ 11,923",
+    "gross/y": "€ 620,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Fran Pérez",
+    "team": "Valencia",
+    "gross/w": "€ 11,923",
+    "gross/y": "€ 620,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Rodrigo Riquelme",
+    "team": "Atletico Madrid",
+    "gross/w": "€ 11,923",
+    "gross/y": "€ 620,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Darko Brasanac",
+    "team": "Osasuna",
+    "gross/w": "€ 11,923",
+    "gross/y": "€ 620,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Juanmi Latasa",
+    "team": "Getafe",
+    "gross/w": "€ 11,923",
+    "gross/y": "€ 620,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Wilson Manafá",
+    "team": "Granada",
+    "gross/w": "€ 11,923",
+    "gross/y": "€ 620,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Jesús Vázquez",
+    "team": "Valencia",
+    "gross/w": "€ 11,923",
+    "gross/y": "€ 620,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Léo Baptistão",
+    "team": "Almeria",
+    "gross/w": "€ 11,538",
+    "gross/y": "€ 600,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Kevin Vázquez",
+    "team": "Celta Vigo",
+    "gross/w": "€ 11,538",
+    "gross/y": "€ 600,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Juanpe",
+    "team": "Girona",
+    "gross/w": "€ 11,538",
+    "gross/y": "€ 600,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Jon Pacheco",
+    "team": "Real Sociedad",
+    "gross/w": "€ 11,538",
+    "gross/y": "€ 600,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Aitor Ruibal",
+    "team": "Real Betis",
+    "gross/w": "€ 11,538",
+    "gross/y": "€ 600,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Raúl García",
+    "team": "Osasuna",
+    "gross/w": "€ 11,538",
+    "gross/y": "€ 600,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Ilias Akhomach",
+    "team": "Villarreal",
+    "gross/w": "€ 11,538",
+    "gross/y": "€ 600,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Ibrahima Koné",
+    "team": "Almeria",
+    "gross/w": "€ 11,538",
+    "gross/y": "€ 600,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Sergio Akieme",
+    "team": "Almeria",
+    "gross/w": "€ 11,538",
+    "gross/y": "€ 600,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Fabrizio Angileri",
+    "team": "Getafe",
+    "gross/w": "€ 11,538",
+    "gross/y": "€ 600,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Daniel Fuzato",
+    "team": "Getafe",
+    "gross/w": "€ 11,538",
+    "gross/y": "€ 600,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "André Almeida",
+    "team": "Valencia",
+    "gross/w": "€ 11,538",
+    "gross/y": "€ 600,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Cenk Özkacar",
+    "team": "Valencia",
+    "gross/w": "€ 11,346",
+    "gross/y": "€ 590,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Raúl Fernández",
+    "team": "Granada",
+    "gross/w": "€ 11,346",
+    "gross/y": "€ 590,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Juan Cala",
+    "team": "Cadiz",
+    "gross/w": "€ 11,154",
+    "gross/y": "€ 580,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Alfonso Espino",
+    "team": "Rayo Vallecano",
+    "gross/w": "€ 11,154",
+    "gross/y": "€ 580,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Rubén Duarte",
+    "team": "Alaves",
+    "gross/w": "€ 10,962",
+    "gross/y": "€ 570,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Martín Merquelanz",
+    "team": "Real Sociedad",
+    "gross/w": "€ 10,769",
+    "gross/y": "€ 560,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Yerson Mosquera",
+    "team": "Villarreal",
+    "gross/w": "€ 10,769",
+    "gross/y": "€ 560,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Iván Martín",
+    "team": "Girona",
+    "gross/w": "€ 10,577",
+    "gross/y": "€ 550,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Matija Nastasic",
+    "team": "Mallorca",
+    "gross/w": "€ 10,577",
+    "gross/y": "€ 550,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Sergio Arribas",
+    "team": "Almeria",
+    "gross/w": "€ 10,577",
+    "gross/y": "€ 550,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Jørgen Strand Larsen",
+    "team": "Celta Vigo",
+    "gross/w": "€ 10,577",
+    "gross/y": "€ 550,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Brian Ocampo",
+    "team": "Cadiz",
+    "gross/w": "€ 10,385",
+    "gross/y": "€ 540,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Gonzalo Melero",
+    "team": "Almeria",
+    "gross/w": "€ 10,385",
+    "gross/y": "€ 540,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Bryan Zaragoza",
+    "team": "Granada",
+    "gross/w": "€ 10,385",
+    "gross/y": "€ 540,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "José Ángel Carmona",
+    "team": "Getafe",
+    "gross/w": "€ 10,385",
+    "gross/y": "€ 540,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Unai López",
+    "team": "Rayo Vallecano",
+    "gross/w": "€ 10,385",
+    "gross/y": "€ 540,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Unai García",
+    "team": "Osasuna",
+    "gross/w": "€ 10,192",
+    "gross/y": "€ 530,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Marcos Paulo",
+    "team": "Atletico Madrid",
+    "gross/w": "€ 10,000",
+    "gross/y": "€ 520,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Dani Rodríguez",
+    "team": "Mallorca",
+    "gross/w": "€ 10,000",
+    "gross/y": "€ 520,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Julián Araujo",
+    "team": "Barcelona",
+    "gross/w": "€ 10,000",
+    "gross/y": "€ 520,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Youba Diarra",
+    "team": "Cadiz",
+    "gross/w": "€ 10,000",
+    "gross/y": "€ 520,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Abde Rebbach",
+    "team": "Alaves",
+    "gross/w": "€ 10,000",
+    "gross/y": "€ 520,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Óscar Trejo",
+    "team": "Rayo Vallecano",
+    "gross/w": "€ 9,808",
+    "gross/y": "€ 510,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Giuliano Simeone",
+    "team": "Alaves",
+    "gross/w": "€ 9,615",
+    "gross/y": "€ 500,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Andrei Rațiu",
+    "team": "Rayo Vallecano",
+    "gross/w": "€ 9,615",
+    "gross/y": "€ 500,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Antonio Blanco",
+    "team": "Alaves",
+    "gross/w": "€ 9,615",
+    "gross/y": "€ 500,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Assane Diao",
+    "team": "Real Betis",
+    "gross/w": "€ 9,615",
+    "gross/y": "€ 500,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Miguel Rodríguez",
+    "team": "Celta Vigo",
+    "gross/w": "€ 9,615",
+    "gross/y": "€ 500,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Aarón Escandell",
+    "team": "Las Palmas",
+    "gross/w": "€ 9,615",
+    "gross/y": "€ 500,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Theo Corbeanu",
+    "team": "Granada",
+    "gross/w": "€ 9,615",
+    "gross/y": "€ 500,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Beñat Turrientes",
+    "team": "Real Sociedad",
+    "gross/w": "€ 9,615",
+    "gross/y": "€ 500,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Rodri",
+    "team": "Real Betis",
+    "gross/w": "€ 9,615",
+    "gross/y": "€ 500,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Álex Fernández",
+    "team": "Cadiz",
+    "gross/w": "€ 9,423",
+    "gross/y": "€ 490,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Bernardo Espinosa",
+    "team": "Girona",
+    "gross/w": "€ 9,231",
+    "gross/y": "€ 480,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Yan Couto",
+    "team": "Girona",
+    "gross/w": "€ 9,231",
+    "gross/y": "€ 480,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Dion Lopy",
+    "team": "Almeria",
+    "gross/w": "€ 9,231",
+    "gross/y": "€ 480,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Iván Alejo",
+    "team": "Cadiz",
+    "gross/w": "€ 9,038",
+    "gross/y": "€ 470,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Toni Villa",
+    "team": "Girona",
+    "gross/w": "€ 9,038",
+    "gross/y": "€ 470,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Selim Amallah",
+    "team": "Valencia",
+    "gross/w": "€ 8,846",
+    "gross/y": "€ 460,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Jon Guridi",
+    "team": "Alaves",
+    "gross/w": "€ 8,846",
+    "gross/y": "€ 460,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Aridane Hernández",
+    "team": "Rayo Vallecano",
+    "gross/w": "€ 8,846",
+    "gross/y": "€ 460,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Nahuel Tenaglia",
+    "team": "Alaves",
+    "gross/w": "€ 8,654",
+    "gross/y": "€ 450,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Iván Balliu",
+    "team": "Rayo Vallecano",
+    "gross/w": "€ 8,654",
+    "gross/y": "€ 450,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Dani Cárdenas",
+    "team": "Rayo Vallecano",
+    "gross/w": "€ 8,654",
+    "gross/y": "€ 450,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Carlos Vicente",
+    "team": "Alaves",
+    "gross/w": "€ 8,654",
+    "gross/y": "€ 450,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Carlos Romero",
+    "team": "Villarreal",
+    "gross/w": "€ 8,654",
+    "gross/y": "€ 450,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Peru Nolaskoain",
+    "team": "Athletic Club",
+    "gross/w": "€ 8,462",
+    "gross/y": "€ 440,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Víctor Díaz",
+    "team": "Granada",
+    "gross/w": "€ 8,462",
+    "gross/y": "€ 440,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Fernando Martínez",
+    "team": "Almeria",
+    "gross/w": "€ 8,462",
+    "gross/y": "€ 440,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Kike Barja",
+    "team": "Osasuna",
+    "gross/w": "€ 8,077",
+    "gross/y": "€ 420,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Federico Gattoni",
+    "team": "Sevilla",
+    "gross/w": "€ 8,077",
+    "gross/y": "€ 420,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Jaume Costa",
+    "team": "Mallorca",
+    "gross/w": "€ 8,077",
+    "gross/y": "€ 420,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Kike Pérez",
+    "team": "Rayo Vallecano",
+    "gross/w": "€ 8,077",
+    "gross/y": "€ 420,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Faitout Maouassa",
+    "team": "Granada",
+    "gross/w": "€ 8,077",
+    "gross/y": "€ 420,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Ibrahima Kébé",
+    "team": "Girona",
+    "gross/w": "€ 8,077",
+    "gross/y": "€ 420,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Amath Ndiaye",
+    "team": "Mallorca",
+    "gross/w": "€ 8,077",
+    "gross/y": "€ 420,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Alberto Marí",
+    "team": "Valencia",
+    "gross/w": "€ 8,077",
+    "gross/y": "€ 420,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Adu Ares",
+    "team": "Athletic Club",
+    "gross/w": "€ 8,077",
+    "gross/y": "€ 420,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Robert Navarro",
+    "team": "Cadiz",
+    "gross/w": "€ 8,077",
+    "gross/y": "€ 420,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Houboulang Mendes",
+    "team": "Almeria",
+    "gross/w": "€ 7,885",
+    "gross/y": "€ 410,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Urko González de Zarate",
+    "team": "Real Sociedad",
+    "gross/w": "€ 7,885",
+    "gross/y": "€ 410,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "José Mari",
+    "team": "Cadiz",
+    "gross/w": "€ 7,885",
+    "gross/y": "€ 410,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Arnau Martínez",
+    "team": "Girona",
+    "gross/w": "€ 7,692",
+    "gross/y": "€ 400,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Javi Guerra",
+    "team": "Valencia",
+    "gross/w": "€ 7,692",
+    "gross/y": "€ 400,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Jesús Areso",
+    "team": "Osasuna",
+    "gross/w": "€ 7,692",
+    "gross/y": "€ 400,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Renato Tapia",
+    "team": "Celta Vigo",
+    "gross/w": "€ 7,692",
+    "gross/y": "€ 400,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Nico Paz",
+    "team": "Real Madrid",
+    "gross/w": "€ 7,692",
+    "gross/y": "€ 400,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Álex Centelles",
+    "team": "Almeria",
+    "gross/w": "€ 7,692",
+    "gross/y": "€ 400,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Juan Cruz",
+    "team": "Real Betis",
+    "gross/w": "€ 7,692",
+    "gross/y": "€ 400,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "João Félix",
+    "team": "Barcelona",
+    "gross/w": "€ 7,692",
+    "gross/y": "€ 400,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Lázaro",
+    "team": "Almeria",
+    "gross/w": "€ 7,692",
+    "gross/y": "€ 400,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Juan Cruz",
+    "team": "Osasuna",
+    "gross/w": "€ 7,692",
+    "gross/y": "€ 400,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Sergi Guardiola",
+    "team": "Cadiz",
+    "gross/w": "€ 7,500",
+    "gross/y": "€ 390,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Carlos Neva",
+    "team": "Granada",
+    "gross/w": "€ 7,308",
+    "gross/y": "€ 380,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Benito Ramírez",
+    "team": "Las Palmas",
+    "gross/w": "€ 7,308",
+    "gross/y": "€ 380,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Abdón Prats",
+    "team": "Mallorca",
+    "gross/w": "€ 7,308",
+    "gross/y": "€ 380,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Jon Karrikaburu",
+    "team": "Alaves",
+    "gross/w": "€ 7,308",
+    "gross/y": "€ 380,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Martín Pascual",
+    "team": "Rayo Vallecano",
+    "gross/w": "€ 7,115",
+    "gross/y": "€ 370,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Abdel Abqar",
+    "team": "Alaves",
+    "gross/w": "€ 7,115",
+    "gross/y": "€ 370,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Samu Aghehowa",
+    "team": "Alaves",
+    "gross/w": "€ 7,115",
+    "gross/y": "€ 370,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Álvaro Lemos",
+    "team": "Las Palmas",
+    "gross/w": "€ 7,115",
+    "gross/y": "€ 370,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Juan Carlos",
+    "team": "Girona",
+    "gross/w": "€ 7,115",
+    "gross/y": "€ 370,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Kike Salas",
+    "team": "Sevilla",
+    "gross/w": "€ 6,923",
+    "gross/y": "€ 360,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Aimar Oroz",
+    "team": "Osasuna",
+    "gross/w": "€ 6,923",
+    "gross/y": "€ 360,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Valery Fernández",
+    "team": "Girona",
+    "gross/w": "€ 6,923",
+    "gross/y": "€ 360,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Kamil Piatkowski",
+    "team": "Granada",
+    "gross/w": "€ 6,923",
+    "gross/y": "€ 360,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Omenuke Mfulu",
+    "team": "Las Palmas",
+    "gross/w": "€ 6,923",
+    "gross/y": "€ 360,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Cristian Herrera",
+    "team": "Las Palmas",
+    "gross/w": "€ 6,731",
+    "gross/y": "€ 350,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Pep Chavarría",
+    "team": "Rayo Vallecano",
+    "gross/w": "€ 6,731",
+    "gross/y": "€ 350,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Matías Arezo",
+    "team": "Granada",
+    "gross/w": "€ 6,731",
+    "gross/y": "€ 350,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Abdul Mumin",
+    "team": "Rayo Vallecano",
+    "gross/w": "€ 6,731",
+    "gross/y": "€ 350,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Carlos Dotor",
+    "team": "Celta Vigo",
+    "gross/w": "€ 6,731",
+    "gross/y": "€ 350,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Mohamed-Ali Cho",
+    "team": "Real Sociedad",
+    "gross/w": "€ 6,731",
+    "gross/y": "€ 350,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Marc Pubill",
+    "team": "Almeria",
+    "gross/w": "€ 6,731",
+    "gross/y": "€ 350,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Pathé Ciss",
+    "team": "Rayo Vallecano",
+    "gross/w": "€ 6,538",
+    "gross/y": "€ 340,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "José Pozo",
+    "team": "Rayo Vallecano",
+    "gross/w": "€ 6,538",
+    "gross/y": "€ 340,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "David Gil",
+    "team": "Cadiz",
+    "gross/w": "€ 6,346",
+    "gross/y": "€ 330,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Chumi",
+    "team": "Almeria",
+    "gross/w": "€ 6,346",
+    "gross/y": "€ 330,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Miguel Gutiérrez",
+    "team": "Girona",
+    "gross/w": "€ 6,346",
+    "gross/y": "€ 330,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Carlos Benavidez",
+    "team": "Alaves",
+    "gross/w": "€ 6,346",
+    "gross/y": "€ 330,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Chris Ramos",
+    "team": "Cadiz",
+    "gross/w": "€ 6,154",
+    "gross/y": "€ 320,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Unai Gómez",
+    "team": "Athletic Club",
+    "gross/w": "€ 5,769",
+    "gross/y": "€ 300,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Mika Mármol",
+    "team": "Las Palmas",
+    "gross/w": "€ 5,769",
+    "gross/y": "€ 300,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Dominik Greif",
+    "team": "Mallorca",
+    "gross/w": "€ 5,769",
+    "gross/y": "€ 300,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Nikola Maras",
+    "team": "Alaves",
+    "gross/w": "€ 5,769",
+    "gross/y": "€ 300,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Borja García",
+    "team": "Girona",
+    "gross/w": "€ 5,769",
+    "gross/y": "€ 300,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Aleksandar Radovanović",
+    "team": "Almeria",
+    "gross/w": "€ 5,769",
+    "gross/y": "€ 300,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Enzo Loiodice",
+    "team": "Las Palmas",
+    "gross/w": "€ 5,769",
+    "gross/y": "€ 300,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Jon Ander Olasagasti",
+    "team": "Real Sociedad",
+    "gross/w": "€ 5,769",
+    "gross/y": "€ 300,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Shon Weissman",
+    "team": "Granada",
+    "gross/w": "€ 5,577",
+    "gross/y": "€ 290,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Raúl Torrente",
+    "team": "Granada",
+    "gross/w": "€ 5,577",
+    "gross/y": "€ 290,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Diego Mariño",
+    "team": "Almeria",
+    "gross/w": "€ 5,385",
+    "gross/y": "€ 280,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Lucas Pires",
+    "team": "Cadiz",
+    "gross/w": "€ 5,385",
+    "gross/y": "€ 280,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Eric Curbelo",
+    "team": "Las Palmas",
+    "gross/w": "€ 5,385",
+    "gross/y": "€ 280,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Bebé",
+    "team": "Rayo Vallecano",
+    "gross/w": "€ 5,385",
+    "gross/y": "€ 280,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Luca de la Torre",
+    "team": "Celta Vigo",
+    "gross/w": "€ 5,192",
+    "gross/y": "€ 270,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Javi Llabrés",
+    "team": "Mallorca",
+    "gross/w": "€ 5,192",
+    "gross/y": "€ 270,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Álvaro Fernandez",
+    "team": "Granada",
+    "gross/w": "€ 5,192",
+    "gross/y": "€ 270,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Ricard Sánchez",
+    "team": "Granada",
+    "gross/w": "€ 4,808",
+    "gross/y": "€ 250,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Pablo Marín",
+    "team": "Real Sociedad",
+    "gross/w": "€ 4,808",
+    "gross/y": "€ 250,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Juanlu Sánchez",
+    "team": "Sevilla",
+    "gross/w": "€ 4,808",
+    "gross/y": "€ 250,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Peter Federico",
+    "team": "Valencia",
+    "gross/w": "€ 4,808",
+    "gross/y": "€ 250,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Williot Swedberg",
+    "team": "Celta Vigo",
+    "gross/w": "€ 4,808",
+    "gross/y": "€ 250,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Stefan Mitrovic",
+    "team": "Getafe",
+    "gross/w": "€ 4,808",
+    "gross/y": "€ 250,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Álex Sola",
+    "team": "Alaves",
+    "gross/w": "€ 4,615",
+    "gross/y": "€ 240,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Jesús Owono",
+    "team": "Alaves",
+    "gross/w": "€ 4,615",
+    "gross/y": "€ 240,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Njegos Petrovic",
+    "team": "Granada",
+    "gross/w": "€ 4,615",
+    "gross/y": "€ 240,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Víctor Chust",
+    "team": "Cadiz",
+    "gross/w": "€ 4,615",
+    "gross/y": "€ 240,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Randy Nteka",
+    "team": "Rayo Vallecano",
+    "gross/w": "€ 4,423",
+    "gross/y": "€ 230,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Marvin Park",
+    "team": "Las Palmas",
+    "gross/w": "€ 4,231",
+    "gross/y": "€ 220,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Pablo Torre",
+    "team": "Girona",
+    "gross/w": "€ 4,038",
+    "gross/y": "€ 210,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "José Copete",
+    "team": "Mallorca",
+    "gross/w": "€ 4,038",
+    "gross/y": "€ 210,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Imanol García de Albéniz",
+    "team": "Athletic Club",
+    "gross/w": "€ 4,038",
+    "gross/y": "€ 210,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Momo Mbaye",
+    "team": "Cadiz",
+    "gross/w": "€ 4,038",
+    "gross/y": "€ 210,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Pablo Gozálbez",
+    "team": "Valencia",
+    "gross/w": "€ 3,846",
+    "gross/y": "€ 200,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Ramón Terrats",
+    "team": "Villarreal",
+    "gross/w": "€ 3,846",
+    "gross/y": "€ 200,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Ander Astralaga",
+    "team": "Barcelona",
+    "gross/w": "€ 3,846",
+    "gross/y": "€ 200,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Chadi Riad",
+    "team": "Real Betis",
+    "gross/w": "€ 3,846",
+    "gross/y": "€ 200,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Jorge Herrando",
+    "team": "Osasuna",
+    "gross/w": "€ 3,846",
+    "gross/y": "€ 200,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Sergi Altimira",
+    "team": "Real Betis",
+    "gross/w": "€ 3,846",
+    "gross/y": "€ 200,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Yarek Gasiorowski",
+    "team": "Valencia",
+    "gross/w": "€ 3,846",
+    "gross/y": "€ 200,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Alberto Moleiro",
+    "team": "Las Palmas",
+    "gross/w": "€ 3,654",
+    "gross/y": "€ 190,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Javi Hernández",
+    "team": "Cadiz",
+    "gross/w": "€ 3,654",
+    "gross/y": "€ 190,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Pablo Ibáñez",
+    "team": "Osasuna",
+    "gross/w": "€ 3,462",
+    "gross/y": "€ 180,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Unai Marrero",
+    "team": "Real Sociedad",
+    "gross/w": "€ 3,462",
+    "gross/y": "€ 180,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Iker Muñoz",
+    "team": "Osasuna",
+    "gross/w": "€ 3,462",
+    "gross/y": "€ 180,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Iván Cuéllar",
+    "team": "Mallorca",
+    "gross/w": "€ 3,462",
+    "gross/y": "€ 180,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Jhon Solís",
+    "team": "Girona",
+    "gross/w": "€ 3,462",
+    "gross/y": "€ 180,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Juan Iglesias",
+    "team": "Getafe",
+    "gross/w": "€ 3,462",
+    "gross/y": "€ 180,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Saúl Coco",
+    "team": "Las Palmas",
+    "gross/w": "€ 3,269",
+    "gross/y": "€ 170,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Sergi Cardona",
+    "team": "Las Palmas",
+    "gross/w": "€ 3,269",
+    "gross/y": "€ 170,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Marko Milovanovic",
+    "team": "Almeria",
+    "gross/w": "€ 3,269",
+    "gross/y": "€ 170,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Arnau Puigmal",
+    "team": "Almeria",
+    "gross/w": "€ 3,269",
+    "gross/y": "€ 170,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Cristhian Mosquera",
+    "team": "Valencia",
+    "gross/w": "€ 3,077",
+    "gross/y": "€ 160,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Eric Monjonell",
+    "team": "Girona",
+    "gross/w": "€ 3,077",
+    "gross/y": "€ 160,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Martín Calderón",
+    "team": "Cadiz",
+    "gross/w": "€ 3,077",
+    "gross/y": "€ 160,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Adrià Altimira",
+    "team": "Villarreal",
+    "gross/w": "€ 3,077",
+    "gross/y": "€ 160,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Javi López",
+    "team": "Alaves",
+    "gross/w": "€ 3,077",
+    "gross/y": "€ 160,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Rafa Marín",
+    "team": "Alaves",
+    "gross/w": "€ 2,885",
+    "gross/y": "€ 150,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Carlos Domínguez",
+    "team": "Celta Vigo",
+    "gross/w": "€ 2,885",
+    "gross/y": "€ 150,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Bruno Langa",
+    "team": "Almeria",
+    "gross/w": "€ 2,885",
+    "gross/y": "€ 150,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Largie Ramazani",
+    "team": "Almeria",
+    "gross/w": "€ 2,885",
+    "gross/y": "€ 150,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Yellu Santiago",
+    "team": "Getafe",
+    "gross/w": "€ 2,692",
+    "gross/y": "€ 140,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Marc Martínez",
+    "team": "Granada",
+    "gross/w": "€ 2,692",
+    "gross/y": "€ 140,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Marc Guiu",
+    "team": "Barcelona",
+    "gross/w": "€ 2,500",
+    "gross/y": "€ 130,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Toni Fuidias",
+    "team": "Girona",
+    "gross/w": "€ 2,500",
+    "gross/y": "€ 130,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Hugo Sotelo",
+    "team": "Celta Vigo",
+    "gross/w": "€ 2,308",
+    "gross/y": "€ 120,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Abdallahi Mahmoud",
+    "team": "Alaves",
+    "gross/w": "€ 2,308",
+    "gross/y": "€ 120,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "André Ferreira",
+    "team": "Granada",
+    "gross/w": "€ 2,308",
+    "gross/y": "€ 120,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Álvaro Valles",
+    "team": "Las Palmas",
+    "gross/w": "€ 2,308",
+    "gross/y": "€ 120,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Fabio González",
+    "team": "Las Palmas",
+    "gross/w": "€ 2,308",
+    "gross/y": "€ 120,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Arnaut Danjuma",
+    "team": "Villarreal",
+    "gross/w": "€ 0",
+    "gross/y": "€ 0",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Álex Collado",
+    "team": "Real Betis",
+    "gross/w": "€ 0",
+    "gross/y": "€ 0",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Pablo Torre",
+    "team": "Barcelona",
+    "gross/w": "€ 0",
+    "gross/y": "€ 0",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Aiham Ousou",
+    "team": "Cadiz",
+    "gross/w": "€ 0",
+    "gross/y": "€ 0",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Ben Brereton",
+    "team": "Villarreal",
+    "gross/w": "€ 0",
+    "gross/y": "€ 0",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  }
+]

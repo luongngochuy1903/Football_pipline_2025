@@ -1,0 +1,6052 @@
+[
+  {
+    "team_name": "Paris S-G",
+    "player_name": "Bradley Barcola",
+    "tkl": "27",
+    "tklWon": "17",
+    "tkl_pct": "25.8",
+    "interception": "19",
+    "blocks": "25",
+    "errors": "0"
+  },
+  {
+    "team_name": "Paris S-G",
+    "player_name": "Gianluigi Donnarumma",
+    "tkl": "1",
+    "tklWon": "1",
+    "tkl_pct": "50.0",
+    "interception": "0",
+    "blocks": "0",
+    "errors": "0"
+  },
+  {
+    "team_name": "Paris S-G",
+    "player_name": "Achraf Hakimi",
+    "tkl": "48",
+    "tklWon": "36",
+    "tkl_pct": "49.1",
+    "interception": "31",
+    "blocks": "25",
+    "errors": "3"
+  },
+  {
+    "team_name": "Paris S-G",
+    "player_name": "Willian Pacho",
+    "tkl": "56",
+    "tklWon": "32",
+    "tkl_pct": "71.9",
+    "interception": "40",
+    "blocks": "35",
+    "errors": "1"
+  },
+  {
+    "team_name": "Paris S-G",
+    "player_name": "Warren Zaïre-Emery",
+    "tkl": "51",
+    "tklWon": "26",
+    "tkl_pct": "51.1",
+    "interception": "23",
+    "blocks": "35",
+    "errors": "2"
+  },
+  {
+    "team_name": "Paris S-G",
+    "player_name": "Lucas Beraldo",
+    "tkl": "38",
+    "tklWon": "31",
+    "tkl_pct": "62.2",
+    "interception": "21",
+    "blocks": "16",
+    "errors": "3"
+  },
+  {
+    "team_name": "Paris S-G",
+    "player_name": "João Neves",
+    "tkl": "63",
+    "tklWon": "31",
+    "tkl_pct": "60.0",
+    "interception": "23",
+    "blocks": "29",
+    "errors": "1"
+  },
+  {
+    "team_name": "Paris S-G",
+    "player_name": "Fabián Ruiz Peña",
+    "tkl": "37",
+    "tklWon": "24",
+    "tkl_pct": "44.7",
+    "interception": "16",
+    "blocks": "25",
+    "errors": "1"
+  },
+  {
+    "team_name": "Paris S-G",
+    "player_name": "Vitinha",
+    "tkl": "43",
+    "tklWon": "23",
+    "tkl_pct": "52.1",
+    "interception": "14",
+    "blocks": "26",
+    "errors": "2"
+  },
+  {
+    "team_name": "Paris S-G",
+    "player_name": "Ousmane Dembélé",
+    "tkl": "11",
+    "tklWon": "5",
+    "tkl_pct": "33.3",
+    "interception": "9",
+    "blocks": "3",
+    "errors": "1"
+  },
+  {
+    "team_name": "Paris S-G",
+    "player_name": "Marquinhos",
+    "tkl": "30",
+    "tklWon": "19",
+    "tkl_pct": "75.8",
+    "interception": "11",
+    "blocks": "27",
+    "errors": "0"
+  },
+  {
+    "team_name": "Paris S-G",
+    "player_name": "Nuno Mendes",
+    "tkl": "30",
+    "tklWon": "19",
+    "tkl_pct": "59.0",
+    "interception": "18",
+    "blocks": "25",
+    "errors": "2"
+  },
+  {
+    "team_name": "Paris S-G",
+    "player_name": "Lee Kang-in",
+    "tkl": "25",
+    "tklWon": "17",
+    "tkl_pct": "54.3",
+    "interception": "3",
+    "blocks": "11",
+    "errors": "1"
+  },
+  {
+    "team_name": "Paris S-G",
+    "player_name": "Désiré Doué",
+    "tkl": "48",
+    "tklWon": "30",
+    "tkl_pct": "47.1",
+    "interception": "13",
+    "blocks": "26",
+    "errors": "0"
+  },
+  {
+    "team_name": "Paris S-G",
+    "player_name": "Gonçalo Ramos",
+    "tkl": "11",
+    "tklWon": "6",
+    "tkl_pct": "50.0",
+    "interception": "0",
+    "blocks": "5",
+    "errors": "0"
+  },
+  {
+    "team_name": "Paris S-G",
+    "player_name": "Khvicha Kvaratskhelia",
+    "tkl": "19",
+    "tklWon": "13",
+    "tkl_pct": "56.5",
+    "interception": "2",
+    "blocks": "7",
+    "errors": "0"
+  },
+  {
+    "team_name": "Paris S-G",
+    "player_name": "Lucas Hernández",
+    "tkl": "24",
+    "tklWon": "18",
+    "tkl_pct": "60.9",
+    "interception": "7",
+    "blocks": "12",
+    "errors": "2"
+  },
+  {
+    "team_name": "Paris S-G",
+    "player_name": "Matvei Safonov",
+    "tkl": "0",
+    "tklWon": "0",
+    "tkl_pct": "",
+    "interception": "1",
+    "blocks": "1",
+    "errors": "0"
+  },
+  {
+    "team_name": "Paris S-G",
+    "player_name": "Senny Mayulu",
+    "tkl": "25",
+    "tklWon": "16",
+    "tkl_pct": "57.1",
+    "interception": "5",
+    "blocks": "8",
+    "errors": "0"
+  },
+  {
+    "team_name": "Paris S-G",
+    "player_name": "Marco Asensio",
+    "tkl": "4",
+    "tklWon": "3",
+    "tkl_pct": "0.0",
+    "interception": "0",
+    "blocks": "1",
+    "errors": "0"
+  },
+  {
+    "team_name": "Paris S-G",
+    "player_name": "Milan Škriniar",
+    "tkl": "7",
+    "tklWon": "5",
+    "tkl_pct": "100.0",
+    "interception": "3",
+    "blocks": "7",
+    "errors": "0"
+  },
+  {
+    "team_name": "Paris S-G",
+    "player_name": "Ibrahim Mbaye",
+    "tkl": "4",
+    "tklWon": "2",
+    "tkl_pct": "37.5",
+    "interception": "2",
+    "blocks": "2",
+    "errors": "0"
+  },
+  {
+    "team_name": "Paris S-G",
+    "player_name": "Randal Kolo Muani",
+    "tkl": "4",
+    "tklWon": "4",
+    "tkl_pct": "0.0",
+    "interception": "0",
+    "blocks": "1",
+    "errors": "0"
+  },
+  {
+    "team_name": "Paris S-G",
+    "player_name": "Yoram Zague",
+    "tkl": "8",
+    "tklWon": "6",
+    "tkl_pct": "75.0",
+    "interception": "2",
+    "blocks": "3",
+    "errors": "0"
+  },
+  {
+    "team_name": "Paris S-G",
+    "player_name": "Axel Tapé",
+    "tkl": "3",
+    "tklWon": "1",
+    "tkl_pct": "100.0",
+    "interception": "1",
+    "blocks": "2",
+    "errors": "0"
+  },
+  {
+    "team_name": "Paris S-G",
+    "player_name": "Arnau Tenas",
+    "tkl": "0",
+    "tklWon": "0",
+    "tkl_pct": "",
+    "interception": "0",
+    "blocks": "0",
+    "errors": "0"
+  },
+  {
+    "team_name": "Paris S-G",
+    "player_name": "Noham Kamara",
+    "tkl": "1",
+    "tklWon": "1",
+    "tkl_pct": "",
+    "interception": "1",
+    "blocks": "1",
+    "errors": "0"
+  },
+  {
+    "team_name": "Paris S-G",
+    "player_name": "Presnel Kimpembe",
+    "tkl": "1",
+    "tklWon": "0",
+    "tkl_pct": "",
+    "interception": "0",
+    "blocks": "2",
+    "errors": "0"
+  },
+  {
+    "team_name": "Marseille",
+    "player_name": "Gerónimo Rulli",
+    "tkl": "4",
+    "tklWon": "3",
+    "tkl_pct": "50.0",
+    "interception": "1",
+    "blocks": "1",
+    "errors": "3"
+  },
+  {
+    "team_name": "Marseille",
+    "player_name": "Mason Greenwood",
+    "tkl": "35",
+    "tklWon": "18",
+    "tkl_pct": "41.0",
+    "interception": "12",
+    "blocks": "7",
+    "errors": "2"
+  },
+  {
+    "team_name": "Marseille",
+    "player_name": "Pierre Højbjerg",
+    "tkl": "64",
+    "tklWon": "45",
+    "tkl_pct": "53.6",
+    "interception": "42",
+    "blocks": "28",
+    "errors": "2"
+  },
+  {
+    "team_name": "Marseille",
+    "player_name": "Luis Henrique",
+    "tkl": "16",
+    "tklWon": "9",
+    "tkl_pct": "90.0",
+    "interception": "10",
+    "blocks": "15",
+    "errors": "0"
+  },
+  {
+    "team_name": "Marseille",
+    "player_name": "Adrien Rabiot",
+    "tkl": "49",
+    "tklWon": "31",
+    "tkl_pct": "59.4",
+    "interception": "21",
+    "blocks": "21",
+    "errors": "0"
+  },
+  {
+    "team_name": "Marseille",
+    "player_name": "Michael Amir Murillo",
+    "tkl": "49",
+    "tklWon": "31",
+    "tkl_pct": "69.6",
+    "interception": "18",
+    "blocks": "21",
+    "errors": "4"
+  },
+  {
+    "team_name": "Marseille",
+    "player_name": "Leonardo Balerdi",
+    "tkl": "54",
+    "tklWon": "39",
+    "tkl_pct": "57.4",
+    "interception": "38",
+    "blocks": "25",
+    "errors": "4"
+  },
+  {
+    "team_name": "Marseille",
+    "player_name": "Geoffrey Kondogbia",
+    "tkl": "60",
+    "tklWon": "38",
+    "tkl_pct": "79.4",
+    "interception": "22",
+    "blocks": "23",
+    "errors": "4"
+  },
+  {
+    "team_name": "Marseille",
+    "player_name": "Quentin Merlin",
+    "tkl": "22",
+    "tklWon": "17",
+    "tkl_pct": "56.3",
+    "interception": "14",
+    "blocks": "20",
+    "errors": "1"
+  },
+  {
+    "team_name": "Marseille",
+    "player_name": "Valentin Rongier",
+    "tkl": "50",
+    "tklWon": "28",
+    "tkl_pct": "62.8",
+    "interception": "33",
+    "blocks": "30",
+    "errors": "5"
+  },
+  {
+    "team_name": "Marseille",
+    "player_name": "",
+    "tkl": "",
+    "tklWon": "",
+    "tkl_pct": "",
+    "interception": "",
+    "blocks": "",
+    "errors": ""
+  },
+  {
+    "team_name": "Marseille",
+    "player_name": "Player",
+    "tkl": "",
+    "tklWon": "",
+    "tkl_pct": "",
+    "interception": "",
+    "blocks": "",
+    "errors": ""
+  },
+  {
+    "team_name": "Marseille",
+    "player_name": "Derek Cornelius",
+    "tkl": "24",
+    "tklWon": "17",
+    "tkl_pct": "77.3",
+    "interception": "14",
+    "blocks": "16",
+    "errors": "0"
+  },
+  {
+    "team_name": "Marseille",
+    "player_name": "Neal Maupay",
+    "tkl": "9",
+    "tklWon": "4",
+    "tkl_pct": "50.0",
+    "interception": "2",
+    "blocks": "5",
+    "errors": "0"
+  },
+  {
+    "team_name": "Marseille",
+    "player_name": "Amine Gouiri",
+    "tkl": "5",
+    "tklWon": "5",
+    "tkl_pct": "66.7",
+    "interception": "1",
+    "blocks": "9",
+    "errors": "0"
+  },
+  {
+    "team_name": "Marseille",
+    "player_name": "Ulisses Garcia",
+    "tkl": "14",
+    "tklWon": "11",
+    "tkl_pct": "28.6",
+    "interception": "8",
+    "blocks": "5",
+    "errors": "0"
+  },
+  {
+    "team_name": "Marseille",
+    "player_name": "Lilian Brassier",
+    "tkl": "8",
+    "tklWon": "6",
+    "tkl_pct": "83.3",
+    "interception": "9",
+    "blocks": "8",
+    "errors": "2"
+  },
+  {
+    "team_name": "Marseille",
+    "player_name": "Ismaël Bennacer",
+    "tkl": "21",
+    "tklWon": "10",
+    "tkl_pct": "66.7",
+    "interception": "10",
+    "blocks": "6",
+    "errors": "1"
+  },
+  {
+    "team_name": "Marseille",
+    "player_name": "Amine Harit",
+    "tkl": "8",
+    "tklWon": "7",
+    "tkl_pct": "50.0",
+    "interception": "3",
+    "blocks": "6",
+    "errors": "1"
+  },
+  {
+    "team_name": "Marseille",
+    "player_name": "Elye Wahi",
+    "tkl": "0",
+    "tklWon": "0",
+    "tkl_pct": "0.0",
+    "interception": "1",
+    "blocks": "1",
+    "errors": "0"
+  },
+  {
+    "team_name": "Marseille",
+    "player_name": "Jon Rowe",
+    "tkl": "15",
+    "tklWon": "11",
+    "tkl_pct": "42.9",
+    "interception": "2",
+    "blocks": "4",
+    "errors": "0"
+  },
+  {
+    "team_name": "Marseille",
+    "player_name": "Pol Lirola",
+    "tkl": "13",
+    "tklWon": "9",
+    "tkl_pct": "38.5",
+    "interception": "4",
+    "blocks": "7",
+    "errors": "0"
+  },
+  {
+    "team_name": "Marseille",
+    "player_name": "",
+    "tkl": "",
+    "tklWon": "",
+    "tkl_pct": "",
+    "interception": "",
+    "blocks": "",
+    "errors": ""
+  },
+  {
+    "team_name": "Marseille",
+    "player_name": "Player",
+    "tkl": "",
+    "tklWon": "",
+    "tkl_pct": "",
+    "interception": "",
+    "blocks": "",
+    "errors": ""
+  },
+  {
+    "team_name": "Marseille",
+    "player_name": "Bilal Nadir",
+    "tkl": "10",
+    "tklWon": "3",
+    "tkl_pct": "66.7",
+    "interception": "4",
+    "blocks": "6",
+    "errors": "0"
+  },
+  {
+    "team_name": "Marseille",
+    "player_name": "Ismaël Koné",
+    "tkl": "8",
+    "tklWon": "4",
+    "tkl_pct": "75.0",
+    "interception": "4",
+    "blocks": "4",
+    "errors": "1"
+  },
+  {
+    "team_name": "Marseille",
+    "player_name": "Amar Dedić",
+    "tkl": "5",
+    "tklWon": "4",
+    "tkl_pct": "30.0",
+    "interception": "3",
+    "blocks": "0",
+    "errors": "1"
+  },
+  {
+    "team_name": "Marseille",
+    "player_name": "Luiz Felipe",
+    "tkl": "4",
+    "tklWon": "3",
+    "tkl_pct": "50.0",
+    "interception": "3",
+    "blocks": "3",
+    "errors": "0"
+  },
+  {
+    "team_name": "Marseille",
+    "player_name": "Valentin Carboni",
+    "tkl": "2",
+    "tklWon": "2",
+    "tkl_pct": "0.0",
+    "interception": "1",
+    "blocks": "1",
+    "errors": "0"
+  },
+  {
+    "team_name": "Marseille",
+    "player_name": "Robinio Vaz",
+    "tkl": "1",
+    "tklWon": "1",
+    "tkl_pct": "0.0",
+    "interception": "0",
+    "blocks": "0",
+    "errors": "0"
+  },
+  {
+    "team_name": "Marseille",
+    "player_name": "Bamo Meïté",
+    "tkl": "0",
+    "tklWon": "0",
+    "tkl_pct": "",
+    "interception": "0",
+    "blocks": "0",
+    "errors": "0"
+  },
+  {
+    "team_name": "Marseille",
+    "player_name": "Enzo Sternal",
+    "tkl": "0",
+    "tklWon": "0",
+    "tkl_pct": "",
+    "interception": "0",
+    "blocks": "0",
+    "errors": "0"
+  },
+  {
+    "team_name": "Marseille",
+    "player_name": "Darryl Bakola",
+    "tkl": "1",
+    "tklWon": "1",
+    "tkl_pct": "",
+    "interception": "0",
+    "blocks": "0",
+    "errors": "0"
+  },
+  {
+    "team_name": "Marseille",
+    "player_name": "Emmanuel Koum Mbondo",
+    "tkl": "0",
+    "tklWon": "0",
+    "tkl_pct": "",
+    "interception": "0",
+    "blocks": "0",
+    "errors": "0"
+  },
+  {
+    "team_name": "Marseille",
+    "player_name": "Faris Pemi Moumbagna",
+    "tkl": "0",
+    "tklWon": "0",
+    "tkl_pct": "",
+    "interception": "0",
+    "blocks": "0",
+    "errors": "0"
+  },
+  {
+    "team_name": "Marseille",
+    "player_name": "Keyliane Abdallah",
+    "tkl": "1",
+    "tklWon": "1",
+    "tkl_pct": "100.0",
+    "interception": "0",
+    "blocks": "0",
+    "errors": "0"
+  },
+  {
+    "team_name": "Monaco",
+    "player_name": "Maghnes Akliouche",
+    "tkl": "51",
+    "tklWon": "31",
+    "tkl_pct": "46.3",
+    "interception": "15",
+    "blocks": "21",
+    "errors": "0"
+  },
+  {
+    "team_name": "Monaco",
+    "player_name": "Thilo Kehrer",
+    "tkl": "37",
+    "tklWon": "23",
+    "tkl_pct": "57.9",
+    "interception": "36",
+    "blocks": "18",
+    "errors": "1"
+  },
+  {
+    "team_name": "Monaco",
+    "player_name": "Takumi Minamino",
+    "tkl": "33",
+    "tklWon": "19",
+    "tkl_pct": "35.7",
+    "interception": "10",
+    "blocks": "26",
+    "errors": "0"
+  },
+  {
+    "team_name": "Monaco",
+    "player_name": "Lamine Camara",
+    "tkl": "66",
+    "tklWon": "41",
+    "tkl_pct": "54.2",
+    "interception": "31",
+    "blocks": "30",
+    "errors": "1"
+  },
+  {
+    "team_name": "Monaco",
+    "player_name": "Denis Zakaria",
+    "tkl": "41",
+    "tklWon": "26",
+    "tkl_pct": "72.7",
+    "interception": "34",
+    "blocks": "31",
+    "errors": "1"
+  },
+  {
+    "team_name": "Monaco",
+    "player_name": "Wilfried Singo",
+    "tkl": "37",
+    "tklWon": "23",
+    "tkl_pct": "71.4",
+    "interception": "43",
+    "blocks": "17",
+    "errors": "2"
+  },
+  {
+    "team_name": "Monaco",
+    "player_name": "Vanderson",
+    "tkl": "76",
+    "tklWon": "48",
+    "tkl_pct": "70.3",
+    "interception": "39",
+    "blocks": "43",
+    "errors": "2"
+  },
+  {
+    "team_name": "Monaco",
+    "player_name": "Caio Henrique Oliveira Silva",
+    "tkl": "37",
+    "tklWon": "26",
+    "tkl_pct": "52.3",
+    "interception": "22",
+    "blocks": "26",
+    "errors": "0"
+  },
+  {
+    "team_name": "Monaco",
+    "player_name": "Breel Embolo",
+    "tkl": "22",
+    "tklWon": "17",
+    "tkl_pct": "31.3",
+    "interception": "3",
+    "blocks": "11",
+    "errors": "1"
+  },
+  {
+    "team_name": "Monaco",
+    "player_name": "Eliesse Ben Seghir",
+    "tkl": "31",
+    "tklWon": "22",
+    "tkl_pct": "56.3",
+    "interception": "13",
+    "blocks": "20",
+    "errors": "0"
+  },
+  {
+    "team_name": "Monaco",
+    "player_name": "Philipp Köhn",
+    "tkl": "0",
+    "tklWon": "0",
+    "tkl_pct": "0.0",
+    "interception": "0",
+    "blocks": "0",
+    "errors": "2"
+  },
+  {
+    "team_name": "Monaco",
+    "player_name": "Christian Mawissa",
+    "tkl": "42",
+    "tklWon": "29",
+    "tkl_pct": "59.1",
+    "interception": "26",
+    "blocks": "25",
+    "errors": "1"
+  },
+  {
+    "team_name": "Monaco",
+    "player_name": "Mika Biereth",
+    "tkl": "5",
+    "tklWon": "5",
+    "tkl_pct": "42.9",
+    "interception": "4",
+    "blocks": "11",
+    "errors": "0"
+  },
+  {
+    "team_name": "Monaco",
+    "player_name": "Radosław Majecki",
+    "tkl": "0",
+    "tklWon": "0",
+    "tkl_pct": "0.0",
+    "interception": "0",
+    "blocks": "0",
+    "errors": "1"
+  },
+  {
+    "team_name": "Monaco",
+    "player_name": "Aleksandr Golovin",
+    "tkl": "38",
+    "tklWon": "24",
+    "tkl_pct": "43.6",
+    "interception": "12",
+    "blocks": "16",
+    "errors": "0"
+  },
+  {
+    "team_name": "Monaco",
+    "player_name": "Soungoutou Magassa",
+    "tkl": "47",
+    "tklWon": "25",
+    "tkl_pct": "54.3",
+    "interception": "21",
+    "blocks": "16",
+    "errors": "1"
+  },
+  {
+    "team_name": "Monaco",
+    "player_name": "Mohammed Salisu",
+    "tkl": "28",
+    "tklWon": "18",
+    "tkl_pct": "81.3",
+    "interception": "16",
+    "blocks": "10",
+    "errors": "2"
+  },
+  {
+    "team_name": "Monaco",
+    "player_name": "Jordan Teze",
+    "tkl": "18",
+    "tklWon": "9",
+    "tkl_pct": "43.8",
+    "interception": "6",
+    "blocks": "12",
+    "errors": "0"
+  },
+  {
+    "team_name": "Monaco",
+    "player_name": "Folarin Balogun",
+    "tkl": "1",
+    "tklWon": "1",
+    "tkl_pct": "0.0",
+    "interception": "1",
+    "blocks": "0",
+    "errors": "0"
+  },
+  {
+    "team_name": "Monaco",
+    "player_name": "George Ilenikhena",
+    "tkl": "4",
+    "tklWon": "2",
+    "tkl_pct": "50.0",
+    "interception": "2",
+    "blocks": "0",
+    "errors": "0"
+  },
+  {
+    "team_name": "Monaco",
+    "player_name": "Kassoum Ouattara",
+    "tkl": "9",
+    "tklWon": "7",
+    "tkl_pct": "28.6",
+    "interception": "5",
+    "blocks": "6",
+    "errors": "1"
+  },
+  {
+    "team_name": "Monaco",
+    "player_name": "Krépin Diatta",
+    "tkl": "18",
+    "tklWon": "12",
+    "tkl_pct": "58.3",
+    "interception": "9",
+    "blocks": "5",
+    "errors": "2"
+  },
+  {
+    "team_name": "Monaco",
+    "player_name": "Almoatasem Al Musrati",
+    "tkl": "14",
+    "tklWon": "11",
+    "tkl_pct": "63.6",
+    "interception": "5",
+    "blocks": "3",
+    "errors": "0"
+  },
+  {
+    "team_name": "Monaco",
+    "player_name": "Ismail Jakobs",
+    "tkl": "5",
+    "tklWon": "5",
+    "tkl_pct": "60.0",
+    "interception": "2",
+    "blocks": "0",
+    "errors": "0"
+  },
+  {
+    "team_name": "Monaco",
+    "player_name": "Saïmon Bouabré",
+    "tkl": "1",
+    "tklWon": "0",
+    "tkl_pct": "0.0",
+    "interception": "0",
+    "blocks": "1",
+    "errors": "0"
+  },
+  {
+    "team_name": "Monaco",
+    "player_name": "Eliot Matazo",
+    "tkl": "3",
+    "tklWon": "2",
+    "tkl_pct": "",
+    "interception": "1",
+    "blocks": "0",
+    "errors": "0"
+  },
+  {
+    "team_name": "Monaco",
+    "player_name": "Lucas Michal",
+    "tkl": "5",
+    "tklWon": "3",
+    "tkl_pct": "50.0",
+    "interception": "1",
+    "blocks": "2",
+    "errors": "0"
+  },
+  {
+    "team_name": "Monaco",
+    "player_name": "Mamadou Coulibaly",
+    "tkl": "1",
+    "tklWon": "0",
+    "tkl_pct": "",
+    "interception": "0",
+    "blocks": "0",
+    "errors": "0"
+  },
+  {
+    "team_name": "Nice",
+    "player_name": "Marcin Bułka",
+    "tkl": "0",
+    "tklWon": "0",
+    "tkl_pct": "0.0",
+    "interception": "0",
+    "blocks": "0",
+    "errors": "6"
+  },
+  {
+    "team_name": "Nice",
+    "player_name": "Evann Guessand",
+    "tkl": "44",
+    "tklWon": "29",
+    "tkl_pct": "42.9",
+    "interception": "15",
+    "blocks": "27",
+    "errors": "0"
+  },
+  {
+    "team_name": "Nice",
+    "player_name": "Hicham Boudaoui",
+    "tkl": "76",
+    "tklWon": "52",
+    "tkl_pct": "58.5",
+    "interception": "22",
+    "blocks": "40",
+    "errors": "1"
+  },
+  {
+    "team_name": "Nice",
+    "player_name": "Jonathan Clauss",
+    "tkl": "52",
+    "tklWon": "35",
+    "tkl_pct": "50.0",
+    "interception": "48",
+    "blocks": "25",
+    "errors": "3"
+  },
+  {
+    "team_name": "Nice",
+    "player_name": "Moïse Bombito",
+    "tkl": "37",
+    "tklWon": "25",
+    "tkl_pct": "68.6",
+    "interception": "18",
+    "blocks": "35",
+    "errors": "7"
+  },
+  {
+    "team_name": "Nice",
+    "player_name": "Melvin Bard",
+    "tkl": "53",
+    "tklWon": "36",
+    "tkl_pct": "57.1",
+    "interception": "29",
+    "blocks": "38",
+    "errors": "3"
+  },
+  {
+    "team_name": "Nice",
+    "player_name": "Youssouf Ndayishimiye",
+    "tkl": "40",
+    "tklWon": "21",
+    "tkl_pct": "59.3",
+    "interception": "21",
+    "blocks": "35",
+    "errors": "4"
+  },
+  {
+    "team_name": "Nice",
+    "player_name": "Dante",
+    "tkl": "32",
+    "tklWon": "15",
+    "tkl_pct": "51.7",
+    "interception": "34",
+    "blocks": "29",
+    "errors": "1"
+  },
+  {
+    "team_name": "Nice",
+    "player_name": "Pablo Rosario",
+    "tkl": "30",
+    "tklWon": "20",
+    "tkl_pct": "55.0",
+    "interception": "31",
+    "blocks": "19",
+    "errors": "2"
+  },
+  {
+    "team_name": "Nice",
+    "player_name": "Mohamed Ali Cho",
+    "tkl": "13",
+    "tklWon": "9",
+    "tkl_pct": "33.3",
+    "interception": "5",
+    "blocks": "17",
+    "errors": "0"
+  },
+  {
+    "team_name": "Nice",
+    "player_name": "",
+    "tkl": "",
+    "tklWon": "",
+    "tkl_pct": "",
+    "interception": "",
+    "blocks": "",
+    "errors": ""
+  },
+  {
+    "team_name": "Nice",
+    "player_name": "Player",
+    "tkl": "",
+    "tklWon": "",
+    "tkl_pct": "",
+    "interception": "",
+    "blocks": "",
+    "errors": ""
+  },
+  {
+    "team_name": "Nice",
+    "player_name": "Gaëtan Laborde",
+    "tkl": "19",
+    "tklWon": "13",
+    "tkl_pct": "40.9",
+    "interception": "6",
+    "blocks": "16",
+    "errors": "0"
+  },
+  {
+    "team_name": "Nice",
+    "player_name": "Ali Abdi",
+    "tkl": "43",
+    "tklWon": "25",
+    "tkl_pct": "65.1",
+    "interception": "20",
+    "blocks": "20",
+    "errors": "0"
+  },
+  {
+    "team_name": "Nice",
+    "player_name": "Tanguy Ndombele",
+    "tkl": "35",
+    "tklWon": "23",
+    "tkl_pct": "60.0",
+    "interception": "14",
+    "blocks": "9",
+    "errors": "0"
+  },
+  {
+    "team_name": "Nice",
+    "player_name": "Jeremie Boga",
+    "tkl": "10",
+    "tklWon": "5",
+    "tkl_pct": "50.0",
+    "interception": "3",
+    "blocks": "13",
+    "errors": "1"
+  },
+  {
+    "team_name": "Nice",
+    "player_name": "Badredine Bouanani",
+    "tkl": "11",
+    "tklWon": "4",
+    "tkl_pct": "33.3",
+    "interception": "11",
+    "blocks": "16",
+    "errors": "0"
+  },
+  {
+    "team_name": "Nice",
+    "player_name": "Baptiste Santamaria",
+    "tkl": "20",
+    "tklWon": "10",
+    "tkl_pct": "59.1",
+    "interception": "18",
+    "blocks": "14",
+    "errors": "1"
+  },
+  {
+    "team_name": "Nice",
+    "player_name": "Mohamed Abdelmoneim",
+    "tkl": "21",
+    "tklWon": "14",
+    "tkl_pct": "59.1",
+    "interception": "15",
+    "blocks": "11",
+    "errors": "1"
+  },
+  {
+    "team_name": "Nice",
+    "player_name": "Sofiane Diop",
+    "tkl": "23",
+    "tklWon": "16",
+    "tkl_pct": "40.9",
+    "interception": "17",
+    "blocks": "19",
+    "errors": "1"
+  },
+  {
+    "team_name": "Nice",
+    "player_name": "Antoine Mendy",
+    "tkl": "30",
+    "tklWon": "21",
+    "tkl_pct": "65.5",
+    "interception": "8",
+    "blocks": "9",
+    "errors": "1"
+  },
+  {
+    "team_name": "Nice",
+    "player_name": "Tom Louchet",
+    "tkl": "27",
+    "tklWon": "17",
+    "tkl_pct": "73.9",
+    "interception": "18",
+    "blocks": "12",
+    "errors": "0"
+  },
+  {
+    "team_name": "Nice",
+    "player_name": "",
+    "tkl": "",
+    "tklWon": "",
+    "tkl_pct": "",
+    "interception": "",
+    "blocks": "",
+    "errors": ""
+  },
+  {
+    "team_name": "Nice",
+    "player_name": "Player",
+    "tkl": "",
+    "tklWon": "",
+    "tkl_pct": "",
+    "interception": "",
+    "blocks": "",
+    "errors": ""
+  },
+  {
+    "team_name": "Nice",
+    "player_name": "Morgan Sanson",
+    "tkl": "6",
+    "tklWon": "3",
+    "tkl_pct": "33.3",
+    "interception": "4",
+    "blocks": "3",
+    "errors": "0"
+  },
+  {
+    "team_name": "Nice",
+    "player_name": "Youssoufa Moukoko",
+    "tkl": "3",
+    "tklWon": "2",
+    "tkl_pct": "50.0",
+    "interception": "0",
+    "blocks": "2",
+    "errors": "0"
+  },
+  {
+    "team_name": "Nice",
+    "player_name": "Yael Nandjou",
+    "tkl": "4",
+    "tklWon": "1",
+    "tkl_pct": "50.0",
+    "interception": "4",
+    "blocks": "4",
+    "errors": "0"
+  },
+  {
+    "team_name": "Nice",
+    "player_name": "Bilal Brahimi",
+    "tkl": "0",
+    "tklWon": "0",
+    "tkl_pct": "",
+    "interception": "0",
+    "blocks": "1",
+    "errors": "0"
+  },
+  {
+    "team_name": "Nice",
+    "player_name": "Terem Moffi",
+    "tkl": "0",
+    "tklWon": "0",
+    "tkl_pct": "",
+    "interception": "0",
+    "blocks": "0",
+    "errors": "0"
+  },
+  {
+    "team_name": "Nice",
+    "player_name": "Amidou Doumbouya",
+    "tkl": "1",
+    "tklWon": "1",
+    "tkl_pct": "100.0",
+    "interception": "1",
+    "blocks": "3",
+    "errors": "0"
+  },
+  {
+    "team_name": "Nice",
+    "player_name": "Victor Orakpo",
+    "tkl": "0",
+    "tklWon": "0",
+    "tkl_pct": "",
+    "interception": "0",
+    "blocks": "0",
+    "errors": "0"
+  },
+  {
+    "team_name": "Nice",
+    "player_name": "Jordan Lotomba",
+    "tkl": "0",
+    "tklWon": "0",
+    "tkl_pct": "",
+    "interception": "0",
+    "blocks": "0",
+    "errors": "0"
+  },
+  {
+    "team_name": "Nice",
+    "player_name": "Issiaga Camara",
+    "tkl": "2",
+    "tklWon": "1",
+    "tkl_pct": "0.0",
+    "interception": "3",
+    "blocks": "0",
+    "errors": "0"
+  },
+  {
+    "team_name": "Nice",
+    "player_name": "Rareş Ilie",
+    "tkl": "1",
+    "tklWon": "1",
+    "tkl_pct": "100.0",
+    "interception": "0",
+    "blocks": "0",
+    "errors": "0"
+  },
+  {
+    "team_name": "Nice",
+    "player_name": "Bernard Nguene",
+    "tkl": "0",
+    "tklWon": "0",
+    "tkl_pct": "",
+    "interception": "0",
+    "blocks": "0",
+    "errors": "0"
+  },
+  {
+    "team_name": "Lille",
+    "player_name": "Lucas Chevalier",
+    "tkl": "3",
+    "tklWon": "2",
+    "tkl_pct": "75.0",
+    "interception": "0",
+    "blocks": "0",
+    "errors": "4"
+  },
+  {
+    "team_name": "Lille",
+    "player_name": "Bafodé Diakité",
+    "tkl": "31",
+    "tklWon": "18",
+    "tkl_pct": "69.2",
+    "interception": "27",
+    "blocks": "30",
+    "errors": "5"
+  },
+  {
+    "team_name": "Lille",
+    "player_name": "Alexsandro Ribeiro",
+    "tkl": "32",
+    "tklWon": "19",
+    "tkl_pct": "66.7",
+    "interception": "27",
+    "blocks": "23",
+    "errors": "3"
+  },
+  {
+    "team_name": "Lille",
+    "player_name": "Benjamin André",
+    "tkl": "103",
+    "tklWon": "57",
+    "tkl_pct": "56.3",
+    "interception": "48",
+    "blocks": "42",
+    "errors": "0"
+  },
+  {
+    "team_name": "Lille",
+    "player_name": "Jonathan David",
+    "tkl": "24",
+    "tklWon": "8",
+    "tkl_pct": "42.9",
+    "interception": "7",
+    "blocks": "13",
+    "errors": "1"
+  },
+  {
+    "team_name": "Lille",
+    "player_name": "Thomas Meunier",
+    "tkl": "53",
+    "tklWon": "38",
+    "tkl_pct": "67.3",
+    "interception": "34",
+    "blocks": "21",
+    "errors": "0"
+  },
+  {
+    "team_name": "Lille",
+    "player_name": "Hákon Arnar Haraldsson",
+    "tkl": "36",
+    "tklWon": "16",
+    "tkl_pct": "48.5",
+    "interception": "8",
+    "blocks": "10",
+    "errors": "0"
+  },
+  {
+    "team_name": "Lille",
+    "player_name": "Gabriel Gudmundsson",
+    "tkl": "36",
+    "tklWon": "25",
+    "tkl_pct": "63.9",
+    "interception": "17",
+    "blocks": "19",
+    "errors": "3"
+  },
+  {
+    "team_name": "Lille",
+    "player_name": "Aïssa Mandi",
+    "tkl": "31",
+    "tklWon": "17",
+    "tkl_pct": "72.7",
+    "interception": "15",
+    "blocks": "23",
+    "errors": "0"
+  },
+  {
+    "team_name": "Lille",
+    "player_name": "André Gomes",
+    "tkl": "27",
+    "tklWon": "13",
+    "tkl_pct": "35.5",
+    "interception": "6",
+    "blocks": "7",
+    "errors": "2"
+  },
+  {
+    "team_name": "Lille",
+    "player_name": "Ngal'Ayel Mukau",
+    "tkl": "33",
+    "tklWon": "18",
+    "tkl_pct": "58.6",
+    "interception": "15",
+    "blocks": "14",
+    "errors": "0"
+  },
+  {
+    "team_name": "Lille",
+    "player_name": "Mitchel Bakker",
+    "tkl": "23",
+    "tklWon": "13",
+    "tkl_pct": "52.6",
+    "interception": "12",
+    "blocks": "10",
+    "errors": "0"
+  },
+  {
+    "team_name": "Lille",
+    "player_name": "Matias Fernandez-Pardo",
+    "tkl": "12",
+    "tklWon": "9",
+    "tkl_pct": "50.0",
+    "interception": "3",
+    "blocks": "9",
+    "errors": "0"
+  },
+  {
+    "team_name": "Lille",
+    "player_name": "Rémy Cabella",
+    "tkl": "39",
+    "tklWon": "19",
+    "tkl_pct": "57.6",
+    "interception": "8",
+    "blocks": "10",
+    "errors": "0"
+  },
+  {
+    "team_name": "Lille",
+    "player_name": "Edon Zhegrova",
+    "tkl": "5",
+    "tklWon": "2",
+    "tkl_pct": "28.6",
+    "interception": "4",
+    "blocks": "8",
+    "errors": "0"
+  },
+  {
+    "team_name": "Lille",
+    "player_name": "Ayyoub Bouaddi",
+    "tkl": "50",
+    "tklWon": "31",
+    "tkl_pct": "59.4",
+    "interception": "10",
+    "blocks": "12",
+    "errors": "1"
+  },
+  {
+    "team_name": "Lille",
+    "player_name": "Osame Sahraoui",
+    "tkl": "13",
+    "tklWon": "9",
+    "tkl_pct": "37.5",
+    "interception": "7",
+    "blocks": "14",
+    "errors": "1"
+  },
+  {
+    "team_name": "Lille",
+    "player_name": "Ismaily",
+    "tkl": "33",
+    "tklWon": "17",
+    "tkl_pct": "65.4",
+    "interception": "13",
+    "blocks": "15",
+    "errors": "0"
+  },
+  {
+    "team_name": "Lille",
+    "player_name": "Angel Gomes",
+    "tkl": "10",
+    "tklWon": "6",
+    "tkl_pct": "16.7",
+    "interception": "0",
+    "blocks": "0",
+    "errors": "0"
+  },
+  {
+    "team_name": "Lille",
+    "player_name": "Chuba Akpom",
+    "tkl": "8",
+    "tklWon": "5",
+    "tkl_pct": "33.3",
+    "interception": "0",
+    "blocks": "9",
+    "errors": "0"
+  },
+  {
+    "team_name": "Lille",
+    "player_name": "Tiago Santos",
+    "tkl": "12",
+    "tklWon": "7",
+    "tkl_pct": "66.7",
+    "interception": "2",
+    "blocks": "2",
+    "errors": "0"
+  },
+  {
+    "team_name": "Lille",
+    "player_name": "Mohamed Lamine Bayo",
+    "tkl": "1",
+    "tklWon": "1",
+    "tkl_pct": "100.0",
+    "interception": "0",
+    "blocks": "0",
+    "errors": "0"
+  },
+  {
+    "team_name": "Lille",
+    "player_name": "Nabil Bentaleb",
+    "tkl": "4",
+    "tklWon": "3",
+    "tkl_pct": "42.9",
+    "interception": "5",
+    "blocks": "5",
+    "errors": "2"
+  },
+  {
+    "team_name": "Lille",
+    "player_name": "Ethan Mbappé",
+    "tkl": "6",
+    "tklWon": "2",
+    "tkl_pct": "0.0",
+    "interception": "1",
+    "blocks": "6",
+    "errors": "0"
+  },
+  {
+    "team_name": "Lille",
+    "player_name": "Younes Lachaab",
+    "tkl": "1",
+    "tklWon": "1",
+    "tkl_pct": "100.0",
+    "interception": "1",
+    "blocks": "0",
+    "errors": "0"
+  },
+  {
+    "team_name": "Lille",
+    "player_name": "Ousmane Toure",
+    "tkl": "0",
+    "tklWon": "0",
+    "tkl_pct": "",
+    "interception": "1",
+    "blocks": "0",
+    "errors": "0"
+  },
+  {
+    "team_name": "Lille",
+    "player_name": "Aaron Malouda",
+    "tkl": "0",
+    "tklWon": "0",
+    "tkl_pct": "",
+    "interception": "0",
+    "blocks": "0",
+    "errors": "0"
+  },
+  {
+    "team_name": "Lyon",
+    "player_name": "Lucas Perri",
+    "tkl": "1",
+    "tklWon": "1",
+    "tkl_pct": "0.0",
+    "interception": "0",
+    "blocks": "1",
+    "errors": "1"
+  },
+  {
+    "team_name": "Lyon",
+    "player_name": "Moussa Niakhate",
+    "tkl": "47",
+    "tklWon": "27",
+    "tkl_pct": "75.0",
+    "interception": "25",
+    "blocks": "26",
+    "errors": "3"
+  },
+  {
+    "team_name": "Lyon",
+    "player_name": "Clinton Mata",
+    "tkl": "41",
+    "tklWon": "29",
+    "tkl_pct": "77.8",
+    "interception": "46",
+    "blocks": "26",
+    "errors": "3"
+  },
+  {
+    "team_name": "Lyon",
+    "player_name": "Corentin Tolisso",
+    "tkl": "57",
+    "tklWon": "25",
+    "tkl_pct": "52.3",
+    "interception": "22",
+    "blocks": "52",
+    "errors": "1"
+  },
+  {
+    "team_name": "Lyon",
+    "player_name": "Nemanja Matić",
+    "tkl": "42",
+    "tklWon": "29",
+    "tkl_pct": "56.1",
+    "interception": "18",
+    "blocks": "21",
+    "errors": "1"
+  },
+  {
+    "team_name": "Lyon",
+    "player_name": "Alexandre Lacazette",
+    "tkl": "13",
+    "tklWon": "6",
+    "tkl_pct": "31.3",
+    "interception": "8",
+    "blocks": "13",
+    "errors": "0"
+  },
+  {
+    "team_name": "Lyon",
+    "player_name": "Rayan Cherki",
+    "tkl": "15",
+    "tklWon": "12",
+    "tkl_pct": "21.4",
+    "interception": "7",
+    "blocks": "6",
+    "errors": "0"
+  },
+  {
+    "team_name": "Lyon",
+    "player_name": "Nicolás Tagliafico",
+    "tkl": "57",
+    "tklWon": "37",
+    "tkl_pct": "60.4",
+    "interception": "36",
+    "blocks": "25",
+    "errors": "0"
+  },
+  {
+    "team_name": "Lyon",
+    "player_name": "Ainsley Maitland-Niles",
+    "tkl": "71",
+    "tklWon": "44",
+    "tkl_pct": "63.2",
+    "interception": "25",
+    "blocks": "28",
+    "errors": "6"
+  },
+  {
+    "team_name": "Lyon",
+    "player_name": "Jordan Veretout",
+    "tkl": "30",
+    "tklWon": "14",
+    "tkl_pct": "42.5",
+    "interception": "5",
+    "blocks": "17",
+    "errors": "1"
+  },
+  {
+    "team_name": "Lyon",
+    "player_name": "",
+    "tkl": "",
+    "tklWon": "",
+    "tkl_pct": "",
+    "interception": "",
+    "blocks": "",
+    "errors": ""
+  },
+  {
+    "team_name": "Lyon",
+    "player_name": "Player",
+    "tkl": "",
+    "tklWon": "",
+    "tkl_pct": "",
+    "interception": "",
+    "blocks": "",
+    "errors": ""
+  },
+  {
+    "team_name": "Lyon",
+    "player_name": "Duje Ćaleta-Car",
+    "tkl": "20",
+    "tklWon": "12",
+    "tkl_pct": "52.6",
+    "interception": "17",
+    "blocks": "33",
+    "errors": "2"
+  },
+  {
+    "team_name": "Lyon",
+    "player_name": "Malick Fofana",
+    "tkl": "22",
+    "tklWon": "11",
+    "tkl_pct": "47.1",
+    "interception": "8",
+    "blocks": "12",
+    "errors": "0"
+  },
+  {
+    "team_name": "Lyon",
+    "player_name": "Georges Mikautadze",
+    "tkl": "7",
+    "tklWon": "6",
+    "tkl_pct": "33.3",
+    "interception": "4",
+    "blocks": "11",
+    "errors": "0"
+  },
+  {
+    "team_name": "Lyon",
+    "player_name": "Tanner Tessmann",
+    "tkl": "25",
+    "tklWon": "15",
+    "tkl_pct": "48.0",
+    "interception": "19",
+    "blocks": "13",
+    "errors": "1"
+  },
+  {
+    "team_name": "Lyon",
+    "player_name": "Ernest Nuamah",
+    "tkl": "21",
+    "tklWon": "11",
+    "tkl_pct": "44.4",
+    "interception": "8",
+    "blocks": "9",
+    "errors": "1"
+  },
+  {
+    "team_name": "Lyon",
+    "player_name": "Abner",
+    "tkl": "29",
+    "tklWon": "20",
+    "tkl_pct": "65.6",
+    "interception": "5",
+    "blocks": "15",
+    "errors": "0"
+  },
+  {
+    "team_name": "Lyon",
+    "player_name": "Sael Kumbedi",
+    "tkl": "28",
+    "tklWon": "14",
+    "tkl_pct": "70.0",
+    "interception": "8",
+    "blocks": "11",
+    "errors": "1"
+  },
+  {
+    "team_name": "Lyon",
+    "player_name": "Thiago Almada",
+    "tkl": "14",
+    "tklWon": "8",
+    "tkl_pct": "33.3",
+    "interception": "7",
+    "blocks": "2",
+    "errors": "3"
+  },
+  {
+    "team_name": "Lyon",
+    "player_name": "Saïd Benrahma",
+    "tkl": "9",
+    "tklWon": "5",
+    "tkl_pct": "30.0",
+    "interception": "3",
+    "blocks": "6",
+    "errors": "0"
+  },
+  {
+    "team_name": "Lyon",
+    "player_name": "Maxence Caqueret",
+    "tkl": "21",
+    "tklWon": "11",
+    "tkl_pct": "18.2",
+    "interception": "7",
+    "blocks": "12",
+    "errors": "0"
+  },
+  {
+    "team_name": "Lyon",
+    "player_name": "",
+    "tkl": "",
+    "tklWon": "",
+    "tkl_pct": "",
+    "interception": "",
+    "blocks": "",
+    "errors": ""
+  },
+  {
+    "team_name": "Lyon",
+    "player_name": "Player",
+    "tkl": "",
+    "tklWon": "",
+    "tkl_pct": "",
+    "interception": "",
+    "blocks": "",
+    "errors": ""
+  },
+  {
+    "team_name": "Lyon",
+    "player_name": "Gift Orban",
+    "tkl": "0",
+    "tklWon": "0",
+    "tkl_pct": "0.0",
+    "interception": "0",
+    "blocks": "0",
+    "errors": "0"
+  },
+  {
+    "team_name": "Lyon",
+    "player_name": "Rémy Descamps",
+    "tkl": "0",
+    "tklWon": "0",
+    "tkl_pct": "",
+    "interception": "0",
+    "blocks": "0",
+    "errors": "0"
+  },
+  {
+    "team_name": "Lyon",
+    "player_name": "Wilfried Zaha",
+    "tkl": "1",
+    "tklWon": "1",
+    "tkl_pct": "50.0",
+    "interception": "1",
+    "blocks": "3",
+    "errors": "0"
+  },
+  {
+    "team_name": "Lyon",
+    "player_name": "Orel Mangala",
+    "tkl": "1",
+    "tklWon": "0",
+    "tkl_pct": "0.0",
+    "interception": "0",
+    "blocks": "2",
+    "errors": "0"
+  },
+  {
+    "team_name": "Lyon",
+    "player_name": "Mama Samba Baldé",
+    "tkl": "2",
+    "tklWon": "2",
+    "tkl_pct": "",
+    "interception": "1",
+    "blocks": "0",
+    "errors": "0"
+  },
+  {
+    "team_name": "Lyon",
+    "player_name": "Alejandro Rodriguez",
+    "tkl": "0",
+    "tklWon": "0",
+    "tkl_pct": "",
+    "interception": "0",
+    "blocks": "0",
+    "errors": "0"
+  },
+  {
+    "team_name": "Lyon",
+    "player_name": "Paul Akouokou",
+    "tkl": "1",
+    "tklWon": "0",
+    "tkl_pct": "",
+    "interception": "1",
+    "blocks": "0",
+    "errors": "1"
+  },
+  {
+    "team_name": "Lyon",
+    "player_name": "Mahamadou Diawara",
+    "tkl": "1",
+    "tklWon": "0",
+    "tkl_pct": "33.3",
+    "interception": "0",
+    "blocks": "2",
+    "errors": "0"
+  },
+  {
+    "team_name": "Lyon",
+    "player_name": "Warmed Omari",
+    "tkl": "0",
+    "tklWon": "0",
+    "tkl_pct": "",
+    "interception": "0",
+    "blocks": "0",
+    "errors": "0"
+  },
+  {
+    "team_name": "Lyon",
+    "player_name": "Téo Barisic",
+    "tkl": "0",
+    "tklWon": "0",
+    "tkl_pct": "",
+    "interception": "0",
+    "blocks": "0",
+    "errors": "0"
+  },
+  {
+    "team_name": "Lyon",
+    "player_name": "Adryelson",
+    "tkl": "0",
+    "tklWon": "0",
+    "tkl_pct": "",
+    "interception": "1",
+    "blocks": "0",
+    "errors": "0"
+  },
+  {
+    "team_name": "Strasbourg",
+    "player_name": "Andrey Santos",
+    "tkl": "110",
+    "tklWon": "74",
+    "tkl_pct": "58.6",
+    "interception": "32",
+    "blocks": "46",
+    "errors": "1"
+  },
+  {
+    "team_name": "Strasbourg",
+    "player_name": "Đorđe Petrović",
+    "tkl": "1",
+    "tklWon": "1",
+    "tkl_pct": "",
+    "interception": "0",
+    "blocks": "0",
+    "errors": "1"
+  },
+  {
+    "team_name": "Strasbourg",
+    "player_name": "Ismaël Doukouré",
+    "tkl": "40",
+    "tklWon": "22",
+    "tkl_pct": "68.0",
+    "interception": "25",
+    "blocks": "31",
+    "errors": "3"
+  },
+  {
+    "team_name": "Strasbourg",
+    "player_name": "Guela Doué",
+    "tkl": "65",
+    "tklWon": "45",
+    "tkl_pct": "68.5",
+    "interception": "34",
+    "blocks": "38",
+    "errors": "1"
+  },
+  {
+    "team_name": "Strasbourg",
+    "player_name": "Diego Moreira",
+    "tkl": "44",
+    "tklWon": "28",
+    "tkl_pct": "48.0",
+    "interception": "35",
+    "blocks": "23",
+    "errors": "0"
+  },
+  {
+    "team_name": "Strasbourg",
+    "player_name": "Dilane Bakwa",
+    "tkl": "26",
+    "tklWon": "14",
+    "tkl_pct": "50.0",
+    "interception": "15",
+    "blocks": "21",
+    "errors": "0"
+  },
+  {
+    "team_name": "Strasbourg",
+    "player_name": "Mamadou Sarr",
+    "tkl": "37",
+    "tklWon": "21",
+    "tkl_pct": "66.7",
+    "interception": "25",
+    "blocks": "26",
+    "errors": "3"
+  },
+  {
+    "team_name": "Strasbourg",
+    "player_name": "Habib Diarra",
+    "tkl": "22",
+    "tklWon": "13",
+    "tkl_pct": "40.0",
+    "interception": "13",
+    "blocks": "22",
+    "errors": "3"
+  },
+  {
+    "team_name": "Strasbourg",
+    "player_name": "Emanuel Emegha",
+    "tkl": "6",
+    "tklWon": "6",
+    "tkl_pct": "33.3",
+    "interception": "1",
+    "blocks": "18",
+    "errors": "0"
+  },
+  {
+    "team_name": "Strasbourg",
+    "player_name": "Sebastian Nanasi",
+    "tkl": "20",
+    "tklWon": "13",
+    "tkl_pct": "36.4",
+    "interception": "7",
+    "blocks": "24",
+    "errors": "0"
+  },
+  {
+    "team_name": "Strasbourg",
+    "player_name": "",
+    "tkl": "",
+    "tklWon": "",
+    "tkl_pct": "",
+    "interception": "",
+    "blocks": "",
+    "errors": ""
+  },
+  {
+    "team_name": "Strasbourg",
+    "player_name": "Player",
+    "tkl": "",
+    "tklWon": "",
+    "tkl_pct": "",
+    "interception": "",
+    "blocks": "",
+    "errors": ""
+  },
+  {
+    "team_name": "Strasbourg",
+    "player_name": "Félix Lemaréchal",
+    "tkl": "35",
+    "tklWon": "24",
+    "tkl_pct": "48.3",
+    "interception": "14",
+    "blocks": "35",
+    "errors": "0"
+  },
+  {
+    "team_name": "Strasbourg",
+    "player_name": "Valentín Barco",
+    "tkl": "36",
+    "tklWon": "22",
+    "tkl_pct": "73.3",
+    "interception": "13",
+    "blocks": "8",
+    "errors": "1"
+  },
+  {
+    "team_name": "Strasbourg",
+    "player_name": "Saidou Sow",
+    "tkl": "9",
+    "tklWon": "5",
+    "tkl_pct": "50.0",
+    "interception": "15",
+    "blocks": "15",
+    "errors": "2"
+  },
+  {
+    "team_name": "Strasbourg",
+    "player_name": "Abakar Sylla",
+    "tkl": "27",
+    "tklWon": "15",
+    "tkl_pct": "88.2",
+    "interception": "11",
+    "blocks": "18",
+    "errors": "0"
+  },
+  {
+    "team_name": "Strasbourg",
+    "player_name": "Sekou Mara",
+    "tkl": "9",
+    "tklWon": "6",
+    "tkl_pct": "33.3",
+    "interception": "3",
+    "blocks": "11",
+    "errors": "0"
+  },
+  {
+    "team_name": "Strasbourg",
+    "player_name": "Andrew Omobamidele",
+    "tkl": "7",
+    "tklWon": "4",
+    "tkl_pct": "40.0",
+    "interception": "8",
+    "blocks": "12",
+    "errors": "0"
+  },
+  {
+    "team_name": "Strasbourg",
+    "player_name": "Guimissongui Ouattara",
+    "tkl": "6",
+    "tklWon": "4",
+    "tkl_pct": "60.0",
+    "interception": "9",
+    "blocks": "10",
+    "errors": "2"
+  },
+  {
+    "team_name": "Strasbourg",
+    "player_name": "Samuel Amo-Ameyaw",
+    "tkl": "5",
+    "tklWon": "3",
+    "tkl_pct": "22.2",
+    "interception": "3",
+    "blocks": "3",
+    "errors": "0"
+  },
+  {
+    "team_name": "Strasbourg",
+    "player_name": "Karl-Johan Johnsson",
+    "tkl": "0",
+    "tklWon": "0",
+    "tkl_pct": "0.0",
+    "interception": "0",
+    "blocks": "0",
+    "errors": "0"
+  },
+  {
+    "team_name": "Strasbourg",
+    "player_name": "Caleb Wiley",
+    "tkl": "1",
+    "tklWon": "0",
+    "tkl_pct": "0.0",
+    "interception": "4",
+    "blocks": "3",
+    "errors": "0"
+  },
+  {
+    "team_name": "Strasbourg",
+    "player_name": "",
+    "tkl": "",
+    "tklWon": "",
+    "tkl_pct": "",
+    "interception": "",
+    "blocks": "",
+    "errors": ""
+  },
+  {
+    "team_name": "Strasbourg",
+    "player_name": "Player",
+    "tkl": "",
+    "tklWon": "",
+    "tkl_pct": "",
+    "interception": "",
+    "blocks": "",
+    "errors": ""
+  },
+  {
+    "team_name": "Strasbourg",
+    "player_name": "Junior Mwanga",
+    "tkl": "17",
+    "tklWon": "9",
+    "tkl_pct": "55.6",
+    "interception": "2",
+    "blocks": "2",
+    "errors": "0"
+  },
+  {
+    "team_name": "Strasbourg",
+    "player_name": "Marvin Senaya",
+    "tkl": "8",
+    "tklWon": "3",
+    "tkl_pct": "50.0",
+    "interception": "7",
+    "blocks": "6",
+    "errors": "0"
+  },
+  {
+    "team_name": "Strasbourg",
+    "player_name": "Jérémy Sebas",
+    "tkl": "3",
+    "tklWon": "2",
+    "tkl_pct": "66.7",
+    "interception": "0",
+    "blocks": "2",
+    "errors": "0"
+  },
+  {
+    "team_name": "Strasbourg",
+    "player_name": "Pape Daouda Diongue",
+    "tkl": "2",
+    "tklWon": "0",
+    "tkl_pct": "50.0",
+    "interception": "3",
+    "blocks": "0",
+    "errors": "0"
+  },
+  {
+    "team_name": "Strasbourg",
+    "player_name": "Eduard Sobol",
+    "tkl": "0",
+    "tklWon": "0",
+    "tkl_pct": "0.0",
+    "interception": "2",
+    "blocks": "2",
+    "errors": "0"
+  },
+  {
+    "team_name": "Strasbourg",
+    "player_name": "Óscar Perea",
+    "tkl": "0",
+    "tklWon": "0",
+    "tkl_pct": "",
+    "interception": "0",
+    "blocks": "0",
+    "errors": "0"
+  },
+  {
+    "team_name": "Strasbourg",
+    "player_name": "Milos Lukovic",
+    "tkl": "0",
+    "tklWon": "0",
+    "tkl_pct": "",
+    "interception": "0",
+    "blocks": "0",
+    "errors": "0"
+  },
+  {
+    "team_name": "Strasbourg",
+    "player_name": "Nordine Kandil",
+    "tkl": "0",
+    "tklWon": "0",
+    "tkl_pct": "",
+    "interception": "0",
+    "blocks": "0",
+    "errors": "0"
+  },
+  {
+    "team_name": "Strasbourg",
+    "player_name": "Thomas Delaine",
+    "tkl": "1",
+    "tklWon": "1",
+    "tkl_pct": "100.0",
+    "interception": "1",
+    "blocks": "0",
+    "errors": "0"
+  },
+  {
+    "team_name": "Strasbourg",
+    "player_name": "Karol Fila",
+    "tkl": "0",
+    "tklWon": "0",
+    "tkl_pct": "",
+    "interception": "0",
+    "blocks": "0",
+    "errors": "0"
+  },
+  {
+    "team_name": "Lens",
+    "player_name": "Adrien Thomasson",
+    "tkl": "90",
+    "tklWon": "47",
+    "tkl_pct": "54.7",
+    "interception": "19",
+    "blocks": "48",
+    "errors": "2"
+  },
+  {
+    "team_name": "Lens",
+    "player_name": "Facundo Medina",
+    "tkl": "44",
+    "tklWon": "29",
+    "tkl_pct": "57.1",
+    "interception": "32",
+    "blocks": "30",
+    "errors": "0"
+  },
+  {
+    "team_name": "Lens",
+    "player_name": "Andy Diouf",
+    "tkl": "37",
+    "tklWon": "26",
+    "tkl_pct": "40.0",
+    "interception": "15",
+    "blocks": "24",
+    "errors": "2"
+  },
+  {
+    "team_name": "Lens",
+    "player_name": "Jonathan Gradit",
+    "tkl": "44",
+    "tklWon": "23",
+    "tkl_pct": "57.5",
+    "interception": "25",
+    "blocks": "27",
+    "errors": "2"
+  },
+  {
+    "team_name": "Lens",
+    "player_name": "Florian Sotoca",
+    "tkl": "22",
+    "tklWon": "13",
+    "tkl_pct": "54.5",
+    "interception": "14",
+    "blocks": "12",
+    "errors": "0"
+  },
+  {
+    "team_name": "Lens",
+    "player_name": "Deiver Machado",
+    "tkl": "36",
+    "tklWon": "26",
+    "tkl_pct": "56.7",
+    "interception": "16",
+    "blocks": "20",
+    "errors": "2"
+  },
+  {
+    "team_name": "Lens",
+    "player_name": "Neil El Aynaoui",
+    "tkl": "39",
+    "tklWon": "21",
+    "tkl_pct": "35.3",
+    "interception": "30",
+    "blocks": "34",
+    "errors": "0"
+  },
+  {
+    "team_name": "Lens",
+    "player_name": "M'Bala Nzola",
+    "tkl": "5",
+    "tklWon": "4",
+    "tkl_pct": "33.3",
+    "interception": "5",
+    "blocks": "9",
+    "errors": "0"
+  },
+  {
+    "team_name": "Lens",
+    "player_name": "Anass Zaroury",
+    "tkl": "23",
+    "tklWon": "17",
+    "tkl_pct": "34.6",
+    "interception": "6",
+    "blocks": "9",
+    "errors": "0"
+  },
+  {
+    "team_name": "Lens",
+    "player_name": "Przemysław Frankowski",
+    "tkl": "32",
+    "tklWon": "21",
+    "tkl_pct": "63.3",
+    "interception": "19",
+    "blocks": "10",
+    "errors": "0"
+  },
+  {
+    "team_name": "Lens",
+    "player_name": "",
+    "tkl": "",
+    "tklWon": "",
+    "tkl_pct": "",
+    "interception": "",
+    "blocks": "",
+    "errors": ""
+  },
+  {
+    "team_name": "Lens",
+    "player_name": "Player",
+    "tkl": "",
+    "tklWon": "",
+    "tkl_pct": "",
+    "interception": "",
+    "blocks": "",
+    "errors": ""
+  },
+  {
+    "team_name": "Lens",
+    "player_name": "Malang Sarr",
+    "tkl": "21",
+    "tklWon": "13",
+    "tkl_pct": "59.3",
+    "interception": "22",
+    "blocks": "18",
+    "errors": "3"
+  },
+  {
+    "team_name": "Lens",
+    "player_name": "Brice Samba",
+    "tkl": "0",
+    "tklWon": "0",
+    "tkl_pct": "",
+    "interception": "1",
+    "blocks": "0",
+    "errors": "2"
+  },
+  {
+    "team_name": "Lens",
+    "player_name": "Mathew Ryan",
+    "tkl": "1",
+    "tklWon": "0",
+    "tkl_pct": "50.0",
+    "interception": "1",
+    "blocks": "0",
+    "errors": "2"
+  },
+  {
+    "team_name": "Lens",
+    "player_name": "Ruben Aguilar",
+    "tkl": "34",
+    "tklWon": "18",
+    "tkl_pct": "61.5",
+    "interception": "13",
+    "blocks": "25",
+    "errors": "0"
+  },
+  {
+    "team_name": "Lens",
+    "player_name": "Kevin Danso",
+    "tkl": "19",
+    "tklWon": "7",
+    "tkl_pct": "75.0",
+    "interception": "20",
+    "blocks": "25",
+    "errors": "1"
+  },
+  {
+    "team_name": "Lens",
+    "player_name": "Goduine Koyalipou",
+    "tkl": "3",
+    "tklWon": "2",
+    "tkl_pct": "100.0",
+    "interception": "1",
+    "blocks": "4",
+    "errors": "0"
+  },
+  {
+    "team_name": "Lens",
+    "player_name": "Angelo Fulgini",
+    "tkl": "14",
+    "tklWon": "10",
+    "tkl_pct": "37.5",
+    "interception": "2",
+    "blocks": "11",
+    "errors": "0"
+  },
+  {
+    "team_name": "Lens",
+    "player_name": "Abdukodir Khusanov",
+    "tkl": "15",
+    "tklWon": "11",
+    "tkl_pct": "63.6",
+    "interception": "26",
+    "blocks": "17",
+    "errors": "0"
+  },
+  {
+    "team_name": "Lens",
+    "player_name": "Wesley Saïd",
+    "tkl": "16",
+    "tklWon": "11",
+    "tkl_pct": "46.2",
+    "interception": "2",
+    "blocks": "6",
+    "errors": "0"
+  },
+  {
+    "team_name": "Lens",
+    "player_name": "Juma Bah",
+    "tkl": "16",
+    "tklWon": "10",
+    "tkl_pct": "71.4",
+    "interception": "17",
+    "blocks": "10",
+    "errors": "1"
+  },
+  {
+    "team_name": "Lens",
+    "player_name": "",
+    "tkl": "",
+    "tklWon": "",
+    "tkl_pct": "",
+    "interception": "",
+    "blocks": "",
+    "errors": ""
+  },
+  {
+    "team_name": "Lens",
+    "player_name": "Player",
+    "tkl": "",
+    "tklWon": "",
+    "tkl_pct": "",
+    "interception": "",
+    "blocks": "",
+    "errors": ""
+  },
+  {
+    "team_name": "Lens",
+    "player_name": "Jhoanner Chávez",
+    "tkl": "9",
+    "tklWon": "5",
+    "tkl_pct": "28.6",
+    "interception": "6",
+    "blocks": "10",
+    "errors": "0"
+  },
+  {
+    "team_name": "Lens",
+    "player_name": "Nampalys Mendy",
+    "tkl": "15",
+    "tklWon": "8",
+    "tkl_pct": "42.9",
+    "interception": "9",
+    "blocks": "8",
+    "errors": "0"
+  },
+  {
+    "team_name": "Lens",
+    "player_name": "Rémy Labeau Lascary",
+    "tkl": "16",
+    "tklWon": "10",
+    "tkl_pct": "45.5",
+    "interception": "1",
+    "blocks": "5",
+    "errors": "0"
+  },
+  {
+    "team_name": "Lens",
+    "player_name": "Hervé Koffi",
+    "tkl": "1",
+    "tklWon": "1",
+    "tkl_pct": "100.0",
+    "interception": "0",
+    "blocks": "0",
+    "errors": "0"
+  },
+  {
+    "team_name": "Lens",
+    "player_name": "David Costa",
+    "tkl": "2",
+    "tklWon": "0",
+    "tkl_pct": "25.0",
+    "interception": "1",
+    "blocks": "5",
+    "errors": "0"
+  },
+  {
+    "team_name": "Lens",
+    "player_name": "Tom Pouilly",
+    "tkl": "9",
+    "tklWon": "6",
+    "tkl_pct": "50.0",
+    "interception": "4",
+    "blocks": "5",
+    "errors": "0"
+  },
+  {
+    "team_name": "Lens",
+    "player_name": "Kyllian Antonio",
+    "tkl": "3",
+    "tklWon": "2",
+    "tkl_pct": "33.3",
+    "interception": "3",
+    "blocks": "3",
+    "errors": "1"
+  },
+  {
+    "team_name": "Lens",
+    "player_name": "Hamzat Ojediran",
+    "tkl": "28",
+    "tklWon": "15",
+    "tkl_pct": "36.8",
+    "interception": "10",
+    "blocks": "10",
+    "errors": "0"
+  },
+  {
+    "team_name": "Lens",
+    "player_name": "Jeremy Agbonifo",
+    "tkl": "7",
+    "tklWon": "6",
+    "tkl_pct": "42.9",
+    "interception": "1",
+    "blocks": "2",
+    "errors": "1"
+  },
+  {
+    "team_name": "Lens",
+    "player_name": "Martin Satriano",
+    "tkl": "3",
+    "tklWon": "1",
+    "tkl_pct": "100.0",
+    "interception": "0",
+    "blocks": "0",
+    "errors": "0"
+  },
+  {
+    "team_name": "Lens",
+    "player_name": "Rayan Fofana",
+    "tkl": "2",
+    "tklWon": "2",
+    "tkl_pct": "",
+    "interception": "0",
+    "blocks": "0",
+    "errors": "0"
+  },
+  {
+    "team_name": "Lens",
+    "player_name": "Gabin Capuano",
+    "tkl": "0",
+    "tklWon": "0",
+    "tkl_pct": "",
+    "interception": "0",
+    "blocks": "0",
+    "errors": "0"
+  },
+  {
+    "team_name": "Lens",
+    "player_name": "Kembo Diliwidi",
+    "tkl": "0",
+    "tklWon": "0",
+    "tkl_pct": "",
+    "interception": "0",
+    "blocks": "0",
+    "errors": "0"
+  },
+  {
+    "team_name": "Brest",
+    "player_name": "Marco Bizot",
+    "tkl": "2",
+    "tklWon": "1",
+    "tkl_pct": "50.0",
+    "interception": "0",
+    "blocks": "0",
+    "errors": "0"
+  },
+  {
+    "team_name": "Brest",
+    "player_name": "Mahdi Camara",
+    "tkl": "71",
+    "tklWon": "40",
+    "tkl_pct": "52.2",
+    "interception": "33",
+    "blocks": "40",
+    "errors": "0"
+  },
+  {
+    "team_name": "Brest",
+    "player_name": "Kenny Lala",
+    "tkl": "66",
+    "tklWon": "42",
+    "tkl_pct": "66.7",
+    "interception": "25",
+    "blocks": "25",
+    "errors": "2"
+  },
+  {
+    "team_name": "Brest",
+    "player_name": "Ludovic Ajorque",
+    "tkl": "26",
+    "tklWon": "19",
+    "tkl_pct": "31.3",
+    "interception": "6",
+    "blocks": "20",
+    "errors": "0"
+  },
+  {
+    "team_name": "Brest",
+    "player_name": "Brendan Chardonnet",
+    "tkl": "45",
+    "tklWon": "33",
+    "tkl_pct": "62.5",
+    "interception": "29",
+    "blocks": "45",
+    "errors": "2"
+  },
+  {
+    "team_name": "Brest",
+    "player_name": "Hugo Magnetti",
+    "tkl": "52",
+    "tklWon": "32",
+    "tkl_pct": "45.1",
+    "interception": "18",
+    "blocks": "20",
+    "errors": "0"
+  },
+  {
+    "team_name": "Brest",
+    "player_name": "Massadio Haïdara",
+    "tkl": "27",
+    "tklWon": "16",
+    "tkl_pct": "44.8",
+    "interception": "26",
+    "blocks": "18",
+    "errors": "0"
+  },
+  {
+    "team_name": "Brest",
+    "player_name": "Abdoulaye Niakhate Ndiaye",
+    "tkl": "49",
+    "tklWon": "33",
+    "tkl_pct": "67.6",
+    "interception": "11",
+    "blocks": "29",
+    "errors": "3"
+  },
+  {
+    "team_name": "Brest",
+    "player_name": "Mathias Pereira Lage",
+    "tkl": "37",
+    "tklWon": "24",
+    "tkl_pct": "46.2",
+    "interception": "20",
+    "blocks": "17",
+    "errors": "2"
+  },
+  {
+    "team_name": "Brest",
+    "player_name": "Pierre Lees-Melou",
+    "tkl": "48",
+    "tklWon": "33",
+    "tkl_pct": "46.3",
+    "interception": "12",
+    "blocks": "19",
+    "errors": "0"
+  },
+  {
+    "team_name": "Brest",
+    "player_name": "",
+    "tkl": "",
+    "tklWon": "",
+    "tkl_pct": "",
+    "interception": "",
+    "blocks": "",
+    "errors": ""
+  },
+  {
+    "team_name": "Brest",
+    "player_name": "Player",
+    "tkl": "",
+    "tklWon": "",
+    "tkl_pct": "",
+    "interception": "",
+    "blocks": "",
+    "errors": ""
+  },
+  {
+    "team_name": "Brest",
+    "player_name": "Julien Le Cardinal",
+    "tkl": "27",
+    "tklWon": "15",
+    "tkl_pct": "68.8",
+    "interception": "33",
+    "blocks": "18",
+    "errors": "0"
+  },
+  {
+    "team_name": "Brest",
+    "player_name": "Romain Del Castillo",
+    "tkl": "31",
+    "tklWon": "22",
+    "tkl_pct": "59.4",
+    "interception": "6",
+    "blocks": "16",
+    "errors": "0"
+  },
+  {
+    "team_name": "Brest",
+    "player_name": "Abdallah Sima",
+    "tkl": "15",
+    "tklWon": "11",
+    "tkl_pct": "36.4",
+    "interception": "1",
+    "blocks": "9",
+    "errors": "0"
+  },
+  {
+    "team_name": "Brest",
+    "player_name": "Kamory Doumbia",
+    "tkl": "41",
+    "tklWon": "29",
+    "tkl_pct": "45.2",
+    "interception": "28",
+    "blocks": "17",
+    "errors": "1"
+  },
+  {
+    "team_name": "Brest",
+    "player_name": "Mama Samba Baldé",
+    "tkl": "13",
+    "tklWon": "9",
+    "tkl_pct": "21.4",
+    "interception": "6",
+    "blocks": "8",
+    "errors": "0"
+  },
+  {
+    "team_name": "Brest",
+    "player_name": "Edimilson Fernandes",
+    "tkl": "9",
+    "tklWon": "7",
+    "tkl_pct": "53.8",
+    "interception": "20",
+    "blocks": "14",
+    "errors": "1"
+  },
+  {
+    "team_name": "Brest",
+    "player_name": "Romain Faivre",
+    "tkl": "13",
+    "tklWon": "10",
+    "tkl_pct": "50.0",
+    "interception": "4",
+    "blocks": "8",
+    "errors": "1"
+  },
+  {
+    "team_name": "Brest",
+    "player_name": "Jordan Amavi",
+    "tkl": "24",
+    "tklWon": "17",
+    "tkl_pct": "71.4",
+    "interception": "7",
+    "blocks": "10",
+    "errors": "0"
+  },
+  {
+    "team_name": "Brest",
+    "player_name": "Luc Zogbé",
+    "tkl": "32",
+    "tklWon": "18",
+    "tkl_pct": "69.2",
+    "interception": "14",
+    "blocks": "11",
+    "errors": "1"
+  },
+  {
+    "team_name": "Brest",
+    "player_name": "Jonas Martin",
+    "tkl": "13",
+    "tklWon": "7",
+    "tkl_pct": "54.5",
+    "interception": "8",
+    "blocks": "4",
+    "errors": "1"
+  },
+  {
+    "team_name": "Brest",
+    "player_name": "",
+    "tkl": "",
+    "tklWon": "",
+    "tkl_pct": "",
+    "interception": "",
+    "blocks": "",
+    "errors": ""
+  },
+  {
+    "team_name": "Brest",
+    "player_name": "Player",
+    "tkl": "",
+    "tklWon": "",
+    "tkl_pct": "",
+    "interception": "",
+    "blocks": "",
+    "errors": ""
+  },
+  {
+    "team_name": "Brest",
+    "player_name": "Soumaïla Coulibaly",
+    "tkl": "4",
+    "tklWon": "2",
+    "tkl_pct": "100.0",
+    "interception": "5",
+    "blocks": "7",
+    "errors": "0"
+  },
+  {
+    "team_name": "Brest",
+    "player_name": "Ibrahim Salah",
+    "tkl": "4",
+    "tklWon": "2",
+    "tkl_pct": "16.7",
+    "interception": "2",
+    "blocks": "2",
+    "errors": "0"
+  },
+  {
+    "team_name": "Brest",
+    "player_name": "Grégoire Coudert",
+    "tkl": "0",
+    "tklWon": "0",
+    "tkl_pct": "",
+    "interception": "0",
+    "blocks": "0",
+    "errors": "0"
+  },
+  {
+    "team_name": "Brest",
+    "player_name": "Justin Bourgault",
+    "tkl": "2",
+    "tklWon": "1",
+    "tkl_pct": "",
+    "interception": "0",
+    "blocks": "0",
+    "errors": "0"
+  },
+  {
+    "team_name": "Brest",
+    "player_name": "Jérémy Le Douaron",
+    "tkl": "1",
+    "tklWon": "0",
+    "tkl_pct": "0.0",
+    "interception": "0",
+    "blocks": "1",
+    "errors": "0"
+  },
+  {
+    "team_name": "Brest",
+    "player_name": "Bradley Locko",
+    "tkl": "2",
+    "tklWon": "2",
+    "tkl_pct": "100.0",
+    "interception": "1",
+    "blocks": "3",
+    "errors": "0"
+  },
+  {
+    "team_name": "Brest",
+    "player_name": "Hamidou Makalou",
+    "tkl": "0",
+    "tklWon": "0",
+    "tkl_pct": "",
+    "interception": "0",
+    "blocks": "0",
+    "errors": "0"
+  },
+  {
+    "team_name": "Brest",
+    "player_name": "Axel Camblan",
+    "tkl": "1",
+    "tklWon": "1",
+    "tkl_pct": "50.0",
+    "interception": "0",
+    "blocks": "1",
+    "errors": "0"
+  },
+  {
+    "team_name": "Brest",
+    "player_name": "Hianga Mananga Mbock",
+    "tkl": "0",
+    "tklWon": "0",
+    "tkl_pct": "",
+    "interception": "1",
+    "blocks": "0",
+    "errors": "0"
+  },
+  {
+    "team_name": "Brest",
+    "player_name": "Sérigné Diop",
+    "tkl": "1",
+    "tklWon": "0",
+    "tkl_pct": "",
+    "interception": "0",
+    "blocks": "1",
+    "errors": "0"
+  },
+  {
+    "team_name": "Toulouse",
+    "player_name": "Cristian Cásseres Jr.",
+    "tkl": "96",
+    "tklWon": "61",
+    "tkl_pct": "52.3",
+    "interception": "42",
+    "blocks": "35",
+    "errors": "1"
+  },
+  {
+    "team_name": "Toulouse",
+    "player_name": "Aron Dønnum",
+    "tkl": "56",
+    "tklWon": "35",
+    "tkl_pct": "56.4",
+    "interception": "28",
+    "blocks": "29",
+    "errors": "1"
+  },
+  {
+    "team_name": "Toulouse",
+    "player_name": "Charlie Cresswell",
+    "tkl": "35",
+    "tklWon": "23",
+    "tkl_pct": "60.9",
+    "interception": "28",
+    "blocks": "44",
+    "errors": "3"
+  },
+  {
+    "team_name": "Toulouse",
+    "player_name": "Guillaume Restes",
+    "tkl": "2",
+    "tklWon": "1",
+    "tkl_pct": "66.7",
+    "interception": "1",
+    "blocks": "0",
+    "errors": "1"
+  },
+  {
+    "team_name": "Toulouse",
+    "player_name": "Mark McKenzie",
+    "tkl": "52",
+    "tklWon": "31",
+    "tkl_pct": "73.3",
+    "interception": "22",
+    "blocks": "31",
+    "errors": "1"
+  },
+  {
+    "team_name": "Toulouse",
+    "player_name": "Vincent Sierro",
+    "tkl": "44",
+    "tklWon": "27",
+    "tkl_pct": "48.2",
+    "interception": "16",
+    "blocks": "34",
+    "errors": "1"
+  },
+  {
+    "team_name": "Toulouse",
+    "player_name": "Yann Gboho",
+    "tkl": "31",
+    "tklWon": "18",
+    "tkl_pct": "40.0",
+    "interception": "6",
+    "blocks": "20",
+    "errors": "1"
+  },
+  {
+    "team_name": "Toulouse",
+    "player_name": "Djibril Sidibé",
+    "tkl": "65",
+    "tklWon": "36",
+    "tkl_pct": "62.0",
+    "interception": "20",
+    "blocks": "11",
+    "errors": "1"
+  },
+  {
+    "team_name": "Toulouse",
+    "player_name": "Gabriel Suazo",
+    "tkl": "59",
+    "tklWon": "39",
+    "tkl_pct": "41.7",
+    "interception": "36",
+    "blocks": "27",
+    "errors": "1"
+  },
+  {
+    "team_name": "Toulouse",
+    "player_name": "Zakaria Aboukhlal",
+    "tkl": "22",
+    "tklWon": "13",
+    "tkl_pct": "17.4",
+    "interception": "6",
+    "blocks": "16",
+    "errors": "0"
+  },
+  {
+    "team_name": "Toulouse",
+    "player_name": "Joshua King",
+    "tkl": "11",
+    "tklWon": "11",
+    "tkl_pct": "41.7",
+    "interception": "6",
+    "blocks": "10",
+    "errors": "0"
+  },
+  {
+    "team_name": "Toulouse",
+    "player_name": "Frank Magri",
+    "tkl": "8",
+    "tklWon": "2",
+    "tkl_pct": "37.5",
+    "interception": "4",
+    "blocks": "16",
+    "errors": "0"
+  },
+  {
+    "team_name": "Toulouse",
+    "player_name": "Jaydee Canvot",
+    "tkl": "23",
+    "tklWon": "11",
+    "tkl_pct": "66.7",
+    "interception": "11",
+    "blocks": "10",
+    "errors": "1"
+  },
+  {
+    "team_name": "Toulouse",
+    "player_name": "Shavy Babicka",
+    "tkl": "21",
+    "tklWon": "12",
+    "tkl_pct": "47.6",
+    "interception": "3",
+    "blocks": "14",
+    "errors": "3"
+  },
+  {
+    "team_name": "Toulouse",
+    "player_name": "Waren Kamanzi",
+    "tkl": "29",
+    "tklWon": "13",
+    "tkl_pct": "50.0",
+    "interception": "9",
+    "blocks": "7",
+    "errors": "0"
+  },
+  {
+    "team_name": "Toulouse",
+    "player_name": "Rasmus Nicolaisen",
+    "tkl": "6",
+    "tklWon": "3",
+    "tkl_pct": "60.0",
+    "interception": "10",
+    "blocks": "10",
+    "errors": "0"
+  },
+  {
+    "team_name": "Toulouse",
+    "player_name": "Ümit Akdag",
+    "tkl": "8",
+    "tklWon": "4",
+    "tkl_pct": "41.7",
+    "interception": "11",
+    "blocks": "10",
+    "errors": "0"
+  },
+  {
+    "team_name": "Toulouse",
+    "player_name": "Kjetil Haug",
+    "tkl": "0",
+    "tklWon": "0",
+    "tkl_pct": "",
+    "interception": "0",
+    "blocks": "0",
+    "errors": "0"
+  },
+  {
+    "team_name": "Toulouse",
+    "player_name": "Rafik Messali",
+    "tkl": "15",
+    "tklWon": "8",
+    "tkl_pct": "87.5",
+    "interception": "10",
+    "blocks": "9",
+    "errors": "0"
+  },
+  {
+    "team_name": "Toulouse",
+    "player_name": "Denis Genreau",
+    "tkl": "7",
+    "tklWon": "5",
+    "tkl_pct": "50.0",
+    "interception": "3",
+    "blocks": "3",
+    "errors": "0"
+  },
+  {
+    "team_name": "Toulouse",
+    "player_name": "Niklas Schmidt",
+    "tkl": "6",
+    "tklWon": "4",
+    "tkl_pct": "57.1",
+    "interception": "1",
+    "blocks": "0",
+    "errors": "0"
+  },
+  {
+    "team_name": "Toulouse",
+    "player_name": "Miha Zajc",
+    "tkl": "4",
+    "tklWon": "4",
+    "tkl_pct": "60.0",
+    "interception": "3",
+    "blocks": "2",
+    "errors": "0"
+  },
+  {
+    "team_name": "Toulouse",
+    "player_name": "Noah Edjouma",
+    "tkl": "2",
+    "tklWon": "2",
+    "tkl_pct": "50.0",
+    "interception": "2",
+    "blocks": "1",
+    "errors": "0"
+  },
+  {
+    "team_name": "Toulouse",
+    "player_name": "Logan Costa",
+    "tkl": "2",
+    "tklWon": "1",
+    "tkl_pct": "100.0",
+    "interception": "2",
+    "blocks": "2",
+    "errors": "0"
+  },
+  {
+    "team_name": "Toulouse",
+    "player_name": "Álex Domínguez",
+    "tkl": "0",
+    "tklWon": "0",
+    "tkl_pct": "",
+    "interception": "0",
+    "blocks": "0",
+    "errors": "0"
+  },
+  {
+    "team_name": "Toulouse",
+    "player_name": "Edhy Zuliani",
+    "tkl": "0",
+    "tklWon": "0",
+    "tkl_pct": "",
+    "interception": "1",
+    "blocks": "0",
+    "errors": "0"
+  },
+  {
+    "team_name": "Toulouse",
+    "player_name": "Naatan Skyttä",
+    "tkl": "1",
+    "tklWon": "0",
+    "tkl_pct": "",
+    "interception": "0",
+    "blocks": "0",
+    "errors": "0"
+  },
+  {
+    "team_name": "Auxerre",
+    "player_name": "Donovan Léon",
+    "tkl": "0",
+    "tklWon": "0",
+    "tkl_pct": "0.0",
+    "interception": "0",
+    "blocks": "2",
+    "errors": "1"
+  },
+  {
+    "team_name": "Auxerre",
+    "player_name": "Gaëtan Perrin",
+    "tkl": "49",
+    "tklWon": "26",
+    "tkl_pct": "43.8",
+    "interception": "12",
+    "blocks": "10",
+    "errors": "1"
+  },
+  {
+    "team_name": "Auxerre",
+    "player_name": "Jubal",
+    "tkl": "60",
+    "tklWon": "39",
+    "tkl_pct": "70.0",
+    "interception": "25",
+    "blocks": "61",
+    "errors": "1"
+  },
+  {
+    "team_name": "Auxerre",
+    "player_name": "Clément Akpa",
+    "tkl": "55",
+    "tklWon": "34",
+    "tkl_pct": "67.4",
+    "interception": "42",
+    "blocks": "38",
+    "errors": "2"
+  },
+  {
+    "team_name": "Auxerre",
+    "player_name": "Elisha Owusu",
+    "tkl": "73",
+    "tklWon": "41",
+    "tkl_pct": "64.6",
+    "interception": "42",
+    "blocks": "33",
+    "errors": "1"
+  },
+  {
+    "team_name": "Auxerre",
+    "player_name": "Gideon Mensah",
+    "tkl": "68",
+    "tklWon": "45",
+    "tkl_pct": "50.0",
+    "interception": "50",
+    "blocks": "27",
+    "errors": "0"
+  },
+  {
+    "team_name": "Auxerre",
+    "player_name": "Ki-Jana Hoever",
+    "tkl": "51",
+    "tklWon": "38",
+    "tkl_pct": "55.6",
+    "interception": "21",
+    "blocks": "33",
+    "errors": "1"
+  },
+  {
+    "team_name": "Auxerre",
+    "player_name": "Hamed Junior Traorè",
+    "tkl": "41",
+    "tklWon": "20",
+    "tkl_pct": "29.6",
+    "interception": "8",
+    "blocks": "14",
+    "errors": "0"
+  },
+  {
+    "team_name": "Auxerre",
+    "player_name": "Lassine Sinayoko",
+    "tkl": "33",
+    "tklWon": "20",
+    "tkl_pct": "47.8",
+    "interception": "13",
+    "blocks": "16",
+    "errors": "0"
+  },
+  {
+    "team_name": "Auxerre",
+    "player_name": "Sinaly Diomande",
+    "tkl": "39",
+    "tklWon": "19",
+    "tkl_pct": "70.0",
+    "interception": "30",
+    "blocks": "37",
+    "errors": "2"
+  },
+  {
+    "team_name": "Auxerre",
+    "player_name": "Gabriel Osho",
+    "tkl": "23",
+    "tklWon": "15",
+    "tkl_pct": "65.0",
+    "interception": "12",
+    "blocks": "32",
+    "errors": "0"
+  },
+  {
+    "team_name": "Auxerre",
+    "player_name": "Kévin Danois",
+    "tkl": "49",
+    "tklWon": "30",
+    "tkl_pct": "43.5",
+    "interception": "20",
+    "blocks": "17",
+    "errors": "0"
+  },
+  {
+    "team_name": "Auxerre",
+    "player_name": "Han-Noah Massengo",
+    "tkl": "17",
+    "tklWon": "11",
+    "tkl_pct": "66.7",
+    "interception": "17",
+    "blocks": "12",
+    "errors": "2"
+  },
+  {
+    "team_name": "Auxerre",
+    "player_name": "Theo Bair",
+    "tkl": "4",
+    "tklWon": "3",
+    "tkl_pct": "0.0",
+    "interception": "3",
+    "blocks": "6",
+    "errors": "0"
+  },
+  {
+    "team_name": "Auxerre",
+    "player_name": "Paul Joly",
+    "tkl": "49",
+    "tklWon": "32",
+    "tkl_pct": "60.0",
+    "interception": "25",
+    "blocks": "19",
+    "errors": "5"
+  },
+  {
+    "team_name": "Auxerre",
+    "player_name": "Ado Onaiwu",
+    "tkl": "11",
+    "tklWon": "7",
+    "tkl_pct": "28.6",
+    "interception": "3",
+    "blocks": "12",
+    "errors": "0"
+  },
+  {
+    "team_name": "Auxerre",
+    "player_name": "Rayan Raveloson",
+    "tkl": "6",
+    "tklWon": "5",
+    "tkl_pct": "33.3",
+    "interception": "5",
+    "blocks": "8",
+    "errors": "0"
+  },
+  {
+    "team_name": "Auxerre",
+    "player_name": "Assane Dioussé",
+    "tkl": "15",
+    "tklWon": "7",
+    "tkl_pct": "35.7",
+    "interception": "12",
+    "blocks": "6",
+    "errors": "0"
+  },
+  {
+    "team_name": "Auxerre",
+    "player_name": "Florian Ayé",
+    "tkl": "2",
+    "tklWon": "2",
+    "tkl_pct": "0.0",
+    "interception": "7",
+    "blocks": "7",
+    "errors": "0"
+  },
+  {
+    "team_name": "Auxerre",
+    "player_name": "Fredrik Oppegard",
+    "tkl": "6",
+    "tklWon": "4",
+    "tkl_pct": "42.9",
+    "interception": "2",
+    "blocks": "2",
+    "errors": "1"
+  },
+  {
+    "team_name": "Auxerre",
+    "player_name": "Théo De Percin",
+    "tkl": "0",
+    "tklWon": "0",
+    "tkl_pct": "0.0",
+    "interception": "0",
+    "blocks": "0",
+    "errors": "0"
+  },
+  {
+    "team_name": "Auxerre",
+    "player_name": "Rudy Matondo",
+    "tkl": "1",
+    "tklWon": "1",
+    "tkl_pct": "0.0",
+    "interception": "0",
+    "blocks": "0",
+    "errors": "0"
+  },
+  {
+    "team_name": "Auxerre",
+    "player_name": "Lasso Coulibaly",
+    "tkl": "1",
+    "tklWon": "1",
+    "tkl_pct": "",
+    "interception": "0",
+    "blocks": "0",
+    "errors": "0"
+  },
+  {
+    "team_name": "Auxerre",
+    "player_name": "Théo Pellenard",
+    "tkl": "3",
+    "tklWon": "2",
+    "tkl_pct": "33.3",
+    "interception": "0",
+    "blocks": "1",
+    "errors": "0"
+  },
+  {
+    "team_name": "Auxerre",
+    "player_name": "Aristide Zossou",
+    "tkl": "0",
+    "tklWon": "0",
+    "tkl_pct": "",
+    "interception": "0",
+    "blocks": "0",
+    "errors": "0"
+  },
+  {
+    "team_name": "Auxerre",
+    "player_name": "Eros Maddy",
+    "tkl": "0",
+    "tklWon": "0",
+    "tkl_pct": "",
+    "interception": "0",
+    "blocks": "0",
+    "errors": "0"
+  },
+  {
+    "team_name": "Auxerre",
+    "player_name": "Loïc N'Gatta",
+    "tkl": "1",
+    "tklWon": "1",
+    "tkl_pct": "50.0",
+    "interception": "0",
+    "blocks": "1",
+    "errors": "0"
+  },
+  {
+    "team_name": "Auxerre",
+    "player_name": "Yoann Cissé",
+    "tkl": "0",
+    "tklWon": "0",
+    "tkl_pct": "",
+    "interception": "1",
+    "blocks": "0",
+    "errors": "0"
+  },
+  {
+    "team_name": "Auxerre",
+    "player_name": "Ben Viadere",
+    "tkl": "0",
+    "tklWon": "0",
+    "tkl_pct": "",
+    "interception": "0",
+    "blocks": "0",
+    "errors": "0"
+  },
+  {
+    "team_name": "Rennes",
+    "player_name": "Adrien Truffert",
+    "tkl": "61",
+    "tklWon": "36",
+    "tkl_pct": "66.7",
+    "interception": "27",
+    "blocks": "44",
+    "errors": "1"
+  },
+  {
+    "team_name": "Rennes",
+    "player_name": "Arnaud Kalimuendo",
+    "tkl": "19",
+    "tklWon": "12",
+    "tkl_pct": "46.7",
+    "interception": "4",
+    "blocks": "9",
+    "errors": "1"
+  },
+  {
+    "team_name": "Rennes",
+    "player_name": "Lorenz Assignon",
+    "tkl": "49",
+    "tklWon": "27",
+    "tkl_pct": "44.2",
+    "interception": "25",
+    "blocks": "20",
+    "errors": "0"
+  },
+  {
+    "team_name": "Rennes",
+    "player_name": "Ludovic Blas",
+    "tkl": "38",
+    "tklWon": "25",
+    "tkl_pct": "54.8",
+    "interception": "13",
+    "blocks": "16",
+    "errors": "0"
+  },
+  {
+    "team_name": "Rennes",
+    "player_name": "Azor Matusiwa",
+    "tkl": "64",
+    "tklWon": "39",
+    "tkl_pct": "74.4",
+    "interception": "34",
+    "blocks": "29",
+    "errors": "0"
+  },
+  {
+    "team_name": "Rennes",
+    "player_name": "Hans Hateboer",
+    "tkl": "31",
+    "tklWon": "16",
+    "tkl_pct": "50.0",
+    "interception": "29",
+    "blocks": "19",
+    "errors": "2"
+  },
+  {
+    "team_name": "Rennes",
+    "player_name": "Brice Samba",
+    "tkl": "2",
+    "tklWon": "1",
+    "tkl_pct": "50.0",
+    "interception": "0",
+    "blocks": "0",
+    "errors": "3"
+  },
+  {
+    "team_name": "Rennes",
+    "player_name": "Steve Mandanda",
+    "tkl": "0",
+    "tklWon": "0",
+    "tkl_pct": "0.0",
+    "interception": "0",
+    "blocks": "0",
+    "errors": "2"
+  },
+  {
+    "team_name": "Rennes",
+    "player_name": "Christopher Wooh",
+    "tkl": "36",
+    "tklWon": "19",
+    "tkl_pct": "66.7",
+    "interception": "23",
+    "blocks": "22",
+    "errors": "0"
+  },
+  {
+    "team_name": "Rennes",
+    "player_name": "Lilian Brassier",
+    "tkl": "15",
+    "tklWon": "12",
+    "tkl_pct": "81.8",
+    "interception": "22",
+    "blocks": "17",
+    "errors": "1"
+  },
+  {
+    "team_name": "Rennes",
+    "player_name": "",
+    "tkl": "",
+    "tklWon": "",
+    "tkl_pct": "",
+    "interception": "",
+    "blocks": "",
+    "errors": ""
+  },
+  {
+    "team_name": "Rennes",
+    "player_name": "Player",
+    "tkl": "",
+    "tklWon": "",
+    "tkl_pct": "",
+    "interception": "",
+    "blocks": "",
+    "errors": ""
+  },
+  {
+    "team_name": "Rennes",
+    "player_name": "Leo Skiri Østigård",
+    "tkl": "20",
+    "tklWon": "18",
+    "tkl_pct": "68.2",
+    "interception": "15",
+    "blocks": "12",
+    "errors": "1"
+  },
+  {
+    "team_name": "Rennes",
+    "player_name": "Jordan James",
+    "tkl": "30",
+    "tklWon": "19",
+    "tkl_pct": "53.3",
+    "interception": "14",
+    "blocks": "14",
+    "errors": "1"
+  },
+  {
+    "team_name": "Rennes",
+    "player_name": "Djaoui Cissé",
+    "tkl": "33",
+    "tklWon": "18",
+    "tkl_pct": "61.5",
+    "interception": "13",
+    "blocks": "29",
+    "errors": "1"
+  },
+  {
+    "team_name": "Rennes",
+    "player_name": "Amine Gouiri",
+    "tkl": "9",
+    "tklWon": "6",
+    "tkl_pct": "25.0",
+    "interception": "2",
+    "blocks": "8",
+    "errors": "0"
+  },
+  {
+    "team_name": "Rennes",
+    "player_name": "Anthony Rouault",
+    "tkl": "12",
+    "tklWon": "8",
+    "tkl_pct": "100.0",
+    "interception": "8",
+    "blocks": "13",
+    "errors": "0"
+  },
+  {
+    "team_name": "Rennes",
+    "player_name": "Jérémy Jacquet",
+    "tkl": "26",
+    "tklWon": "17",
+    "tkl_pct": "63.6",
+    "interception": "27",
+    "blocks": "9",
+    "errors": "1"
+  },
+  {
+    "team_name": "Rennes",
+    "player_name": "Alidu Seidu",
+    "tkl": "22",
+    "tklWon": "18",
+    "tkl_pct": "80.0",
+    "interception": "14",
+    "blocks": "13",
+    "errors": "0"
+  },
+  {
+    "team_name": "Rennes",
+    "player_name": "Seko Fofana",
+    "tkl": "11",
+    "tklWon": "7",
+    "tkl_pct": "28.6",
+    "interception": "7",
+    "blocks": "7",
+    "errors": "0"
+  },
+  {
+    "team_name": "Rennes",
+    "player_name": "Albert Grønbaek",
+    "tkl": "21",
+    "tklWon": "11",
+    "tkl_pct": "35.7",
+    "interception": "4",
+    "blocks": "9",
+    "errors": "0"
+  },
+  {
+    "team_name": "Rennes",
+    "player_name": "Glen Kamara",
+    "tkl": "23",
+    "tklWon": "11",
+    "tkl_pct": "64.7",
+    "interception": "7",
+    "blocks": "7",
+    "errors": "0"
+  },
+  {
+    "team_name": "Rennes",
+    "player_name": "",
+    "tkl": "",
+    "tklWon": "",
+    "tkl_pct": "",
+    "interception": "",
+    "blocks": "",
+    "errors": ""
+  },
+  {
+    "team_name": "Rennes",
+    "player_name": "Player",
+    "tkl": "",
+    "tklWon": "",
+    "tkl_pct": "",
+    "interception": "",
+    "blocks": "",
+    "errors": ""
+  },
+  {
+    "team_name": "Rennes",
+    "player_name": "Mikayil Ngor Faye",
+    "tkl": "15",
+    "tklWon": "12",
+    "tkl_pct": "77.8",
+    "interception": "12",
+    "blocks": "9",
+    "errors": "0"
+  },
+  {
+    "team_name": "Rennes",
+    "player_name": "Musa Al-Taamari",
+    "tkl": "4",
+    "tklWon": "1",
+    "tkl_pct": "0.0",
+    "interception": "2",
+    "blocks": "5",
+    "errors": "0"
+  },
+  {
+    "team_name": "Rennes",
+    "player_name": "Mohamed Meité",
+    "tkl": "2",
+    "tklWon": "0",
+    "tkl_pct": "100.0",
+    "interception": "0",
+    "blocks": "1",
+    "errors": "0"
+  },
+  {
+    "team_name": "Rennes",
+    "player_name": "Baptiste Santamaria",
+    "tkl": "11",
+    "tklWon": "4",
+    "tkl_pct": "54.5",
+    "interception": "12",
+    "blocks": "10",
+    "errors": "0"
+  },
+  {
+    "team_name": "Rennes",
+    "player_name": "Ismaël Koné",
+    "tkl": "9",
+    "tklWon": "6",
+    "tkl_pct": "71.4",
+    "interception": "4",
+    "blocks": "9",
+    "errors": "0"
+  },
+  {
+    "team_name": "Rennes",
+    "player_name": "Mahamadou Nagida",
+    "tkl": "8",
+    "tklWon": "6",
+    "tkl_pct": "80.0",
+    "interception": "9",
+    "blocks": "3",
+    "errors": "0"
+  },
+  {
+    "team_name": "Rennes",
+    "player_name": "Jota",
+    "tkl": "5",
+    "tklWon": "2",
+    "tkl_pct": "57.1",
+    "interception": "3",
+    "blocks": "1",
+    "errors": "0"
+  },
+  {
+    "team_name": "Rennes",
+    "player_name": "Kazeem Olaigbe",
+    "tkl": "6",
+    "tklWon": "4",
+    "tkl_pct": "50.0",
+    "interception": "0",
+    "blocks": "3",
+    "errors": "0"
+  },
+  {
+    "team_name": "Rennes",
+    "player_name": "Carlos Gómez",
+    "tkl": "8",
+    "tklWon": "6",
+    "tkl_pct": "33.3",
+    "interception": "2",
+    "blocks": "6",
+    "errors": "0"
+  },
+  {
+    "team_name": "Rennes",
+    "player_name": "Kyogo Furuhashi",
+    "tkl": "2",
+    "tklWon": "2",
+    "tkl_pct": "100.0",
+    "interception": "0",
+    "blocks": "0",
+    "errors": "0"
+  },
+  {
+    "team_name": "Rennes",
+    "player_name": "Benjamin Bourigeaud",
+    "tkl": "1",
+    "tklWon": "0",
+    "tkl_pct": "0.0",
+    "interception": "2",
+    "blocks": "2",
+    "errors": "0"
+  },
+  {
+    "team_name": "Rennes",
+    "player_name": "Henrik Meister",
+    "tkl": "2",
+    "tklWon": "0",
+    "tkl_pct": "",
+    "interception": "1",
+    "blocks": "4",
+    "errors": "0"
+  },
+  {
+    "team_name": "Rennes",
+    "player_name": "Naouirou Ahamada",
+    "tkl": "0",
+    "tklWon": "0",
+    "tkl_pct": "",
+    "interception": "2",
+    "blocks": "0",
+    "errors": "0"
+  },
+  {
+    "team_name": "Rennes",
+    "player_name": "Gauthier Gallon",
+    "tkl": "0",
+    "tklWon": "0",
+    "tkl_pct": "",
+    "interception": "0",
+    "blocks": "0",
+    "errors": "0"
+  },
+  {
+    "team_name": "Rennes",
+    "player_name": "Ayanda Sishuba",
+    "tkl": "1",
+    "tklWon": "0",
+    "tkl_pct": "100.0",
+    "interception": "0",
+    "blocks": "0",
+    "errors": "0"
+  },
+  {
+    "team_name": "Nantes",
+    "player_name": "Matthis Abline",
+    "tkl": "11",
+    "tklWon": "5",
+    "tkl_pct": "33.3",
+    "interception": "4",
+    "blocks": "15",
+    "errors": "1"
+  },
+  {
+    "team_name": "Nantes",
+    "player_name": "Moses Simon",
+    "tkl": "20",
+    "tklWon": "14",
+    "tkl_pct": "31.8",
+    "interception": "12",
+    "blocks": "11",
+    "errors": "0"
+  },
+  {
+    "team_name": "Nantes",
+    "player_name": "Jean-Charles Castelletto",
+    "tkl": "34",
+    "tklWon": "17",
+    "tkl_pct": "63.0",
+    "interception": "25",
+    "blocks": "27",
+    "errors": "0"
+  },
+  {
+    "team_name": "Nantes",
+    "player_name": "Pedro Chirivella",
+    "tkl": "44",
+    "tklWon": "29",
+    "tkl_pct": "45.2",
+    "interception": "19",
+    "blocks": "25",
+    "errors": "0"
+  },
+  {
+    "team_name": "Nantes",
+    "player_name": "Douglas",
+    "tkl": "69",
+    "tklWon": "42",
+    "tkl_pct": "59.1",
+    "interception": "32",
+    "blocks": "51",
+    "errors": "0"
+  },
+  {
+    "team_name": "Nantes",
+    "player_name": "Kelvin Amian",
+    "tkl": "55",
+    "tklWon": "31",
+    "tkl_pct": "82.9",
+    "interception": "13",
+    "blocks": "18",
+    "errors": "0"
+  },
+  {
+    "team_name": "Nantes",
+    "player_name": "Nicolas Cozza",
+    "tkl": "59",
+    "tklWon": "41",
+    "tkl_pct": "66.0",
+    "interception": "25",
+    "blocks": "25",
+    "errors": "0"
+  },
+  {
+    "team_name": "Nantes",
+    "player_name": "Johann Lepenant",
+    "tkl": "68",
+    "tklWon": "33",
+    "tkl_pct": "45.1",
+    "interception": "18",
+    "blocks": "35",
+    "errors": "0"
+  },
+  {
+    "team_name": "Nantes",
+    "player_name": "Nicolas Pallois",
+    "tkl": "61",
+    "tklWon": "27",
+    "tkl_pct": "58.7",
+    "interception": "28",
+    "blocks": "48",
+    "errors": "3"
+  },
+  {
+    "team_name": "Nantes",
+    "player_name": "Anthony Lopes",
+    "tkl": "1",
+    "tklWon": "0",
+    "tkl_pct": "100.0",
+    "interception": "1",
+    "blocks": "0",
+    "errors": "1"
+  },
+  {
+    "team_name": "Nantes",
+    "player_name": "",
+    "tkl": "",
+    "tklWon": "",
+    "tkl_pct": "",
+    "interception": "",
+    "blocks": "",
+    "errors": ""
+  },
+  {
+    "team_name": "Nantes",
+    "player_name": "Player",
+    "tkl": "",
+    "tklWon": "",
+    "tkl_pct": "",
+    "interception": "",
+    "blocks": "",
+    "errors": ""
+  },
+  {
+    "team_name": "Nantes",
+    "player_name": "Nathan Zeze",
+    "tkl": "38",
+    "tklWon": "22",
+    "tkl_pct": "69.7",
+    "interception": "23",
+    "blocks": "22",
+    "errors": "1"
+  },
+  {
+    "team_name": "Nantes",
+    "player_name": "Sorba Thomas",
+    "tkl": "14",
+    "tklWon": "6",
+    "tkl_pct": "55.6",
+    "interception": "9",
+    "blocks": "12",
+    "errors": "1"
+  },
+  {
+    "team_name": "Nantes",
+    "player_name": "Alban Lafont",
+    "tkl": "1",
+    "tklWon": "1",
+    "tkl_pct": "100.0",
+    "interception": "0",
+    "blocks": "2",
+    "errors": "1"
+  },
+  {
+    "team_name": "Nantes",
+    "player_name": "Mostafa Mohamed",
+    "tkl": "18",
+    "tklWon": "9",
+    "tkl_pct": "33.3",
+    "interception": "10",
+    "blocks": "10",
+    "errors": "0"
+  },
+  {
+    "team_name": "Nantes",
+    "player_name": "Marcus Coco",
+    "tkl": "27",
+    "tklWon": "21",
+    "tkl_pct": "51.6",
+    "interception": "11",
+    "blocks": "16",
+    "errors": "0"
+  },
+  {
+    "team_name": "Nantes",
+    "player_name": "Saidou Sow",
+    "tkl": "17",
+    "tklWon": "11",
+    "tkl_pct": "60.0",
+    "interception": "13",
+    "blocks": "19",
+    "errors": "1"
+  },
+  {
+    "team_name": "Nantes",
+    "player_name": "Louis Leroux",
+    "tkl": "25",
+    "tklWon": "18",
+    "tkl_pct": "72.7",
+    "interception": "8",
+    "blocks": "22",
+    "errors": "1"
+  },
+  {
+    "team_name": "Nantes",
+    "player_name": "Jean-Kevin Duverne",
+    "tkl": "21",
+    "tklWon": "12",
+    "tkl_pct": "55.6",
+    "interception": "8",
+    "blocks": "10",
+    "errors": "0"
+  },
+  {
+    "team_name": "Nantes",
+    "player_name": "Tino Kadewere",
+    "tkl": "14",
+    "tklWon": "8",
+    "tkl_pct": "46.2",
+    "interception": "6",
+    "blocks": "3",
+    "errors": "0"
+  },
+  {
+    "team_name": "Nantes",
+    "player_name": "Patrik Carlgren",
+    "tkl": "0",
+    "tklWon": "0",
+    "tkl_pct": "",
+    "interception": "0",
+    "blocks": "0",
+    "errors": "0"
+  },
+  {
+    "team_name": "Nantes",
+    "player_name": "",
+    "tkl": "",
+    "tklWon": "",
+    "tkl_pct": "",
+    "interception": "",
+    "blocks": "",
+    "errors": ""
+  },
+  {
+    "team_name": "Nantes",
+    "player_name": "Player",
+    "tkl": "",
+    "tklWon": "",
+    "tkl_pct": "",
+    "interception": "",
+    "blocks": "",
+    "errors": ""
+  },
+  {
+    "team_name": "Nantes",
+    "player_name": "Fabien Centonze",
+    "tkl": "8",
+    "tklWon": "4",
+    "tkl_pct": "66.7",
+    "interception": "2",
+    "blocks": "4",
+    "errors": "0"
+  },
+  {
+    "team_name": "Nantes",
+    "player_name": "Florent Mollet",
+    "tkl": "2",
+    "tklWon": "2",
+    "tkl_pct": "100.0",
+    "interception": "1",
+    "blocks": "2",
+    "errors": "0"
+  },
+  {
+    "team_name": "Nantes",
+    "player_name": "Francis Coquelin",
+    "tkl": "9",
+    "tklWon": "5",
+    "tkl_pct": "75.0",
+    "interception": "6",
+    "blocks": "3",
+    "errors": "0"
+  },
+  {
+    "team_name": "Nantes",
+    "player_name": "Bahereba Guirassy",
+    "tkl": "12",
+    "tklWon": "8",
+    "tkl_pct": "53.8",
+    "interception": "1",
+    "blocks": "10",
+    "errors": "0"
+  },
+  {
+    "team_name": "Nantes",
+    "player_name": "Jean-Philippe Gbamin",
+    "tkl": "2",
+    "tklWon": "1",
+    "tkl_pct": "25.0",
+    "interception": "3",
+    "blocks": "5",
+    "errors": "0"
+  },
+  {
+    "team_name": "Nantes",
+    "player_name": "Ignatius Ganago",
+    "tkl": "1",
+    "tklWon": "1",
+    "tkl_pct": "50.0",
+    "interception": "4",
+    "blocks": "3",
+    "errors": "0"
+  },
+  {
+    "team_name": "Nantes",
+    "player_name": "Meschak Elia",
+    "tkl": "7",
+    "tklWon": "5",
+    "tkl_pct": "100.0",
+    "interception": "0",
+    "blocks": "3",
+    "errors": "0"
+  },
+  {
+    "team_name": "Nantes",
+    "player_name": "Dehmaine Assoumani",
+    "tkl": "6",
+    "tklWon": "3",
+    "tkl_pct": "80.0",
+    "interception": "1",
+    "blocks": "1",
+    "errors": "0"
+  },
+  {
+    "team_name": "Nantes",
+    "player_name": "Plamedi Nsingi",
+    "tkl": "1",
+    "tklWon": "0",
+    "tkl_pct": "0.0",
+    "interception": "0",
+    "blocks": "0",
+    "errors": "0"
+  },
+  {
+    "team_name": "Nantes",
+    "player_name": "Sékou Doucoure",
+    "tkl": "0",
+    "tklWon": "0",
+    "tkl_pct": "",
+    "interception": "0",
+    "blocks": "0",
+    "errors": "0"
+  },
+  {
+    "team_name": "Angers",
+    "player_name": "Jordan Lefort",
+    "tkl": "52",
+    "tklWon": "30",
+    "tkl_pct": "68.2",
+    "interception": "32",
+    "blocks": "56",
+    "errors": "3"
+  },
+  {
+    "team_name": "Angers",
+    "player_name": "Yahia Fofana",
+    "tkl": "0",
+    "tklWon": "0",
+    "tkl_pct": "0.0",
+    "interception": "1",
+    "blocks": "0",
+    "errors": "2"
+  },
+  {
+    "team_name": "Angers",
+    "player_name": "Himad Abdelli",
+    "tkl": "48",
+    "tklWon": "32",
+    "tkl_pct": "31.3",
+    "interception": "26",
+    "blocks": "24",
+    "errors": "2"
+  },
+  {
+    "team_name": "Angers",
+    "player_name": "Florent Hanin",
+    "tkl": "69",
+    "tklWon": "48",
+    "tkl_pct": "54.9",
+    "interception": "47",
+    "blocks": "31",
+    "errors": "2"
+  },
+  {
+    "team_name": "Angers",
+    "player_name": "Jean-Eudes Aholou",
+    "tkl": "56",
+    "tklWon": "36",
+    "tkl_pct": "45.8",
+    "interception": "33",
+    "blocks": "34",
+    "errors": "0"
+  },
+  {
+    "team_name": "Angers",
+    "player_name": "Carlens Arcus",
+    "tkl": "52",
+    "tklWon": "35",
+    "tkl_pct": "60.7",
+    "interception": "27",
+    "blocks": "24",
+    "errors": "3"
+  },
+  {
+    "team_name": "Angers",
+    "player_name": "Jim Allevinah",
+    "tkl": "19",
+    "tklWon": "11",
+    "tkl_pct": "17.9",
+    "interception": "12",
+    "blocks": "10",
+    "errors": "0"
+  },
+  {
+    "team_name": "Angers",
+    "player_name": "Farid El Melali",
+    "tkl": "28",
+    "tklWon": "16",
+    "tkl_pct": "37.1",
+    "interception": "16",
+    "blocks": "19",
+    "errors": "1"
+  },
+  {
+    "team_name": "Angers",
+    "player_name": "Haris Belkebla",
+    "tkl": "56",
+    "tklWon": "38",
+    "tkl_pct": "57.8",
+    "interception": "35",
+    "blocks": "30",
+    "errors": "1"
+  },
+  {
+    "team_name": "Angers",
+    "player_name": "Esteban Lepaul",
+    "tkl": "11",
+    "tklWon": "6",
+    "tkl_pct": "25.0",
+    "interception": "4",
+    "blocks": "15",
+    "errors": "0"
+  },
+  {
+    "team_name": "Angers",
+    "player_name": "",
+    "tkl": "",
+    "tklWon": "",
+    "tkl_pct": "",
+    "interception": "",
+    "blocks": "",
+    "errors": ""
+  },
+  {
+    "team_name": "Angers",
+    "player_name": "Player",
+    "tkl": "",
+    "tklWon": "",
+    "tkl_pct": "",
+    "interception": "",
+    "blocks": "",
+    "errors": ""
+  },
+  {
+    "team_name": "Angers",
+    "player_name": "Yassin Belkhdim",
+    "tkl": "53",
+    "tklWon": "27",
+    "tkl_pct": "46.6",
+    "interception": "21",
+    "blocks": "23",
+    "errors": "1"
+  },
+  {
+    "team_name": "Angers",
+    "player_name": "Abdoulaye Bamba",
+    "tkl": "22",
+    "tklWon": "12",
+    "tkl_pct": "73.7",
+    "interception": "19",
+    "blocks": "14",
+    "errors": "0"
+  },
+  {
+    "team_name": "Angers",
+    "player_name": "Emmanuel Biumla",
+    "tkl": "19",
+    "tklWon": "12",
+    "tkl_pct": "66.7",
+    "interception": "8",
+    "blocks": "18",
+    "errors": "1"
+  },
+  {
+    "team_name": "Angers",
+    "player_name": "Lilian Raolisoa",
+    "tkl": "41",
+    "tklWon": "24",
+    "tkl_pct": "44.7",
+    "interception": "15",
+    "blocks": "11",
+    "errors": "0"
+  },
+  {
+    "team_name": "Angers",
+    "player_name": "Ibrahima Niane",
+    "tkl": "7",
+    "tklWon": "3",
+    "tkl_pct": "100.0",
+    "interception": "2",
+    "blocks": "6",
+    "errors": "2"
+  },
+  {
+    "team_name": "Angers",
+    "player_name": "Zinedine Ferhat",
+    "tkl": "9",
+    "tklWon": "7",
+    "tkl_pct": "30.8",
+    "interception": "10",
+    "blocks": "9",
+    "errors": "0"
+  },
+  {
+    "team_name": "Angers",
+    "player_name": "Jacques Ekomie",
+    "tkl": "22",
+    "tklWon": "14",
+    "tkl_pct": "66.7",
+    "interception": "4",
+    "blocks": "16",
+    "errors": "0"
+  },
+  {
+    "team_name": "Angers",
+    "player_name": "Bamba Dieng",
+    "tkl": "4",
+    "tklWon": "1",
+    "tkl_pct": "0.0",
+    "interception": "0",
+    "blocks": "2",
+    "errors": "0"
+  },
+  {
+    "team_name": "Angers",
+    "player_name": "Zinédine Ould Khaled",
+    "tkl": "9",
+    "tklWon": "7",
+    "tkl_pct": "15.4",
+    "interception": "2",
+    "blocks": "6",
+    "errors": "0"
+  },
+  {
+    "team_name": "Angers",
+    "player_name": "Pierrick Capelle",
+    "tkl": "24",
+    "tklWon": "17",
+    "tkl_pct": "50.0",
+    "interception": "11",
+    "blocks": "4",
+    "errors": "1"
+  },
+  {
+    "team_name": "Angers",
+    "player_name": "",
+    "tkl": "",
+    "tklWon": "",
+    "tkl_pct": "",
+    "interception": "",
+    "blocks": "",
+    "errors": ""
+  },
+  {
+    "team_name": "Angers",
+    "player_name": "Player",
+    "tkl": "",
+    "tklWon": "",
+    "tkl_pct": "",
+    "interception": "",
+    "blocks": "",
+    "errors": ""
+  },
+  {
+    "team_name": "Angers",
+    "player_name": "Sidiki Cherif",
+    "tkl": "5",
+    "tklWon": "5",
+    "tkl_pct": "75.0",
+    "interception": "0",
+    "blocks": "4",
+    "errors": "1"
+  },
+  {
+    "team_name": "Angers",
+    "player_name": "Marius Courcoul",
+    "tkl": "5",
+    "tklWon": "2",
+    "tkl_pct": "40.0",
+    "interception": "5",
+    "blocks": "4",
+    "errors": "0"
+  },
+  {
+    "team_name": "Angers",
+    "player_name": "Cédric Hountondji",
+    "tkl": "6",
+    "tklWon": "4",
+    "tkl_pct": "42.9",
+    "interception": "4",
+    "blocks": "3",
+    "errors": "0"
+  },
+  {
+    "team_name": "Angers",
+    "player_name": "Ousmane Camara",
+    "tkl": "4",
+    "tklWon": "3",
+    "tkl_pct": "50.0",
+    "interception": "0",
+    "blocks": "1",
+    "errors": "0"
+  },
+  {
+    "team_name": "Angers",
+    "player_name": "Melvin Zinga",
+    "tkl": "0",
+    "tklWon": "0",
+    "tkl_pct": "",
+    "interception": "0",
+    "blocks": "0",
+    "errors": "0"
+  },
+  {
+    "team_name": "Angers",
+    "player_name": "Enzo Caumont",
+    "tkl": "1",
+    "tklWon": "1",
+    "tkl_pct": "50.0",
+    "interception": "1",
+    "blocks": "1",
+    "errors": "0"
+  },
+  {
+    "team_name": "Angers",
+    "player_name": "Justin-Noël Kalumba",
+    "tkl": "0",
+    "tklWon": "0",
+    "tkl_pct": "",
+    "interception": "1",
+    "blocks": "0",
+    "errors": "0"
+  },
+  {
+    "team_name": "Angers",
+    "player_name": "Prosper Peter",
+    "tkl": "2",
+    "tklWon": "1",
+    "tkl_pct": "",
+    "interception": "0",
+    "blocks": "0",
+    "errors": "0"
+  },
+  {
+    "team_name": "Angers",
+    "player_name": "Lois Diony",
+    "tkl": "0",
+    "tklWon": "0",
+    "tkl_pct": "",
+    "interception": "0",
+    "blocks": "0",
+    "errors": "0"
+  },
+  {
+    "team_name": "Angers",
+    "player_name": "Lanroy Machine",
+    "tkl": "0",
+    "tklWon": "0",
+    "tkl_pct": "",
+    "interception": "0",
+    "blocks": "0",
+    "errors": "0"
+  },
+  {
+    "team_name": "Le Havre",
+    "player_name": "Gautier Lloris",
+    "tkl": "68",
+    "tklWon": "43",
+    "tkl_pct": "71.7",
+    "interception": "34",
+    "blocks": "33",
+    "errors": "0"
+  },
+  {
+    "team_name": "Le Havre",
+    "player_name": "Loïc Nego",
+    "tkl": "58",
+    "tklWon": "35",
+    "tkl_pct": "64.1",
+    "interception": "29",
+    "blocks": "17",
+    "errors": "0"
+  },
+  {
+    "team_name": "Le Havre",
+    "player_name": "Abdoulaye Touré",
+    "tkl": "61",
+    "tklWon": "34",
+    "tkl_pct": "55.9",
+    "interception": "34",
+    "blocks": "36",
+    "errors": "5"
+  },
+  {
+    "team_name": "Le Havre",
+    "player_name": "Etienne Youte Kinkoue",
+    "tkl": "19",
+    "tklWon": "10",
+    "tkl_pct": "65.0",
+    "interception": "29",
+    "blocks": "36",
+    "errors": "3"
+  },
+  {
+    "team_name": "Le Havre",
+    "player_name": "Yassine Kechta",
+    "tkl": "60",
+    "tklWon": "36",
+    "tkl_pct": "42.3",
+    "interception": "26",
+    "blocks": "25",
+    "errors": "2"
+  },
+  {
+    "team_name": "Le Havre",
+    "player_name": "Josué Casimir",
+    "tkl": "37",
+    "tklWon": "26",
+    "tkl_pct": "50.0",
+    "interception": "7",
+    "blocks": "19",
+    "errors": "1"
+  },
+  {
+    "team_name": "Le Havre",
+    "player_name": "Issa Soumaré",
+    "tkl": "25",
+    "tklWon": "14",
+    "tkl_pct": "26.5",
+    "interception": "16",
+    "blocks": "19",
+    "errors": "0"
+  },
+  {
+    "team_name": "Le Havre",
+    "player_name": "Arthur Desmas",
+    "tkl": "0",
+    "tklWon": "0",
+    "tkl_pct": "0.0",
+    "interception": "0",
+    "blocks": "0",
+    "errors": "1"
+  },
+  {
+    "team_name": "Le Havre",
+    "player_name": "Mathieu Gorgelin",
+    "tkl": "2",
+    "tklWon": "2",
+    "tkl_pct": "66.7",
+    "interception": "0",
+    "blocks": "0",
+    "errors": "2"
+  },
+  {
+    "team_name": "Le Havre",
+    "player_name": "Arouna Sangante",
+    "tkl": "25",
+    "tklWon": "16",
+    "tkl_pct": "58.8",
+    "interception": "21",
+    "blocks": "11",
+    "errors": "3"
+  },
+  {
+    "team_name": "Le Havre",
+    "player_name": "",
+    "tkl": "",
+    "tklWon": "",
+    "tkl_pct": "",
+    "interception": "",
+    "blocks": "",
+    "errors": ""
+  },
+  {
+    "team_name": "Le Havre",
+    "player_name": "Player",
+    "tkl": "",
+    "tklWon": "",
+    "tkl_pct": "",
+    "interception": "",
+    "blocks": "",
+    "errors": ""
+  },
+  {
+    "team_name": "Le Havre",
+    "player_name": "André Ayew",
+    "tkl": "18",
+    "tklWon": "10",
+    "tkl_pct": "53.8",
+    "interception": "3",
+    "blocks": "9",
+    "errors": "1"
+  },
+  {
+    "team_name": "Le Havre",
+    "player_name": "Christopher Operi",
+    "tkl": "13",
+    "tklWon": "9",
+    "tkl_pct": "58.3",
+    "interception": "14",
+    "blocks": "20",
+    "errors": "0"
+  },
+  {
+    "team_name": "Le Havre",
+    "player_name": "Timothee Pembele",
+    "tkl": "30",
+    "tklWon": "22",
+    "tkl_pct": "60.9",
+    "interception": "11",
+    "blocks": "16",
+    "errors": "0"
+  },
+  {
+    "team_name": "Le Havre",
+    "player_name": "Oussama Targhalline",
+    "tkl": "19",
+    "tklWon": "14",
+    "tkl_pct": "41.7",
+    "interception": "19",
+    "blocks": "14",
+    "errors": "2"
+  },
+  {
+    "team_name": "Le Havre",
+    "player_name": "Rassoul Ndiaye",
+    "tkl": "35",
+    "tklWon": "25",
+    "tkl_pct": "44.0",
+    "interception": "12",
+    "blocks": "15",
+    "errors": "0"
+  },
+  {
+    "team_name": "Le Havre",
+    "player_name": "Junior Mwanga",
+    "tkl": "26",
+    "tklWon": "16",
+    "tkl_pct": "57.9",
+    "interception": "8",
+    "blocks": "10",
+    "errors": "2"
+  },
+  {
+    "team_name": "Le Havre",
+    "player_name": "Koka",
+    "tkl": "4",
+    "tklWon": "1",
+    "tkl_pct": "0.0",
+    "interception": "4",
+    "blocks": "3",
+    "errors": "1"
+  },
+  {
+    "team_name": "Le Havre",
+    "player_name": "Yanis Zouaoui",
+    "tkl": "20",
+    "tklWon": "10",
+    "tkl_pct": "73.3",
+    "interception": "8",
+    "blocks": "15",
+    "errors": "0"
+  },
+  {
+    "team_name": "Le Havre",
+    "player_name": "Antoine Joujou",
+    "tkl": "16",
+    "tklWon": "11",
+    "tkl_pct": "60.0",
+    "interception": "9",
+    "blocks": "15",
+    "errors": "0"
+  },
+  {
+    "team_name": "Le Havre",
+    "player_name": "Yoann Salmier",
+    "tkl": "14",
+    "tklWon": "7",
+    "tkl_pct": "76.9",
+    "interception": "10",
+    "blocks": "12",
+    "errors": "0"
+  },
+  {
+    "team_name": "Le Havre",
+    "player_name": "",
+    "tkl": "",
+    "tklWon": "",
+    "tkl_pct": "",
+    "interception": "",
+    "blocks": "",
+    "errors": ""
+  },
+  {
+    "team_name": "Le Havre",
+    "player_name": "Player",
+    "tkl": "",
+    "tklWon": "",
+    "tkl_pct": "",
+    "interception": "",
+    "blocks": "",
+    "errors": ""
+  },
+  {
+    "team_name": "Le Havre",
+    "player_name": "Fodé Ballo-Touré",
+    "tkl": "8",
+    "tklWon": "7",
+    "tkl_pct": "55.6",
+    "interception": "4",
+    "blocks": "8",
+    "errors": "0"
+  },
+  {
+    "team_name": "Le Havre",
+    "player_name": "Emmanuel Sabbi",
+    "tkl": "14",
+    "tklWon": "7",
+    "tkl_pct": "62.5",
+    "interception": "3",
+    "blocks": "2",
+    "errors": "0"
+  },
+  {
+    "team_name": "Le Havre",
+    "player_name": "Mahamadou Diawara",
+    "tkl": "20",
+    "tklWon": "12",
+    "tkl_pct": "61.5",
+    "interception": "13",
+    "blocks": "13",
+    "errors": "1"
+  },
+  {
+    "team_name": "Le Havre",
+    "player_name": "Daler Kuzyaev",
+    "tkl": "13",
+    "tklWon": "8",
+    "tkl_pct": "22.2",
+    "interception": "9",
+    "blocks": "7",
+    "errors": "0"
+  },
+  {
+    "team_name": "Le Havre",
+    "player_name": "Ilyes Housni",
+    "tkl": "7",
+    "tklWon": "5",
+    "tkl_pct": "50.0",
+    "interception": "1",
+    "blocks": "2",
+    "errors": "0"
+  },
+  {
+    "team_name": "Le Havre",
+    "player_name": "Steve Ngoura",
+    "tkl": "4",
+    "tklWon": "2",
+    "tkl_pct": "100.0",
+    "interception": "0",
+    "blocks": "2",
+    "errors": "0"
+  },
+  {
+    "team_name": "Le Havre",
+    "player_name": "Samuel Grandsir",
+    "tkl": "5",
+    "tklWon": "5",
+    "tkl_pct": "66.7",
+    "interception": "0",
+    "blocks": "2",
+    "errors": "0"
+  },
+  {
+    "team_name": "Le Havre",
+    "player_name": "Elysée Logbo",
+    "tkl": "0",
+    "tklWon": "0",
+    "tkl_pct": "",
+    "interception": "0",
+    "blocks": "0",
+    "errors": "0"
+  },
+  {
+    "team_name": "Le Havre",
+    "player_name": "Mathéo Bodmer",
+    "tkl": "0",
+    "tklWon": "0",
+    "tkl_pct": "",
+    "interception": "0",
+    "blocks": "0",
+    "errors": "0"
+  },
+  {
+    "team_name": "Le Havre",
+    "player_name": "Kandet Diawara",
+    "tkl": "0",
+    "tklWon": "0",
+    "tkl_pct": "",
+    "interception": "0",
+    "blocks": "1",
+    "errors": "0"
+  },
+  {
+    "team_name": "Le Havre",
+    "player_name": "Alois Confais",
+    "tkl": "0",
+    "tklWon": "0",
+    "tkl_pct": "",
+    "interception": "0",
+    "blocks": "0",
+    "errors": "0"
+  },
+  {
+    "team_name": "Reims",
+    "player_name": "Yehvann Diouf",
+    "tkl": "2",
+    "tklWon": "1",
+    "tkl_pct": "33.3",
+    "interception": "1",
+    "blocks": "0",
+    "errors": "4"
+  },
+  {
+    "team_name": "Reims",
+    "player_name": "Valentin Atangana Edoa",
+    "tkl": "69",
+    "tklWon": "50",
+    "tkl_pct": "73.7",
+    "interception": "37",
+    "blocks": "31",
+    "errors": "0"
+  },
+  {
+    "team_name": "Reims",
+    "player_name": "Junya Ito",
+    "tkl": "45",
+    "tklWon": "30",
+    "tkl_pct": "28.3",
+    "interception": "13",
+    "blocks": "33",
+    "errors": "2"
+  },
+  {
+    "team_name": "Reims",
+    "player_name": "Keito Nakamura",
+    "tkl": "24",
+    "tklWon": "16",
+    "tkl_pct": "35.5",
+    "interception": "13",
+    "blocks": "21",
+    "errors": "0"
+  },
+  {
+    "team_name": "Reims",
+    "player_name": "Sergio Akieme",
+    "tkl": "34",
+    "tklWon": "23",
+    "tkl_pct": "61.1",
+    "interception": "17",
+    "blocks": "26",
+    "errors": "4"
+  },
+  {
+    "team_name": "Reims",
+    "player_name": "Cédric Kipré",
+    "tkl": "42",
+    "tklWon": "30",
+    "tkl_pct": "74.4",
+    "interception": "32",
+    "blocks": "42",
+    "errors": "2"
+  },
+  {
+    "team_name": "Reims",
+    "player_name": "Aurélio Buta",
+    "tkl": "37",
+    "tklWon": "24",
+    "tkl_pct": "50.0",
+    "interception": "22",
+    "blocks": "19",
+    "errors": "0"
+  },
+  {
+    "team_name": "Reims",
+    "player_name": "Joseph Okumu",
+    "tkl": "30",
+    "tklWon": "15",
+    "tkl_pct": "62.5",
+    "interception": "25",
+    "blocks": "33",
+    "errors": "2"
+  },
+  {
+    "team_name": "Reims",
+    "player_name": "Oumar Diakité",
+    "tkl": "20",
+    "tklWon": "13",
+    "tkl_pct": "47.4",
+    "interception": "3",
+    "blocks": "13",
+    "errors": "0"
+  },
+  {
+    "team_name": "Reims",
+    "player_name": "Marshall Munetsi",
+    "tkl": "36",
+    "tklWon": "18",
+    "tkl_pct": "57.9",
+    "interception": "17",
+    "blocks": "27",
+    "errors": "0"
+  },
+  {
+    "team_name": "Reims",
+    "player_name": "",
+    "tkl": "",
+    "tklWon": "",
+    "tkl_pct": "",
+    "interception": "",
+    "blocks": "",
+    "errors": ""
+  },
+  {
+    "team_name": "Reims",
+    "player_name": "Player",
+    "tkl": "",
+    "tklWon": "",
+    "tkl_pct": "",
+    "interception": "",
+    "blocks": "",
+    "errors": ""
+  },
+  {
+    "team_name": "Reims",
+    "player_name": "Amadou Koné",
+    "tkl": "49",
+    "tklWon": "32",
+    "tkl_pct": "62.9",
+    "interception": "19",
+    "blocks": "18",
+    "errors": "2"
+  },
+  {
+    "team_name": "Reims",
+    "player_name": "Emmanuel Agbadou",
+    "tkl": "25",
+    "tklWon": "17",
+    "tkl_pct": "73.1",
+    "interception": "19",
+    "blocks": "22",
+    "errors": "1"
+  },
+  {
+    "team_name": "Reims",
+    "player_name": "Mory Gbane",
+    "tkl": "20",
+    "tklWon": "11",
+    "tkl_pct": "54.2",
+    "interception": "18",
+    "blocks": "12",
+    "errors": "1"
+  },
+  {
+    "team_name": "Reims",
+    "player_name": "Nhoa Sangui",
+    "tkl": "16",
+    "tklWon": "9",
+    "tkl_pct": "75.0",
+    "interception": "8",
+    "blocks": "8",
+    "errors": "0"
+  },
+  {
+    "team_name": "Reims",
+    "player_name": "Hiroki Sekine",
+    "tkl": "9",
+    "tklWon": "7",
+    "tkl_pct": "41.2",
+    "interception": "5",
+    "blocks": "22",
+    "errors": "1"
+  },
+  {
+    "team_name": "Reims",
+    "player_name": "Teddy Teuma",
+    "tkl": "18",
+    "tklWon": "10",
+    "tkl_pct": "28.0",
+    "interception": "12",
+    "blocks": "12",
+    "errors": "1"
+  },
+  {
+    "team_name": "Reims",
+    "player_name": "Yaya Kader Fofana",
+    "tkl": "17",
+    "tklWon": "11",
+    "tkl_pct": "33.3",
+    "interception": "3",
+    "blocks": "11",
+    "errors": "0"
+  },
+  {
+    "team_name": "Reims",
+    "player_name": "Jordan Pefok",
+    "tkl": "3",
+    "tklWon": "2",
+    "tkl_pct": "66.7",
+    "interception": "2",
+    "blocks": "3",
+    "errors": "0"
+  },
+  {
+    "team_name": "Reims",
+    "player_name": "Mamadou Diakhon",
+    "tkl": "12",
+    "tklWon": "8",
+    "tkl_pct": "50.0",
+    "interception": "4",
+    "blocks": "5",
+    "errors": "0"
+  },
+  {
+    "team_name": "Reims",
+    "player_name": "John Joe",
+    "tkl": "24",
+    "tklWon": "15",
+    "tkl_pct": "36.8",
+    "interception": "6",
+    "blocks": "11",
+    "errors": "0"
+  },
+  {
+    "team_name": "Reims",
+    "player_name": "",
+    "tkl": "",
+    "tklWon": "",
+    "tkl_pct": "",
+    "interception": "",
+    "blocks": "",
+    "errors": ""
+  },
+  {
+    "team_name": "Reims",
+    "player_name": "Player",
+    "tkl": "",
+    "tklWon": "",
+    "tkl_pct": "",
+    "interception": "",
+    "blocks": "",
+    "errors": ""
+  },
+  {
+    "team_name": "Reims",
+    "player_name": "Hafiz Ibrahim",
+    "tkl": "3",
+    "tklWon": "2",
+    "tkl_pct": "0.0",
+    "interception": "2",
+    "blocks": "4",
+    "errors": "0"
+  },
+  {
+    "team_name": "Reims",
+    "player_name": "Amine Salama",
+    "tkl": "3",
+    "tklWon": "2",
+    "tkl_pct": "0.0",
+    "interception": "1",
+    "blocks": "2",
+    "errors": "0"
+  },
+  {
+    "team_name": "Reims",
+    "player_name": "Thibault De Smet",
+    "tkl": "6",
+    "tklWon": "4",
+    "tkl_pct": "100.0",
+    "interception": "4",
+    "blocks": "5",
+    "errors": "0"
+  },
+  {
+    "team_name": "Reims",
+    "player_name": "Ange Martial Tia",
+    "tkl": "4",
+    "tklWon": "3",
+    "tkl_pct": "33.3",
+    "interception": "2",
+    "blocks": "3",
+    "errors": "0"
+  },
+  {
+    "team_name": "Reims",
+    "player_name": "Malcolm Jeng",
+    "tkl": "0",
+    "tklWon": "0",
+    "tkl_pct": "",
+    "interception": "3",
+    "blocks": "1",
+    "errors": "0"
+  },
+  {
+    "team_name": "Reims",
+    "player_name": "Abdoul Koné",
+    "tkl": "5",
+    "tklWon": "3",
+    "tkl_pct": "60.0",
+    "interception": "1",
+    "blocks": "2",
+    "errors": "0"
+  },
+  {
+    "team_name": "Reims",
+    "player_name": "Gabriel Moscardo",
+    "tkl": "3",
+    "tklWon": "1",
+    "tkl_pct": "33.3",
+    "interception": "0",
+    "blocks": "3",
+    "errors": "0"
+  },
+  {
+    "team_name": "Reims",
+    "player_name": "Reda Khadra",
+    "tkl": "1",
+    "tklWon": "1",
+    "tkl_pct": "0.0",
+    "interception": "0",
+    "blocks": "0",
+    "errors": "0"
+  },
+  {
+    "team_name": "Reims",
+    "player_name": "Niama Sissoko",
+    "tkl": "0",
+    "tklWon": "0",
+    "tkl_pct": "",
+    "interception": "0",
+    "blocks": "1",
+    "errors": "0"
+  },
+  {
+    "team_name": "Reims",
+    "player_name": "Martin Adeline",
+    "tkl": "1",
+    "tklWon": "1",
+    "tkl_pct": "50.0",
+    "interception": "0",
+    "blocks": "0",
+    "errors": "0"
+  },
+  {
+    "team_name": "Reims",
+    "player_name": "Eloge Zabi",
+    "tkl": "0",
+    "tklWon": "0",
+    "tkl_pct": "",
+    "interception": "0",
+    "blocks": "0",
+    "errors": "0"
+  },
+  {
+    "team_name": "Reims",
+    "player_name": "Mohamed Daramy",
+    "tkl": "0",
+    "tklWon": "0",
+    "tkl_pct": "",
+    "interception": "0",
+    "blocks": "0",
+    "errors": "0"
+  },
+  {
+    "team_name": "Reims",
+    "player_name": "Mohamed Bamba",
+    "tkl": "0",
+    "tklWon": "0",
+    "tkl_pct": "0.0",
+    "interception": "0",
+    "blocks": "2",
+    "errors": "0"
+  },
+  {
+    "team_name": "Reims",
+    "player_name": "Ike Orazi",
+    "tkl": "0",
+    "tklWon": "0",
+    "tkl_pct": "",
+    "interception": "0",
+    "blocks": "0",
+    "errors": "0"
+  },
+  {
+    "team_name": "Saint-Étienne",
+    "player_name": "Gautier Larsonneur",
+    "tkl": "1",
+    "tklWon": "0",
+    "tkl_pct": "0.0",
+    "interception": "0",
+    "blocks": "1",
+    "errors": "1"
+  },
+  {
+    "team_name": "Saint-Étienne",
+    "player_name": "Zuriko Davitashvili",
+    "tkl": "22",
+    "tklWon": "14",
+    "tkl_pct": "30.6",
+    "interception": "14",
+    "blocks": "20",
+    "errors": "0"
+  },
+  {
+    "team_name": "Saint-Étienne",
+    "player_name": "Léo Pétrot",
+    "tkl": "62",
+    "tklWon": "39",
+    "tkl_pct": "66.7",
+    "interception": "42",
+    "blocks": "50",
+    "errors": "1"
+  },
+  {
+    "team_name": "Saint-Étienne",
+    "player_name": "Pierre Ekwah Elimby",
+    "tkl": "54",
+    "tklWon": "33",
+    "tkl_pct": "60.7",
+    "interception": "47",
+    "blocks": "26",
+    "errors": "1"
+  },
+  {
+    "team_name": "Saint-Étienne",
+    "player_name": "Mickael Nade",
+    "tkl": "59",
+    "tklWon": "43",
+    "tkl_pct": "77.8",
+    "interception": "33",
+    "blocks": "37",
+    "errors": "8"
+  },
+  {
+    "team_name": "Saint-Étienne",
+    "player_name": "Lucas Stassin",
+    "tkl": "16",
+    "tklWon": "11",
+    "tkl_pct": "30.0",
+    "interception": "3",
+    "blocks": "10",
+    "errors": "0"
+  },
+  {
+    "team_name": "Saint-Étienne",
+    "player_name": "Dennis Appiah",
+    "tkl": "71",
+    "tklWon": "43",
+    "tkl_pct": "57.7",
+    "interception": "29",
+    "blocks": "36",
+    "errors": "2"
+  },
+  {
+    "team_name": "Saint-Étienne",
+    "player_name": "Dylan Batubinsika",
+    "tkl": "26",
+    "tklWon": "13",
+    "tkl_pct": "59.1",
+    "interception": "39",
+    "blocks": "23",
+    "errors": "3"
+  },
+  {
+    "team_name": "Saint-Étienne",
+    "player_name": "Benjamin Bouchouari",
+    "tkl": "33",
+    "tklWon": "27",
+    "tkl_pct": "34.8",
+    "interception": "17",
+    "blocks": "21",
+    "errors": "2"
+  },
+  {
+    "team_name": "Saint-Étienne",
+    "player_name": "Florian Tardieu",
+    "tkl": "18",
+    "tklWon": "14",
+    "tkl_pct": "35.3",
+    "interception": "15",
+    "blocks": "18",
+    "errors": "0"
+  },
+  {
+    "team_name": "Saint-Étienne",
+    "player_name": "",
+    "tkl": "",
+    "tklWon": "",
+    "tkl_pct": "",
+    "interception": "",
+    "blocks": "",
+    "errors": ""
+  },
+  {
+    "team_name": "Saint-Étienne",
+    "player_name": "Player",
+    "tkl": "",
+    "tklWon": "",
+    "tkl_pct": "",
+    "interception": "",
+    "blocks": "",
+    "errors": ""
+  },
+  {
+    "team_name": "Saint-Étienne",
+    "player_name": "Irvin Cardona",
+    "tkl": "6",
+    "tklWon": "5",
+    "tkl_pct": "14.3",
+    "interception": "4",
+    "blocks": "16",
+    "errors": "2"
+  },
+  {
+    "team_name": "Saint-Étienne",
+    "player_name": "Aimen Moueffek",
+    "tkl": "20",
+    "tklWon": "12",
+    "tkl_pct": "43.5",
+    "interception": "5",
+    "blocks": "20",
+    "errors": "1"
+  },
+  {
+    "team_name": "Saint-Étienne",
+    "player_name": "Louis Mouton",
+    "tkl": "49",
+    "tklWon": "25",
+    "tkl_pct": "59.5",
+    "interception": "10",
+    "blocks": "17",
+    "errors": "0"
+  },
+  {
+    "team_name": "Saint-Étienne",
+    "player_name": "Yunis Abdelhamid",
+    "tkl": "17",
+    "tklWon": "11",
+    "tkl_pct": "62.5",
+    "interception": "14",
+    "blocks": "26",
+    "errors": "1"
+  },
+  {
+    "team_name": "Saint-Étienne",
+    "player_name": "Yvann Macon",
+    "tkl": "19",
+    "tklWon": "11",
+    "tkl_pct": "47.6",
+    "interception": "2",
+    "blocks": "14",
+    "errors": "1"
+  },
+  {
+    "team_name": "Saint-Étienne",
+    "player_name": "Mathis Amougou",
+    "tkl": "21",
+    "tklWon": "15",
+    "tkl_pct": "52.6",
+    "interception": "12",
+    "blocks": "10",
+    "errors": "0"
+  },
+  {
+    "team_name": "Saint-Étienne",
+    "player_name": "Maxime Bernauer",
+    "tkl": "9",
+    "tklWon": "9",
+    "tkl_pct": "62.5",
+    "interception": "5",
+    "blocks": "7",
+    "errors": "1"
+  },
+  {
+    "team_name": "Saint-Étienne",
+    "player_name": "Mathieu Cafaro",
+    "tkl": "10",
+    "tklWon": "7",
+    "tkl_pct": "26.7",
+    "interception": "7",
+    "blocks": "7",
+    "errors": "0"
+  },
+  {
+    "team_name": "Saint-Étienne",
+    "player_name": "Ibrahim Sissoko",
+    "tkl": "11",
+    "tklWon": "9",
+    "tkl_pct": "40.0",
+    "interception": "2",
+    "blocks": "10",
+    "errors": "0"
+  },
+  {
+    "team_name": "Saint-Étienne",
+    "player_name": "Augustine Boakye",
+    "tkl": "7",
+    "tklWon": "3",
+    "tkl_pct": "27.3",
+    "interception": "6",
+    "blocks": "5",
+    "errors": "0"
+  },
+  {
+    "team_name": "Saint-Étienne",
+    "player_name": "",
+    "tkl": "",
+    "tklWon": "",
+    "tkl_pct": "",
+    "interception": "",
+    "blocks": "",
+    "errors": ""
+  },
+  {
+    "team_name": "Saint-Étienne",
+    "player_name": "Player",
+    "tkl": "",
+    "tklWon": "",
+    "tkl_pct": "",
+    "interception": "",
+    "blocks": "",
+    "errors": ""
+  },
+  {
+    "team_name": "Saint-Étienne",
+    "player_name": "Pierre Cornud",
+    "tkl": "12",
+    "tklWon": "10",
+    "tkl_pct": "47.1",
+    "interception": "9",
+    "blocks": "9",
+    "errors": "1"
+  },
+  {
+    "team_name": "Saint-Étienne",
+    "player_name": "Ben Old",
+    "tkl": "7",
+    "tklWon": "5",
+    "tkl_pct": "27.3",
+    "interception": "2",
+    "blocks": "8",
+    "errors": "0"
+  },
+  {
+    "team_name": "Saint-Étienne",
+    "player_name": "Lamine Fomba",
+    "tkl": "8",
+    "tklWon": "6",
+    "tkl_pct": "28.6",
+    "interception": "4",
+    "blocks": "7",
+    "errors": "1"
+  },
+  {
+    "team_name": "Saint-Étienne",
+    "player_name": "Djylian N'Guessan",
+    "tkl": "6",
+    "tklWon": "4",
+    "tkl_pct": "40.0",
+    "interception": "0",
+    "blocks": "1",
+    "errors": "0"
+  },
+  {
+    "team_name": "Saint-Étienne",
+    "player_name": "Ibrahima Wadji",
+    "tkl": "7",
+    "tklWon": "6",
+    "tkl_pct": "42.9",
+    "interception": "1",
+    "blocks": "1",
+    "errors": "0"
+  },
+  {
+    "team_name": "Saint-Étienne",
+    "player_name": "Marwann Nzuzi",
+    "tkl": "2",
+    "tklWon": "2",
+    "tkl_pct": "50.0",
+    "interception": "2",
+    "blocks": "0",
+    "errors": "0"
+  },
+  {
+    "team_name": "Saint-Étienne",
+    "player_name": "Ayman Aiki",
+    "tkl": "3",
+    "tklWon": "3",
+    "tkl_pct": "100.0",
+    "interception": "1",
+    "blocks": "1",
+    "errors": "0"
+  },
+  {
+    "team_name": "Saint-Étienne",
+    "player_name": "Beres Owusu",
+    "tkl": "2",
+    "tklWon": "2",
+    "tkl_pct": "100.0",
+    "interception": "0",
+    "blocks": "2",
+    "errors": "0"
+  },
+  {
+    "team_name": "Saint-Étienne",
+    "player_name": "Igor Miladinović",
+    "tkl": "0",
+    "tklWon": "0",
+    "tkl_pct": "",
+    "interception": "1",
+    "blocks": "0",
+    "errors": "0"
+  },
+  {
+    "team_name": "Saint-Étienne",
+    "player_name": "Kévin Pedro",
+    "tkl": "3",
+    "tklWon": "0",
+    "tkl_pct": "100.0",
+    "interception": "2",
+    "blocks": "1",
+    "errors": "0"
+  },
+  {
+    "team_name": "Saint-Étienne",
+    "player_name": "Jibril Othman",
+    "tkl": "0",
+    "tklWon": "0",
+    "tkl_pct": "",
+    "interception": "0",
+    "blocks": "0",
+    "errors": "0"
+  },
+  {
+    "team_name": "Saint-Étienne",
+    "player_name": "Anthony Briançon",
+    "tkl": "0",
+    "tklWon": "0",
+    "tkl_pct": "",
+    "interception": "0",
+    "blocks": "0",
+    "errors": "0"
+  },
+  {
+    "team_name": "Montpellier",
+    "player_name": "Benjamin Lecomte",
+    "tkl": "0",
+    "tklWon": "0",
+    "tkl_pct": "",
+    "interception": "0",
+    "blocks": "0",
+    "errors": "2"
+  },
+  {
+    "team_name": "Montpellier",
+    "player_name": "Téji Savanier",
+    "tkl": "29",
+    "tklWon": "25",
+    "tkl_pct": "41.9",
+    "interception": "15",
+    "blocks": "16",
+    "errors": "4"
+  },
+  {
+    "team_name": "Montpellier",
+    "player_name": "Modibo Sagnan",
+    "tkl": "57",
+    "tklWon": "35",
+    "tkl_pct": "59.1",
+    "interception": "29",
+    "blocks": "24",
+    "errors": "5"
+  },
+  {
+    "team_name": "Montpellier",
+    "player_name": "Joris Chotard",
+    "tkl": "39",
+    "tklWon": "27",
+    "tkl_pct": "43.5",
+    "interception": "19",
+    "blocks": "28",
+    "errors": "1"
+  },
+  {
+    "team_name": "Montpellier",
+    "player_name": "Enzo Tchato",
+    "tkl": "48",
+    "tklWon": "26",
+    "tkl_pct": "59.1",
+    "interception": "22",
+    "blocks": "30",
+    "errors": "0"
+  },
+  {
+    "team_name": "Montpellier",
+    "player_name": "Becir Omeragic",
+    "tkl": "32",
+    "tklWon": "16",
+    "tkl_pct": "76.2",
+    "interception": "13",
+    "blocks": "32",
+    "errors": "0"
+  },
+  {
+    "team_name": "Montpellier",
+    "player_name": "Jordan Ferri",
+    "tkl": "42",
+    "tklWon": "23",
+    "tkl_pct": "40.9",
+    "interception": "9",
+    "blocks": "20",
+    "errors": "0"
+  },
+  {
+    "team_name": "Montpellier",
+    "player_name": "Rabby Nzingoula",
+    "tkl": "64",
+    "tklWon": "42",
+    "tkl_pct": "46.6",
+    "interception": "29",
+    "blocks": "27",
+    "errors": "0"
+  },
+  {
+    "team_name": "Montpellier",
+    "player_name": "Tanguy Coulibaly",
+    "tkl": "32",
+    "tklWon": "24",
+    "tkl_pct": "42.4",
+    "interception": "11",
+    "blocks": "18",
+    "errors": "1"
+  },
+  {
+    "team_name": "Montpellier",
+    "player_name": "Issiaga Sylla",
+    "tkl": "25",
+    "tklWon": "10",
+    "tkl_pct": "51.7",
+    "interception": "10",
+    "blocks": "13",
+    "errors": "1"
+  },
+  {
+    "team_name": "Montpellier",
+    "player_name": "",
+    "tkl": "",
+    "tklWon": "",
+    "tkl_pct": "",
+    "interception": "",
+    "blocks": "",
+    "errors": ""
+  },
+  {
+    "team_name": "Montpellier",
+    "player_name": "Player",
+    "tkl": "",
+    "tklWon": "",
+    "tkl_pct": "",
+    "interception": "",
+    "blocks": "",
+    "errors": ""
+  },
+  {
+    "team_name": "Montpellier",
+    "player_name": "Falaye Sacko",
+    "tkl": "14",
+    "tklWon": "8",
+    "tkl_pct": "47.4",
+    "interception": "13",
+    "blocks": "17",
+    "errors": "0"
+  },
+  {
+    "team_name": "Montpellier",
+    "player_name": "Arnaud Nordin",
+    "tkl": "24",
+    "tklWon": "15",
+    "tkl_pct": "52.4",
+    "interception": "5",
+    "blocks": "12",
+    "errors": "0"
+  },
+  {
+    "team_name": "Montpellier",
+    "player_name": "Akor Adams",
+    "tkl": "4",
+    "tklWon": "3",
+    "tkl_pct": "75.0",
+    "interception": "1",
+    "blocks": "2",
+    "errors": "1"
+  },
+  {
+    "team_name": "Montpellier",
+    "player_name": "Musa Al-Taamari",
+    "tkl": "14",
+    "tklWon": "10",
+    "tkl_pct": "53.3",
+    "interception": "3",
+    "blocks": "2",
+    "errors": "2"
+  },
+  {
+    "team_name": "Montpellier",
+    "player_name": "Théo Sainte-Luce",
+    "tkl": "24",
+    "tklWon": "11",
+    "tkl_pct": "48.5",
+    "interception": "12",
+    "blocks": "16",
+    "errors": "1"
+  },
+  {
+    "team_name": "Montpellier",
+    "player_name": "Wahbi Khazri",
+    "tkl": "25",
+    "tklWon": "18",
+    "tkl_pct": "38.1",
+    "interception": "5",
+    "blocks": "13",
+    "errors": "0"
+  },
+  {
+    "team_name": "Montpellier",
+    "player_name": "Khalil Fayad",
+    "tkl": "31",
+    "tklWon": "16",
+    "tkl_pct": "53.6",
+    "interception": "10",
+    "blocks": "18",
+    "errors": "1"
+  },
+  {
+    "team_name": "Montpellier",
+    "player_name": "Yael Mouanga",
+    "tkl": "14",
+    "tklWon": "8",
+    "tkl_pct": "77.8",
+    "interception": "10",
+    "blocks": "16",
+    "errors": "0"
+  },
+  {
+    "team_name": "Montpellier",
+    "player_name": "Boubakar Kouyaté",
+    "tkl": "22",
+    "tklWon": "17",
+    "tkl_pct": "57.9",
+    "interception": "12",
+    "blocks": "17",
+    "errors": "0"
+  },
+  {
+    "team_name": "Montpellier",
+    "player_name": "Lucas Mincarelli",
+    "tkl": "17",
+    "tklWon": "10",
+    "tkl_pct": "46.2",
+    "interception": "9",
+    "blocks": "8",
+    "errors": "0"
+  },
+  {
+    "team_name": "Montpellier",
+    "player_name": "",
+    "tkl": "",
+    "tklWon": "",
+    "tkl_pct": "",
+    "interception": "",
+    "blocks": "",
+    "errors": ""
+  },
+  {
+    "team_name": "Montpellier",
+    "player_name": "Player",
+    "tkl": "",
+    "tklWon": "",
+    "tkl_pct": "",
+    "interception": "",
+    "blocks": "",
+    "errors": ""
+  },
+  {
+    "team_name": "Montpellier",
+    "player_name": "Andy Delort",
+    "tkl": "4",
+    "tklWon": "3",
+    "tkl_pct": "50.0",
+    "interception": "0",
+    "blocks": "3",
+    "errors": "0"
+  },
+  {
+    "team_name": "Montpellier",
+    "player_name": "Nikola Maksimović",
+    "tkl": "9",
+    "tklWon": "5",
+    "tkl_pct": "85.7",
+    "interception": "6",
+    "blocks": "5",
+    "errors": "1"
+  },
+  {
+    "team_name": "Montpellier",
+    "player_name": "Bamo Meïté",
+    "tkl": "5",
+    "tklWon": "3",
+    "tkl_pct": "50.0",
+    "interception": "4",
+    "blocks": "3",
+    "errors": "3"
+  },
+  {
+    "team_name": "Montpellier",
+    "player_name": "Nicolas Pays",
+    "tkl": "13",
+    "tklWon": "6",
+    "tkl_pct": "50.0",
+    "interception": "4",
+    "blocks": "1",
+    "errors": "0"
+  },
+  {
+    "team_name": "Montpellier",
+    "player_name": "Junior Ndiaye",
+    "tkl": "3",
+    "tklWon": "2",
+    "tkl_pct": "25.0",
+    "interception": "0",
+    "blocks": "2",
+    "errors": "0"
+  },
+  {
+    "team_name": "Montpellier",
+    "player_name": "Dimitry Bertaud",
+    "tkl": "0",
+    "tklWon": "0",
+    "tkl_pct": "",
+    "interception": "0",
+    "blocks": "0",
+    "errors": "0"
+  },
+  {
+    "team_name": "Montpellier",
+    "player_name": "Wilfried Ndollo",
+    "tkl": "6",
+    "tklWon": "5",
+    "tkl_pct": "50.0",
+    "interception": "7",
+    "blocks": "9",
+    "errors": "0"
+  },
+  {
+    "team_name": "Montpellier",
+    "player_name": "Othmane Maamma",
+    "tkl": "3",
+    "tklWon": "1",
+    "tkl_pct": "25.0",
+    "interception": "1",
+    "blocks": "4",
+    "errors": "1"
+  },
+  {
+    "team_name": "Montpellier",
+    "player_name": "Birama Touré",
+    "tkl": "8",
+    "tklWon": "5",
+    "tkl_pct": "66.7",
+    "interception": "6",
+    "blocks": "3",
+    "errors": "0"
+  },
+  {
+    "team_name": "Montpellier",
+    "player_name": "Stefan Džodić",
+    "tkl": "8",
+    "tklWon": "5",
+    "tkl_pct": "62.5",
+    "interception": "5",
+    "blocks": "5",
+    "errors": "1"
+  },
+  {
+    "team_name": "Montpellier",
+    "player_name": "Théo Chennahi",
+    "tkl": "6",
+    "tklWon": "3",
+    "tkl_pct": "57.1",
+    "interception": "2",
+    "blocks": "3",
+    "errors": "0"
+  },
+  {
+    "team_name": "Montpellier",
+    "player_name": "Yanis Issoufou",
+    "tkl": "6",
+    "tklWon": "4",
+    "tkl_pct": "60.0",
+    "interception": "0",
+    "blocks": "1",
+    "errors": "0"
+  },
+  {
+    "team_name": "Montpellier",
+    "player_name": "Gabriel Bares",
+    "tkl": "2",
+    "tklWon": "2",
+    "tkl_pct": "50.0",
+    "interception": "1",
+    "blocks": "0",
+    "errors": "0"
+  },
+  {
+    "team_name": "Montpellier",
+    "player_name": "Axel Gueguin",
+    "tkl": "1",
+    "tklWon": "1",
+    "tkl_pct": "100.0",
+    "interception": "0",
+    "blocks": "0",
+    "errors": "0"
+  },
+  {
+    "team_name": "Montpellier",
+    "player_name": "Simon Cara",
+    "tkl": "0",
+    "tklWon": "0",
+    "tkl_pct": "",
+    "interception": "0",
+    "blocks": "0",
+    "errors": "0"
+  }
+]

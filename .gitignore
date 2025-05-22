@@ -1,0 +1,7 @@
+__pycache__/
+.vscode
+venv
+logs
+pgdata
+credentials.json
+spark/spark-jars/*.jar

@@ -1,0 +1,110 @@
+[
+  {
+    "team": "Rennes",
+    "incomes": "€ 177,300,000",
+    "expense": "€ 154,950,000",
+    "balance": "€ 22,350,000"
+  },
+  {
+    "team": "PSG",
+    "incomes": "€ 130,100,000",
+    "expense": "€ 239,920,000",
+    "balance": "€ -109,820,000"
+  },
+  {
+    "team": "Marseille",
+    "incomes": "€ 108,500,000",
+    "expense": "€ 110,500,000",
+    "balance": "€ -2,000,000"
+  },
+  {
+    "team": "Lens",
+    "incomes": "€ 97,190,000",
+    "expense": "€ 24,000,000",
+    "balance": "€ 73,190,000"
+  },
+  {
+    "team": "Lyon",
+    "incomes": "€ 68,050,000",
+    "expense": "€ 147,790,000",
+    "balance": "€ -79,740,000"
+  },
+  {
+    "team": "Lille",
+    "incomes": "€ 62,000,000",
+    "expense": "€ 23,000,000",
+    "balance": "€ 39,000,000"
+  },
+  {
+    "team": "Toulouse",
+    "incomes": "€ 55,300,000",
+    "expense": "€ 7,500,000",
+    "balance": "€ 47,800,000"
+  },
+  {
+    "team": "Reims",
+    "incomes": "€ 53,200,000",
+    "expense": "€ 13,850,000",
+    "balance": "€ 39,350,000"
+  },
+  {
+    "team": "Monaco",
+    "incomes": "€ 47,500,000",
+    "expense": "€ 88,750,000",
+    "balance": "€ -41,250,000"
+  },
+  {
+    "team": "Montpellier",
+    "incomes": "€ 27,000,000",
+    "expense": "€ 0",
+    "balance": "€ 27,000,000"
+  },
+  {
+    "team": "Nice",
+    "incomes": "€ 24,000,000",
+    "expense": "€ 20,700,000",
+    "balance": "€ 3,300,000"
+  },
+  {
+    "team": "St-Etienne",
+    "incomes": "€ 15,000,000",
+    "expense": "€ 23,100,000",
+    "balance": "€ -8,100,000"
+  },
+  {
+    "team": "Nantes",
+    "incomes": "€ 11,300,000",
+    "expense": "€ 10,250,000",
+    "balance": "€ 1,050,000"
+  },
+  {
+    "team": "Le Havre",
+    "incomes": "€ 11,250,000",
+    "expense": "€ 0",
+    "balance": "€ 11,250,000"
+  },
+  {
+    "team": "Brest",
+    "incomes": "€ 6,400,000",
+    "expense": "€ 12,200,000",
+    "balance": "€ -5,800,000"
+  },
+  {
+    "team": "Auxerre",
+    "incomes": "€ 5,400,000",
+    "expense": "€ 4,400,000",
+    "balance": "€ 1,000,000"
+  },
+  {
+    "team": "Angers",
+    "incomes": "€ 474,000",
+    "expense": "€ 0",
+    "balance": "€ 474,000"
+  },
+  {
+    "team": "Strasbourg",
+    "incomes": "€ 0",
+    "expense": "€ 55,400,000",
+    "balance": "€ -55,400,000"
+  }
+]

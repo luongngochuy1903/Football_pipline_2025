@@ -1,0 +1,110 @@
+[
+    {
+        "team_name": "Leverkusen",
+        "rank": "1",
+        "point": "90",
+        "manager": "Unknown"
+    },
+    {
+        "team_name": "Stuttgart",
+        "rank": "2",
+        "point": "73",
+        "manager": "Unknown"
+    },
+    {
+        "team_name": "Bayern Munich",
+        "rank": "3",
+        "point": "72",
+        "manager": "Unknown"
+    },
+    {
+        "team_name": "RB Leipzig",
+        "rank": "4",
+        "point": "65",
+        "manager": "Unknown"
+    },
+    {
+        "team_name": "Dortmund",
+        "rank": "5",
+        "point": "63",
+        "manager": "Unknown"
+    },
+    {
+        "team_name": "Eint Frankfurt",
+        "rank": "6",
+        "point": "47",
+        "manager": "Unknown"
+    },
+    {
+        "team_name": "Hoffenheim",
+        "rank": "7",
+        "point": "46",
+        "manager": "Unknown"
+    },
+    {
+        "team_name": "Heidenheim",
+        "rank": "8",
+        "point": "42",
+        "manager": "Unknown"
+    },
+    {
+        "team_name": "Werder Bremen",
+        "rank": "9",
+        "point": "42",
+        "manager": "Unknown"
+    },
+    {
+        "team_name": "Freiburg",
+        "rank": "10",
+        "point": "42",
+        "manager": "Unknown"
+    },
+    {
+        "team_name": "Augsburg",
+        "rank": "11",
+        "point": "39",
+        "manager": "Unknown"
+    },
+    {
+        "team_name": "Wolfsburg",
+        "rank": "12",
+        "point": "37",
+        "manager": "Unknown"
+    },
+    {
+        "team_name": "Mainz 05",
+        "rank": "13",
+        "point": "35",
+        "manager": "Unknown"
+    },
+    {
+        "team_name": "Gladbach",
+        "rank": "14",
+        "point": "34",
+        "manager": "Unknown"
+    },
+    {
+        "team_name": "Union Berlin",
+        "rank": "15",
+        "point": "33",
+        "manager": "Unknown"
+    },
+    {
+        "team_name": "Bochum",
+        "rank": "16",
+        "point": "33",
+        "manager": "Unknown"
+    },
+    {
+        "team_name": "Köln",
+        "rank": "17",
+        "point": "27",
+        "manager": "Unknown"
+    },
+    {
+        "team_name": "Darmstadt 98",
+        "rank": "18",
+        "point": "17",
+        "manager": "Unknown"
+    }
+]

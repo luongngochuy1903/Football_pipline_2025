@@ -1,0 +1,110 @@
+[
+  {
+    "team_name": "Paris S-G",
+    "rank": "1",
+    "point": "84",
+    "manager": "Luis Enrique"
+  },
+  {
+    "team_name": "Marseille",
+    "rank": "2",
+    "point": "65",
+    "manager": "Roberto De Zerbi"
+  },
+  {
+    "team_name": "Monaco",
+    "rank": "3",
+    "point": "61",
+    "manager": "Adi Hütter"
+  },
+  {
+    "team_name": "Nice",
+    "rank": "4",
+    "point": "60",
+    "manager": "Franck Haise"
+  },
+  {
+    "team_name": "Lille",
+    "rank": "5",
+    "point": "60",
+    "manager": "Bruno Génésio"
+  },
+  {
+    "team_name": "Lyon",
+    "rank": "6",
+    "point": "57",
+    "manager": "Paulo Fonseca"
+  },
+  {
+    "team_name": "Strasbourg",
+    "rank": "7",
+    "point": "57",
+    "manager": "Liam Rosenior"
+  },
+  {
+    "team_name": "Lens",
+    "rank": "8",
+    "point": "52",
+    "manager": "Will Still"
+  },
+  {
+    "team_name": "Brest",
+    "rank": "9",
+    "point": "50",
+    "manager": "Eric Roy"
+  },
+  {
+    "team_name": "Toulouse",
+    "rank": "10",
+    "point": "42",
+    "manager": "Carles Martínez"
+  },
+  {
+    "team_name": "Auxerre",
+    "rank": "11",
+    "point": "42",
+    "manager": "Christophe Pélissier"
+  },
+  {
+    "team_name": "Rennes",
+    "rank": "12",
+    "point": "41",
+    "manager": "Habib Beye"
+  },
+  {
+    "team_name": "Nantes",
+    "rank": "13",
+    "point": "36",
+    "manager": "Antoine Kombouaré"
+  },
+  {
+    "team_name": "Angers",
+    "rank": "14",
+    "point": "36",
+    "manager": "Unknown"
+  },
+  {
+    "team_name": "Le Havre",
+    "rank": "15",
+    "point": "34",
+    "manager": "Didier Digard"
+  },
+  {
+    "team_name": "Reims",
+    "rank": "16",
+    "point": "33",
+    "manager": "Unknown"
+  },
+  {
+    "team_name": "Saint-Étienne",
+    "rank": "17",
+    "point": "30",
+    "manager": "Eirik Horneland"
+  },
+  {
+    "team_name": "Montpellier",
+    "rank": "18",
+    "point": "16",
+    "manager": "Zoumana Camara"
+  }
+]

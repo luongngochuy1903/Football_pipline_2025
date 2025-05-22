@@ -1,0 +1,5447 @@
+[
+  {
+    "team_name": "Paris S-G",
+    "player_name": "Bradley Barcola",
+    "SCA": "101",
+    "SCA90": "4.17",
+    "GCA": "20",
+    "GCA90": "0.83",
+    "passlive": "17"
+  },
+  {
+    "team_name": "Paris S-G",
+    "player_name": "Gianluigi Donnarumma",
+    "SCA": "2",
+    "SCA90": "0.09",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Paris S-G",
+    "player_name": "Achraf Hakimi",
+    "SCA": "104",
+    "SCA90": "4.53",
+    "GCA": "11",
+    "GCA90": "0.48",
+    "passlive": "10"
+  },
+  {
+    "team_name": "Paris S-G",
+    "player_name": "Willian Pacho",
+    "SCA": "13",
+    "SCA90": "0.55",
+    "GCA": "3",
+    "GCA90": "0.13",
+    "passlive": "2"
+  },
+  {
+    "team_name": "Paris S-G",
+    "player_name": "Warren Zaïre-Emery",
+    "SCA": "52",
+    "SCA90": "2.28",
+    "GCA": "4",
+    "GCA90": "0.18",
+    "passlive": "2"
+  },
+  {
+    "team_name": "Paris S-G",
+    "player_name": "Lucas Beraldo",
+    "SCA": "22",
+    "SCA90": "0.98",
+    "GCA": "3",
+    "GCA90": "0.13",
+    "passlive": "3"
+  },
+  {
+    "team_name": "Paris S-G",
+    "player_name": "João Neves",
+    "SCA": "68",
+    "SCA90": "3.32",
+    "GCA": "14",
+    "GCA90": "0.68",
+    "passlive": "14"
+  },
+  {
+    "team_name": "Paris S-G",
+    "player_name": "Fabián Ruiz Peña",
+    "SCA": "89",
+    "SCA90": "4.16",
+    "GCA": "14",
+    "GCA90": "0.65",
+    "passlive": "12"
+  },
+  {
+    "team_name": "Paris S-G",
+    "player_name": "Vitinha",
+    "SCA": "73",
+    "SCA90": "3.22",
+    "GCA": "4",
+    "GCA90": "0.18",
+    "passlive": "2"
+  },
+  {
+    "team_name": "Paris S-G",
+    "player_name": "Ousmane Dembélé",
+    "SCA": "110",
+    "SCA90": "5.72",
+    "GCA": "15",
+    "GCA90": "0.78",
+    "passlive": "11"
+  },
+  {
+    "team_name": "Paris S-G",
+    "player_name": "Marquinhos",
+    "SCA": "31",
+    "SCA90": "1.62",
+    "GCA": "1",
+    "GCA90": "0.05",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Paris S-G",
+    "player_name": "Nuno Mendes",
+    "SCA": "72",
+    "SCA90": "3.87",
+    "GCA": "6",
+    "GCA90": "0.32",
+    "passlive": "5"
+  },
+  {
+    "team_name": "Paris S-G",
+    "player_name": "Lee Kang-in",
+    "SCA": "97",
+    "SCA90": "5.26",
+    "GCA": "6",
+    "GCA90": "0.33",
+    "passlive": "5"
+  },
+  {
+    "team_name": "Paris S-G",
+    "player_name": "Désiré Doué",
+    "SCA": "109",
+    "SCA90": "5.66",
+    "GCA": "24",
+    "GCA90": "1.25",
+    "passlive": "15"
+  },
+  {
+    "team_name": "Paris S-G",
+    "player_name": "Gonçalo Ramos",
+    "SCA": "30",
+    "SCA90": "2.54",
+    "GCA": "6",
+    "GCA90": "0.51",
+    "passlive": "4"
+  },
+  {
+    "team_name": "Paris S-G",
+    "player_name": "Khvicha Kvaratskhelia",
+    "SCA": "60",
+    "SCA90": "5.89",
+    "GCA": "8",
+    "GCA90": "0.79",
+    "passlive": "5"
+  },
+  {
+    "team_name": "Paris S-G",
+    "player_name": "Lucas Hernández",
+    "SCA": "11",
+    "SCA90": "1.13",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Paris S-G",
+    "player_name": "Matvei Safonov",
+    "SCA": "0",
+    "SCA90": "0.00",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Paris S-G",
+    "player_name": "Senny Mayulu",
+    "SCA": "38",
+    "SCA90": "4.23",
+    "GCA": "6",
+    "GCA90": "0.67",
+    "passlive": "6"
+  },
+  {
+    "team_name": "Paris S-G",
+    "player_name": "Marco Asensio",
+    "SCA": "37",
+    "SCA90": "5.39",
+    "GCA": "7",
+    "GCA90": "1.02",
+    "passlive": "7"
+  },
+  {
+    "team_name": "Paris S-G",
+    "player_name": "Milan Škriniar",
+    "SCA": "6",
+    "SCA90": "1.41",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Paris S-G",
+    "player_name": "Ibrahim Mbaye",
+    "SCA": "8",
+    "SCA90": "2.12",
+    "GCA": "2",
+    "GCA90": "0.53",
+    "passlive": "2"
+  },
+  {
+    "team_name": "Paris S-G",
+    "player_name": "Randal Kolo Muani",
+    "SCA": "13",
+    "SCA90": "3.27",
+    "GCA": "3",
+    "GCA90": "0.75",
+    "passlive": "1"
+  },
+  {
+    "team_name": "Paris S-G",
+    "player_name": "Yoram Zague",
+    "SCA": "3",
+    "SCA90": "1.48",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Paris S-G",
+    "player_name": "Axel Tapé",
+    "SCA": "1",
+    "SCA90": "0.50",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Paris S-G",
+    "player_name": "Arnau Tenas",
+    "SCA": "2",
+    "SCA90": "2.00",
+    "GCA": "1",
+    "GCA90": "1.00",
+    "passlive": "1"
+  },
+  {
+    "team_name": "Paris S-G",
+    "player_name": "Noham Kamara",
+    "SCA": "1",
+    "SCA90": "1.18",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Paris S-G",
+    "player_name": "Presnel Kimpembe",
+    "SCA": "0",
+    "SCA90": "0.00",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Marseille",
+    "player_name": "Gerónimo Rulli",
+    "SCA": "8",
+    "SCA90": "0.24",
+    "GCA": "2",
+    "GCA90": "0.06",
+    "passlive": "1"
+  },
+  {
+    "team_name": "Marseille",
+    "player_name": "Mason Greenwood",
+    "SCA": "123",
+    "SCA90": "3.95",
+    "GCA": "19",
+    "GCA90": "0.61",
+    "passlive": "15"
+  },
+  {
+    "team_name": "Marseille",
+    "player_name": "Pierre Højbjerg",
+    "SCA": "100",
+    "SCA90": "3.38",
+    "GCA": "10",
+    "GCA90": "0.34",
+    "passlive": "8"
+  },
+  {
+    "team_name": "Marseille",
+    "player_name": "Luis Henrique",
+    "SCA": "105",
+    "SCA90": "3.62",
+    "GCA": "15",
+    "GCA90": "0.52",
+    "passlive": "15"
+  },
+  {
+    "team_name": "Marseille",
+    "player_name": "Adrien Rabiot",
+    "SCA": "66",
+    "SCA90": "2.39",
+    "GCA": "11",
+    "GCA90": "0.40",
+    "passlive": "8"
+  },
+  {
+    "team_name": "Marseille",
+    "player_name": "Michael Amir Murillo",
+    "SCA": "47",
+    "SCA90": "1.74",
+    "GCA": "6",
+    "GCA90": "0.22",
+    "passlive": "5"
+  },
+  {
+    "team_name": "Marseille",
+    "player_name": "Leonardo Balerdi",
+    "SCA": "27",
+    "SCA90": "1.07",
+    "GCA": "3",
+    "GCA90": "0.12",
+    "passlive": "3"
+  },
+  {
+    "team_name": "Marseille",
+    "player_name": "Geoffrey Kondogbia",
+    "SCA": "24",
+    "SCA90": "1.07",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Marseille",
+    "player_name": "Quentin Merlin",
+    "SCA": "59",
+    "SCA90": "3.34",
+    "GCA": "9",
+    "GCA90": "0.51",
+    "passlive": "7"
+  },
+  {
+    "team_name": "Marseille",
+    "player_name": "Valentin Rongier",
+    "SCA": "35",
+    "SCA90": "2.02",
+    "GCA": "6",
+    "GCA90": "0.35",
+    "passlive": "5"
+  },
+  {
+    "team_name": "Marseille",
+    "player_name": "",
+    "SCA": "",
+    "SCA90": "",
+    "GCA": "",
+    "GCA90": "",
+    "passlive": ""
+  },
+  {
+    "team_name": "Marseille",
+    "player_name": "Player",
+    "SCA": "",
+    "SCA90": "",
+    "GCA": "",
+    "GCA90": "",
+    "passlive": ""
+  },
+  {
+    "team_name": "Marseille",
+    "player_name": "Derek Cornelius",
+    "SCA": "9",
+    "SCA90": "0.57",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Marseille",
+    "player_name": "Neal Maupay",
+    "SCA": "22",
+    "SCA90": "1.90",
+    "GCA": "5",
+    "GCA90": "0.43",
+    "passlive": "5"
+  },
+  {
+    "team_name": "Marseille",
+    "player_name": "Amine Gouiri",
+    "SCA": "56",
+    "SCA90": "4.81",
+    "GCA": "7",
+    "GCA90": "0.60",
+    "passlive": "3"
+  },
+  {
+    "team_name": "Marseille",
+    "player_name": "Ulisses Garcia",
+    "SCA": "20",
+    "SCA90": "1.93",
+    "GCA": "7",
+    "GCA90": "0.68",
+    "passlive": "5"
+  },
+  {
+    "team_name": "Marseille",
+    "player_name": "Lilian Brassier",
+    "SCA": "3",
+    "SCA90": "0.35",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Marseille",
+    "player_name": "Ismaël Bennacer",
+    "SCA": "25",
+    "SCA90": "3.48",
+    "GCA": "4",
+    "GCA90": "0.56",
+    "passlive": "2"
+  },
+  {
+    "team_name": "Marseille",
+    "player_name": "Amine Harit",
+    "SCA": "33",
+    "SCA90": "5.72",
+    "GCA": "8",
+    "GCA90": "1.39",
+    "passlive": "7"
+  },
+  {
+    "team_name": "Marseille",
+    "player_name": "Elye Wahi",
+    "SCA": "16",
+    "SCA90": "2.50",
+    "GCA": "4",
+    "GCA90": "0.63",
+    "passlive": "3"
+  },
+  {
+    "team_name": "Marseille",
+    "player_name": "Jon Rowe",
+    "SCA": "38",
+    "SCA90": "4.24",
+    "GCA": "7",
+    "GCA90": "0.78",
+    "passlive": "4"
+  },
+  {
+    "team_name": "Marseille",
+    "player_name": "Pol Lirola",
+    "SCA": "16",
+    "SCA90": "2.12",
+    "GCA": "2",
+    "GCA90": "0.26",
+    "passlive": "2"
+  },
+  {
+    "team_name": "Marseille",
+    "player_name": "",
+    "SCA": "",
+    "SCA90": "",
+    "GCA": "",
+    "GCA90": "",
+    "passlive": ""
+  },
+  {
+    "team_name": "Marseille",
+    "player_name": "Player",
+    "SCA": "",
+    "SCA90": "",
+    "GCA": "",
+    "GCA90": "",
+    "passlive": ""
+  },
+  {
+    "team_name": "Marseille",
+    "player_name": "Bilal Nadir",
+    "SCA": "17",
+    "SCA90": "3.99",
+    "GCA": "1",
+    "GCA90": "0.23",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Marseille",
+    "player_name": "Ismaël Koné",
+    "SCA": "6",
+    "SCA90": "1.50",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Marseille",
+    "player_name": "Amar Dedić",
+    "SCA": "14",
+    "SCA90": "4.01",
+    "GCA": "1",
+    "GCA90": "0.29",
+    "passlive": "1"
+  },
+  {
+    "team_name": "Marseille",
+    "player_name": "Luiz Felipe",
+    "SCA": "0",
+    "SCA90": "0.00",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Marseille",
+    "player_name": "Valentin Carboni",
+    "SCA": "5",
+    "SCA90": "4.37",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Marseille",
+    "player_name": "Robinio Vaz",
+    "SCA": "3",
+    "SCA90": "3.60",
+    "GCA": "2",
+    "GCA90": "2.40",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Marseille",
+    "player_name": "Bamo Meïté",
+    "SCA": "0",
+    "SCA90": "0.00",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Marseille",
+    "player_name": "Enzo Sternal",
+    "SCA": "1",
+    "SCA90": "3.75",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Marseille",
+    "player_name": "Darryl Bakola",
+    "SCA": "0",
+    "SCA90": "0.00",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Marseille",
+    "player_name": "Emmanuel Koum Mbondo",
+    "SCA": "0",
+    "SCA90": "0.00",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Marseille",
+    "player_name": "Faris Pemi Moumbagna",
+    "SCA": "0",
+    "SCA90": "0.00",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Marseille",
+    "player_name": "Keyliane Abdallah",
+    "SCA": "0",
+    "SCA90": "0.00",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Monaco",
+    "player_name": "Maghnes Akliouche",
+    "SCA": "119",
+    "SCA90": "4.45",
+    "GCA": "19",
+    "GCA90": "0.71",
+    "passlive": "17"
+  },
+  {
+    "team_name": "Monaco",
+    "player_name": "Thilo Kehrer",
+    "SCA": "26",
+    "SCA90": "0.98",
+    "GCA": "3",
+    "GCA90": "0.11",
+    "passlive": "2"
+  },
+  {
+    "team_name": "Monaco",
+    "player_name": "Takumi Minamino",
+    "SCA": "80",
+    "SCA90": "3.23",
+    "GCA": "7",
+    "GCA90": "0.28",
+    "passlive": "5"
+  },
+  {
+    "team_name": "Monaco",
+    "player_name": "Lamine Camara",
+    "SCA": "82",
+    "SCA90": "3.59",
+    "GCA": "13",
+    "GCA90": "0.57",
+    "passlive": "7"
+  },
+  {
+    "team_name": "Monaco",
+    "player_name": "Denis Zakaria",
+    "SCA": "52",
+    "SCA90": "2.18",
+    "GCA": "10",
+    "GCA90": "0.42",
+    "passlive": "8"
+  },
+  {
+    "team_name": "Monaco",
+    "player_name": "Wilfried Singo",
+    "SCA": "19",
+    "SCA90": "0.82",
+    "GCA": "2",
+    "GCA90": "0.09",
+    "passlive": "1"
+  },
+  {
+    "team_name": "Monaco",
+    "player_name": "Vanderson",
+    "SCA": "58",
+    "SCA90": "2.53",
+    "GCA": "8",
+    "GCA90": "0.35",
+    "passlive": "6"
+  },
+  {
+    "team_name": "Monaco",
+    "player_name": "Caio Henrique Oliveira Silva",
+    "SCA": "64",
+    "SCA90": "2.99",
+    "GCA": "9",
+    "GCA90": "0.42",
+    "passlive": "7"
+  },
+  {
+    "team_name": "Monaco",
+    "player_name": "Breel Embolo",
+    "SCA": "54",
+    "SCA90": "2.64",
+    "GCA": "10",
+    "GCA90": "0.49",
+    "passlive": "6"
+  },
+  {
+    "team_name": "Monaco",
+    "player_name": "Eliesse Ben Seghir",
+    "SCA": "77",
+    "SCA90": "3.96",
+    "GCA": "7",
+    "GCA90": "0.36",
+    "passlive": "4"
+  },
+  {
+    "team_name": "Monaco",
+    "player_name": "Philipp Köhn",
+    "SCA": "4",
+    "SCA90": "0.21",
+    "GCA": "1",
+    "GCA90": "0.05",
+    "passlive": "1"
+  },
+  {
+    "team_name": "Monaco",
+    "player_name": "Christian Mawissa",
+    "SCA": "7",
+    "SCA90": "0.42",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Monaco",
+    "player_name": "Mika Biereth",
+    "SCA": "38",
+    "SCA90": "2.78",
+    "GCA": "4",
+    "GCA90": "0.29",
+    "passlive": "3"
+  },
+  {
+    "team_name": "Monaco",
+    "player_name": "Radosław Majecki",
+    "SCA": "1",
+    "SCA90": "0.07",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Monaco",
+    "player_name": "Aleksandr Golovin",
+    "SCA": "48",
+    "SCA90": "3.74",
+    "GCA": "1",
+    "GCA90": "0.08",
+    "passlive": "1"
+  },
+  {
+    "team_name": "Monaco",
+    "player_name": "Soungoutou Magassa",
+    "SCA": "19",
+    "SCA90": "1.67",
+    "GCA": "1",
+    "GCA90": "0.09",
+    "passlive": "1"
+  },
+  {
+    "team_name": "Monaco",
+    "player_name": "Mohammed Salisu",
+    "SCA": "14",
+    "SCA90": "1.23",
+    "GCA": "1",
+    "GCA90": "0.09",
+    "passlive": "1"
+  },
+  {
+    "team_name": "Monaco",
+    "player_name": "Jordan Teze",
+    "SCA": "19",
+    "SCA90": "3.01",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Monaco",
+    "player_name": "Folarin Balogun",
+    "SCA": "19",
+    "SCA90": "2.78",
+    "GCA": "2",
+    "GCA90": "0.29",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Monaco",
+    "player_name": "George Ilenikhena",
+    "SCA": "17",
+    "SCA90": "2.14",
+    "GCA": "3",
+    "GCA90": "0.38",
+    "passlive": "2"
+  },
+  {
+    "team_name": "Monaco",
+    "player_name": "Kassoum Ouattara",
+    "SCA": "9",
+    "SCA90": "2.07",
+    "GCA": "1",
+    "GCA90": "0.23",
+    "passlive": "1"
+  },
+  {
+    "team_name": "Monaco",
+    "player_name": "Krépin Diatta",
+    "SCA": "10",
+    "SCA90": "1.77",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Monaco",
+    "player_name": "Almoatasem Al Musrati",
+    "SCA": "15",
+    "SCA90": "3.51",
+    "GCA": "1",
+    "GCA90": "0.23",
+    "passlive": "1"
+  },
+  {
+    "team_name": "Monaco",
+    "player_name": "Ismail Jakobs",
+    "SCA": "8",
+    "SCA90": "4.00",
+    "GCA": "1",
+    "GCA90": "0.50",
+    "passlive": "1"
+  },
+  {
+    "team_name": "Monaco",
+    "player_name": "Saïmon Bouabré",
+    "SCA": "1",
+    "SCA90": "0.93",
+    "GCA": "1",
+    "GCA90": "0.93",
+    "passlive": "1"
+  },
+  {
+    "team_name": "Monaco",
+    "player_name": "Eliot Matazo",
+    "SCA": "1",
+    "SCA90": "1.30",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Monaco",
+    "player_name": "Lucas Michal",
+    "SCA": "7",
+    "SCA90": "5.38",
+    "GCA": "1",
+    "GCA90": "0.77",
+    "passlive": "1"
+  },
+  {
+    "team_name": "Monaco",
+    "player_name": "Mamadou Coulibaly",
+    "SCA": "0",
+    "SCA90": "0.00",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Nice",
+    "player_name": "Marcin Bułka",
+    "SCA": "3",
+    "SCA90": "0.09",
+    "GCA": "1",
+    "GCA90": "0.03",
+    "passlive": "1"
+  },
+  {
+    "team_name": "Nice",
+    "player_name": "Evann Guessand",
+    "SCA": "91",
+    "SCA90": "3.19",
+    "GCA": "17",
+    "GCA90": "0.60",
+    "passlive": "10"
+  },
+  {
+    "team_name": "Nice",
+    "player_name": "Hicham Boudaoui",
+    "SCA": "65",
+    "SCA90": "2.40",
+    "GCA": "7",
+    "GCA90": "0.26",
+    "passlive": "6"
+  },
+  {
+    "team_name": "Nice",
+    "player_name": "Jonathan Clauss",
+    "SCA": "99",
+    "SCA90": "3.87",
+    "GCA": "15",
+    "GCA90": "0.59",
+    "passlive": "9"
+  },
+  {
+    "team_name": "Nice",
+    "player_name": "Moïse Bombito",
+    "SCA": "18",
+    "SCA90": "0.74",
+    "GCA": "4",
+    "GCA90": "0.16",
+    "passlive": "4"
+  },
+  {
+    "team_name": "Nice",
+    "player_name": "Melvin Bard",
+    "SCA": "49",
+    "SCA90": "2.28",
+    "GCA": "4",
+    "GCA90": "0.19",
+    "passlive": "4"
+  },
+  {
+    "team_name": "Nice",
+    "player_name": "Youssouf Ndayishimiye",
+    "SCA": "30",
+    "SCA90": "1.40",
+    "GCA": "2",
+    "GCA90": "0.09",
+    "passlive": "1"
+  },
+  {
+    "team_name": "Nice",
+    "player_name": "Dante",
+    "SCA": "21",
+    "SCA90": "0.96",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Nice",
+    "player_name": "Pablo Rosario",
+    "SCA": "35",
+    "SCA90": "1.78",
+    "GCA": "2",
+    "GCA90": "0.10",
+    "passlive": "2"
+  },
+  {
+    "team_name": "Nice",
+    "player_name": "Mohamed Ali Cho",
+    "SCA": "59",
+    "SCA90": "3.28",
+    "GCA": "11",
+    "GCA90": "0.61",
+    "passlive": "8"
+  },
+  {
+    "team_name": "Nice",
+    "player_name": "",
+    "SCA": "",
+    "SCA90": "",
+    "GCA": "",
+    "GCA90": "",
+    "passlive": ""
+  },
+  {
+    "team_name": "Nice",
+    "player_name": "Player",
+    "SCA": "",
+    "SCA90": "",
+    "GCA": "",
+    "GCA90": "",
+    "passlive": ""
+  },
+  {
+    "team_name": "Nice",
+    "player_name": "Gaëtan Laborde",
+    "SCA": "63",
+    "SCA90": "3.10",
+    "GCA": "7",
+    "GCA90": "0.34",
+    "passlive": "6"
+  },
+  {
+    "team_name": "Nice",
+    "player_name": "Ali Abdi",
+    "SCA": "45",
+    "SCA90": "2.91",
+    "GCA": "3",
+    "GCA90": "0.19",
+    "passlive": "1"
+  },
+  {
+    "team_name": "Nice",
+    "player_name": "Tanguy Ndombele",
+    "SCA": "31",
+    "SCA90": "2.46",
+    "GCA": "4",
+    "GCA90": "0.32",
+    "passlive": "4"
+  },
+  {
+    "team_name": "Nice",
+    "player_name": "Jeremie Boga",
+    "SCA": "51",
+    "SCA90": "4.36",
+    "GCA": "3",
+    "GCA90": "0.26",
+    "passlive": "2"
+  },
+  {
+    "team_name": "Nice",
+    "player_name": "Badredine Bouanani",
+    "SCA": "47",
+    "SCA90": "3.85",
+    "GCA": "9",
+    "GCA90": "0.74",
+    "passlive": "5"
+  },
+  {
+    "team_name": "Nice",
+    "player_name": "Baptiste Santamaria",
+    "SCA": "21",
+    "SCA90": "2.04",
+    "GCA": "1",
+    "GCA90": "0.10",
+    "passlive": "1"
+  },
+  {
+    "team_name": "Nice",
+    "player_name": "Mohamed Abdelmoneim",
+    "SCA": "8",
+    "SCA90": "0.84",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Nice",
+    "player_name": "Sofiane Diop",
+    "SCA": "47",
+    "SCA90": "3.98",
+    "GCA": "9",
+    "GCA90": "0.76",
+    "passlive": "7"
+  },
+  {
+    "team_name": "Nice",
+    "player_name": "Antoine Mendy",
+    "SCA": "13",
+    "SCA90": "1.42",
+    "GCA": "2",
+    "GCA90": "0.22",
+    "passlive": "2"
+  },
+  {
+    "team_name": "Nice",
+    "player_name": "Tom Louchet",
+    "SCA": "31",
+    "SCA90": "3.60",
+    "GCA": "1",
+    "GCA90": "0.12",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Nice",
+    "player_name": "",
+    "SCA": "",
+    "SCA90": "",
+    "GCA": "",
+    "GCA90": "",
+    "passlive": ""
+  },
+  {
+    "team_name": "Nice",
+    "player_name": "Player",
+    "SCA": "",
+    "SCA90": "",
+    "GCA": "",
+    "GCA90": "",
+    "passlive": ""
+  },
+  {
+    "team_name": "Nice",
+    "player_name": "Morgan Sanson",
+    "SCA": "6",
+    "SCA90": "2.29",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Nice",
+    "player_name": "Youssoufa Moukoko",
+    "SCA": "6",
+    "SCA90": "2.62",
+    "GCA": "1",
+    "GCA90": "0.44",
+    "passlive": "1"
+  },
+  {
+    "team_name": "Nice",
+    "player_name": "Yael Nandjou",
+    "SCA": "4",
+    "SCA90": "2.34",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Nice",
+    "player_name": "Bilal Brahimi",
+    "SCA": "1",
+    "SCA90": "1.18",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Nice",
+    "player_name": "Terem Moffi",
+    "SCA": "5",
+    "SCA90": "7.63",
+    "GCA": "2",
+    "GCA90": "3.05",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Nice",
+    "player_name": "Amidou Doumbouya",
+    "SCA": "0",
+    "SCA90": "0.00",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Nice",
+    "player_name": "Victor Orakpo",
+    "SCA": "1",
+    "SCA90": "2.50",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Nice",
+    "player_name": "Jordan Lotomba",
+    "SCA": "2",
+    "SCA90": "5.14",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Nice",
+    "player_name": "Issiaga Camara",
+    "SCA": "2",
+    "SCA90": "9.00",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Nice",
+    "player_name": "Rareş Ilie",
+    "SCA": "7",
+    "SCA90": "48.46",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Nice",
+    "player_name": "Bernard Nguene",
+    "SCA": "0",
+    "SCA90": "0.00",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Lille",
+    "player_name": "Lucas Chevalier",
+    "SCA": "6",
+    "SCA90": "0.18",
+    "GCA": "1",
+    "GCA90": "0.03",
+    "passlive": "1"
+  },
+  {
+    "team_name": "Lille",
+    "player_name": "Bafodé Diakité",
+    "SCA": "19",
+    "SCA90": "0.62",
+    "GCA": "3",
+    "GCA90": "0.10",
+    "passlive": "2"
+  },
+  {
+    "team_name": "Lille",
+    "player_name": "Alexsandro Ribeiro",
+    "SCA": "40",
+    "SCA90": "1.33",
+    "GCA": "4",
+    "GCA90": "0.13",
+    "passlive": "4"
+  },
+  {
+    "team_name": "Lille",
+    "player_name": "Benjamin André",
+    "SCA": "53",
+    "SCA90": "1.77",
+    "GCA": "9",
+    "GCA90": "0.30",
+    "passlive": "6"
+  },
+  {
+    "team_name": "Lille",
+    "player_name": "Jonathan David",
+    "SCA": "74",
+    "SCA90": "2.61",
+    "GCA": "8",
+    "GCA90": "0.28",
+    "passlive": "5"
+  },
+  {
+    "team_name": "Lille",
+    "player_name": "Thomas Meunier",
+    "SCA": "37",
+    "SCA90": "1.73",
+    "GCA": "7",
+    "GCA90": "0.33",
+    "passlive": "4"
+  },
+  {
+    "team_name": "Lille",
+    "player_name": "Hákon Arnar Haraldsson",
+    "SCA": "70",
+    "SCA90": "3.59",
+    "GCA": "7",
+    "GCA90": "0.36",
+    "passlive": "5"
+  },
+  {
+    "team_name": "Lille",
+    "player_name": "Gabriel Gudmundsson",
+    "SCA": "30",
+    "SCA90": "1.51",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Lille",
+    "player_name": "Aïssa Mandi",
+    "SCA": "23",
+    "SCA90": "1.19",
+    "GCA": "2",
+    "GCA90": "0.10",
+    "passlive": "1"
+  },
+  {
+    "team_name": "Lille",
+    "player_name": "André Gomes",
+    "SCA": "26",
+    "SCA90": "1.83",
+    "GCA": "1",
+    "GCA90": "0.07",
+    "passlive": "1"
+  },
+  {
+    "team_name": "Lille",
+    "player_name": "Ngal'Ayel Mukau",
+    "SCA": "20",
+    "SCA90": "1.51",
+    "GCA": "1",
+    "GCA90": "0.08",
+    "passlive": "1"
+  },
+  {
+    "team_name": "Lille",
+    "player_name": "Mitchel Bakker",
+    "SCA": "40",
+    "SCA90": "3.13",
+    "GCA": "4",
+    "GCA90": "0.31",
+    "passlive": "2"
+  },
+  {
+    "team_name": "Lille",
+    "player_name": "Matias Fernandez-Pardo",
+    "SCA": "30",
+    "SCA90": "2.54",
+    "GCA": "6",
+    "GCA90": "0.51",
+    "passlive": "3"
+  },
+  {
+    "team_name": "Lille",
+    "player_name": "Rémy Cabella",
+    "SCA": "60",
+    "SCA90": "5.33",
+    "GCA": "6",
+    "GCA90": "0.53",
+    "passlive": "2"
+  },
+  {
+    "team_name": "Lille",
+    "player_name": "Edon Zhegrova",
+    "SCA": "38",
+    "SCA90": "3.50",
+    "GCA": "3",
+    "GCA90": "0.28",
+    "passlive": "2"
+  },
+  {
+    "team_name": "Lille",
+    "player_name": "Ayyoub Bouaddi",
+    "SCA": "14",
+    "SCA90": "1.10",
+    "GCA": "2",
+    "GCA90": "0.16",
+    "passlive": "1"
+  },
+  {
+    "team_name": "Lille",
+    "player_name": "Osame Sahraoui",
+    "SCA": "67",
+    "SCA90": "4.66",
+    "GCA": "6",
+    "GCA90": "0.42",
+    "passlive": "5"
+  },
+  {
+    "team_name": "Lille",
+    "player_name": "Ismaily",
+    "SCA": "24",
+    "SCA90": "2.39",
+    "GCA": "1",
+    "GCA90": "0.10",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Lille",
+    "player_name": "Angel Gomes",
+    "SCA": "28",
+    "SCA90": "3.42",
+    "GCA": "3",
+    "GCA90": "0.37",
+    "passlive": "3"
+  },
+  {
+    "team_name": "Lille",
+    "player_name": "Chuba Akpom",
+    "SCA": "17",
+    "SCA90": "2.39",
+    "GCA": "3",
+    "GCA90": "0.42",
+    "passlive": "1"
+  },
+  {
+    "team_name": "Lille",
+    "player_name": "Tiago Santos",
+    "SCA": "16",
+    "SCA90": "3.56",
+    "GCA": "3",
+    "GCA90": "0.67",
+    "passlive": "2"
+  },
+  {
+    "team_name": "Lille",
+    "player_name": "Mohamed Lamine Bayo",
+    "SCA": "12",
+    "SCA90": "3.51",
+    "GCA": "2",
+    "GCA90": "0.58",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Lille",
+    "player_name": "Nabil Bentaleb",
+    "SCA": "4",
+    "SCA90": "1.09",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Lille",
+    "player_name": "Ethan Mbappé",
+    "SCA": "19",
+    "SCA90": "7.74",
+    "GCA": "2",
+    "GCA90": "0.81",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Lille",
+    "player_name": "Younes Lachaab",
+    "SCA": "2",
+    "SCA90": "20.00",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Lille",
+    "player_name": "Ousmane Toure",
+    "SCA": "0",
+    "SCA90": "0.00",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Lille",
+    "player_name": "Aaron Malouda",
+    "SCA": "0",
+    "SCA90": "0.00",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Lyon",
+    "player_name": "Lucas Perri",
+    "SCA": "4",
+    "SCA90": "0.12",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Lyon",
+    "player_name": "Moussa Niakhate",
+    "SCA": "21",
+    "SCA90": "0.69",
+    "GCA": "2",
+    "GCA90": "0.07",
+    "passlive": "2"
+  },
+  {
+    "team_name": "Lyon",
+    "player_name": "Clinton Mata",
+    "SCA": "25",
+    "SCA90": "0.95",
+    "GCA": "6",
+    "GCA90": "0.23",
+    "passlive": "5"
+  },
+  {
+    "team_name": "Lyon",
+    "player_name": "Corentin Tolisso",
+    "SCA": "81",
+    "SCA90": "3.13",
+    "GCA": "15",
+    "GCA90": "0.58",
+    "passlive": "14"
+  },
+  {
+    "team_name": "Lyon",
+    "player_name": "Nemanja Matić",
+    "SCA": "49",
+    "SCA90": "2.20",
+    "GCA": "4",
+    "GCA90": "0.18",
+    "passlive": "4"
+  },
+  {
+    "team_name": "Lyon",
+    "player_name": "Alexandre Lacazette",
+    "SCA": "56",
+    "SCA90": "2.46",
+    "GCA": "5",
+    "GCA90": "0.22",
+    "passlive": "2"
+  },
+  {
+    "team_name": "Lyon",
+    "player_name": "Rayan Cherki",
+    "SCA": "146",
+    "SCA90": "6.44",
+    "GCA": "20",
+    "GCA90": "0.88",
+    "passlive": "15"
+  },
+  {
+    "team_name": "Lyon",
+    "player_name": "Nicolás Tagliafico",
+    "SCA": "28",
+    "SCA90": "1.32",
+    "GCA": "6",
+    "GCA90": "0.28",
+    "passlive": "3"
+  },
+  {
+    "team_name": "Lyon",
+    "player_name": "Ainsley Maitland-Niles",
+    "SCA": "55",
+    "SCA90": "2.49",
+    "GCA": "6",
+    "GCA90": "0.27",
+    "passlive": "6"
+  },
+  {
+    "team_name": "Lyon",
+    "player_name": "Jordan Veretout",
+    "SCA": "36",
+    "SCA90": "2.09",
+    "GCA": "1",
+    "GCA90": "0.06",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Lyon",
+    "player_name": "",
+    "SCA": "",
+    "SCA90": "",
+    "GCA": "",
+    "GCA90": "",
+    "passlive": ""
+  },
+  {
+    "team_name": "Lyon",
+    "player_name": "Player",
+    "SCA": "",
+    "SCA90": "",
+    "GCA": "",
+    "GCA90": "",
+    "passlive": ""
+  },
+  {
+    "team_name": "Lyon",
+    "player_name": "Duje Ćaleta-Car",
+    "SCA": "5",
+    "SCA90": "0.28",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Lyon",
+    "player_name": "Malick Fofana",
+    "SCA": "55",
+    "SCA90": "3.12",
+    "GCA": "11",
+    "GCA90": "0.62",
+    "passlive": "8"
+  },
+  {
+    "team_name": "Lyon",
+    "player_name": "Georges Mikautadze",
+    "SCA": "49",
+    "SCA90": "3.05",
+    "GCA": "12",
+    "GCA90": "0.75",
+    "passlive": "8"
+  },
+  {
+    "team_name": "Lyon",
+    "player_name": "Tanner Tessmann",
+    "SCA": "18",
+    "SCA90": "1.31",
+    "GCA": "1",
+    "GCA90": "0.07",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Lyon",
+    "player_name": "Ernest Nuamah",
+    "SCA": "35",
+    "SCA90": "2.99",
+    "GCA": "2",
+    "GCA90": "0.17",
+    "passlive": "2"
+  },
+  {
+    "team_name": "Lyon",
+    "player_name": "Abner",
+    "SCA": "25",
+    "SCA90": "2.06",
+    "GCA": "1",
+    "GCA90": "0.08",
+    "passlive": "1"
+  },
+  {
+    "team_name": "Lyon",
+    "player_name": "Sael Kumbedi",
+    "SCA": "15",
+    "SCA90": "1.42",
+    "GCA": "4",
+    "GCA90": "0.38",
+    "passlive": "4"
+  },
+  {
+    "team_name": "Lyon",
+    "player_name": "Thiago Almada",
+    "SCA": "52",
+    "SCA90": "4.92",
+    "GCA": "11",
+    "GCA90": "1.04",
+    "passlive": "10"
+  },
+  {
+    "team_name": "Lyon",
+    "player_name": "Saïd Benrahma",
+    "SCA": "27",
+    "SCA90": "3.31",
+    "GCA": "6",
+    "GCA90": "0.74",
+    "passlive": "5"
+  },
+  {
+    "team_name": "Lyon",
+    "player_name": "Maxence Caqueret",
+    "SCA": "14",
+    "SCA90": "2.20",
+    "GCA": "1",
+    "GCA90": "0.16",
+    "passlive": "1"
+  },
+  {
+    "team_name": "Lyon",
+    "player_name": "",
+    "SCA": "",
+    "SCA90": "",
+    "GCA": "",
+    "GCA90": "",
+    "passlive": ""
+  },
+  {
+    "team_name": "Lyon",
+    "player_name": "Player",
+    "SCA": "",
+    "SCA90": "",
+    "GCA": "",
+    "GCA90": "",
+    "passlive": ""
+  },
+  {
+    "team_name": "Lyon",
+    "player_name": "Gift Orban",
+    "SCA": "2",
+    "SCA90": "0.97",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Lyon",
+    "player_name": "Rémy Descamps",
+    "SCA": "0",
+    "SCA90": "0.00",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Lyon",
+    "player_name": "Wilfried Zaha",
+    "SCA": "0",
+    "SCA90": "0.00",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Lyon",
+    "player_name": "Orel Mangala",
+    "SCA": "3",
+    "SCA90": "4.03",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Lyon",
+    "player_name": "Mama Samba Baldé",
+    "SCA": "1",
+    "SCA90": "2.73",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Lyon",
+    "player_name": "Alejandro Rodriguez",
+    "SCA": "0",
+    "SCA90": "0.00",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Lyon",
+    "player_name": "Paul Akouokou",
+    "SCA": "0",
+    "SCA90": "0.00",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Lyon",
+    "player_name": "Mahamadou Diawara",
+    "SCA": "0",
+    "SCA90": "0.00",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Lyon",
+    "player_name": "Warmed Omari",
+    "SCA": "0",
+    "SCA90": "0.00",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Lyon",
+    "player_name": "Téo Barisic",
+    "SCA": "0",
+    "SCA90": "0.00",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Lyon",
+    "player_name": "Adryelson",
+    "SCA": "0",
+    "SCA90": "0.00",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Strasbourg",
+    "player_name": "Andrey Santos",
+    "SCA": "56",
+    "SCA90": "1.77",
+    "GCA": "6",
+    "GCA90": "0.19",
+    "passlive": "4"
+  },
+  {
+    "team_name": "Strasbourg",
+    "player_name": "Đorđe Petrović",
+    "SCA": "2",
+    "SCA90": "0.06",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Strasbourg",
+    "player_name": "Ismaël Doukouré",
+    "SCA": "22",
+    "SCA90": "0.75",
+    "GCA": "4",
+    "GCA90": "0.14",
+    "passlive": "4"
+  },
+  {
+    "team_name": "Strasbourg",
+    "player_name": "Guela Doué",
+    "SCA": "44",
+    "SCA90": "1.46",
+    "GCA": "5",
+    "GCA90": "0.17",
+    "passlive": "5"
+  },
+  {
+    "team_name": "Strasbourg",
+    "player_name": "Diego Moreira",
+    "SCA": "67",
+    "SCA90": "2.35",
+    "GCA": "10",
+    "GCA90": "0.35",
+    "passlive": "7"
+  },
+  {
+    "team_name": "Strasbourg",
+    "player_name": "Dilane Bakwa",
+    "SCA": "110",
+    "SCA90": "3.97",
+    "GCA": "16",
+    "GCA90": "0.58",
+    "passlive": "13"
+  },
+  {
+    "team_name": "Strasbourg",
+    "player_name": "Mamadou Sarr",
+    "SCA": "12",
+    "SCA90": "0.46",
+    "GCA": "2",
+    "GCA90": "0.08",
+    "passlive": "1"
+  },
+  {
+    "team_name": "Strasbourg",
+    "player_name": "Habib Diarra",
+    "SCA": "57",
+    "SCA90": "2.18",
+    "GCA": "8",
+    "GCA90": "0.31",
+    "passlive": "6"
+  },
+  {
+    "team_name": "Strasbourg",
+    "player_name": "Emanuel Emegha",
+    "SCA": "32",
+    "SCA90": "1.26",
+    "GCA": "4",
+    "GCA90": "0.16",
+    "passlive": "3"
+  },
+  {
+    "team_name": "Strasbourg",
+    "player_name": "Sebastian Nanasi",
+    "SCA": "85",
+    "SCA90": "3.63",
+    "GCA": "17",
+    "GCA90": "0.73",
+    "passlive": "11"
+  },
+  {
+    "team_name": "Strasbourg",
+    "player_name": "",
+    "SCA": "",
+    "SCA90": "",
+    "GCA": "",
+    "GCA90": "",
+    "passlive": ""
+  },
+  {
+    "team_name": "Strasbourg",
+    "player_name": "Player",
+    "SCA": "",
+    "SCA90": "",
+    "GCA": "",
+    "GCA90": "",
+    "passlive": ""
+  },
+  {
+    "team_name": "Strasbourg",
+    "player_name": "Félix Lemaréchal",
+    "SCA": "56",
+    "SCA90": "2.83",
+    "GCA": "6",
+    "GCA90": "0.30",
+    "passlive": "6"
+  },
+  {
+    "team_name": "Strasbourg",
+    "player_name": "Valentín Barco",
+    "SCA": "20",
+    "SCA90": "1.56",
+    "GCA": "6",
+    "GCA90": "0.47",
+    "passlive": "6"
+  },
+  {
+    "team_name": "Strasbourg",
+    "player_name": "Saidou Sow",
+    "SCA": "6",
+    "SCA90": "0.53",
+    "GCA": "1",
+    "GCA90": "0.09",
+    "passlive": "1"
+  },
+  {
+    "team_name": "Strasbourg",
+    "player_name": "Abakar Sylla",
+    "SCA": "4",
+    "SCA90": "0.38",
+    "GCA": "1",
+    "GCA90": "0.09",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Strasbourg",
+    "player_name": "Sekou Mara",
+    "SCA": "10",
+    "SCA90": "1.17",
+    "GCA": "2",
+    "GCA90": "0.23",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Strasbourg",
+    "player_name": "Andrew Omobamidele",
+    "SCA": "1",
+    "SCA90": "0.17",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Strasbourg",
+    "player_name": "Guimissongui Ouattara",
+    "SCA": "9",
+    "SCA90": "1.72",
+    "GCA": "3",
+    "GCA90": "0.57",
+    "passlive": "2"
+  },
+  {
+    "team_name": "Strasbourg",
+    "player_name": "Samuel Amo-Ameyaw",
+    "SCA": "14",
+    "SCA90": "3.93",
+    "GCA": "1",
+    "GCA90": "0.28",
+    "passlive": "1"
+  },
+  {
+    "team_name": "Strasbourg",
+    "player_name": "Karl-Johan Johnsson",
+    "SCA": "0",
+    "SCA90": "0.00",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Strasbourg",
+    "player_name": "Caleb Wiley",
+    "SCA": "4",
+    "SCA90": "1.35",
+    "GCA": "1",
+    "GCA90": "0.34",
+    "passlive": "1"
+  },
+  {
+    "team_name": "Strasbourg",
+    "player_name": "",
+    "SCA": "",
+    "SCA90": "",
+    "GCA": "",
+    "GCA90": "",
+    "passlive": ""
+  },
+  {
+    "team_name": "Strasbourg",
+    "player_name": "Player",
+    "SCA": "",
+    "SCA90": "",
+    "GCA": "",
+    "GCA90": "",
+    "passlive": ""
+  },
+  {
+    "team_name": "Strasbourg",
+    "player_name": "Junior Mwanga",
+    "SCA": "2",
+    "SCA90": "0.61",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Strasbourg",
+    "player_name": "Marvin Senaya",
+    "SCA": "3",
+    "SCA90": "1.19",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Strasbourg",
+    "player_name": "Jérémy Sebas",
+    "SCA": "4",
+    "SCA90": "1.91",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Strasbourg",
+    "player_name": "Pape Daouda Diongue",
+    "SCA": "1",
+    "SCA90": "1.15",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Strasbourg",
+    "player_name": "Eduard Sobol",
+    "SCA": "0",
+    "SCA90": "0.00",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Strasbourg",
+    "player_name": "Óscar Perea",
+    "SCA": "1",
+    "SCA90": "6.43",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Strasbourg",
+    "player_name": "Milos Lukovic",
+    "SCA": "0",
+    "SCA90": "0.00",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Strasbourg",
+    "player_name": "Nordine Kandil",
+    "SCA": "0",
+    "SCA90": "0.00",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Strasbourg",
+    "player_name": "Thomas Delaine",
+    "SCA": "0",
+    "SCA90": "0.00",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Strasbourg",
+    "player_name": "Karol Fila",
+    "SCA": "0",
+    "SCA90": "0.00",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Lens",
+    "player_name": "Adrien Thomasson",
+    "SCA": "109",
+    "SCA90": "3.75",
+    "GCA": "11",
+    "GCA90": "0.38",
+    "passlive": "8"
+  },
+  {
+    "team_name": "Lens",
+    "player_name": "Facundo Medina",
+    "SCA": "68",
+    "SCA90": "2.41",
+    "GCA": "3",
+    "GCA90": "0.11",
+    "passlive": "3"
+  },
+  {
+    "team_name": "Lens",
+    "player_name": "Andy Diouf",
+    "SCA": "85",
+    "SCA90": "3.44",
+    "GCA": "3",
+    "GCA90": "0.12",
+    "passlive": "3"
+  },
+  {
+    "team_name": "Lens",
+    "player_name": "Jonathan Gradit",
+    "SCA": "25",
+    "SCA90": "1.07",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Lens",
+    "player_name": "Florian Sotoca",
+    "SCA": "53",
+    "SCA90": "2.66",
+    "GCA": "3",
+    "GCA90": "0.15",
+    "passlive": "3"
+  },
+  {
+    "team_name": "Lens",
+    "player_name": "Deiver Machado",
+    "SCA": "45",
+    "SCA90": "2.24",
+    "GCA": "8",
+    "GCA90": "0.40",
+    "passlive": "6"
+  },
+  {
+    "team_name": "Lens",
+    "player_name": "Neil El Aynaoui",
+    "SCA": "42",
+    "SCA90": "2.38",
+    "GCA": "2",
+    "GCA90": "0.11",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Lens",
+    "player_name": "M'Bala Nzola",
+    "SCA": "39",
+    "SCA90": "2.40",
+    "GCA": "5",
+    "GCA90": "0.31",
+    "passlive": "3"
+  },
+  {
+    "team_name": "Lens",
+    "player_name": "Anass Zaroury",
+    "SCA": "72",
+    "SCA90": "4.61",
+    "GCA": "4",
+    "GCA90": "0.26",
+    "passlive": "3"
+  },
+  {
+    "team_name": "Lens",
+    "player_name": "Przemysław Frankowski",
+    "SCA": "46",
+    "SCA90": "2.99",
+    "GCA": "5",
+    "GCA90": "0.32",
+    "passlive": "5"
+  },
+  {
+    "team_name": "Lens",
+    "player_name": "",
+    "SCA": "",
+    "SCA90": "",
+    "GCA": "",
+    "GCA90": "",
+    "passlive": ""
+  },
+  {
+    "team_name": "Lens",
+    "player_name": "Player",
+    "SCA": "",
+    "SCA90": "",
+    "GCA": "",
+    "GCA90": "",
+    "passlive": ""
+  },
+  {
+    "team_name": "Lens",
+    "player_name": "Malang Sarr",
+    "SCA": "21",
+    "SCA90": "1.36",
+    "GCA": "2",
+    "GCA90": "0.13",
+    "passlive": "2"
+  },
+  {
+    "team_name": "Lens",
+    "player_name": "Brice Samba",
+    "SCA": "4",
+    "SCA90": "0.27",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Lens",
+    "player_name": "Mathew Ryan",
+    "SCA": "4",
+    "SCA90": "0.29",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Lens",
+    "player_name": "Ruben Aguilar",
+    "SCA": "26",
+    "SCA90": "2.08",
+    "GCA": "5",
+    "GCA90": "0.40",
+    "passlive": "4"
+  },
+  {
+    "team_name": "Lens",
+    "player_name": "Kevin Danso",
+    "SCA": "12",
+    "SCA90": "1.00",
+    "GCA": "1",
+    "GCA90": "0.08",
+    "passlive": "1"
+  },
+  {
+    "team_name": "Lens",
+    "player_name": "Goduine Koyalipou",
+    "SCA": "26",
+    "SCA90": "2.64",
+    "GCA": "1",
+    "GCA90": "0.10",
+    "passlive": "1"
+  },
+  {
+    "team_name": "Lens",
+    "player_name": "Angelo Fulgini",
+    "SCA": "54",
+    "SCA90": "4.65",
+    "GCA": "2",
+    "GCA90": "0.17",
+    "passlive": "2"
+  },
+  {
+    "team_name": "Lens",
+    "player_name": "Abdukodir Khusanov",
+    "SCA": "11",
+    "SCA90": "1.02",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Lens",
+    "player_name": "Wesley Saïd",
+    "SCA": "27",
+    "SCA90": "2.69",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Lens",
+    "player_name": "Juma Bah",
+    "SCA": "7",
+    "SCA90": "0.92",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Lens",
+    "player_name": "",
+    "SCA": "",
+    "SCA90": "",
+    "GCA": "",
+    "GCA90": "",
+    "passlive": ""
+  },
+  {
+    "team_name": "Lens",
+    "player_name": "Player",
+    "SCA": "",
+    "SCA90": "",
+    "GCA": "",
+    "GCA90": "",
+    "passlive": ""
+  },
+  {
+    "team_name": "Lens",
+    "player_name": "Jhoanner Chávez",
+    "SCA": "15",
+    "SCA90": "2.27",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Lens",
+    "player_name": "Nampalys Mendy",
+    "SCA": "11",
+    "SCA90": "1.68",
+    "GCA": "2",
+    "GCA90": "0.31",
+    "passlive": "1"
+  },
+  {
+    "team_name": "Lens",
+    "player_name": "Rémy Labeau Lascary",
+    "SCA": "20",
+    "SCA90": "2.83",
+    "GCA": "5",
+    "GCA90": "0.71",
+    "passlive": "2"
+  },
+  {
+    "team_name": "Lens",
+    "player_name": "Hervé Koffi",
+    "SCA": "0",
+    "SCA90": "0.00",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Lens",
+    "player_name": "David Costa",
+    "SCA": "8",
+    "SCA90": "2.05",
+    "GCA": "1",
+    "GCA90": "0.26",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Lens",
+    "player_name": "Tom Pouilly",
+    "SCA": "8",
+    "SCA90": "2.64",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Lens",
+    "player_name": "Kyllian Antonio",
+    "SCA": "1",
+    "SCA90": "0.65",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Lens",
+    "player_name": "Hamzat Ojediran",
+    "SCA": "9",
+    "SCA90": "1.96",
+    "GCA": "2",
+    "GCA90": "0.44",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Lens",
+    "player_name": "Jeremy Agbonifo",
+    "SCA": "8",
+    "SCA90": "2.40",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Lens",
+    "player_name": "Martin Satriano",
+    "SCA": "2",
+    "SCA90": "2.02",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Lens",
+    "player_name": "Rayan Fofana",
+    "SCA": "0",
+    "SCA90": "0.00",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Lens",
+    "player_name": "Gabin Capuano",
+    "SCA": "1",
+    "SCA90": "8.18",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Lens",
+    "player_name": "Kembo Diliwidi",
+    "SCA": "0",
+    "SCA90": "0.00",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Brest",
+    "player_name": "Marco Bizot",
+    "SCA": "2",
+    "SCA90": "0.06",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Brest",
+    "player_name": "Mahdi Camara",
+    "SCA": "71",
+    "SCA90": "2.40",
+    "GCA": "7",
+    "GCA90": "0.24",
+    "passlive": "4"
+  },
+  {
+    "team_name": "Brest",
+    "player_name": "Kenny Lala",
+    "SCA": "80",
+    "SCA90": "2.68",
+    "GCA": "6",
+    "GCA90": "0.20",
+    "passlive": "3"
+  },
+  {
+    "team_name": "Brest",
+    "player_name": "Ludovic Ajorque",
+    "SCA": "60",
+    "SCA90": "2.17",
+    "GCA": "8",
+    "GCA90": "0.29",
+    "passlive": "3"
+  },
+  {
+    "team_name": "Brest",
+    "player_name": "Brendan Chardonnet",
+    "SCA": "24",
+    "SCA90": "0.89",
+    "GCA": "4",
+    "GCA90": "0.15",
+    "passlive": "3"
+  },
+  {
+    "team_name": "Brest",
+    "player_name": "Hugo Magnetti",
+    "SCA": "28",
+    "SCA90": "1.08",
+    "GCA": "4",
+    "GCA90": "0.15",
+    "passlive": "3"
+  },
+  {
+    "team_name": "Brest",
+    "player_name": "Massadio Haïdara",
+    "SCA": "31",
+    "SCA90": "1.66",
+    "GCA": "1",
+    "GCA90": "0.05",
+    "passlive": "1"
+  },
+  {
+    "team_name": "Brest",
+    "player_name": "Abdoulaye Niakhate Ndiaye",
+    "SCA": "11",
+    "SCA90": "0.58",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Brest",
+    "player_name": "Mathias Pereira Lage",
+    "SCA": "53",
+    "SCA90": "3.04",
+    "GCA": "10",
+    "GCA90": "0.57",
+    "passlive": "5"
+  },
+  {
+    "team_name": "Brest",
+    "player_name": "Pierre Lees-Melou",
+    "SCA": "52",
+    "SCA90": "3.07",
+    "GCA": "4",
+    "GCA90": "0.24",
+    "passlive": "3"
+  },
+  {
+    "team_name": "Brest",
+    "player_name": "",
+    "SCA": "",
+    "SCA90": "",
+    "GCA": "",
+    "GCA90": "",
+    "passlive": ""
+  },
+  {
+    "team_name": "Brest",
+    "player_name": "Player",
+    "SCA": "",
+    "SCA90": "",
+    "GCA": "",
+    "GCA90": "",
+    "passlive": ""
+  },
+  {
+    "team_name": "Brest",
+    "player_name": "Julien Le Cardinal",
+    "SCA": "14",
+    "SCA90": "0.91",
+    "GCA": "2",
+    "GCA90": "0.13",
+    "passlive": "1"
+  },
+  {
+    "team_name": "Brest",
+    "player_name": "Romain Del Castillo",
+    "SCA": "67",
+    "SCA90": "4.79",
+    "GCA": "9",
+    "GCA90": "0.64",
+    "passlive": "7"
+  },
+  {
+    "team_name": "Brest",
+    "player_name": "Abdallah Sima",
+    "SCA": "28",
+    "SCA90": "2.04",
+    "GCA": "3",
+    "GCA90": "0.22",
+    "passlive": "2"
+  },
+  {
+    "team_name": "Brest",
+    "player_name": "Kamory Doumbia",
+    "SCA": "58",
+    "SCA90": "3.95",
+    "GCA": "7",
+    "GCA90": "0.48",
+    "passlive": "2"
+  },
+  {
+    "team_name": "Brest",
+    "player_name": "Mama Samba Baldé",
+    "SCA": "42",
+    "SCA90": "3.29",
+    "GCA": "5",
+    "GCA90": "0.39",
+    "passlive": "4"
+  },
+  {
+    "team_name": "Brest",
+    "player_name": "Edimilson Fernandes",
+    "SCA": "16",
+    "SCA90": "1.30",
+    "GCA": "1",
+    "GCA90": "0.08",
+    "passlive": "1"
+  },
+  {
+    "team_name": "Brest",
+    "player_name": "Romain Faivre",
+    "SCA": "33",
+    "SCA90": "3.30",
+    "GCA": "4",
+    "GCA90": "0.40",
+    "passlive": "3"
+  },
+  {
+    "team_name": "Brest",
+    "player_name": "Jordan Amavi",
+    "SCA": "14",
+    "SCA90": "1.59",
+    "GCA": "1",
+    "GCA90": "0.11",
+    "passlive": "1"
+  },
+  {
+    "team_name": "Brest",
+    "player_name": "Luc Zogbé",
+    "SCA": "15",
+    "SCA90": "2.11",
+    "GCA": "1",
+    "GCA90": "0.14",
+    "passlive": "1"
+  },
+  {
+    "team_name": "Brest",
+    "player_name": "Jonas Martin",
+    "SCA": "8",
+    "SCA90": "1.45",
+    "GCA": "2",
+    "GCA90": "0.36",
+    "passlive": "2"
+  },
+  {
+    "team_name": "Brest",
+    "player_name": "",
+    "SCA": "",
+    "SCA90": "",
+    "GCA": "",
+    "GCA90": "",
+    "passlive": ""
+  },
+  {
+    "team_name": "Brest",
+    "player_name": "Player",
+    "SCA": "",
+    "SCA90": "",
+    "GCA": "",
+    "GCA90": "",
+    "passlive": ""
+  },
+  {
+    "team_name": "Brest",
+    "player_name": "Soumaïla Coulibaly",
+    "SCA": "8",
+    "SCA90": "1.64",
+    "GCA": "3",
+    "GCA90": "0.62",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Brest",
+    "player_name": "Ibrahim Salah",
+    "SCA": "11",
+    "SCA90": "2.76",
+    "GCA": "2",
+    "GCA90": "0.50",
+    "passlive": "1"
+  },
+  {
+    "team_name": "Brest",
+    "player_name": "Grégoire Coudert",
+    "SCA": "1",
+    "SCA90": "0.50",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Brest",
+    "player_name": "Justin Bourgault",
+    "SCA": "2",
+    "SCA90": "1.49",
+    "GCA": "1",
+    "GCA90": "0.74",
+    "passlive": "1"
+  },
+  {
+    "team_name": "Brest",
+    "player_name": "Jérémy Le Douaron",
+    "SCA": "0",
+    "SCA90": "0.00",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Brest",
+    "player_name": "Bradley Locko",
+    "SCA": "1",
+    "SCA90": "0.93",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Brest",
+    "player_name": "Hamidou Makalou",
+    "SCA": "0",
+    "SCA90": "0.00",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Brest",
+    "player_name": "Axel Camblan",
+    "SCA": "0",
+    "SCA90": "0.00",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Brest",
+    "player_name": "Hianga Mananga Mbock",
+    "SCA": "0",
+    "SCA90": "0.00",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Brest",
+    "player_name": "Sérigné Diop",
+    "SCA": "0",
+    "SCA90": "0.00",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Toulouse",
+    "player_name": "Cristian Cásseres Jr.",
+    "SCA": "77",
+    "SCA90": "2.57",
+    "GCA": "5",
+    "GCA90": "0.17",
+    "passlive": "2"
+  },
+  {
+    "team_name": "Toulouse",
+    "player_name": "Aron Dønnum",
+    "SCA": "92",
+    "SCA90": "3.08",
+    "GCA": "11",
+    "GCA90": "0.37",
+    "passlive": "8"
+  },
+  {
+    "team_name": "Toulouse",
+    "player_name": "Charlie Cresswell",
+    "SCA": "24",
+    "SCA90": "0.83",
+    "GCA": "3",
+    "GCA90": "0.10",
+    "passlive": "2"
+  },
+  {
+    "team_name": "Toulouse",
+    "player_name": "Guillaume Restes",
+    "SCA": "3",
+    "SCA90": "0.11",
+    "GCA": "1",
+    "GCA90": "0.04",
+    "passlive": "1"
+  },
+  {
+    "team_name": "Toulouse",
+    "player_name": "Mark McKenzie",
+    "SCA": "14",
+    "SCA90": "0.50",
+    "GCA": "1",
+    "GCA90": "0.04",
+    "passlive": "1"
+  },
+  {
+    "team_name": "Toulouse",
+    "player_name": "Vincent Sierro",
+    "SCA": "63",
+    "SCA90": "2.36",
+    "GCA": "4",
+    "GCA90": "0.15",
+    "passlive": "4"
+  },
+  {
+    "team_name": "Toulouse",
+    "player_name": "Yann Gboho",
+    "SCA": "87",
+    "SCA90": "3.36",
+    "GCA": "7",
+    "GCA90": "0.27",
+    "passlive": "5"
+  },
+  {
+    "team_name": "Toulouse",
+    "player_name": "Djibril Sidibé",
+    "SCA": "35",
+    "SCA90": "1.50",
+    "GCA": "7",
+    "GCA90": "0.30",
+    "passlive": "7"
+  },
+  {
+    "team_name": "Toulouse",
+    "player_name": "Gabriel Suazo",
+    "SCA": "82",
+    "SCA90": "3.41",
+    "GCA": "11",
+    "GCA90": "0.46",
+    "passlive": "8"
+  },
+  {
+    "team_name": "Toulouse",
+    "player_name": "Zakaria Aboukhlal",
+    "SCA": "34",
+    "SCA90": "1.61",
+    "GCA": "7",
+    "GCA90": "0.33",
+    "passlive": "3"
+  },
+  {
+    "team_name": "Toulouse",
+    "player_name": "Joshua King",
+    "SCA": "31",
+    "SCA90": "1.67",
+    "GCA": "4",
+    "GCA90": "0.22",
+    "passlive": "3"
+  },
+  {
+    "team_name": "Toulouse",
+    "player_name": "Frank Magri",
+    "SCA": "29",
+    "SCA90": "1.72",
+    "GCA": "3",
+    "GCA90": "0.18",
+    "passlive": "1"
+  },
+  {
+    "team_name": "Toulouse",
+    "player_name": "Jaydee Canvot",
+    "SCA": "14",
+    "SCA90": "1.14",
+    "GCA": "2",
+    "GCA90": "0.16",
+    "passlive": "2"
+  },
+  {
+    "team_name": "Toulouse",
+    "player_name": "Shavy Babicka",
+    "SCA": "29",
+    "SCA90": "2.20",
+    "GCA": "5",
+    "GCA90": "0.38",
+    "passlive": "3"
+  },
+  {
+    "team_name": "Toulouse",
+    "player_name": "Waren Kamanzi",
+    "SCA": "23",
+    "SCA90": "2.02",
+    "GCA": "3",
+    "GCA90": "0.26",
+    "passlive": "2"
+  },
+  {
+    "team_name": "Toulouse",
+    "player_name": "Rasmus Nicolaisen",
+    "SCA": "9",
+    "SCA90": "1.30",
+    "GCA": "1",
+    "GCA90": "0.14",
+    "passlive": "1"
+  },
+  {
+    "team_name": "Toulouse",
+    "player_name": "Ümit Akdag",
+    "SCA": "5",
+    "SCA90": "0.90",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Toulouse",
+    "player_name": "Kjetil Haug",
+    "SCA": "0",
+    "SCA90": "0.00",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Toulouse",
+    "player_name": "Rafik Messali",
+    "SCA": "16",
+    "SCA90": "3.16",
+    "GCA": "2",
+    "GCA90": "0.39",
+    "passlive": "2"
+  },
+  {
+    "team_name": "Toulouse",
+    "player_name": "Denis Genreau",
+    "SCA": "8",
+    "SCA90": "3.24",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Toulouse",
+    "player_name": "Niklas Schmidt",
+    "SCA": "12",
+    "SCA90": "5.27",
+    "GCA": "1",
+    "GCA90": "0.44",
+    "passlive": "1"
+  },
+  {
+    "team_name": "Toulouse",
+    "player_name": "Miha Zajc",
+    "SCA": "6",
+    "SCA90": "2.05",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Toulouse",
+    "player_name": "Noah Edjouma",
+    "SCA": "5",
+    "SCA90": "2.62",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Toulouse",
+    "player_name": "Logan Costa",
+    "SCA": "1",
+    "SCA90": "1.00",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Toulouse",
+    "player_name": "Álex Domínguez",
+    "SCA": "0",
+    "SCA90": "0.00",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Toulouse",
+    "player_name": "Edhy Zuliani",
+    "SCA": "0",
+    "SCA90": "0.00",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Toulouse",
+    "player_name": "Naatan Skyttä",
+    "SCA": "0",
+    "SCA90": "0.00",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Auxerre",
+    "player_name": "Donovan Léon",
+    "SCA": "12",
+    "SCA90": "0.37",
+    "GCA": "2",
+    "GCA90": "0.06",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Auxerre",
+    "player_name": "Gaëtan Perrin",
+    "SCA": "125",
+    "SCA90": "4.18",
+    "GCA": "18",
+    "GCA90": "0.60",
+    "passlive": "8"
+  },
+  {
+    "team_name": "Auxerre",
+    "player_name": "Jubal",
+    "SCA": "15",
+    "SCA90": "0.51",
+    "GCA": "1",
+    "GCA90": "0.03",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Auxerre",
+    "player_name": "Clément Akpa",
+    "SCA": "22",
+    "SCA90": "0.80",
+    "GCA": "4",
+    "GCA90": "0.14",
+    "passlive": "2"
+  },
+  {
+    "team_name": "Auxerre",
+    "player_name": "Elisha Owusu",
+    "SCA": "33",
+    "SCA90": "1.27",
+    "GCA": "5",
+    "GCA90": "0.19",
+    "passlive": "5"
+  },
+  {
+    "team_name": "Auxerre",
+    "player_name": "Gideon Mensah",
+    "SCA": "51",
+    "SCA90": "2.01",
+    "GCA": "5",
+    "GCA90": "0.20",
+    "passlive": "5"
+  },
+  {
+    "team_name": "Auxerre",
+    "player_name": "Ki-Jana Hoever",
+    "SCA": "49",
+    "SCA90": "2.08",
+    "GCA": "4",
+    "GCA90": "0.17",
+    "passlive": "4"
+  },
+  {
+    "team_name": "Auxerre",
+    "player_name": "Hamed Junior Traorè",
+    "SCA": "71",
+    "SCA90": "3.05",
+    "GCA": "7",
+    "GCA90": "0.30",
+    "passlive": "3"
+  },
+  {
+    "team_name": "Auxerre",
+    "player_name": "Lassine Sinayoko",
+    "SCA": "96",
+    "SCA90": "3.76",
+    "GCA": "20",
+    "GCA90": "0.78",
+    "passlive": "11"
+  },
+  {
+    "team_name": "Auxerre",
+    "player_name": "Sinaly Diomande",
+    "SCA": "21",
+    "SCA90": "0.97",
+    "GCA": "5",
+    "GCA90": "0.23",
+    "passlive": "3"
+  },
+  {
+    "team_name": "Auxerre",
+    "player_name": "Gabriel Osho",
+    "SCA": "3",
+    "SCA90": "0.16",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Auxerre",
+    "player_name": "Kévin Danois",
+    "SCA": "54",
+    "SCA90": "3.33",
+    "GCA": "6",
+    "GCA90": "0.37",
+    "passlive": "5"
+  },
+  {
+    "team_name": "Auxerre",
+    "player_name": "Han-Noah Massengo",
+    "SCA": "12",
+    "SCA90": "1.03",
+    "GCA": "1",
+    "GCA90": "0.09",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Auxerre",
+    "player_name": "Theo Bair",
+    "SCA": "17",
+    "SCA90": "1.63",
+    "GCA": "2",
+    "GCA90": "0.19",
+    "passlive": "1"
+  },
+  {
+    "team_name": "Auxerre",
+    "player_name": "Paul Joly",
+    "SCA": "32",
+    "SCA90": "2.85",
+    "GCA": "3",
+    "GCA90": "0.27",
+    "passlive": "2"
+  },
+  {
+    "team_name": "Auxerre",
+    "player_name": "Ado Onaiwu",
+    "SCA": "28",
+    "SCA90": "2.63",
+    "GCA": "1",
+    "GCA90": "0.09",
+    "passlive": "1"
+  },
+  {
+    "team_name": "Auxerre",
+    "player_name": "Rayan Raveloson",
+    "SCA": "17",
+    "SCA90": "2.11",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Auxerre",
+    "player_name": "Assane Dioussé",
+    "SCA": "13",
+    "SCA90": "1.76",
+    "GCA": "1",
+    "GCA90": "0.14",
+    "passlive": "1"
+  },
+  {
+    "team_name": "Auxerre",
+    "player_name": "Florian Ayé",
+    "SCA": "5",
+    "SCA90": "0.78",
+    "GCA": "2",
+    "GCA90": "0.31",
+    "passlive": "1"
+  },
+  {
+    "team_name": "Auxerre",
+    "player_name": "Fredrik Oppegard",
+    "SCA": "8",
+    "SCA90": "2.64",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Auxerre",
+    "player_name": "Théo De Percin",
+    "SCA": "0",
+    "SCA90": "0.00",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Auxerre",
+    "player_name": "Rudy Matondo",
+    "SCA": "0",
+    "SCA90": "0.00",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Auxerre",
+    "player_name": "Lasso Coulibaly",
+    "SCA": "1",
+    "SCA90": "2.05",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Auxerre",
+    "player_name": "Théo Pellenard",
+    "SCA": "1",
+    "SCA90": "2.00",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Auxerre",
+    "player_name": "Aristide Zossou",
+    "SCA": "0",
+    "SCA90": "0.00",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Auxerre",
+    "player_name": "Eros Maddy",
+    "SCA": "1",
+    "SCA90": "6.00",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Auxerre",
+    "player_name": "Loïc N'Gatta",
+    "SCA": "0",
+    "SCA90": "0.00",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Auxerre",
+    "player_name": "Yoann Cissé",
+    "SCA": "0",
+    "SCA90": "0.00",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Auxerre",
+    "player_name": "Ben Viadere",
+    "SCA": "1",
+    "SCA90": "18.00",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Rennes",
+    "player_name": "Adrien Truffert",
+    "SCA": "76",
+    "SCA90": "2.49",
+    "GCA": "8",
+    "GCA90": "0.26",
+    "passlive": "6"
+  },
+  {
+    "team_name": "Rennes",
+    "player_name": "Arnaud Kalimuendo",
+    "SCA": "49",
+    "SCA90": "1.71",
+    "GCA": "6",
+    "GCA90": "0.21",
+    "passlive": "4"
+  },
+  {
+    "team_name": "Rennes",
+    "player_name": "Lorenz Assignon",
+    "SCA": "67",
+    "SCA90": "2.56",
+    "GCA": "10",
+    "GCA90": "0.38",
+    "passlive": "7"
+  },
+  {
+    "team_name": "Rennes",
+    "player_name": "Ludovic Blas",
+    "SCA": "107",
+    "SCA90": "4.20",
+    "GCA": "16",
+    "GCA90": "0.63",
+    "passlive": "7"
+  },
+  {
+    "team_name": "Rennes",
+    "player_name": "Azor Matusiwa",
+    "SCA": "46",
+    "SCA90": "1.99",
+    "GCA": "6",
+    "GCA90": "0.26",
+    "passlive": "4"
+  },
+  {
+    "team_name": "Rennes",
+    "player_name": "Hans Hateboer",
+    "SCA": "30",
+    "SCA90": "1.60",
+    "GCA": "2",
+    "GCA90": "0.11",
+    "passlive": "2"
+  },
+  {
+    "team_name": "Rennes",
+    "player_name": "Brice Samba",
+    "SCA": "0",
+    "SCA90": "0.00",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Rennes",
+    "player_name": "Steve Mandanda",
+    "SCA": "4",
+    "SCA90": "0.24",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Rennes",
+    "player_name": "Christopher Wooh",
+    "SCA": "16",
+    "SCA90": "0.99",
+    "GCA": "1",
+    "GCA90": "0.06",
+    "passlive": "1"
+  },
+  {
+    "team_name": "Rennes",
+    "player_name": "Lilian Brassier",
+    "SCA": "22",
+    "SCA90": "1.60",
+    "GCA": "1",
+    "GCA90": "0.07",
+    "passlive": "1"
+  },
+  {
+    "team_name": "Rennes",
+    "player_name": "",
+    "SCA": "",
+    "SCA90": "",
+    "GCA": "",
+    "GCA90": "",
+    "passlive": ""
+  },
+  {
+    "team_name": "Rennes",
+    "player_name": "Player",
+    "SCA": "",
+    "SCA90": "",
+    "GCA": "",
+    "GCA90": "",
+    "passlive": ""
+  },
+  {
+    "team_name": "Rennes",
+    "player_name": "Leo Skiri Østigård",
+    "SCA": "8",
+    "SCA90": "0.59",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Rennes",
+    "player_name": "Jordan James",
+    "SCA": "44",
+    "SCA90": "3.36",
+    "GCA": "6",
+    "GCA90": "0.46",
+    "passlive": "5"
+  },
+  {
+    "team_name": "Rennes",
+    "player_name": "Djaoui Cissé",
+    "SCA": "27",
+    "SCA90": "2.17",
+    "GCA": "1",
+    "GCA90": "0.08",
+    "passlive": "1"
+  },
+  {
+    "team_name": "Rennes",
+    "player_name": "Amine Gouiri",
+    "SCA": "29",
+    "SCA90": "2.52",
+    "GCA": "4",
+    "GCA90": "0.35",
+    "passlive": "3"
+  },
+  {
+    "team_name": "Rennes",
+    "player_name": "Anthony Rouault",
+    "SCA": "10",
+    "SCA90": "0.93",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Rennes",
+    "player_name": "Jérémy Jacquet",
+    "SCA": "9",
+    "SCA90": "0.87",
+    "GCA": "1",
+    "GCA90": "0.10",
+    "passlive": "1"
+  },
+  {
+    "team_name": "Rennes",
+    "player_name": "Alidu Seidu",
+    "SCA": "12",
+    "SCA90": "1.34",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Rennes",
+    "player_name": "Seko Fofana",
+    "SCA": "32",
+    "SCA90": "3.41",
+    "GCA": "2",
+    "GCA90": "0.21",
+    "passlive": "1"
+  },
+  {
+    "team_name": "Rennes",
+    "player_name": "Albert Grønbaek",
+    "SCA": "29",
+    "SCA90": "3.21",
+    "GCA": "5",
+    "GCA90": "0.55",
+    "passlive": "1"
+  },
+  {
+    "team_name": "Rennes",
+    "player_name": "Glen Kamara",
+    "SCA": "20",
+    "SCA90": "2.72",
+    "GCA": "2",
+    "GCA90": "0.27",
+    "passlive": "2"
+  },
+  {
+    "team_name": "Rennes",
+    "player_name": "",
+    "SCA": "",
+    "SCA90": "",
+    "GCA": "",
+    "GCA90": "",
+    "passlive": ""
+  },
+  {
+    "team_name": "Rennes",
+    "player_name": "Player",
+    "SCA": "",
+    "SCA90": "",
+    "GCA": "",
+    "GCA90": "",
+    "passlive": ""
+  },
+  {
+    "team_name": "Rennes",
+    "player_name": "Mikayil Ngor Faye",
+    "SCA": "4",
+    "SCA90": "0.52",
+    "GCA": "1",
+    "GCA90": "0.13",
+    "passlive": "1"
+  },
+  {
+    "team_name": "Rennes",
+    "player_name": "Musa Al-Taamari",
+    "SCA": "22",
+    "SCA90": "3.50",
+    "GCA": "1",
+    "GCA90": "0.16",
+    "passlive": "1"
+  },
+  {
+    "team_name": "Rennes",
+    "player_name": "Mohamed Meité",
+    "SCA": "13",
+    "SCA90": "2.17",
+    "GCA": "1",
+    "GCA90": "0.17",
+    "passlive": "1"
+  },
+  {
+    "team_name": "Rennes",
+    "player_name": "Baptiste Santamaria",
+    "SCA": "10",
+    "SCA90": "1.87",
+    "GCA": "2",
+    "GCA90": "0.37",
+    "passlive": "1"
+  },
+  {
+    "team_name": "Rennes",
+    "player_name": "Ismaël Koné",
+    "SCA": "10",
+    "SCA90": "1.92",
+    "GCA": "1",
+    "GCA90": "0.19",
+    "passlive": "1"
+  },
+  {
+    "team_name": "Rennes",
+    "player_name": "Mahamadou Nagida",
+    "SCA": "10",
+    "SCA90": "2.06",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Rennes",
+    "player_name": "Jota",
+    "SCA": "7",
+    "SCA90": "1.89",
+    "GCA": "1",
+    "GCA90": "0.27",
+    "passlive": "1"
+  },
+  {
+    "team_name": "Rennes",
+    "player_name": "Kazeem Olaigbe",
+    "SCA": "25",
+    "SCA90": "7.53",
+    "GCA": "4",
+    "GCA90": "1.20",
+    "passlive": "4"
+  },
+  {
+    "team_name": "Rennes",
+    "player_name": "Carlos Gómez",
+    "SCA": "12",
+    "SCA90": "2.83",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Rennes",
+    "player_name": "Kyogo Furuhashi",
+    "SCA": "0",
+    "SCA90": "0.00",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Rennes",
+    "player_name": "Benjamin Bourigeaud",
+    "SCA": "2",
+    "SCA90": "2.25",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Rennes",
+    "player_name": "Henrik Meister",
+    "SCA": "3",
+    "SCA90": "4.29",
+    "GCA": "1",
+    "GCA90": "1.43",
+    "passlive": "1"
+  },
+  {
+    "team_name": "Rennes",
+    "player_name": "Naouirou Ahamada",
+    "SCA": "2",
+    "SCA90": "3.10",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Rennes",
+    "player_name": "Gauthier Gallon",
+    "SCA": "0",
+    "SCA90": "0.00",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Rennes",
+    "player_name": "Ayanda Sishuba",
+    "SCA": "0",
+    "SCA90": "0.00",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Nantes",
+    "player_name": "Matthis Abline",
+    "SCA": "61",
+    "SCA90": "1.98",
+    "GCA": "9",
+    "GCA90": "0.29",
+    "passlive": "6"
+  },
+  {
+    "team_name": "Nantes",
+    "player_name": "Moses Simon",
+    "SCA": "108",
+    "SCA90": "3.73",
+    "GCA": "15",
+    "GCA90": "0.52",
+    "passlive": "9"
+  },
+  {
+    "team_name": "Nantes",
+    "player_name": "Jean-Charles Castelletto",
+    "SCA": "20",
+    "SCA90": "0.69",
+    "GCA": "2",
+    "GCA90": "0.07",
+    "passlive": "1"
+  },
+  {
+    "team_name": "Nantes",
+    "player_name": "Pedro Chirivella",
+    "SCA": "55",
+    "SCA90": "2.11",
+    "GCA": "6",
+    "GCA90": "0.23",
+    "passlive": "6"
+  },
+  {
+    "team_name": "Nantes",
+    "player_name": "Douglas",
+    "SCA": "34",
+    "SCA90": "1.33",
+    "GCA": "3",
+    "GCA90": "0.12",
+    "passlive": "2"
+  },
+  {
+    "team_name": "Nantes",
+    "player_name": "Kelvin Amian",
+    "SCA": "38",
+    "SCA90": "1.58",
+    "GCA": "1",
+    "GCA90": "0.04",
+    "passlive": "1"
+  },
+  {
+    "team_name": "Nantes",
+    "player_name": "Nicolas Cozza",
+    "SCA": "20",
+    "SCA90": "0.88",
+    "GCA": "2",
+    "GCA90": "0.09",
+    "passlive": "1"
+  },
+  {
+    "team_name": "Nantes",
+    "player_name": "Johann Lepenant",
+    "SCA": "37",
+    "SCA90": "1.63",
+    "GCA": "6",
+    "GCA90": "0.26",
+    "passlive": "5"
+  },
+  {
+    "team_name": "Nantes",
+    "player_name": "Nicolas Pallois",
+    "SCA": "11",
+    "SCA90": "0.49",
+    "GCA": "1",
+    "GCA90": "0.04",
+    "passlive": "1"
+  },
+  {
+    "team_name": "Nantes",
+    "player_name": "Anthony Lopes",
+    "SCA": "1",
+    "SCA90": "0.06",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Nantes",
+    "player_name": "",
+    "SCA": "",
+    "SCA90": "",
+    "GCA": "",
+    "GCA90": "",
+    "passlive": ""
+  },
+  {
+    "team_name": "Nantes",
+    "player_name": "Player",
+    "SCA": "",
+    "SCA90": "",
+    "GCA": "",
+    "GCA90": "",
+    "passlive": ""
+  },
+  {
+    "team_name": "Nantes",
+    "player_name": "Nathan Zeze",
+    "SCA": "10",
+    "SCA90": "0.60",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Nantes",
+    "player_name": "Sorba Thomas",
+    "SCA": "54",
+    "SCA90": "3.68",
+    "GCA": "6",
+    "GCA90": "0.41",
+    "passlive": "6"
+  },
+  {
+    "team_name": "Nantes",
+    "player_name": "Alban Lafont",
+    "SCA": "2",
+    "SCA90": "0.17",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Nantes",
+    "player_name": "Mostafa Mohamed",
+    "SCA": "17",
+    "SCA90": "1.22",
+    "GCA": "2",
+    "GCA90": "0.14",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Nantes",
+    "player_name": "Marcus Coco",
+    "SCA": "20",
+    "SCA90": "1.89",
+    "GCA": "1",
+    "GCA90": "0.09",
+    "passlive": "1"
+  },
+  {
+    "team_name": "Nantes",
+    "player_name": "Saidou Sow",
+    "SCA": "9",
+    "SCA90": "1.01",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Nantes",
+    "player_name": "Louis Leroux",
+    "SCA": "30",
+    "SCA90": "3.31",
+    "GCA": "3",
+    "GCA90": "0.33",
+    "passlive": "3"
+  },
+  {
+    "team_name": "Nantes",
+    "player_name": "Jean-Kevin Duverne",
+    "SCA": "5",
+    "SCA90": "0.84",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Nantes",
+    "player_name": "Tino Kadewere",
+    "SCA": "19",
+    "SCA90": "3.34",
+    "GCA": "2",
+    "GCA90": "0.35",
+    "passlive": "2"
+  },
+  {
+    "team_name": "Nantes",
+    "player_name": "Patrik Carlgren",
+    "SCA": "0",
+    "SCA90": "0.00",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Nantes",
+    "player_name": "",
+    "SCA": "",
+    "SCA90": "",
+    "GCA": "",
+    "GCA90": "",
+    "passlive": ""
+  },
+  {
+    "team_name": "Nantes",
+    "player_name": "Player",
+    "SCA": "",
+    "SCA90": "",
+    "GCA": "",
+    "GCA90": "",
+    "passlive": ""
+  },
+  {
+    "team_name": "Nantes",
+    "player_name": "Fabien Centonze",
+    "SCA": "8",
+    "SCA90": "2.72",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Nantes",
+    "player_name": "Florent Mollet",
+    "SCA": "10",
+    "SCA90": "3.70",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Nantes",
+    "player_name": "Francis Coquelin",
+    "SCA": "13",
+    "SCA90": "5.27",
+    "GCA": "2",
+    "GCA90": "0.81",
+    "passlive": "1"
+  },
+  {
+    "team_name": "Nantes",
+    "player_name": "Bahereba Guirassy",
+    "SCA": "10",
+    "SCA90": "2.59",
+    "GCA": "2",
+    "GCA90": "0.52",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Nantes",
+    "player_name": "Jean-Philippe Gbamin",
+    "SCA": "4",
+    "SCA90": "1.67",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Nantes",
+    "player_name": "Ignatius Ganago",
+    "SCA": "7",
+    "SCA90": "2.62",
+    "GCA": "1",
+    "GCA90": "0.37",
+    "passlive": "1"
+  },
+  {
+    "team_name": "Nantes",
+    "player_name": "Meschak Elia",
+    "SCA": "6",
+    "SCA90": "3.18",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Nantes",
+    "player_name": "Dehmaine Assoumani",
+    "SCA": "7",
+    "SCA90": "6.36",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Nantes",
+    "player_name": "Plamedi Nsingi",
+    "SCA": "0",
+    "SCA90": "0.00",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Nantes",
+    "player_name": "Sékou Doucoure",
+    "SCA": "0",
+    "SCA90": "0.00",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Angers",
+    "player_name": "Jordan Lefort",
+    "SCA": "26",
+    "SCA90": "0.76",
+    "GCA": "1",
+    "GCA90": "0.03",
+    "passlive": "1"
+  },
+  {
+    "team_name": "Angers",
+    "player_name": "Yahia Fofana",
+    "SCA": "4",
+    "SCA90": "0.12",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Angers",
+    "player_name": "Himad Abdelli",
+    "SCA": "94",
+    "SCA90": "2.98",
+    "GCA": "5",
+    "GCA90": "0.16",
+    "passlive": "3"
+  },
+  {
+    "team_name": "Angers",
+    "player_name": "Florent Hanin",
+    "SCA": "60",
+    "SCA90": "2.02",
+    "GCA": "9",
+    "GCA90": "0.30",
+    "passlive": "9"
+  },
+  {
+    "team_name": "Angers",
+    "player_name": "Jean-Eudes Aholou",
+    "SCA": "33",
+    "SCA90": "1.52",
+    "GCA": "1",
+    "GCA90": "0.05",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Angers",
+    "player_name": "Carlens Arcus",
+    "SCA": "37",
+    "SCA90": "1.63",
+    "GCA": "3",
+    "GCA90": "0.13",
+    "passlive": "2"
+  },
+  {
+    "team_name": "Angers",
+    "player_name": "Jim Allevinah",
+    "SCA": "39",
+    "SCA90": "2.00",
+    "GCA": "7",
+    "GCA90": "0.36",
+    "passlive": "4"
+  },
+  {
+    "team_name": "Angers",
+    "player_name": "Farid El Melali",
+    "SCA": "67",
+    "SCA90": "3.18",
+    "GCA": "11",
+    "GCA90": "0.52",
+    "passlive": "3"
+  },
+  {
+    "team_name": "Angers",
+    "player_name": "Haris Belkebla",
+    "SCA": "14",
+    "SCA90": "0.70",
+    "GCA": "4",
+    "GCA90": "0.20",
+    "passlive": "4"
+  },
+  {
+    "team_name": "Angers",
+    "player_name": "Esteban Lepaul",
+    "SCA": "22",
+    "SCA90": "1.22",
+    "GCA": "1",
+    "GCA90": "0.06",
+    "passlive": "1"
+  },
+  {
+    "team_name": "Angers",
+    "player_name": "",
+    "SCA": "",
+    "SCA90": "",
+    "GCA": "",
+    "GCA90": "",
+    "passlive": ""
+  },
+  {
+    "team_name": "Angers",
+    "player_name": "Player",
+    "SCA": "",
+    "SCA90": "",
+    "GCA": "",
+    "GCA90": "",
+    "passlive": ""
+  },
+  {
+    "team_name": "Angers",
+    "player_name": "Yassin Belkhdim",
+    "SCA": "12",
+    "SCA90": "0.71",
+    "GCA": "1",
+    "GCA90": "0.06",
+    "passlive": "1"
+  },
+  {
+    "team_name": "Angers",
+    "player_name": "Abdoulaye Bamba",
+    "SCA": "10",
+    "SCA90": "0.60",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Angers",
+    "player_name": "Emmanuel Biumla",
+    "SCA": "4",
+    "SCA90": "0.27",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Angers",
+    "player_name": "Lilian Raolisoa",
+    "SCA": "32",
+    "SCA90": "2.19",
+    "GCA": "4",
+    "GCA90": "0.27",
+    "passlive": "2"
+  },
+  {
+    "team_name": "Angers",
+    "player_name": "Ibrahima Niane",
+    "SCA": "21",
+    "SCA90": "2.00",
+    "GCA": "4",
+    "GCA90": "0.38",
+    "passlive": "1"
+  },
+  {
+    "team_name": "Angers",
+    "player_name": "Zinedine Ferhat",
+    "SCA": "32",
+    "SCA90": "3.39",
+    "GCA": "1",
+    "GCA90": "0.11",
+    "passlive": "1"
+  },
+  {
+    "team_name": "Angers",
+    "player_name": "Jacques Ekomie",
+    "SCA": "4",
+    "SCA90": "0.52",
+    "GCA": "1",
+    "GCA90": "0.13",
+    "passlive": "1"
+  },
+  {
+    "team_name": "Angers",
+    "player_name": "Bamba Dieng",
+    "SCA": "6",
+    "SCA90": "1.02",
+    "GCA": "1",
+    "GCA90": "0.17",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Angers",
+    "player_name": "Zinédine Ould Khaled",
+    "SCA": "1",
+    "SCA90": "0.26",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Angers",
+    "player_name": "Pierrick Capelle",
+    "SCA": "15",
+    "SCA90": "2.80",
+    "GCA": "1",
+    "GCA90": "0.19",
+    "passlive": "1"
+  },
+  {
+    "team_name": "Angers",
+    "player_name": "",
+    "SCA": "",
+    "SCA90": "",
+    "GCA": "",
+    "GCA90": "",
+    "passlive": ""
+  },
+  {
+    "team_name": "Angers",
+    "player_name": "Player",
+    "SCA": "",
+    "SCA90": "",
+    "GCA": "",
+    "GCA90": "",
+    "passlive": ""
+  },
+  {
+    "team_name": "Angers",
+    "player_name": "Sidiki Cherif",
+    "SCA": "4",
+    "SCA90": "1.11",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Angers",
+    "player_name": "Marius Courcoul",
+    "SCA": "3",
+    "SCA90": "0.87",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Angers",
+    "player_name": "Cédric Hountondji",
+    "SCA": "1",
+    "SCA90": "0.33",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Angers",
+    "player_name": "Ousmane Camara",
+    "SCA": "5",
+    "SCA90": "1.79",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Angers",
+    "player_name": "Melvin Zinga",
+    "SCA": "0",
+    "SCA90": "0.00",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Angers",
+    "player_name": "Enzo Caumont",
+    "SCA": "0",
+    "SCA90": "0.00",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Angers",
+    "player_name": "Justin-Noël Kalumba",
+    "SCA": "0",
+    "SCA90": "0.00",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Angers",
+    "player_name": "Prosper Peter",
+    "SCA": "0",
+    "SCA90": "0.00",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Angers",
+    "player_name": "Lois Diony",
+    "SCA": "0",
+    "SCA90": "0.00",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Angers",
+    "player_name": "Lanroy Machine",
+    "SCA": "0",
+    "SCA90": "0.00",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Le Havre",
+    "player_name": "Gautier Lloris",
+    "SCA": "21",
+    "SCA90": "0.68",
+    "GCA": "3",
+    "GCA90": "0.10",
+    "passlive": "2"
+  },
+  {
+    "team_name": "Le Havre",
+    "player_name": "Loïc Nego",
+    "SCA": "44",
+    "SCA90": "1.61",
+    "GCA": "4",
+    "GCA90": "0.15",
+    "passlive": "3"
+  },
+  {
+    "team_name": "Le Havre",
+    "player_name": "Abdoulaye Touré",
+    "SCA": "49",
+    "SCA90": "1.90",
+    "GCA": "5",
+    "GCA90": "0.19",
+    "passlive": "3"
+  },
+  {
+    "team_name": "Le Havre",
+    "player_name": "Etienne Youte Kinkoue",
+    "SCA": "14",
+    "SCA90": "0.54",
+    "GCA": "1",
+    "GCA90": "0.04",
+    "passlive": "1"
+  },
+  {
+    "team_name": "Le Havre",
+    "player_name": "Yassine Kechta",
+    "SCA": "48",
+    "SCA90": "2.06",
+    "GCA": "4",
+    "GCA90": "0.17",
+    "passlive": "1"
+  },
+  {
+    "team_name": "Le Havre",
+    "player_name": "Josué Casimir",
+    "SCA": "60",
+    "SCA90": "2.70",
+    "GCA": "8",
+    "GCA90": "0.36",
+    "passlive": "3"
+  },
+  {
+    "team_name": "Le Havre",
+    "player_name": "Issa Soumaré",
+    "SCA": "52",
+    "SCA90": "2.46",
+    "GCA": "9",
+    "GCA90": "0.43",
+    "passlive": "6"
+  },
+  {
+    "team_name": "Le Havre",
+    "player_name": "Arthur Desmas",
+    "SCA": "3",
+    "SCA90": "0.17",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Le Havre",
+    "player_name": "Mathieu Gorgelin",
+    "SCA": "2",
+    "SCA90": "0.12",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Le Havre",
+    "player_name": "Arouna Sangante",
+    "SCA": "12",
+    "SCA90": "0.87",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Le Havre",
+    "player_name": "",
+    "SCA": "",
+    "SCA90": "",
+    "GCA": "",
+    "GCA90": "",
+    "passlive": ""
+  },
+  {
+    "team_name": "Le Havre",
+    "player_name": "Player",
+    "SCA": "",
+    "SCA90": "",
+    "GCA": "",
+    "GCA90": "",
+    "passlive": ""
+  },
+  {
+    "team_name": "Le Havre",
+    "player_name": "André Ayew",
+    "SCA": "20",
+    "SCA90": "1.24",
+    "GCA": "1",
+    "GCA90": "0.06",
+    "passlive": "1"
+  },
+  {
+    "team_name": "Le Havre",
+    "player_name": "Christopher Operi",
+    "SCA": "36",
+    "SCA90": "2.77",
+    "GCA": "3",
+    "GCA90": "0.23",
+    "passlive": "1"
+  },
+  {
+    "team_name": "Le Havre",
+    "player_name": "Timothee Pembele",
+    "SCA": "12",
+    "SCA90": "0.97",
+    "GCA": "1",
+    "GCA90": "0.08",
+    "passlive": "1"
+  },
+  {
+    "team_name": "Le Havre",
+    "player_name": "Oussama Targhalline",
+    "SCA": "20",
+    "SCA90": "1.82",
+    "GCA": "2",
+    "GCA90": "0.18",
+    "passlive": "2"
+  },
+  {
+    "team_name": "Le Havre",
+    "player_name": "Rassoul Ndiaye",
+    "SCA": "22",
+    "SCA90": "1.87",
+    "GCA": "2",
+    "GCA90": "0.17",
+    "passlive": "1"
+  },
+  {
+    "team_name": "Le Havre",
+    "player_name": "Junior Mwanga",
+    "SCA": "24",
+    "SCA90": "2.27",
+    "GCA": "5",
+    "GCA90": "0.47",
+    "passlive": "4"
+  },
+  {
+    "team_name": "Le Havre",
+    "player_name": "Koka",
+    "SCA": "11",
+    "SCA90": "1.16",
+    "GCA": "3",
+    "GCA90": "0.32",
+    "passlive": "2"
+  },
+  {
+    "team_name": "Le Havre",
+    "player_name": "Yanis Zouaoui",
+    "SCA": "40",
+    "SCA90": "3.69",
+    "GCA": "3",
+    "GCA90": "0.28",
+    "passlive": "1"
+  },
+  {
+    "team_name": "Le Havre",
+    "player_name": "Antoine Joujou",
+    "SCA": "37",
+    "SCA90": "3.53",
+    "GCA": "3",
+    "GCA90": "0.29",
+    "passlive": "2"
+  },
+  {
+    "team_name": "Le Havre",
+    "player_name": "Yoann Salmier",
+    "SCA": "3",
+    "SCA90": "0.34",
+    "GCA": "1",
+    "GCA90": "0.11",
+    "passlive": "1"
+  },
+  {
+    "team_name": "Le Havre",
+    "player_name": "",
+    "SCA": "",
+    "SCA90": "",
+    "GCA": "",
+    "GCA90": "",
+    "passlive": ""
+  },
+  {
+    "team_name": "Le Havre",
+    "player_name": "Player",
+    "SCA": "",
+    "SCA90": "",
+    "GCA": "",
+    "GCA90": "",
+    "passlive": ""
+  },
+  {
+    "team_name": "Le Havre",
+    "player_name": "Fodé Ballo-Touré",
+    "SCA": "4",
+    "SCA90": "0.61",
+    "GCA": "1",
+    "GCA90": "0.15",
+    "passlive": "1"
+  },
+  {
+    "team_name": "Le Havre",
+    "player_name": "Emmanuel Sabbi",
+    "SCA": "20",
+    "SCA90": "2.76",
+    "GCA": "2",
+    "GCA90": "0.28",
+    "passlive": "1"
+  },
+  {
+    "team_name": "Le Havre",
+    "player_name": "Mahamadou Diawara",
+    "SCA": "14",
+    "SCA90": "2.16",
+    "GCA": "1",
+    "GCA90": "0.15",
+    "passlive": "1"
+  },
+  {
+    "team_name": "Le Havre",
+    "player_name": "Daler Kuzyaev",
+    "SCA": "4",
+    "SCA90": "0.63",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Le Havre",
+    "player_name": "Ilyes Housni",
+    "SCA": "6",
+    "SCA90": "2.34",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Le Havre",
+    "player_name": "Steve Ngoura",
+    "SCA": "6",
+    "SCA90": "1.87",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Le Havre",
+    "player_name": "Samuel Grandsir",
+    "SCA": "4",
+    "SCA90": "4.29",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Le Havre",
+    "player_name": "Elysée Logbo",
+    "SCA": "0",
+    "SCA90": "0.00",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Le Havre",
+    "player_name": "Mathéo Bodmer",
+    "SCA": "0",
+    "SCA90": "0.00",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Le Havre",
+    "player_name": "Kandet Diawara",
+    "SCA": "0",
+    "SCA90": "0.00",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Le Havre",
+    "player_name": "Alois Confais",
+    "SCA": "0",
+    "SCA90": "0.00",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Reims",
+    "player_name": "Yehvann Diouf",
+    "SCA": "7",
+    "SCA90": "0.21",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Reims",
+    "player_name": "Valentin Atangana Edoa",
+    "SCA": "49",
+    "SCA90": "1.55",
+    "GCA": "1",
+    "GCA90": "0.03",
+    "passlive": "1"
+  },
+  {
+    "team_name": "Reims",
+    "player_name": "Junya Ito",
+    "SCA": "129",
+    "SCA90": "4.32",
+    "GCA": "9",
+    "GCA90": "0.30",
+    "passlive": "7"
+  },
+  {
+    "team_name": "Reims",
+    "player_name": "Keito Nakamura",
+    "SCA": "68",
+    "SCA90": "2.31",
+    "GCA": "7",
+    "GCA90": "0.24",
+    "passlive": "4"
+  },
+  {
+    "team_name": "Reims",
+    "player_name": "Sergio Akieme",
+    "SCA": "37",
+    "SCA90": "1.32",
+    "GCA": "3",
+    "GCA90": "0.11",
+    "passlive": "3"
+  },
+  {
+    "team_name": "Reims",
+    "player_name": "Cédric Kipré",
+    "SCA": "31",
+    "SCA90": "1.27",
+    "GCA": "3",
+    "GCA90": "0.12",
+    "passlive": "3"
+  },
+  {
+    "team_name": "Reims",
+    "player_name": "Aurélio Buta",
+    "SCA": "31",
+    "SCA90": "1.42",
+    "GCA": "4",
+    "GCA90": "0.18",
+    "passlive": "3"
+  },
+  {
+    "team_name": "Reims",
+    "player_name": "Joseph Okumu",
+    "SCA": "25",
+    "SCA90": "1.33",
+    "GCA": "3",
+    "GCA90": "0.16",
+    "passlive": "3"
+  },
+  {
+    "team_name": "Reims",
+    "player_name": "Oumar Diakité",
+    "SCA": "39",
+    "SCA90": "2.16",
+    "GCA": "4",
+    "GCA90": "0.22",
+    "passlive": "4"
+  },
+  {
+    "team_name": "Reims",
+    "player_name": "Marshall Munetsi",
+    "SCA": "41",
+    "SCA90": "2.18",
+    "GCA": "4",
+    "GCA90": "0.21",
+    "passlive": "3"
+  },
+  {
+    "team_name": "Reims",
+    "player_name": "",
+    "SCA": "",
+    "SCA90": "",
+    "GCA": "",
+    "GCA90": "",
+    "passlive": ""
+  },
+  {
+    "team_name": "Reims",
+    "player_name": "Player",
+    "SCA": "",
+    "SCA90": "",
+    "GCA": "",
+    "GCA90": "",
+    "passlive": ""
+  },
+  {
+    "team_name": "Reims",
+    "player_name": "Amadou Koné",
+    "SCA": "28",
+    "SCA90": "1.95",
+    "GCA": "2",
+    "GCA90": "0.14",
+    "passlive": "1"
+  },
+  {
+    "team_name": "Reims",
+    "player_name": "Emmanuel Agbadou",
+    "SCA": "21",
+    "SCA90": "1.50",
+    "GCA": "1",
+    "GCA90": "0.07",
+    "passlive": "1"
+  },
+  {
+    "team_name": "Reims",
+    "player_name": "Mory Gbane",
+    "SCA": "18",
+    "SCA90": "1.44",
+    "GCA": "1",
+    "GCA90": "0.08",
+    "passlive": "1"
+  },
+  {
+    "team_name": "Reims",
+    "player_name": "Nhoa Sangui",
+    "SCA": "18",
+    "SCA90": "1.40",
+    "GCA": "5",
+    "GCA90": "0.39",
+    "passlive": "3"
+  },
+  {
+    "team_name": "Reims",
+    "player_name": "Hiroki Sekine",
+    "SCA": "19",
+    "SCA90": "1.93",
+    "GCA": "1",
+    "GCA90": "0.10",
+    "passlive": "1"
+  },
+  {
+    "team_name": "Reims",
+    "player_name": "Teddy Teuma",
+    "SCA": "28",
+    "SCA90": "3.36",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Reims",
+    "player_name": "Yaya Kader Fofana",
+    "SCA": "22",
+    "SCA90": "3.12",
+    "GCA": "5",
+    "GCA90": "0.71",
+    "passlive": "3"
+  },
+  {
+    "team_name": "Reims",
+    "player_name": "Jordan Pefok",
+    "SCA": "9",
+    "SCA90": "2.13",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Reims",
+    "player_name": "Mamadou Diakhon",
+    "SCA": "37",
+    "SCA90": "3.88",
+    "GCA": "2",
+    "GCA90": "0.21",
+    "passlive": "1"
+  },
+  {
+    "team_name": "Reims",
+    "player_name": "John Joe",
+    "SCA": "9",
+    "SCA90": "1.48",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Reims",
+    "player_name": "",
+    "SCA": "",
+    "SCA90": "",
+    "GCA": "",
+    "GCA90": "",
+    "passlive": ""
+  },
+  {
+    "team_name": "Reims",
+    "player_name": "Player",
+    "SCA": "",
+    "SCA90": "",
+    "GCA": "",
+    "GCA90": "",
+    "passlive": ""
+  },
+  {
+    "team_name": "Reims",
+    "player_name": "Hafiz Ibrahim",
+    "SCA": "4",
+    "SCA90": "0.92",
+    "GCA": "1",
+    "GCA90": "0.23",
+    "passlive": "1"
+  },
+  {
+    "team_name": "Reims",
+    "player_name": "Amine Salama",
+    "SCA": "8",
+    "SCA90": "1.93",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Reims",
+    "player_name": "Thibault De Smet",
+    "SCA": "0",
+    "SCA90": "0.00",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Reims",
+    "player_name": "Ange Martial Tia",
+    "SCA": "4",
+    "SCA90": "2.11",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Reims",
+    "player_name": "Malcolm Jeng",
+    "SCA": "0",
+    "SCA90": "0.00",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Reims",
+    "player_name": "Abdoul Koné",
+    "SCA": "1",
+    "SCA90": "0.68",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Reims",
+    "player_name": "Gabriel Moscardo",
+    "SCA": "0",
+    "SCA90": "0.00",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Reims",
+    "player_name": "Reda Khadra",
+    "SCA": "2",
+    "SCA90": "2.25",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Reims",
+    "player_name": "Niama Sissoko",
+    "SCA": "1",
+    "SCA90": "1.91",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Reims",
+    "player_name": "Martin Adeline",
+    "SCA": "0",
+    "SCA90": "0.00",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Reims",
+    "player_name": "Eloge Zabi",
+    "SCA": "1",
+    "SCA90": "5.00",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Reims",
+    "player_name": "Mohamed Daramy",
+    "SCA": "2",
+    "SCA90": "11.25",
+    "GCA": "1",
+    "GCA90": "5.63",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Reims",
+    "player_name": "Mohamed Bamba",
+    "SCA": "0",
+    "SCA90": "0.00",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Reims",
+    "player_name": "Ike Orazi",
+    "SCA": "0",
+    "SCA90": "0.00",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Saint-Étienne",
+    "player_name": "Gautier Larsonneur",
+    "SCA": "3",
+    "SCA90": "0.09",
+    "GCA": "1",
+    "GCA90": "0.03",
+    "passlive": "1"
+  },
+  {
+    "team_name": "Saint-Étienne",
+    "player_name": "Zuriko Davitashvili",
+    "SCA": "115",
+    "SCA90": "3.85",
+    "GCA": "15",
+    "GCA90": "0.50",
+    "passlive": "8"
+  },
+  {
+    "team_name": "Saint-Étienne",
+    "player_name": "Léo Pétrot",
+    "SCA": "40",
+    "SCA90": "1.42",
+    "GCA": "6",
+    "GCA90": "0.21",
+    "passlive": "6"
+  },
+  {
+    "team_name": "Saint-Étienne",
+    "player_name": "Pierre Ekwah Elimby",
+    "SCA": "40",
+    "SCA90": "1.45",
+    "GCA": "4",
+    "GCA90": "0.14",
+    "passlive": "4"
+  },
+  {
+    "team_name": "Saint-Étienne",
+    "player_name": "Mickael Nade",
+    "SCA": "16",
+    "SCA90": "0.65",
+    "GCA": "5",
+    "GCA90": "0.20",
+    "passlive": "3"
+  },
+  {
+    "team_name": "Saint-Étienne",
+    "player_name": "Lucas Stassin",
+    "SCA": "34",
+    "SCA90": "1.70",
+    "GCA": "8",
+    "GCA90": "0.40",
+    "passlive": "4"
+  },
+  {
+    "team_name": "Saint-Étienne",
+    "player_name": "Dennis Appiah",
+    "SCA": "38",
+    "SCA90": "1.61",
+    "GCA": "3",
+    "GCA90": "0.13",
+    "passlive": "2"
+  },
+  {
+    "team_name": "Saint-Étienne",
+    "player_name": "Dylan Batubinsika",
+    "SCA": "9",
+    "SCA90": "0.40",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Saint-Étienne",
+    "player_name": "Benjamin Bouchouari",
+    "SCA": "52",
+    "SCA90": "2.71",
+    "GCA": "3",
+    "GCA90": "0.16",
+    "passlive": "3"
+  },
+  {
+    "team_name": "Saint-Étienne",
+    "player_name": "Florian Tardieu",
+    "SCA": "45",
+    "SCA90": "3.48",
+    "GCA": "5",
+    "GCA90": "0.39",
+    "passlive": "4"
+  },
+  {
+    "team_name": "Saint-Étienne",
+    "player_name": "",
+    "SCA": "",
+    "SCA90": "",
+    "GCA": "",
+    "GCA90": "",
+    "passlive": ""
+  },
+  {
+    "team_name": "Saint-Étienne",
+    "player_name": "Player",
+    "SCA": "",
+    "SCA90": "",
+    "GCA": "",
+    "GCA90": "",
+    "passlive": ""
+  },
+  {
+    "team_name": "Saint-Étienne",
+    "player_name": "Irvin Cardona",
+    "SCA": "25",
+    "SCA90": "2.31",
+    "GCA": "3",
+    "GCA90": "0.28",
+    "passlive": "2"
+  },
+  {
+    "team_name": "Saint-Étienne",
+    "player_name": "Aimen Moueffek",
+    "SCA": "21",
+    "SCA90": "1.82",
+    "GCA": "3",
+    "GCA90": "0.26",
+    "passlive": "3"
+  },
+  {
+    "team_name": "Saint-Étienne",
+    "player_name": "Louis Mouton",
+    "SCA": "28",
+    "SCA90": "2.41",
+    "GCA": "2",
+    "GCA90": "0.17",
+    "passlive": "2"
+  },
+  {
+    "team_name": "Saint-Étienne",
+    "player_name": "Yunis Abdelhamid",
+    "SCA": "6",
+    "SCA90": "0.55",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Saint-Étienne",
+    "player_name": "Yvann Macon",
+    "SCA": "10",
+    "SCA90": "1.29",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Saint-Étienne",
+    "player_name": "Mathis Amougou",
+    "SCA": "17",
+    "SCA90": "1.78",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Saint-Étienne",
+    "player_name": "Maxime Bernauer",
+    "SCA": "8",
+    "SCA90": "1.00",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Saint-Étienne",
+    "player_name": "Mathieu Cafaro",
+    "SCA": "25",
+    "SCA90": "3.07",
+    "GCA": "2",
+    "GCA90": "0.25",
+    "passlive": "2"
+  },
+  {
+    "team_name": "Saint-Étienne",
+    "player_name": "Ibrahim Sissoko",
+    "SCA": "21",
+    "SCA90": "2.31",
+    "GCA": "1",
+    "GCA90": "0.11",
+    "passlive": "1"
+  },
+  {
+    "team_name": "Saint-Étienne",
+    "player_name": "Augustine Boakye",
+    "SCA": "35",
+    "SCA90": "4.30",
+    "GCA": "1",
+    "GCA90": "0.12",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Saint-Étienne",
+    "player_name": "",
+    "SCA": "",
+    "SCA90": "",
+    "GCA": "",
+    "GCA90": "",
+    "passlive": ""
+  },
+  {
+    "team_name": "Saint-Étienne",
+    "player_name": "Player",
+    "SCA": "",
+    "SCA90": "",
+    "GCA": "",
+    "GCA90": "",
+    "passlive": ""
+  },
+  {
+    "team_name": "Saint-Étienne",
+    "player_name": "Pierre Cornud",
+    "SCA": "5",
+    "SCA90": "0.78",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Saint-Étienne",
+    "player_name": "Ben Old",
+    "SCA": "16",
+    "SCA90": "2.73",
+    "GCA": "1",
+    "GCA90": "0.17",
+    "passlive": "1"
+  },
+  {
+    "team_name": "Saint-Étienne",
+    "player_name": "Lamine Fomba",
+    "SCA": "4",
+    "SCA90": "1.66",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Saint-Étienne",
+    "player_name": "Djylian N'Guessan",
+    "SCA": "3",
+    "SCA90": "1.49",
+    "GCA": "1",
+    "GCA90": "0.50",
+    "passlive": "1"
+  },
+  {
+    "team_name": "Saint-Étienne",
+    "player_name": "Ibrahima Wadji",
+    "SCA": "8",
+    "SCA90": "2.09",
+    "GCA": "1",
+    "GCA90": "0.26",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Saint-Étienne",
+    "player_name": "Marwann Nzuzi",
+    "SCA": "1",
+    "SCA90": "0.72",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Saint-Étienne",
+    "player_name": "Ayman Aiki",
+    "SCA": "1",
+    "SCA90": "0.71",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Saint-Étienne",
+    "player_name": "Beres Owusu",
+    "SCA": "2",
+    "SCA90": "2.00",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Saint-Étienne",
+    "player_name": "Igor Miladinović",
+    "SCA": "0",
+    "SCA90": "0.00",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Saint-Étienne",
+    "player_name": "Kévin Pedro",
+    "SCA": "0",
+    "SCA90": "0.00",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Saint-Étienne",
+    "player_name": "Jibril Othman",
+    "SCA": "0",
+    "SCA90": "0.00",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Saint-Étienne",
+    "player_name": "Anthony Briançon",
+    "SCA": "0",
+    "SCA90": "0.00",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Montpellier",
+    "player_name": "Benjamin Lecomte",
+    "SCA": "10",
+    "SCA90": "0.34",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Montpellier",
+    "player_name": "Téji Savanier",
+    "SCA": "122",
+    "SCA90": "4.83",
+    "GCA": "7",
+    "GCA90": "0.28",
+    "passlive": "4"
+  },
+  {
+    "team_name": "Montpellier",
+    "player_name": "Modibo Sagnan",
+    "SCA": "15",
+    "SCA90": "0.66",
+    "GCA": "2",
+    "GCA90": "0.09",
+    "passlive": "1"
+  },
+  {
+    "team_name": "Montpellier",
+    "player_name": "Joris Chotard",
+    "SCA": "24",
+    "SCA90": "1.20",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Montpellier",
+    "player_name": "Enzo Tchato",
+    "SCA": "33",
+    "SCA90": "1.56",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Montpellier",
+    "player_name": "Becir Omeragic",
+    "SCA": "9",
+    "SCA90": "0.45",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Montpellier",
+    "player_name": "Jordan Ferri",
+    "SCA": "47",
+    "SCA90": "2.39",
+    "GCA": "5",
+    "GCA90": "0.25",
+    "passlive": "4"
+  },
+  {
+    "team_name": "Montpellier",
+    "player_name": "Rabby Nzingoula",
+    "SCA": "35",
+    "SCA90": "1.92",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Montpellier",
+    "player_name": "Tanguy Coulibaly",
+    "SCA": "45",
+    "SCA90": "2.90",
+    "GCA": "3",
+    "GCA90": "0.19",
+    "passlive": "1"
+  },
+  {
+    "team_name": "Montpellier",
+    "player_name": "Issiaga Sylla",
+    "SCA": "20",
+    "SCA90": "1.62",
+    "GCA": "2",
+    "GCA90": "0.16",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Montpellier",
+    "player_name": "",
+    "SCA": "",
+    "SCA90": "",
+    "GCA": "",
+    "GCA90": "",
+    "passlive": ""
+  },
+  {
+    "team_name": "Montpellier",
+    "player_name": "Player",
+    "SCA": "",
+    "SCA90": "",
+    "GCA": "",
+    "GCA90": "",
+    "passlive": ""
+  },
+  {
+    "team_name": "Montpellier",
+    "player_name": "Falaye Sacko",
+    "SCA": "20",
+    "SCA90": "1.57",
+    "GCA": "1",
+    "GCA90": "0.08",
+    "passlive": "1"
+  },
+  {
+    "team_name": "Montpellier",
+    "player_name": "Arnaud Nordin",
+    "SCA": "30",
+    "SCA90": "2.32",
+    "GCA": "3",
+    "GCA90": "0.23",
+    "passlive": "3"
+  },
+  {
+    "team_name": "Montpellier",
+    "player_name": "Akor Adams",
+    "SCA": "25",
+    "SCA90": "2.09",
+    "GCA": "5",
+    "GCA90": "0.42",
+    "passlive": "2"
+  },
+  {
+    "team_name": "Montpellier",
+    "player_name": "Musa Al-Taamari",
+    "SCA": "35",
+    "SCA90": "2.82",
+    "GCA": "5",
+    "GCA90": "0.40",
+    "passlive": "2"
+  },
+  {
+    "team_name": "Montpellier",
+    "player_name": "Théo Sainte-Luce",
+    "SCA": "12",
+    "SCA90": "1.11",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Montpellier",
+    "player_name": "Wahbi Khazri",
+    "SCA": "39",
+    "SCA90": "3.27",
+    "GCA": "2",
+    "GCA90": "0.17",
+    "passlive": "1"
+  },
+  {
+    "team_name": "Montpellier",
+    "player_name": "Khalil Fayad",
+    "SCA": "19",
+    "SCA90": "1.66",
+    "GCA": "1",
+    "GCA90": "0.09",
+    "passlive": "1"
+  },
+  {
+    "team_name": "Montpellier",
+    "player_name": "Yael Mouanga",
+    "SCA": "6",
+    "SCA90": "0.57",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Montpellier",
+    "player_name": "Boubakar Kouyaté",
+    "SCA": "3",
+    "SCA90": "0.41",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Montpellier",
+    "player_name": "Lucas Mincarelli",
+    "SCA": "6",
+    "SCA90": "0.75",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Montpellier",
+    "player_name": "",
+    "SCA": "",
+    "SCA90": "",
+    "GCA": "",
+    "GCA90": "",
+    "passlive": ""
+  },
+  {
+    "team_name": "Montpellier",
+    "player_name": "Player",
+    "SCA": "",
+    "SCA90": "",
+    "GCA": "",
+    "GCA90": "",
+    "passlive": ""
+  },
+  {
+    "team_name": "Montpellier",
+    "player_name": "Andy Delort",
+    "SCA": "12",
+    "SCA90": "2.09",
+    "GCA": "1",
+    "GCA90": "0.17",
+    "passlive": "1"
+  },
+  {
+    "team_name": "Montpellier",
+    "player_name": "Nikola Maksimović",
+    "SCA": "8",
+    "SCA90": "1.24",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Montpellier",
+    "player_name": "Bamo Meïté",
+    "SCA": "2",
+    "SCA90": "0.42",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Montpellier",
+    "player_name": "Nicolas Pays",
+    "SCA": "11",
+    "SCA90": "2.21",
+    "GCA": "1",
+    "GCA90": "0.20",
+    "passlive": "1"
+  },
+  {
+    "team_name": "Montpellier",
+    "player_name": "Junior Ndiaye",
+    "SCA": "9",
+    "SCA90": "1.84",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Montpellier",
+    "player_name": "Dimitry Bertaud",
+    "SCA": "0",
+    "SCA90": "0.00",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Montpellier",
+    "player_name": "Wilfried Ndollo",
+    "SCA": "4",
+    "SCA90": "0.90",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Montpellier",
+    "player_name": "Othmane Maamma",
+    "SCA": "4",
+    "SCA90": "1.33",
+    "GCA": "1",
+    "GCA90": "0.33",
+    "passlive": "1"
+  },
+  {
+    "team_name": "Montpellier",
+    "player_name": "Birama Touré",
+    "SCA": "6",
+    "SCA90": "1.79",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Montpellier",
+    "player_name": "Stefan Džodić",
+    "SCA": "2",
+    "SCA90": "0.74",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Montpellier",
+    "player_name": "Théo Chennahi",
+    "SCA": "1",
+    "SCA90": "0.50",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Montpellier",
+    "player_name": "Yanis Issoufou",
+    "SCA": "0",
+    "SCA90": "0.00",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Montpellier",
+    "player_name": "Gabriel Bares",
+    "SCA": "0",
+    "SCA90": "0.00",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Montpellier",
+    "player_name": "Axel Gueguin",
+    "SCA": "0",
+    "SCA90": "0.00",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Montpellier",
+    "player_name": "Simon Cara",
+    "SCA": "0",
+    "SCA90": "0.00",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  }
+]

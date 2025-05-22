@@ -1,0 +1,122 @@
+[
+  {
+    "team": "Marseille",
+    "incomes": "€ 139,000,000",
+    "expense": "€ 83,500,000",
+    "balance": "€ 58,207,488"
+  },
+  {
+    "team": "Lens",
+    "incomes": "€ 99,000,000",
+    "expense": "€ 29,900,000",
+    "balance": "€ 72,470,945"
+  },
+  {
+    "team": "Lorient",
+    "incomes": "€ 71,550,000",
+    "expense": "€ 33,950,000",
+    "balance": "€ 39,434,262"
+  },
+  {
+    "team": "Reims",
+    "incomes": "€ 70,300,000",
+    "expense": "€ 76,000,000",
+    "balance": "€ -5,978,066"
+  },
+  {
+    "team": "Nice",
+    "incomes": "€ 65,700,000",
+    "expense": "€ 161,500,000",
+    "balance": "€ -100,473,466"
+  },
+  {
+    "team": "Clermont",
+    "incomes": "€ 52,090,000",
+    "expense": "€ 32,150,000",
+    "balance": "€ 20,912,744"
+  },
+  {
+    "team": "Lyon",
+    "incomes": "€ 50,130,000",
+    "expense": "€ 98,400,000",
+    "balance": "€ -50,624,783"
+  },
+  {
+    "team": "Monaco",
+    "incomes": "€ 40,500,000",
+    "expense": "€ 1,500,000",
+    "balance": "€ 40,902,559"
+  },
+  {
+    "team": "PSG",
+    "incomes": "€ 33,500,000",
+    "expense": "€ 16,600,000",
+    "balance": "€ 17,724,442"
+  },
+  {
+    "team": "Nantes",
+    "incomes": "€ 33,000,000",
+    "expense": "€ 71,800,000",
+    "balance": "€ -40,692,803"
+  },
+  {
+    "team": "Rennes",
+    "incomes": "€ 26,000,000",
+    "expense": "€ 9,000,000",
+    "balance": "€ 17,829,321"
+  },
+  {
+    "team": "Brest",
+    "incomes": "€ 23,500,000",
+    "expense": "€ 2,300,000",
+    "balance": "€ 22,234,212"
+  },
+  {
+    "team": "Ajaccio",
+    "incomes": "€ 23,000,000",
+    "expense": "€ 6,000,000",
+    "balance": "€ 17,829,321"
+  },
+  {
+    "team": "Strasbourg",
+    "incomes": "€ 20,900,000",
+    "expense": "€ 12,900,000",
+    "balance": "€ 8,390,269"
+  },
+  {
+    "team": "Lille",
+    "incomes": "€ 16,150,000",
+    "expense": "€ 5,700,000",
+    "balance": "€ 10,959,788"
+  },
+  {
+    "team": "Angers",
+    "incomes": "€ 14,000,000",
+    "expense": "€ 3,750,000",
+    "balance": "€ 10,750,032"
+  },
+  {
+    "team": "Toulouse",
+    "incomes": "€ 10,000,000",
+    "expense": "€ 20,600,000",
+    "balance": "€ -11,117,106"
+  },
+  {
+    "team": "Montpellier",
+    "incomes": "€ 9,500,000",
+    "expense": "€ 14,650,000",
+    "balance": "€ -5,401,235"
+  },
+  {
+    "team": "Auxerre",
+    "incomes": "€ 500,000",
+    "expense": "€ 5,350,000",
+    "balance": "€ -5,086,600"
+  },
+  {
+    "team": "Troyes",
+    "incomes": "€ 0",
+    "expense": "€ 2,600,000",
+    "balance": "€ -2,726,837"
+  }
+]

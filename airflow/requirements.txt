@@ -1,0 +1,5 @@
+pandas
+boto3
+pyspark
+apache-airflow-providers-docker
+duckdb

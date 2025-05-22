@@ -1,0 +1,110 @@
+[
+  {
+    "team": "Bayern Munich",
+    "incomes": "€ 104,400,000",
+    "expense": "€ 145,500,000",
+    "balance": "€ -43,543,985"
+  },
+  {
+    "team": "Borussia Dortmund",
+    "incomes": "€ 79,200,000",
+    "expense": "€ 104,600,000",
+    "balance": "€ -26,910,395"
+  },
+  {
+    "team": "Leipzig",
+    "incomes": "€ 75,620,000",
+    "expense": "€ 59,500,000",
+    "balance": "€ 17,078,565"
+  },
+  {
+    "team": "Hoffenheim",
+    "incomes": "€ 60,200,000",
+    "expense": "€ 17,800,000",
+    "balance": "€ 44,921,289"
+  },
+  {
+    "team": "Stuttgart",
+    "incomes": "€ 52,600,000",
+    "expense": "€ 14,790,000",
+    "balance": "€ 40,058,347"
+  },
+  {
+    "team": "Union Berlin",
+    "incomes": "€ 30,670,000",
+    "expense": "€ 24,650,000",
+    "balance": "€ 6,377,975"
+  },
+  {
+    "team": "Hertha Berlin",
+    "incomes": "€ 24,750,000",
+    "expense": "€ 7,250,000",
+    "balance": "€ 18,540,626"
+  },
+  {
+    "team": "Mainz",
+    "incomes": "€ 23,750,000",
+    "expense": "€ 23,800,000",
+    "balance": "€ -52,973"
+  },
+  {
+    "team": "Wolfsburg",
+    "incomes": "€ 23,700,000",
+    "expense": "€ 35,750,000",
+    "balance": "€ -12,766,545"
+  },
+  {
+    "team": "Monchengladbach",
+    "incomes": "€ 22,500,000",
+    "expense": "€ 24,000,000",
+    "balance": "€ -1,589,197"
+  },
+  {
+    "team": "Freiburg",
+    "incomes": "€ 21,330,000",
+    "expense": "€ 15,900,000",
+    "balance": "€ 5,752,891"
+  },
+  {
+    "team": "Schalke 04",
+    "incomes": "€ 17,750,000",
+    "expense": "€ 8,630,000",
+    "balance": "€ 9,662,315"
+  },
+  {
+    "team": "Eintracht Frankfurt",
+    "incomes": "€ 17,400,000",
+    "expense": "€ 30,600,000",
+    "balance": "€ -13,984,929"
+  },
+  {
+    "team": "Bochum",
+    "incomes": "€ 15,100,000",
+    "expense": "€ 1,485,000",
+    "balance": "€ 14,424,607"
+  },
+  {
+    "team": "Koln",
+    "incomes": "€ 12,270,000",
+    "expense": "€ 6,450,000",
+    "balance": "€ 6,166,083"
+  },
+  {
+    "team": "Bayer Leverkusen",
+    "incomes": "€ 9,500,000",
+    "expense": "€ 15,100,000",
+    "balance": "€ -5,933,000"
+  },
+  {
+    "team": "Augsburg",
+    "incomes": "€ 4,300,000",
+    "expense": "€ 11,450,000",
+    "balance": "€ -7,575,170"
+  },
+  {
+    "team": "Werder Bremen",
+    "incomes": "€ 1,850,000",
+    "expense": "€ 4,000,000",
+    "balance": "€ -2,277,848"
+  }
+]

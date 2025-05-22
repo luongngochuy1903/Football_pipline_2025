@@ -1,0 +1,182 @@
+[
+  {
+    "team": "Juventus",
+    "gross/w": "€ 3,193,462",
+    "gross/y": "€ 166,060,000",
+    "gross_keeper": "€ 15,380,000",
+    "gross_defense": "€ 48,650,000",
+    "gross_midfield": "€ 60,760,000",
+    "gross_forward": "€ 41,270,000"
+  },
+  {
+    "team": "Inter Milan",
+    "gross/w": "€ 2,581,154",
+    "gross/y": "€ 134,220,000",
+    "gross_keeper": "€ 8,760,000",
+    "gross_defense": "€ 35,250,000",
+    "gross_midfield": "€ 41,730,000",
+    "gross_forward": "€ 48,480,000"
+  },
+  {
+    "team": "Roma",
+    "gross/w": "€ 1,975,577",
+    "gross/y": "€ 102,730,000",
+    "gross_keeper": "€ 5,500,000",
+    "gross_defense": "€ 32,500,000",
+    "gross_midfield": "€ 25,160,000",
+    "gross_forward": "€ 39,570,000"
+  },
+  {
+    "team": "AC Milan",
+    "gross/w": "€ 1,816,538",
+    "gross/y": "€ 94,460,000",
+    "gross_keeper": "€ 6,740,000",
+    "gross_defense": "€ 33,150,000",
+    "gross_midfield": "€ 22,850,000",
+    "gross_forward": "€ 31,720,000"
+  },
+  {
+    "team": "Napoli",
+    "gross/w": "€ 1,472,423",
+    "gross/y": "€ 76,566,000",
+    "gross_keeper": "€ 6,820,000",
+    "gross_defense": "€ 22,640,000",
+    "gross_midfield": "€ 21,926,000",
+    "gross_forward": "€ 25,180,000"
+  },
+  {
+    "team": "Lazio",
+    "gross/w": "€ 1,390,192",
+    "gross/y": "€ 72,290,000",
+    "gross_keeper": "€ 3,320,000",
+    "gross_defense": "€ 27,360,000",
+    "gross_midfield": "€ 22,160,000",
+    "gross_forward": "€ 19,450,000"
+  },
+  {
+    "team": "Fiorentina",
+    "gross/w": "€ 1,103,654",
+    "gross/y": "€ 57,390,000",
+    "gross_keeper": "€ 4,630,000",
+    "gross_defense": "€ 14,110,000",
+    "gross_midfield": "€ 17,860,000",
+    "gross_forward": "€ 20,790,000"
+  },
+  {
+    "team": "Atalanta",
+    "gross/w": "€ 785,327",
+    "gross/y": "€ 40,837,000",
+    "gross_keeper": "€ 4,260,000",
+    "gross_defense": "€ 15,380,000",
+    "gross_midfield": "€ 6,697,000",
+    "gross_forward": "€ 14,500,000"
+  },
+  {
+    "team": "Torino",
+    "gross/w": "€ 761,846",
+    "gross/y": "€ 39,616,000",
+    "gross_keeper": "€ 3,306,000",
+    "gross_defense": "€ 12,350,000",
+    "gross_midfield": "€ 9,370,000",
+    "gross_forward": "€ 14,590,000"
+  },
+  {
+    "team": "Monza",
+    "gross/w": "€ 758,404",
+    "gross/y": "€ 39,437,000",
+    "gross_keeper": "€ 3,110,000",
+    "gross_defense": "€ 14,810,000",
+    "gross_midfield": "€ 10,170,000",
+    "gross_forward": "€ 11,347,000"
+  },
+  {
+    "team": "Salernitana",
+    "gross/w": "€ 717,346",
+    "gross/y": "€ 37,302,000",
+    "gross_keeper": "€ 4,170,000",
+    "gross_defense": "€ 14,466,000",
+    "gross_midfield": "€ 9,816,000",
+    "gross_forward": "€ 8,850,000"
+  },
+  {
+    "team": "Bologna",
+    "gross/w": "€ 656,115",
+    "gross/y": "€ 34,118,000",
+    "gross_keeper": "€ 3,082,000",
+    "gross_defense": "€ 11,666,000",
+    "gross_midfield": "€ 5,940,000",
+    "gross_forward": "€ 13,430,000"
+  },
+  {
+    "team": "Sampdoria",
+    "gross/w": "€ 646,269",
+    "gross/y": "€ 33,606,000",
+    "gross_keeper": "€ 2,566,000",
+    "gross_defense": "€ 14,660,000",
+    "gross_midfield": "€ 6,390,000",
+    "gross_forward": "€ 9,990,000"
+  },
+  {
+    "team": "Sassuolo",
+    "gross/w": "€ 638,846",
+    "gross/y": "€ 33,220,000",
+    "gross_keeper": "€ 2,890,000",
+    "gross_defense": "€ 7,870,000",
+    "gross_midfield": "€ 3,850,000",
+    "gross_forward": "€ 18,610,000"
+  },
+  {
+    "team": "Lecce",
+    "gross/w": "€ 613,923",
+    "gross/y": "€ 31,924,000",
+    "gross_keeper": "€ 878,000",
+    "gross_defense": "€ 20,460,000",
+    "gross_midfield": "€ 4,586,000",
+    "gross_forward": "€ 6,000,000"
+  },
+  {
+    "team": "Empoli",
+    "gross/w": "€ 522,173",
+    "gross/y": "€ 27,153,000",
+    "gross_keeper": "€ 1,950,000",
+    "gross_defense": "€ 7,357,000",
+    "gross_midfield": "€ 8,716,000",
+    "gross_forward": "€ 9,130,000"
+  },
+  {
+    "team": "Spezia",
+    "gross/w": "€ 508,577",
+    "gross/y": "€ 26,446,000",
+    "gross_keeper": "€ 3,230,000",
+    "gross_defense": "€ 6,850,000",
+    "gross_midfield": "€ 7,016,000",
+    "gross_forward": "€ 9,350,000"
+  },
+  {
+    "team": "Hellas Verona",
+    "gross/w": "€ 502,115",
+    "gross/y": "€ 26,110,000",
+    "gross_keeper": "€ 1,700,000",
+    "gross_defense": "€ 8,230,000",
+    "gross_midfield": "€ 4,700,000",
+    "gross_forward": "€ 11,480,000"
+  },
+  {
+    "team": "Cremonese",
+    "gross/w": "€ 482,038",
+    "gross/y": "€ 25,066,000",
+    "gross_keeper": "€ 2,630,000",
+    "gross_defense": "€ 7,390,000",
+    "gross_midfield": "€ 9,956,000",
+    "gross_forward": "€ 5,090,000"
+  },
+  {
+    "team": "Udinese",
+    "gross/w": "€ 445,615",
+    "gross/y": "€ 23,172,000",
+    "gross_keeper": "€ 2,276,000",
+    "gross_defense": "€ 8,500,000",
+    "gross_midfield": "€ 5,660,000",
+    "gross_forward": "€ 6,736,000"
+  }
+]

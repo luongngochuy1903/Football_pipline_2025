@@ -1,0 +1,188 @@
+version: "3.7"
+
+x-airflow-common: &airflow-common
+  build:
+    context: ./airflow
+    dockerfile: Dockerfile
+  env_file:
+    - ./airflow/airflow.env
+  environment:
+    - PYTHONPATH=/opt/airflow
+  volumes:
+    - /var/run/docker.sock:/var/run/docker.sock
+    - ./duckdb_volume:/opt/duckdb_data
+    - ./airflow/jobs:/opt/airflow/jobs
+    - ./airflow/dags:/opt/airflow/dags
+    - ./logs:/opt/airflow/logs
+    - ./data_shared:/opt/shared
+  networks:
+    - lake-network
+  depends_on:
+    postgres:
+      condition: service_healthy
+    
+services:
+  airflow-webserver:
+    <<: *airflow-common
+    command: webserver
+    ports:
+      - 8080:8080
+    depends_on:
+      - airflow-scheduler
+    healthcheck:
+      test: ["CMD", "curl", "--fail", "http://localhost:8080/health"]
+      interval: 10s
+      timeout: 10s
+      retries: 5
+    restart: always
+    networks:
+      - lake-network
+
+  airflow-scheduler:
+    <<: *airflow-common
+    command: bash -c "airflow db migrate && airflow users create --username admin --firstname Huy --lastname Luong --role Admin --email huy@example.com --password admin && airflow scheduler"
+    restart: always
+    networks:
+      - lake-network
+
+  minio:
+    hostname: minio
+    image: minio/minio
+    container_name: minio
+    ports:
+      - '9000:9000'
+      - '9001:9001'
+    volumes:
+      - ./data:/data
+    environment:
+      MINIO_ROOT_USER: minio_access_key
+      MINIO_ROOT_PASSWORD: minio_secret_key
+    command: server /data --console-address ":9001"
+    networks:
+      - lake-network
+  
+  mariadb:
+    hostname: mariadb
+    container_name: mariadb
+    image: mariadb:10.5.8
+    ports:
+      - 3307:3306
+    environment:
+      MYSQL_ROOT_PASSWORD: hive
+      MYSQL_USER: hive
+      MYSQL_PASSWORD: hive
+      MYSQL_DATABASE: metastore_db
+    healthcheck:
+      test: ["CMD", "mysqladmin", "ping", "-h", "localhost", "-u", "root", "-phive"]
+      interval: 10s
+      timeout: 10s
+      retries: 3
+    restart: always
+    networks:
+      - lake-network
+
+  hive-metastore:
+    hostname: hive-metastore
+    # build: ./hive
+    image: 'bitsondatadev/hive-metastore:latest'
+    ports:
+      - '9083:9083' 
+    volumes:
+      - ./conf/metastore-site.xml:/opt/apache-hive-metastore-3.0.0-bin/conf/metastore-site.xml:ro
+      - ./hive_lib/mysql-connector-java-8.0.28.jar:/opt/apache-hive-metastore-3.0.0-bin/lib/mysql-connector-java-8.0.28.jar:ro
+      - ./hive_lib/hive-exec-3.0.0.jar:/opt/apache-hive-metastore-3.0.0-bin/lib/hive-exec-3.0.0.jar:ro
+    environment:
+      HIVE_METASTORE_URI: jdbc:mysql://mariadb:3306/metastore_db
+      HIVE_METASTORE_USER: hive
+      HIVE_METASTORE_PASSWORD: hive
+      METASTORE_DB_HOSTNAME: mariadb
+    depends_on:
+      mariadb:
+        condition: service_healthy
+    networks:
+      - lake-network
+
+  spark-master:
+    build: ./spark
+    image: ${SPARK_IMAGE_NAME:-bitnami/spark:3.5.4}
+    environment:
+      SPARK_MODE: master
+    volumes:
+      - ./data_shared:/opt/shared
+      - ./duckdb_volume:/opt/duckdb_data
+      - ./airflow/jobs:/opt/spark_jobs
+      - ./spark/spark-config/spark-defaults.conf:/opt/bitnami/spark/conf/spark-defaults.conf
+    depends_on:
+      - minio
+    restart: on-failure:3
+    ports:
+      - "${SPARK_API_PORT:-7077}:7077"
+      - "${SPARK_CONSOLE_PORT:-8088}:8080"
+      - "${SPARK_WEB_UI_PORT:-8081}:8081"
+    networks:
+      - lake-network
+
+  spark-worker:
+    build: ./spark
+    image: ${SPARK_IMAGE_NAME:-bitnami/spark:3.5.4}
+    environment:
+      SPARK_MODE: worker
+      SPARK_MASTER_URL: spark://spark-master:7077
+      SPARK_WORKER_MEMORY: 1G
+      SPARK_WORKER_CORES: 1
+    volumes:
+      - ./data_shared:/opt/shared
+      - ./duckdb_volume:/opt/duckdb_data
+      - ./airflow/jobs:/opt/spark_jobs
+      - ./spark/spark-config/spark-defaults.conf:/opt/bitnami/spark/conf/spark-defaults.conf
+    depends_on:
+      - spark-master
+      - minio
+    restart: on-failure:3
+    networks:
+      - lake-network
+  
+  postgres:
+    image: postgres:15
+    container_name: postgres
+    environment:
+      POSTGRES_USER: airflow         
+      POSTGRES_PASSWORD: airflow 
+      POSTGRES_DB: airflow             
+    ports:
+      - "5432:5432"
+    healthcheck:
+      test: ["CMD", "pg_isready", "-U", "airflow"]
+      interval: 5s
+      retries: 5
+    restart: always
+    networks:
+      - lake-network
+    
+  trinio:
+    hostname: trino
+    container_name: datalake-trinio
+    image: 'trinodb/trino:351'
+    ports:
+      - '8086:8080'
+    volumes:
+      - ./etc:/usr/lib/trino/etc:ro
+    networks:
+      - lake-network
+  
+  selenium-crawler:
+    build:
+      context: ./scraping
+      dockerfile: Dockerfile
+    container_name: selenium-crawler
+    volumes:
+      - ./airflow/jobs/crawling:/app/scripts
+      - ./data_shared:/app/output       
+    environment:
+      - PYTHONUNBUFFERED=1
+    networks:
+      - lake-network
+
+networks:
+  lake-network:
+    driver: bridge

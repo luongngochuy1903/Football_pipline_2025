@@ -1,0 +1,164 @@
+[
+  {
+    "team": "Bayern Munich",
+    "gross/w": "€ 5,149,038",
+    "gross/y": "€ 267,750,000",
+    "gross_keeper": "€ 28,180,000",
+    "gross_defense": "€ 86,320,000",
+    "gross_midfield": "€ 41,700,000",
+    "gross_forward": "€ 111,550,000"
+  },
+  {
+    "team": "Borussia Dortmund",
+    "gross/w": "€ 2,403,846",
+    "gross/y": "€ 125,000,000",
+    "gross_keeper": "€ 3,090,000",
+    "gross_defense": "€ 48,450,000",
+    "gross_midfield": "€ 19,700,000",
+    "gross_forward": "€ 53,760,000"
+  },
+  {
+    "team": "Leipzig",
+    "gross/w": "€ 2,070,769",
+    "gross/y": "€ 107,680,000",
+    "gross_keeper": "€ 6,760,000",
+    "gross_defense": "€ 38,240,000",
+    "gross_midfield": "€ 13,000,000",
+    "gross_forward": "€ 49,680,000"
+  },
+  {
+    "team": "Bayer Leverkusen",
+    "gross/w": "€ 1,206,154",
+    "gross/y": "€ 62,720,000",
+    "gross_keeper": "€ 4,490,000",
+    "gross_defense": "€ 15,350,000",
+    "gross_midfield": "€ 13,700,000",
+    "gross_forward": "€ 29,180,000"
+  },
+  {
+    "team": "Wolfsburg",
+    "gross/w": "€ 1,143,462",
+    "gross/y": "€ 59,460,000",
+    "gross_keeper": "€ 5,650,000",
+    "gross_defense": "€ 15,670,000",
+    "gross_midfield": "€ 17,480,000",
+    "gross_forward": "€ 20,660,000"
+  },
+  {
+    "team": "Monchengladbach",
+    "gross/w": "€ 1,121,346",
+    "gross/y": "€ 58,310,000",
+    "gross_keeper": "€ 7,960,000",
+    "gross_defense": "€ 16,670,000",
+    "gross_midfield": "€ 13,050,000",
+    "gross_forward": "€ 20,630,000"
+  },
+  {
+    "team": "Hoffenheim",
+    "gross/w": "€ 1,026,923",
+    "gross/y": "€ 53,400,000",
+    "gross_keeper": "€ 3,480,000",
+    "gross_defense": "€ 18,260,000",
+    "gross_midfield": "€ 13,700,000",
+    "gross_forward": "€ 17,960,000"
+  },
+  {
+    "team": "Eintracht Frankfurt",
+    "gross/w": "€ 759,808",
+    "gross/y": "€ 39,510,000",
+    "gross_keeper": "€ 4,290,000",
+    "gross_defense": "€ 13,520,000",
+    "gross_midfield": "€ 6,750,000",
+    "gross_forward": "€ 14,950,000"
+  },
+  {
+    "team": "Schalke 04",
+    "gross/w": "€ 742,500",
+    "gross/y": "€ 38,610,000",
+    "gross_keeper": "€ 4,380,000",
+    "gross_defense": "€ 10,110,000",
+    "gross_midfield": "€ 8,670,000",
+    "gross_forward": "€ 15,450,000"
+  },
+  {
+    "team": "Hertha Berlin",
+    "gross/w": "€ 678,654",
+    "gross/y": "€ 35,290,000",
+    "gross_keeper": "€ 2,590,000",
+    "gross_defense": "€ 8,400,000",
+    "gross_midfield": "€ 9,740,000",
+    "gross_forward": "€ 14,560,000"
+  },
+  {
+    "team": "Mainz",
+    "gross/w": "€ 666,923",
+    "gross/y": "€ 34,680,000",
+    "gross_keeper": "€ 2,220,000",
+    "gross_defense": "€ 12,140,000",
+    "gross_midfield": "€ 7,900,000",
+    "gross_forward": "€ 12,420,000"
+  },
+  {
+    "team": "Augsburg",
+    "gross/w": "€ 575,577",
+    "gross/y": "€ 29,930,000",
+    "gross_keeper": "€ 1,860,000",
+    "gross_defense": "€ 6,090,000",
+    "gross_midfield": "€ 7,440,000",
+    "gross_forward": "€ 14,540,000"
+  },
+  {
+    "team": "Koln",
+    "gross/w": "€ 566,154",
+    "gross/y": "€ 29,440,000",
+    "gross_keeper": "€ 4,860,000",
+    "gross_defense": "€ 8,340,000",
+    "gross_midfield": "€ 4,240,000",
+    "gross_forward": "€ 12,000,000"
+  },
+  {
+    "team": "Union Berlin",
+    "gross/w": "€ 507,308",
+    "gross/y": "€ 26,380,000",
+    "gross_keeper": "€ 2,460,000",
+    "gross_defense": "€ 9,620,000",
+    "gross_midfield": "€ 7,380,000",
+    "gross_forward": "€ 6,920,000"
+  },
+  {
+    "team": "Werder Bremen",
+    "gross/w": "€ 501,346",
+    "gross/y": "€ 26,070,000",
+    "gross_keeper": "€ 2,950,000",
+    "gross_defense": "€ 8,030,000",
+    "gross_midfield": "€ 4,170,000",
+    "gross_forward": "€ 10,920,000"
+  },
+  {
+    "team": "Freiburg",
+    "gross/w": "€ 409,423",
+    "gross/y": "€ 21,290,000",
+    "gross_keeper": "€ 1,010,000",
+    "gross_defense": "€ 12,100,000",
+    "gross_midfield": "€ 2,110,000",
+    "gross_forward": "€ 6,070,000"
+  },
+  {
+    "team": "Stuttgart",
+    "gross/w": "€ 388,269",
+    "gross/y": "€ 20,190,000",
+    "gross_keeper": "€ 790,000",
+    "gross_defense": "€ 7,900,000",
+    "gross_midfield": "€ 2,070,000",
+    "gross_forward": "€ 9,430,000"
+  },
+  {
+    "team": "Bochum",
+    "gross/w": "€ 326,731",
+    "gross/y": "€ 16,990,000",
+    "gross_keeper": "€ 1,790,000",
+    "gross_defense": "€ 7,580,000",
+    "gross_midfield": "€ 2,050,000",
+    "gross_forward": "€ 5,570,000"
+  }
+]

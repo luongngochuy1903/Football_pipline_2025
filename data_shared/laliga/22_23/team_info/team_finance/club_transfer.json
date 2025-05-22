@@ -1,0 +1,122 @@
+[
+  {
+    "team": "Real Madrid",
+    "incomes": "€ 92,150,000",
+    "expense": "€ 80,000,000",
+    "balance": "€ 12,579,181"
+  },
+  {
+    "team": "Sevilla",
+    "incomes": "€ 91,500,000",
+    "expense": "€ 28,000,000",
+    "balance": "€ 65,743,047"
+  },
+  {
+    "team": "Real Sociedad",
+    "incomes": "€ 80,500,000",
+    "expense": "€ 53,000,000",
+    "balance": "€ 28,471,398"
+  },
+  {
+    "team": "Valencia",
+    "incomes": "€ 54,600,000",
+    "expense": "€ 12,500,000",
+    "balance": "€ 43,587,123"
+  },
+  {
+    "team": "Barcelona",
+    "incomes": "€ 39,000,000",
+    "expense": "€ 153,000,000",
+    "balance": "€ -118,026,888"
+  },
+  {
+    "team": "Villarreal",
+    "incomes": "€ 31,600,000",
+    "expense": "€ 6,480,000",
+    "balance": "€ 26,007,328"
+  },
+  {
+    "team": "Almeria",
+    "incomes": "€ 22,200,000",
+    "expense": "€ 37,080,000",
+    "balance": "€ -15,405,615"
+  },
+  {
+    "team": "Atletico Madrid",
+    "incomes": "€ 20,250,000",
+    "expense": "€ 29,500,000",
+    "balance": "€ -9,576,743"
+  },
+  {
+    "team": "Celta Vigo",
+    "incomes": "€ 17,200,000",
+    "expense": "€ 21,000,000",
+    "balance": "€ -3,934,230"
+  },
+  {
+    "team": "Getafe",
+    "incomes": "€ 15,000,000",
+    "expense": "€ 15,750,000",
+    "balance": "€ -776,493"
+  },
+  {
+    "team": "Espanyol",
+    "incomes": "€ 14,800,000",
+    "expense": "€ 20,600,000",
+    "balance": "€ -6,004,877"
+  },
+  {
+    "team": "Real Betis",
+    "incomes": "€ 14,750,000",
+    "expense": "€ 25,000,000",
+    "balance": "€ -10,612,067"
+  },
+  {
+    "team": "Elche",
+    "incomes": "€ 5,500,000",
+    "expense": "€ 13,160,000",
+    "balance": "€ -7,930,579"
+  },
+  {
+    "team": "Mallorca",
+    "incomes": "€ 4,300,000",
+    "expense": "€ 13,100,000",
+    "balance": "€ -9,110,847"
+  },
+  {
+    "team": "Cadiz",
+    "incomes": "€ 1,000,000",
+    "expense": "€ 9,500,000",
+    "balance": "€ -8,800,250"
+  },
+  {
+    "team": "Valladolid",
+    "incomes": "€ 1,000,000",
+    "expense": "€ 6,300,000",
+    "balance": "€ -5,487,215"
+  },
+  {
+    "team": "Rayo Vallecano",
+    "incomes": "€ 200,000",
+    "expense": "€ 11,300,000",
+    "balance": "€ -11,492,092"
+  },
+  {
+    "team": "Athletic Club",
+    "incomes": "€ 0",
+    "expense": "€ 0",
+    "balance": "€ 0"
+  },
+  {
+    "team": "Girona",
+    "incomes": "€ 0",
+    "expense": "€ 9,500,000",
+    "balance": "€ -9,835,574"
+  },
+  {
+    "team": "Osasuna",
+    "incomes": "€ 0",
+    "expense": "€ 2,000,000",
+    "balance": "€ -2,070,647"
+  }
+]

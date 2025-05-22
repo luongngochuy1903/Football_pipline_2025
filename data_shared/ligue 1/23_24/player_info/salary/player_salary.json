@@ -1,0 +1,4952 @@
+[
+  {
+    "player_name": "Kylian Mbappé",
+    "team": "PSG",
+    "gross/w": "€ 1,384,615",
+    "gross/y": "€ 72,000,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Ousmane Dembélé",
+    "team": "PSG",
+    "gross/w": "€ 346,154",
+    "gross/y": "€ 18,000,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Milan Skriniar",
+    "team": "PSG",
+    "gross/w": "€ 314,615",
+    "gross/y": "€ 16,360,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Marco Asensio",
+    "team": "PSG",
+    "gross/w": "€ 279,808",
+    "gross/y": "€ 14,550,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Marquinhos",
+    "team": "PSG",
+    "gross/w": "€ 258,654",
+    "gross/y": "€ 13,450,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Lucas Hernández",
+    "team": "PSG",
+    "gross/w": "€ 253,846",
+    "gross/y": "€ 13,200,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Gianluigi Donnarumma",
+    "team": "PSG",
+    "gross/w": "€ 244,808",
+    "gross/y": "€ 12,730,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Warren Zaïre-Emery",
+    "team": "PSG",
+    "gross/w": "€ 219,231",
+    "gross/y": "€ 11,400,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Keylor Navas",
+    "team": "PSG",
+    "gross/w": "€ 209,808",
+    "gross/y": "€ 10,910,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Randal Kolo Muani",
+    "team": "PSG",
+    "gross/w": "€ 174,808",
+    "gross/y": "€ 9,090,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Achraf Hakimi",
+    "team": "PSG",
+    "gross/w": "€ 174,808",
+    "gross/y": "€ 9,090,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Nordi Mukiele",
+    "team": "PSG",
+    "gross/w": "€ 161,538",
+    "gross/y": "€ 8,400,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Wissam Ben Yedder",
+    "team": "Monaco",
+    "gross/w": "€ 150,000",
+    "gross/y": "€ 7,800,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Pierre-Emerick Aubameyang",
+    "team": "Marseille",
+    "gross/w": "€ 150,000",
+    "gross/y": "€ 7,800,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Presnel Kimpembe",
+    "team": "PSG",
+    "gross/w": "€ 147,692",
+    "gross/y": "€ 7,680,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Bradley Barcola",
+    "team": "PSG",
+    "gross/w": "€ 126,923",
+    "gross/y": "€ 6,600,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Manuel Ugarte",
+    "team": "PSG",
+    "gross/w": "€ 118,846",
+    "gross/y": "€ 6,180,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Layvin Kurzawa",
+    "team": "PSG",
+    "gross/w": "€ 115,385",
+    "gross/y": "€ 6,000,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Alexandre Lacazette",
+    "team": "Lyon",
+    "gross/w": "€ 115,385",
+    "gross/y": "€ 6,000,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Gonçalo Ramos",
+    "team": "PSG",
+    "gross/w": "€ 105,769",
+    "gross/y": "€ 5,500,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Joaquín Correa",
+    "team": "Marseille",
+    "gross/w": "€ 104,808",
+    "gross/y": "€ 5,450,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Fabián Ruiz",
+    "team": "PSG",
+    "gross/w": "€ 104,808",
+    "gross/y": "€ 5,450,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Nemanja Matic",
+    "team": "Rennes",
+    "gross/w": "€ 104,808",
+    "gross/y": "€ 5,450,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Vitinha",
+    "team": "PSG",
+    "gross/w": "€ 104,808",
+    "gross/y": "€ 5,450,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Geoffrey Kondogbia",
+    "team": "Marseille",
+    "gross/w": "€ 104,808",
+    "gross/y": "€ 5,450,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Jordan Veretout",
+    "team": "Marseille",
+    "gross/w": "€ 103,846",
+    "gross/y": "€ 5,400,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Nemanja Matic",
+    "team": "Lyon",
+    "gross/w": "€ 92,692",
+    "gross/y": "€ 4,820,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Dejan Lovren",
+    "team": "Lyon",
+    "gross/w": "€ 92,308",
+    "gross/y": "€ 4,800,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Corentin Tolisso",
+    "team": "Lyon",
+    "gross/w": "€ 92,308",
+    "gross/y": "€ 4,800,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Carlos Soler",
+    "team": "PSG",
+    "gross/w": "€ 92,308",
+    "gross/y": "€ 4,800,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Ismaïla Sarr",
+    "team": "Marseille",
+    "gross/w": "€ 90,000",
+    "gross/y": "€ 4,680,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Anthony Lopes",
+    "team": "Lyon",
+    "gross/w": "€ 80,769",
+    "gross/y": "€ 4,200,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Azzedine Ounahi",
+    "team": "Marseille",
+    "gross/w": "€ 79,808",
+    "gross/y": "€ 4,150,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Hugo Ekitiké",
+    "team": "PSG",
+    "gross/w": "€ 76,923",
+    "gross/y": "€ 4,000,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Valentin Rongier",
+    "team": "Marseille",
+    "gross/w": "€ 76,154",
+    "gross/y": "€ 3,960,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Denis Zakaria",
+    "team": "Monaco",
+    "gross/w": "€ 75,192",
+    "gross/y": "€ 3,910,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Gaëtan Laborde",
+    "team": "Nice",
+    "gross/w": "€ 74,038",
+    "gross/y": "€ 3,850,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Pau López",
+    "team": "Marseille",
+    "gross/w": "€ 74,038",
+    "gross/y": "€ 3,850,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Chancel Mbemba",
+    "team": "Marseille",
+    "gross/w": "€ 73,846",
+    "gross/y": "€ 3,840,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Aleksandr Golovin",
+    "team": "Monaco",
+    "gross/w": "€ 72,885",
+    "gross/y": "€ 3,790,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Benjamin Mendy",
+    "team": "Lorient",
+    "gross/w": "€ 72,115",
+    "gross/y": "€ 3,750,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Moussa Sissoko",
+    "team": "Nantes",
+    "gross/w": "€ 71,538",
+    "gross/y": "€ 3,720,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Arthur Theate",
+    "team": "Rennes",
+    "gross/w": "€ 70,000",
+    "gross/y": "€ 3,640,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Nicolás Tagliafico",
+    "team": "Lyon",
+    "gross/w": "€ 70,000",
+    "gross/y": "€ 3,640,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Kang-in Lee",
+    "team": "PSG",
+    "gross/w": "€ 70,000",
+    "gross/y": "€ 3,640,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Rayan Cherki",
+    "team": "Lyon",
+    "gross/w": "€ 69,231",
+    "gross/y": "€ 3,600,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Renan Lodi",
+    "team": "Marseille",
+    "gross/w": "€ 69,231",
+    "gross/y": "€ 3,600,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Gelson Martins",
+    "team": "Monaco",
+    "gross/w": "€ 69,231",
+    "gross/y": "€ 3,600,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Takumi Minamino",
+    "team": "Monaco",
+    "gross/w": "€ 66,346",
+    "gross/y": "€ 3,450,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Thilo Kehrer",
+    "team": "Monaco",
+    "gross/w": "€ 66,346",
+    "gross/y": "€ 3,450,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Breel Embolo",
+    "team": "Monaco",
+    "gross/w": "€ 66,346",
+    "gross/y": "€ 3,450,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Maxence Caqueret",
+    "team": "Lyon",
+    "gross/w": "€ 64,615",
+    "gross/y": "€ 3,360,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Jonathan Clauss",
+    "team": "Marseille",
+    "gross/w": "€ 63,462",
+    "gross/y": "€ 3,300,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Lucas Beraldo",
+    "team": "PSG",
+    "gross/w": "€ 62,885",
+    "gross/y": "€ 3,270,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Samuel Umtiti",
+    "team": "Lille",
+    "gross/w": "€ 61,538",
+    "gross/y": "€ 3,200,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Danilo Pereira",
+    "team": "PSG",
+    "gross/w": "€ 61,538",
+    "gross/y": "€ 3,200,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Amine Harit",
+    "team": "Marseille",
+    "gross/w": "€ 59,615",
+    "gross/y": "€ 3,100,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Mohammed Salisu",
+    "team": "Monaco",
+    "gross/w": "€ 59,615",
+    "gross/y": "€ 3,100,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Elye Wahi",
+    "team": "Lens",
+    "gross/w": "€ 57,692",
+    "gross/y": "€ 3,000,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Vitinha",
+    "team": "Marseille",
+    "gross/w": "€ 57,692",
+    "gross/y": "€ 3,000,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Brice Samba",
+    "team": "Lens",
+    "gross/w": "€ 57,692",
+    "gross/y": "€ 3,000,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Martin Terrier",
+    "team": "Rennes",
+    "gross/w": "€ 57,692",
+    "gross/y": "€ 3,000,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Wahbi Khazri",
+    "team": "Montpellier",
+    "gross/w": "€ 57,692",
+    "gross/y": "€ 3,000,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Vanderson",
+    "team": "Monaco",
+    "gross/w": "€ 57,692",
+    "gross/y": "€ 3,000,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Krépin Diatta",
+    "team": "Monaco",
+    "gross/w": "€ 57,692",
+    "gross/y": "€ 3,000,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Folarin Balogun",
+    "team": "Monaco",
+    "gross/w": "€ 55,192",
+    "gross/y": "€ 2,870,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Jérémie Boga",
+    "team": "Nice",
+    "gross/w": "€ 53,462",
+    "gross/y": "€ 2,780,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Adam Ounas",
+    "team": "Lille",
+    "gross/w": "€ 52,500",
+    "gross/y": "€ 2,730,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Jean Onana",
+    "team": "Marseille",
+    "gross/w": "€ 52,500",
+    "gross/y": "€ 2,730,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Caio Henrique",
+    "team": "Monaco",
+    "gross/w": "€ 51,923",
+    "gross/y": "€ 2,700,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Morgan Sanson",
+    "team": "Nice",
+    "gross/w": "€ 50,000",
+    "gross/y": "€ 2,600,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Ludovic Blas",
+    "team": "Rennes",
+    "gross/w": "€ 50,000",
+    "gross/y": "€ 2,600,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Valentin Rosier",
+    "team": "Nice",
+    "gross/w": "€ 49,038",
+    "gross/y": "€ 2,550,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Tiemoué Bakayoko",
+    "team": "Lorient",
+    "gross/w": "€ 48,077",
+    "gross/y": "€ 2,500,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Rubén Blanco",
+    "team": "Marseille",
+    "gross/w": "€ 48,077",
+    "gross/y": "€ 2,500,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Duje Caleta-Car",
+    "team": "Lyon",
+    "gross/w": "€ 46,538",
+    "gross/y": "€ 2,420,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Moses Simon",
+    "team": "Nantes",
+    "gross/w": "€ 46,154",
+    "gross/y": "€ 2,400,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Steve Mandanda",
+    "team": "Rennes",
+    "gross/w": "€ 43,846",
+    "gross/y": "€ 2,280,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Benjamin Bourigeaud",
+    "team": "Rennes",
+    "gross/w": "€ 43,846",
+    "gross/y": "€ 2,280,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Samuel Gigot",
+    "team": "Marseille",
+    "gross/w": "€ 43,654",
+    "gross/y": "€ 2,270,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Ainsley Maitland-Niles",
+    "team": "Lyon",
+    "gross/w": "€ 42,308",
+    "gross/y": "€ 2,200,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Pierre Lees-Melou",
+    "team": "Brest",
+    "gross/w": "€ 41,923",
+    "gross/y": "€ 2,180,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Enzo Le Fée",
+    "team": "Rennes",
+    "gross/w": "€ 41,923",
+    "gross/y": "€ 2,180,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Benjamin André",
+    "team": "Lille",
+    "gross/w": "€ 41,538",
+    "gross/y": "€ 2,160,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Sergio Rico",
+    "team": "PSG",
+    "gross/w": "€ 39,423",
+    "gross/y": "€ 2,050,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Baptiste Santamaria",
+    "team": "Rennes",
+    "gross/w": "€ 38,462",
+    "gross/y": "€ 2,000,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Iliman Ndiaye",
+    "team": "Marseille",
+    "gross/w": "€ 38,462",
+    "gross/y": "€ 2,000,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Imrân Louza",
+    "team": "Lorient",
+    "gross/w": "€ 37,885",
+    "gross/y": "€ 1,970,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Jonathan David",
+    "team": "Lille",
+    "gross/w": "€ 37,500",
+    "gross/y": "€ 1,950,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Ivan Cavaleiro",
+    "team": "Lille",
+    "gross/w": "€ 35,577",
+    "gross/y": "€ 1,850,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Wilfried Stephane Singo",
+    "team": "Monaco",
+    "gross/w": "€ 35,385",
+    "gross/y": "€ 1,840,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Gift Emmanuel Orban",
+    "team": "Lyon",
+    "gross/w": "€ 35,000",
+    "gross/y": "€ 1,820,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Angelo Fulgini",
+    "team": "Lens",
+    "gross/w": "€ 35,000",
+    "gross/y": "€ 1,820,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Romain Perraud",
+    "team": "Nice",
+    "gross/w": "€ 35,000",
+    "gross/y": "€ 1,820,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Yann Karamoh",
+    "team": "Montpellier",
+    "gross/w": "€ 35,000",
+    "gross/y": "€ 1,820,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Orel Mangala",
+    "team": "Lyon",
+    "gross/w": "€ 35,000",
+    "gross/y": "€ 1,820,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Marquinhos",
+    "team": "Nantes",
+    "gross/w": "€ 35,000",
+    "gross/y": "€ 1,820,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Benjamin Lecomte",
+    "team": "Montpellier",
+    "gross/w": "€ 35,000",
+    "gross/y": "€ 1,820,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Mohamed Bayo",
+    "team": "Le Havre",
+    "gross/w": "€ 34,615",
+    "gross/y": "€ 1,800,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Guillermo Maripán",
+    "team": "Monaco",
+    "gross/w": "€ 34,615",
+    "gross/y": "€ 1,800,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Ismaily",
+    "team": "Lille",
+    "gross/w": "€ 34,615",
+    "gross/y": "€ 1,800,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Youcef Atal",
+    "team": "Nice",
+    "gross/w": "€ 34,615",
+    "gross/y": "€ 1,800,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Daler Kuzyaev",
+    "team": "Le Havre",
+    "gross/w": "€ 34,615",
+    "gross/y": "€ 1,800,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Mostafa Mohamed",
+    "team": "Nantes",
+    "gross/w": "€ 34,038",
+    "gross/y": "€ 1,770,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Florent Mollet",
+    "team": "Nantes",
+    "gross/w": "€ 31,538",
+    "gross/y": "€ 1,640,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Facundo Medina",
+    "team": "Lens",
+    "gross/w": "€ 31,538",
+    "gross/y": "€ 1,640,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Keito Nakamura",
+    "team": "Reims",
+    "gross/w": "€ 31,538",
+    "gross/y": "€ 1,640,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Joseph Okumu",
+    "team": "Reims",
+    "gross/w": "€ 31,538",
+    "gross/y": "€ 1,640,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Przemyslaw Frankowski",
+    "team": "Lens",
+    "gross/w": "€ 29,808",
+    "gross/y": "€ 1,550,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Alban Lafont",
+    "team": "Nantes",
+    "gross/w": "€ 28,846",
+    "gross/y": "€ 1,500,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Pape Gueye",
+    "team": "Marseille",
+    "gross/w": "€ 28,846",
+    "gross/y": "€ 1,500,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Arnaud Kalimuendo",
+    "team": "Rennes",
+    "gross/w": "€ 28,846",
+    "gross/y": "€ 1,500,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Ângelo Gabriel",
+    "team": "Strasbourg",
+    "gross/w": "€ 28,846",
+    "gross/y": "€ 1,500,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Dante",
+    "team": "Nice",
+    "gross/w": "€ 28,846",
+    "gross/y": "€ 1,500,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Mohamed Daramy",
+    "team": "Reims",
+    "gross/w": "€ 28,846",
+    "gross/y": "€ 1,500,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "André Ayew",
+    "team": "Le Havre",
+    "gross/w": "€ 28,846",
+    "gross/y": "€ 1,500,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Jordan Amavi",
+    "team": "Brest",
+    "gross/w": "€ 28,846",
+    "gross/y": "€ 1,500,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Ruben Aguilar",
+    "team": "Lens",
+    "gross/w": "€ 28,846",
+    "gross/y": "€ 1,500,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Kevin Danso",
+    "team": "Lens",
+    "gross/w": "€ 28,846",
+    "gross/y": "€ 1,500,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Jordan Amavi",
+    "team": "Marseille",
+    "gross/w": "€ 28,846",
+    "gross/y": "€ 1,500,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Silvan Hefti",
+    "team": "Montpellier",
+    "gross/w": "€ 27,885",
+    "gross/y": "€ 1,450,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Jordan Ferri",
+    "team": "Montpellier",
+    "gross/w": "€ 27,692",
+    "gross/y": "€ 1,440,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Rémy Cabella",
+    "team": "Lille",
+    "gross/w": "€ 27,692",
+    "gross/y": "€ 1,440,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Nuno Mendes",
+    "team": "PSG",
+    "gross/w": "€ 27,692",
+    "gross/y": "€ 1,440,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Myron Boadu",
+    "team": "Monaco",
+    "gross/w": "€ 27,115",
+    "gross/y": "€ 1,410,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Kévin Gameiro",
+    "team": "Strasbourg",
+    "gross/w": "€ 26,923",
+    "gross/y": "€ 1,400,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Téji Savanier",
+    "team": "Montpellier",
+    "gross/w": "€ 25,385",
+    "gross/y": "€ 1,320,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Radoslaw Majecki",
+    "team": "Monaco",
+    "gross/w": "€ 25,385",
+    "gross/y": "€ 1,320,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Nicolas Pallois",
+    "team": "Nantes",
+    "gross/w": "€ 25,385",
+    "gross/y": "€ 1,320,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Nampalys Mendy",
+    "team": "Lens",
+    "gross/w": "€ 25,000",
+    "gross/y": "€ 1,300,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Azor Matusiwa",
+    "team": "Rennes",
+    "gross/w": "€ 25,000",
+    "gross/y": "€ 1,300,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Frédéric Guilbert",
+    "team": "Strasbourg",
+    "gross/w": "€ 24,615",
+    "gross/y": "€ 1,280,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Habib Diarra",
+    "team": "Strasbourg",
+    "gross/w": "€ 24,615",
+    "gross/y": "€ 1,280,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Junya Ito",
+    "team": "Reims",
+    "gross/w": "€ 23,077",
+    "gross/y": "€ 1,200,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Jeff Reine-Adélaïde",
+    "team": "Lyon",
+    "gross/w": "€ 23,077",
+    "gross/y": "€ 1,200,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Azor Matusiwa",
+    "team": "Reims",
+    "gross/w": "€ 23,077",
+    "gross/y": "€ 1,200,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Yunis Abdelhamid",
+    "team": "Reims",
+    "gross/w": "€ 23,077",
+    "gross/y": "€ 1,200,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Amine Gouiri",
+    "team": "Rennes",
+    "gross/w": "€ 23,077",
+    "gross/y": "€ 1,200,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Edon Zhegrova",
+    "team": "Lille",
+    "gross/w": "€ 23,077",
+    "gross/y": "€ 1,200,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Quentin Merlin",
+    "team": "Marseille",
+    "gross/w": "€ 23,077",
+    "gross/y": "€ 1,200,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Arnau Tenas",
+    "team": "PSG",
+    "gross/w": "€ 23,077",
+    "gross/y": "€ 1,200,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Alexis Claude-Maurice",
+    "team": "Nice",
+    "gross/w": "€ 23,077",
+    "gross/y": "€ 1,200,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Óscar Estupiñán",
+    "team": "Metz",
+    "gross/w": "€ 23,077",
+    "gross/y": "€ 1,200,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Romain Faivre",
+    "team": "Lorient",
+    "gross/w": "€ 23,077",
+    "gross/y": "€ 1,200,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Mohamed Camara",
+    "team": "Monaco",
+    "gross/w": "€ 23,077",
+    "gross/y": "€ 1,200,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Jeffinho",
+    "team": "Lyon",
+    "gross/w": "€ 23,077",
+    "gross/y": "€ 1,200,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Jean-Clair Todibo",
+    "team": "Nice",
+    "gross/w": "€ 22,692",
+    "gross/y": "€ 1,180,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Nicolas Cozza",
+    "team": "Nantes",
+    "gross/w": "€ 22,115",
+    "gross/y": "€ 1,150,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Lucas Chevalier",
+    "team": "Lille",
+    "gross/w": "€ 21,923",
+    "gross/y": "€ 1,140,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Philipp Köhn",
+    "team": "Monaco",
+    "gross/w": "€ 21,154",
+    "gross/y": "€ 1,100,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Faris Moumbagna",
+    "team": "Marseille",
+    "gross/w": "€ 21,154",
+    "gross/y": "€ 1,100,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Eray Cömert",
+    "team": "Nantes",
+    "gross/w": "€ 21,154",
+    "gross/y": "€ 1,100,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Abdoulaye Touré",
+    "team": "Le Havre",
+    "gross/w": "€ 21,154",
+    "gross/y": "€ 1,100,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Fabian Rieder",
+    "team": "Rennes",
+    "gross/w": "€ 21,154",
+    "gross/y": "€ 1,100,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Clinton Mata",
+    "team": "Lyon",
+    "gross/w": "€ 21,154",
+    "gross/y": "€ 1,100,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Romain Del Castillo",
+    "team": "Brest",
+    "gross/w": "€ 20,962",
+    "gross/y": "€ 1,090,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Maxime Busi",
+    "team": "Reims",
+    "gross/w": "€ 20,962",
+    "gross/y": "€ 1,090,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Jean-Victor Makengo",
+    "team": "Lorient",
+    "gross/w": "€ 20,769",
+    "gross/y": "€ 1,080,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Matz Sels",
+    "team": "Strasbourg",
+    "gross/w": "€ 20,769",
+    "gross/y": "€ 1,080,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Ibrahim Salah",
+    "team": "Rennes",
+    "gross/w": "€ 20,769",
+    "gross/y": "€ 1,080,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Adrien Thomasson",
+    "team": "Lens",
+    "gross/w": "€ 20,769",
+    "gross/y": "€ 1,080,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Tino Kadewere",
+    "team": "Lyon",
+    "gross/w": "€ 20,769",
+    "gross/y": "€ 1,080,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Tino Kadewere",
+    "team": "Nantes",
+    "gross/w": "€ 20,769",
+    "gross/y": "€ 1,080,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Yusuf Yazıcı",
+    "team": "Lille",
+    "gross/w": "€ 20,192",
+    "gross/y": "€ 1,050,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Georges Mikautadze",
+    "team": "Metz",
+    "gross/w": "€ 20,000",
+    "gross/y": "€ 1,040,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Sofiane Diop",
+    "team": "Nice",
+    "gross/w": "€ 19,615",
+    "gross/y": "€ 1,020,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Adryelson",
+    "team": "Lyon",
+    "gross/w": "€ 19,231",
+    "gross/y": "€ 1,000,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Nabil Bentaleb",
+    "team": "Lille",
+    "gross/w": "€ 19,231",
+    "gross/y": "€ 1,000,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Benjamin Stambouli",
+    "team": "Reims",
+    "gross/w": "€ 19,231",
+    "gross/y": "€ 1,000,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Ronaël Pierre-Gabriel",
+    "team": "Nantes",
+    "gross/w": "€ 19,231",
+    "gross/y": "€ 1,000,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Adrien Truffert",
+    "team": "Rennes",
+    "gross/w": "€ 19,231",
+    "gross/y": "€ 1,000,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Michael Murillo",
+    "team": "Marseille",
+    "gross/w": "€ 19,231",
+    "gross/y": "€ 1,000,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Hákon Arnar Haraldsson",
+    "team": "Lille",
+    "gross/w": "€ 19,231",
+    "gross/y": "€ 1,000,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Malick Fofana",
+    "team": "Lyon",
+    "gross/w": "€ 19,231",
+    "gross/y": "€ 1,000,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Leonardo Balerdi",
+    "team": "Marseille",
+    "gross/w": "€ 19,038",
+    "gross/y": "€ 990,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Igor Silva",
+    "team": "Lorient",
+    "gross/w": "€ 18,269",
+    "gross/y": "€ 950,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Fabien Centonze",
+    "team": "Nantes",
+    "gross/w": "€ 18,077",
+    "gross/y": "€ 940,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Youssouf Ndayishimiye",
+    "team": "Nice",
+    "gross/w": "€ 18,077",
+    "gross/y": "€ 940,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Jean-Eudes Aholou",
+    "team": "Strasbourg",
+    "gross/w": "€ 17,885",
+    "gross/y": "€ 930,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Jérémy Le Douaron",
+    "team": "Brest",
+    "gross/w": "€ 17,500",
+    "gross/y": "€ 910,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Jean-Charles Castelletto",
+    "team": "Nantes",
+    "gross/w": "€ 17,500",
+    "gross/y": "€ 910,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Ignatius Ganago",
+    "team": "Nantes",
+    "gross/w": "€ 17,500",
+    "gross/y": "€ 910,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Alexsandro",
+    "team": "Lille",
+    "gross/w": "€ 17,500",
+    "gross/y": "€ 910,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Marco Bizot",
+    "team": "Brest",
+    "gross/w": "€ 17,500",
+    "gross/y": "€ 910,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Terem Moffi",
+    "team": "Nice",
+    "gross/w": "€ 17,308",
+    "gross/y": "€ 900,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Douglas Augusto",
+    "team": "Nantes",
+    "gross/w": "€ 17,308",
+    "gross/y": "€ 900,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Bamba Dieng",
+    "team": "Lorient",
+    "gross/w": "€ 17,308",
+    "gross/y": "€ 900,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Adson",
+    "team": "Nantes",
+    "gross/w": "€ 17,308",
+    "gross/y": "€ 900,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Kelvin Amian",
+    "team": "Nantes",
+    "gross/w": "€ 17,308",
+    "gross/y": "€ 900,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Andy Diouf",
+    "team": "Lens",
+    "gross/w": "€ 17,308",
+    "gross/y": "€ 900,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Ulisses Garcia",
+    "team": "Marseille",
+    "gross/w": "€ 17,308",
+    "gross/y": "€ 900,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Mohamed-Ali Cho",
+    "team": "Nice",
+    "gross/w": "€ 17,308",
+    "gross/y": "€ 900,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Abakar Sylla",
+    "team": "Strasbourg",
+    "gross/w": "€ 17,308",
+    "gross/y": "€ 900,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Lucas Perri",
+    "team": "Lyon",
+    "gross/w": "€ 17,308",
+    "gross/y": "€ 900,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Sergio Akieme",
+    "team": "Reims",
+    "gross/w": "€ 17,308",
+    "gross/y": "€ 900,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Christopher Jullien",
+    "team": "Montpellier",
+    "gross/w": "€ 17,308",
+    "gross/y": "€ 900,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Luis Henrique",
+    "team": "Marseille",
+    "gross/w": "€ 17,115",
+    "gross/y": "€ 890,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Khéphren Thuram",
+    "team": "Nice",
+    "gross/w": "€ 16,731",
+    "gross/y": "€ 870,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Cher Ndour",
+    "team": "PSG",
+    "gross/w": "€ 16,346",
+    "gross/y": "€ 850,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Morgan Guilavogui",
+    "team": "Lens",
+    "gross/w": "€ 16,346",
+    "gross/y": "€ 850,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Henrique",
+    "team": "Lyon",
+    "gross/w": "€ 16,346",
+    "gross/y": "€ 850,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Teddy Teuma",
+    "team": "Reims",
+    "gross/w": "€ 16,346",
+    "gross/y": "€ 850,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Ernest Nuamah",
+    "team": "Lyon",
+    "gross/w": "€ 16,346",
+    "gross/y": "€ 850,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Jonathan Gradit",
+    "team": "Lens",
+    "gross/w": "€ 16,154",
+    "gross/y": "€ 840,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Salis Abdul Samed",
+    "team": "Lens",
+    "gross/w": "€ 16,154",
+    "gross/y": "€ 840,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Kévin N'Doram",
+    "team": "Metz",
+    "gross/w": "€ 16,154",
+    "gross/y": "€ 840,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Lebo Mothiba",
+    "team": "Strasbourg",
+    "gross/w": "€ 16,154",
+    "gross/y": "€ 840,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Steve Mounié",
+    "team": "Brest",
+    "gross/w": "€ 16,154",
+    "gross/y": "€ 840,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Sanjin Prcic",
+    "team": "Strasbourg",
+    "gross/w": "€ 16,154",
+    "gross/y": "€ 840,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Hugo Magnetti",
+    "team": "Brest",
+    "gross/w": "€ 15,769",
+    "gross/y": "€ 820,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Laurent Abergel",
+    "team": "Lorient",
+    "gross/w": "€ 15,769",
+    "gross/y": "€ 820,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Jonas Martin",
+    "team": "Brest",
+    "gross/w": "€ 15,385",
+    "gross/y": "€ 800,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Alidu Seidu",
+    "team": "Rennes",
+    "gross/w": "€ 15,385",
+    "gross/y": "€ 800,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Stijn Spierings",
+    "team": "Toulouse",
+    "gross/w": "€ 15,385",
+    "gross/y": "€ 800,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Ismaël Traoré",
+    "team": "Metz",
+    "gross/w": "€ 15,000",
+    "gross/y": "€ 780,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Koffi Kouao",
+    "team": "Metz",
+    "gross/w": "€ 15,000",
+    "gross/y": "€ 780,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Maxime Gonalons",
+    "team": "Clermont",
+    "gross/w": "€ 15,000",
+    "gross/y": "€ 780,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Akim Zedadka",
+    "team": "Lille",
+    "gross/w": "€ 15,000",
+    "gross/y": "€ 780,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Matthieu Udol",
+    "team": "Metz",
+    "gross/w": "€ 15,000",
+    "gross/y": "€ 780,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Mama Baldé",
+    "team": "Lyon",
+    "gross/w": "€ 14,615",
+    "gross/y": "€ 760,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Jordan Lotomba",
+    "team": "Nice",
+    "gross/w": "€ 14,615",
+    "gross/y": "€ 760,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Paul Akouokou",
+    "team": "Lyon",
+    "gross/w": "€ 14,423",
+    "gross/y": "€ 750,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Chrislain Matsima",
+    "team": "Clermont",
+    "gross/w": "€ 14,423",
+    "gross/y": "€ 750,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Chrislain Matsima",
+    "team": "Monaco",
+    "gross/w": "€ 14,423",
+    "gross/y": "€ 750,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Arnaud Nordin",
+    "team": "Montpellier",
+    "gross/w": "€ 14,423",
+    "gross/y": "€ 750,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Emanuel Emegha",
+    "team": "Strasbourg",
+    "gross/w": "€ 14,423",
+    "gross/y": "€ 750,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Kelvin Yeboah",
+    "team": "Montpellier",
+    "gross/w": "€ 14,038",
+    "gross/y": "€ 730,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Kenny Lala",
+    "team": "Brest",
+    "gross/w": "€ 13,846",
+    "gross/y": "€ 720,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "David Costa",
+    "team": "Lens",
+    "gross/w": "€ 13,846",
+    "gross/y": "€ 720,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Jean-Louis Leca",
+    "team": "Lens",
+    "gross/w": "€ 13,846",
+    "gross/y": "€ 720,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Marshall Munetsi",
+    "team": "Reims",
+    "gross/w": "€ 13,846",
+    "gross/y": "€ 720,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Jimmy Cabot",
+    "team": "Lens",
+    "gross/w": "€ 13,846",
+    "gross/y": "€ 720,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Thibault De Smet",
+    "team": "Reims",
+    "gross/w": "€ 13,846",
+    "gross/y": "€ 720,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Thomas Foket",
+    "team": "Reims",
+    "gross/w": "€ 13,846",
+    "gross/y": "€ 720,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Johann Lepenant",
+    "team": "Lyon",
+    "gross/w": "€ 13,846",
+    "gross/y": "€ 720,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Marcus Coco",
+    "team": "Nantes",
+    "gross/w": "€ 13,846",
+    "gross/y": "€ 720,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Yvon Mvogo",
+    "team": "Lorient",
+    "gross/w": "€ 13,846",
+    "gross/y": "€ 720,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Eduard Sobol",
+    "team": "Strasbourg",
+    "gross/w": "€ 13,846",
+    "gross/y": "€ 720,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Pedro Chirivella",
+    "team": "Nantes",
+    "gross/w": "€ 13,846",
+    "gross/y": "€ 720,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Angel Gomes",
+    "team": "Lille",
+    "gross/w": "€ 13,654",
+    "gross/y": "€ 710,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Dilane Bakwa",
+    "team": "Strasbourg",
+    "gross/w": "€ 13,462",
+    "gross/y": "€ 700,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Reda Khadra",
+    "team": "Reims",
+    "gross/w": "€ 13,462",
+    "gross/y": "€ 700,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Tiago Santos",
+    "team": "Lille",
+    "gross/w": "€ 13,462",
+    "gross/y": "€ 700,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Yoann Salmier",
+    "team": "Le Havre",
+    "gross/w": "€ 13,462",
+    "gross/y": "€ 700,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Aiyegun Tosin",
+    "team": "Lorient",
+    "gross/w": "€ 13,462",
+    "gross/y": "€ 700,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Christophe Hérelle",
+    "team": "Metz",
+    "gross/w": "€ 13,462",
+    "gross/y": "€ 700,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Junior Mwanga",
+    "team": "Strasbourg",
+    "gross/w": "€ 13,077",
+    "gross/y": "€ 680,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Jérémie Bela",
+    "team": "Clermont",
+    "gross/w": "€ 12,692",
+    "gross/y": "€ 660,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Skelly Alvero",
+    "team": "Lyon",
+    "gross/w": "€ 12,500",
+    "gross/y": "€ 650,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Saïdou Sow",
+    "team": "Strasbourg",
+    "gross/w": "€ 12,500",
+    "gross/y": "€ 650,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Ismail Jakobs",
+    "team": "Monaco",
+    "gross/w": "€ 12,500",
+    "gross/y": "€ 650,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Souleymane Isaak Touré",
+    "team": "Lorient",
+    "gross/w": "€ 12,500",
+    "gross/y": "€ 650,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Warmed Omari",
+    "team": "Rennes",
+    "gross/w": "€ 12,308",
+    "gross/y": "€ 640,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Alaa Bellaarouch",
+    "team": "Strasbourg",
+    "gross/w": "€ 12,308",
+    "gross/y": "€ 640,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Andrey Santos",
+    "team": "Strasbourg",
+    "gross/w": "€ 12,308",
+    "gross/y": "€ 640,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Martín Satriano",
+    "team": "Brest",
+    "gross/w": "€ 12,308",
+    "gross/y": "€ 640,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Guillaume Restes",
+    "team": "Toulouse",
+    "gross/w": "€ 12,308",
+    "gross/y": "€ 640,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Johan Gastien",
+    "team": "Clermont",
+    "gross/w": "€ 12,308",
+    "gross/y": "€ 640,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Kiki Kouyaté",
+    "team": "Montpellier",
+    "gross/w": "€ 12,308",
+    "gross/y": "€ 640,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Youssouf Fofana",
+    "team": "Monaco",
+    "gross/w": "€ 12,115",
+    "gross/y": "€ 630,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Jean-Kévin Duverne",
+    "team": "Nantes",
+    "gross/w": "€ 11,923",
+    "gross/y": "€ 620,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Mory Diaw",
+    "team": "Clermont",
+    "gross/w": "€ 11,923",
+    "gross/y": "€ 620,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Sinaly Diomandé",
+    "team": "Lyon",
+    "gross/w": "€ 11,731",
+    "gross/y": "€ 610,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Habib Maïga",
+    "team": "Metz",
+    "gross/w": "€ 11,538",
+    "gross/y": "€ 600,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Hicham Boudaoui",
+    "team": "Nice",
+    "gross/w": "€ 11,538",
+    "gross/y": "€ 600,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Jessy Deminguet",
+    "team": "Strasbourg",
+    "gross/w": "€ 11,538",
+    "gross/y": "€ 600,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Emmanuel Agbadou",
+    "team": "Reims",
+    "gross/w": "€ 11,538",
+    "gross/y": "€ 600,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Maxime Colin",
+    "team": "Metz",
+    "gross/w": "€ 11,538",
+    "gross/y": "€ 600,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Matthieu Dreyer",
+    "team": "Strasbourg",
+    "gross/w": "€ 11,538",
+    "gross/y": "€ 600,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Eliesse Ben Seghir",
+    "team": "Monaco",
+    "gross/w": "€ 11,538",
+    "gross/y": "€ 600,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Julien Laporte",
+    "team": "Lorient",
+    "gross/w": "€ 11,538",
+    "gross/y": "€ 600,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Bertuğ Yıldırım",
+    "team": "Rennes",
+    "gross/w": "€ 11,538",
+    "gross/y": "€ 600,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Alexandre Letellier",
+    "team": "PSG",
+    "gross/w": "€ 11,538",
+    "gross/y": "€ 600,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Aron Dønnum",
+    "team": "Toulouse",
+    "gross/w": "€ 11,538",
+    "gross/y": "€ 600,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Massadio Haidara",
+    "team": "Lens",
+    "gross/w": "€ 11,538",
+    "gross/y": "€ 600,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Yehvann Diouf",
+    "team": "Reims",
+    "gross/w": "€ 11,538",
+    "gross/y": "€ 600,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Gabriel Suazo",
+    "team": "Toulouse",
+    "gross/w": "€ 11,538",
+    "gross/y": "€ 600,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Formose Mendy",
+    "team": "Lorient",
+    "gross/w": "€ 11,538",
+    "gross/y": "€ 600,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Akor Adams",
+    "team": "Montpellier",
+    "gross/w": "€ 11,538",
+    "gross/y": "€ 600,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Bénie Traoré",
+    "team": "Nantes",
+    "gross/w": "€ 11,538",
+    "gross/y": "€ 600,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Mikkel Desler",
+    "team": "Toulouse",
+    "gross/w": "€ 11,538",
+    "gross/y": "€ 600,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Florian Sotoca",
+    "team": "Lens",
+    "gross/w": "€ 11,538",
+    "gross/y": "€ 600,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Nolan Mbemba",
+    "team": "Le Havre",
+    "gross/w": "€ 11,154",
+    "gross/y": "€ 580,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Niklas Schmidt",
+    "team": "Toulouse",
+    "gross/w": "€ 10,962",
+    "gross/y": "€ 570,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Montassar Talbi",
+    "team": "Lorient",
+    "gross/w": "€ 10,962",
+    "gross/y": "€ 570,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Edan Diop",
+    "team": "Monaco",
+    "gross/w": "€ 10,962",
+    "gross/y": "€ 570,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "François Mughe",
+    "team": "Marseille",
+    "gross/w": "€ 10,577",
+    "gross/y": "€ 550,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Rasmus Nicolaisen",
+    "team": "Toulouse",
+    "gross/w": "€ 10,577",
+    "gross/y": "€ 550,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Quentin Boisgard",
+    "team": "Lorient",
+    "gross/w": "€ 10,577",
+    "gross/y": "€ 550,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Alfred Gomis",
+    "team": "Lorient",
+    "gross/w": "€ 10,577",
+    "gross/y": "€ 550,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Jake O'Brien",
+    "team": "Lyon",
+    "gross/w": "€ 10,577",
+    "gross/y": "€ 550,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Lorenz Assignon",
+    "team": "Rennes",
+    "gross/w": "€ 10,577",
+    "gross/y": "€ 550,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Becir Omeragic",
+    "team": "Montpellier",
+    "gross/w": "€ 10,577",
+    "gross/y": "€ 550,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Deiver Machado",
+    "team": "Lens",
+    "gross/w": "€ 10,385",
+    "gross/y": "€ 540,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Matthis Abline",
+    "team": "Nantes",
+    "gross/w": "€ 10,385",
+    "gross/y": "€ 540,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Gautier Lloris",
+    "team": "Le Havre",
+    "gross/w": "€ 10,385",
+    "gross/y": "€ 540,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Christopher Operi",
+    "team": "Le Havre",
+    "gross/w": "€ 10,385",
+    "gross/y": "€ 540,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Brendan Chardonnet",
+    "team": "Brest",
+    "gross/w": "€ 10,385",
+    "gross/y": "€ 540,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Gédéon Kalulu",
+    "team": "Lorient",
+    "gross/w": "€ 10,385",
+    "gross/y": "€ 540,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Wesley Saïd",
+    "team": "Lens",
+    "gross/w": "€ 10,385",
+    "gross/y": "€ 540,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Maximiliano Caufriez",
+    "team": "Clermont",
+    "gross/w": "€ 10,192",
+    "gross/y": "€ 530,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Benjamin Tetteh",
+    "team": "Metz",
+    "gross/w": "€ 10,000",
+    "gross/y": "€ 520,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Diego Moreira",
+    "team": "Lyon",
+    "gross/w": "€ 10,000",
+    "gross/y": "€ 520,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Thomas Delaine",
+    "team": "Strasbourg",
+    "gross/w": "€ 10,000",
+    "gross/y": "€ 520,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Yassine Kechta",
+    "team": "Le Havre",
+    "gross/w": "€ 10,000",
+    "gross/y": "€ 520,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Désiré Doué",
+    "team": "Rennes",
+    "gross/w": "€ 10,000",
+    "gross/y": "€ 520,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Mathias Pereira Lage",
+    "team": "Brest",
+    "gross/w": "€ 9,808",
+    "gross/y": "€ 510,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Samuel Grandsir",
+    "team": "Le Havre",
+    "gross/w": "€ 9,808",
+    "gross/y": "€ 510,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Alexandre Oukidja",
+    "team": "Metz",
+    "gross/w": "€ 9,615",
+    "gross/y": "€ 500,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Bradley Locko",
+    "team": "Brest",
+    "gross/w": "€ 9,615",
+    "gross/y": "€ 500,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Vincent Le Goff",
+    "team": "Lorient",
+    "gross/w": "€ 9,615",
+    "gross/y": "€ 500,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Frank Magri",
+    "team": "Toulouse",
+    "gross/w": "€ 9,615",
+    "gross/y": "€ 500,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Karol Fila",
+    "team": "Strasbourg",
+    "gross/w": "€ 9,615",
+    "gross/y": "€ 500,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Bilal Boutobba",
+    "team": "Clermont",
+    "gross/w": "€ 9,615",
+    "gross/y": "€ 500,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Modibo Sagnan",
+    "team": "Montpellier",
+    "gross/w": "€ 9,615",
+    "gross/y": "€ 500,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Joel Mvuka",
+    "team": "Lorient",
+    "gross/w": "€ 9,615",
+    "gross/y": "€ 500,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Oumar Diakité",
+    "team": "Reims",
+    "gross/w": "€ 9,615",
+    "gross/y": "€ 500,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Óscar Cortés",
+    "team": "Lens",
+    "gross/w": "€ 9,615",
+    "gross/y": "€ 500,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Achraf Dari",
+    "team": "Brest",
+    "gross/w": "€ 9,231",
+    "gross/y": "€ 480,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Julien Le Cardinal",
+    "team": "Brest",
+    "gross/w": "€ 9,231",
+    "gross/y": "€ 480,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Saël Kumbedi",
+    "team": "Lyon",
+    "gross/w": "€ 9,231",
+    "gross/y": "€ 480,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Wuilker Fariñez",
+    "team": "Lens",
+    "gross/w": "€ 9,038",
+    "gross/y": "€ 470,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Aboubacar Lô",
+    "team": "Metz",
+    "gross/w": "€ 9,038",
+    "gross/y": "€ 470,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Gerzino Nyamsi",
+    "team": "Strasbourg",
+    "gross/w": "€ 8,654",
+    "gross/y": "€ 450,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Jhoanner Chávez",
+    "team": "Lens",
+    "gross/w": "€ 8,654",
+    "gross/y": "€ 450,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Mousa Al-Tamari",
+    "team": "Montpellier",
+    "gross/w": "€ 8,654",
+    "gross/y": "€ 450,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Neto Borges",
+    "team": "Clermont",
+    "gross/w": "€ 8,654",
+    "gross/y": "€ 450,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Didier Lamkel Zé",
+    "team": "Metz",
+    "gross/w": "€ 8,654",
+    "gross/y": "€ 450,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Gauthier Gallon",
+    "team": "Rennes",
+    "gross/w": "€ 8,654",
+    "gross/y": "€ 450,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Andy Pelmard",
+    "team": "Clermont",
+    "gross/w": "€ 8,654",
+    "gross/y": "€ 450,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Nathan Zeze",
+    "team": "Nantes",
+    "gross/w": "€ 8,654",
+    "gross/y": "€ 450,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Ignacio Miramón",
+    "team": "Lille",
+    "gross/w": "€ 8,654",
+    "gross/y": "€ 450,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Logan Costa",
+    "team": "Toulouse",
+    "gross/w": "€ 8,654",
+    "gross/y": "€ 450,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Mamadou Sakho",
+    "team": "Montpellier",
+    "gross/w": "€ 8,654",
+    "gross/y": "€ 450,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Mamadou Sarr",
+    "team": "Lyon",
+    "gross/w": "€ 8,654",
+    "gross/y": "€ 450,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Cristian Cásseres Jr",
+    "team": "Toulouse",
+    "gross/w": "€ 8,654",
+    "gross/y": "€ 450,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Andrej Ilic",
+    "team": "Lille",
+    "gross/w": "€ 8,462",
+    "gross/y": "€ 440,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Rémy Riou",
+    "team": "Lyon",
+    "gross/w": "€ 8,077",
+    "gross/y": "€ 420,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Faitout Maouassa",
+    "team": "Lens",
+    "gross/w": "€ 8,077",
+    "gross/y": "€ 420,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Ibrahim Cissoko",
+    "team": "Toulouse",
+    "gross/w": "€ 8,077",
+    "gross/y": "€ 420,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Arouna Sangante",
+    "team": "Le Havre",
+    "gross/w": "€ 8,077",
+    "gross/y": "€ 420,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Joel Asoro",
+    "team": "Metz",
+    "gross/w": "€ 8,077",
+    "gross/y": "€ 420,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Florent Ogier",
+    "team": "Clermont",
+    "gross/w": "€ 8,077",
+    "gross/y": "€ 420,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Maxime Dupé",
+    "team": "Nice",
+    "gross/w": "€ 8,077",
+    "gross/y": "€ 420,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Kevin Van Den Kerkhof",
+    "team": "Metz",
+    "gross/w": "€ 7,885",
+    "gross/y": "€ 410,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Amine Salama",
+    "team": "Reims",
+    "gross/w": "€ 7,885",
+    "gross/y": "€ 410,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Kassoum Ouattara",
+    "team": "Monaco",
+    "gross/w": "€ 7,692",
+    "gross/y": "€ 400,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Loïc Nego",
+    "team": "Le Havre",
+    "gross/w": "€ 7,692",
+    "gross/y": "€ 400,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Mahamadou Diawara",
+    "team": "Lyon",
+    "gross/w": "€ 7,692",
+    "gross/y": "€ 400,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Issiaga Sylla",
+    "team": "Montpellier",
+    "gross/w": "€ 7,692",
+    "gross/y": "€ 400,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Yann Gboho",
+    "team": "Toulouse",
+    "gross/w": "€ 7,692",
+    "gross/y": "€ 400,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Ismaël Doukouré",
+    "team": "Strasbourg",
+    "gross/w": "€ 7,692",
+    "gross/y": "€ 400,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Aliou Baldé",
+    "team": "Nice",
+    "gross/w": "€ 7,692",
+    "gross/y": "€ 400,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Gabriel Gudmundsson",
+    "team": "Lille",
+    "gross/w": "€ 7,692",
+    "gross/y": "€ 400,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Pablo Rosario",
+    "team": "Nice",
+    "gross/w": "€ 7,500",
+    "gross/y": "€ 390,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Julien Ponceau",
+    "team": "Lorient",
+    "gross/w": "€ 7,500",
+    "gross/y": "€ 390,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Tiago Morais",
+    "team": "Lille",
+    "gross/w": "€ 7,308",
+    "gross/y": "€ 380,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Eli Junior Kroupi",
+    "team": "Lorient",
+    "gross/w": "€ 7,115",
+    "gross/y": "€ 370,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Massamba N'Diaye",
+    "team": "Clermont",
+    "gross/w": "€ 7,115",
+    "gross/y": "€ 370,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Dembo Sylla",
+    "team": "Lorient",
+    "gross/w": "€ 7,115",
+    "gross/y": "€ 370,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Théo Sainte-Luce",
+    "team": "Montpellier",
+    "gross/w": "€ 6,923",
+    "gross/y": "€ 360,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Soungoutou Magassa",
+    "team": "Monaco",
+    "gross/w": "€ 6,923",
+    "gross/y": "€ 360,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Bafodé Diakité",
+    "team": "Lille",
+    "gross/w": "€ 6,923",
+    "gross/y": "€ 360,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Alexis Beka Beka",
+    "team": "Nice",
+    "gross/w": "€ 6,923",
+    "gross/y": "€ 360,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Leny Yoro",
+    "team": "Lille",
+    "gross/w": "€ 6,923",
+    "gross/y": "€ 360,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Ablie Jallow",
+    "team": "Metz",
+    "gross/w": "€ 6,923",
+    "gross/y": "€ 360,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Vincent Sierro",
+    "team": "Toulouse",
+    "gross/w": "€ 6,923",
+    "gross/y": "€ 360,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Marcin Bulka",
+    "team": "Nice",
+    "gross/w": "€ 6,923",
+    "gross/y": "€ 360,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Simon Ngapandouetnbu",
+    "team": "Marseille",
+    "gross/w": "€ 6,923",
+    "gross/y": "€ 360,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Mohamed Bamba",
+    "team": "Lorient",
+    "gross/w": "€ 6,731",
+    "gross/y": "€ 350,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Rafael Fernandes",
+    "team": "Lille",
+    "gross/w": "€ 6,731",
+    "gross/y": "€ 350,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Amir Richardson",
+    "team": "Reims",
+    "gross/w": "€ 6,731",
+    "gross/y": "€ 350,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Ludovic Butelle",
+    "team": "Reims",
+    "gross/w": "€ 6,731",
+    "gross/y": "€ 350,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Mathieu Gorgelin",
+    "team": "Le Havre",
+    "gross/w": "€ 6,731",
+    "gross/y": "€ 350,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Rassoul Ndiaye",
+    "team": "Le Havre",
+    "gross/w": "€ 6,346",
+    "gross/y": "€ 330,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Ibrahima Sissoko",
+    "team": "Strasbourg",
+    "gross/w": "€ 6,346",
+    "gross/y": "€ 330,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Jeanuël Belocian",
+    "team": "Rennes",
+    "gross/w": "€ 6,346",
+    "gross/y": "€ 330,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Tiago Djaló",
+    "team": "Lille",
+    "gross/w": "€ 6,346",
+    "gross/y": "€ 330,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Lamine Diack",
+    "team": "Nantes",
+    "gross/w": "€ 6,154",
+    "gross/y": "€ 320,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Tanguy Coulibaly",
+    "team": "Montpellier",
+    "gross/w": "€ 6,154",
+    "gross/y": "€ 320,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Abdoul Kader Bamba",
+    "team": "Nantes",
+    "gross/w": "€ 6,154",
+    "gross/y": "€ 320,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Habib Keïta",
+    "team": "Clermont",
+    "gross/w": "€ 6,154",
+    "gross/y": "€ 320,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Oualid El Hajjam",
+    "team": "Le Havre",
+    "gross/w": "€ 6,154",
+    "gross/y": "€ 320,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Alexandre Olliero",
+    "team": "Reims",
+    "gross/w": "€ 6,154",
+    "gross/y": "€ 320,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Nabil Alioui",
+    "team": "Le Havre",
+    "gross/w": "€ 5,962",
+    "gross/y": "€ 310,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Mahdi Camara",
+    "team": "Brest",
+    "gross/w": "€ 5,769",
+    "gross/y": "€ 300,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Josué Casimir",
+    "team": "Le Havre",
+    "gross/w": "€ 5,769",
+    "gross/y": "€ 300,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Khalil Fayad",
+    "team": "Montpellier",
+    "gross/w": "€ 5,769",
+    "gross/y": "€ 300,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Josh Wilson-Esbrand",
+    "team": "Reims",
+    "gross/w": "€ 5,769",
+    "gross/y": "€ 300,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Komnen Andric",
+    "team": "Clermont",
+    "gross/w": "€ 5,769",
+    "gross/y": "€ 300,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Evann Guessand",
+    "team": "Nice",
+    "gross/w": "€ 5,769",
+    "gross/y": "€ 300,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Emran Soglo",
+    "team": "Marseille",
+    "gross/w": "€ 5,769",
+    "gross/y": "€ 300,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Théo Le Bris",
+    "team": "Lorient",
+    "gross/w": "€ 5,769",
+    "gross/y": "€ 300,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Ayman Kari",
+    "team": "Lorient",
+    "gross/w": "€ 5,769",
+    "gross/y": "€ 300,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Arthur Desmas",
+    "team": "Le Havre",
+    "gross/w": "€ 5,769",
+    "gross/y": "€ 300,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Simon Elisor",
+    "team": "Metz",
+    "gross/w": "€ 5,769",
+    "gross/y": "€ 300,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Bamo Meïté",
+    "team": "Marseille",
+    "gross/w": "€ 5,769",
+    "gross/y": "€ 300,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Zakaria Aboukhlal",
+    "team": "Toulouse",
+    "gross/w": "€ 5,769",
+    "gross/y": "€ 300,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Grejohn Kyei",
+    "team": "Clermont",
+    "gross/w": "€ 5,769",
+    "gross/y": "€ 300,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Alidu Seidu",
+    "team": "Clermont",
+    "gross/w": "€ 5,769",
+    "gross/y": "€ 300,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Yanis Begraoui",
+    "team": "Toulouse",
+    "gross/w": "€ 5,577",
+    "gross/y": "€ 290,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Arthur Atta",
+    "team": "Metz",
+    "gross/w": "€ 5,385",
+    "gross/y": "€ 280,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Cheikh Sabaly",
+    "team": "Metz",
+    "gross/w": "€ 5,385",
+    "gross/y": "€ 280,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Alan Virginius",
+    "team": "Lille",
+    "gross/w": "€ 5,192",
+    "gross/y": "€ 270,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Shamar Nicholson",
+    "team": "Clermont",
+    "gross/w": "€ 5,192",
+    "gross/y": "€ 270,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Bilal Nadir",
+    "team": "Marseille",
+    "gross/w": "€ 5,192",
+    "gross/y": "€ 270,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Alan Virginius",
+    "team": "Clermont",
+    "gross/w": "€ 5,192",
+    "gross/y": "€ 270,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Moïse Sahi Dion",
+    "team": "Strasbourg",
+    "gross/w": "€ 5,192",
+    "gross/y": "€ 270,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Bonke Innocent",
+    "team": "Lorient",
+    "gross/w": "€ 5,192",
+    "gross/y": "€ 270,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Ayyoub Bouaddi",
+    "team": "Lille",
+    "gross/w": "€ 5,192",
+    "gross/y": "€ 270,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Yanis Guermouche",
+    "team": "Montpellier",
+    "gross/w": "€ 5,192",
+    "gross/y": "€ 270,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Muhammed Cham",
+    "team": "Clermont",
+    "gross/w": "€ 5,192",
+    "gross/y": "€ 270,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Oussama Targhalline",
+    "team": "Le Havre",
+    "gross/w": "€ 5,192",
+    "gross/y": "€ 270,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Léo Leroy",
+    "team": "Montpellier",
+    "gross/w": "€ 5,000",
+    "gross/y": "€ 260,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Emmanuel Sabbi",
+    "team": "Le Havre",
+    "gross/w": "€ 5,000",
+    "gross/y": "€ 260,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Ayoub Amraoui",
+    "team": "Nice",
+    "gross/w": "€ 4,808",
+    "gross/y": "€ 250,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Álex Domínguez",
+    "team": "Toulouse",
+    "gross/w": "€ 4,808",
+    "gross/y": "€ 250,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Adam Jakubech",
+    "team": "Lille",
+    "gross/w": "€ 4,808",
+    "gross/y": "€ 250,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Vito Mannone",
+    "team": "Lille",
+    "gross/w": "€ 4,808",
+    "gross/y": "€ 250,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Jaouen Hadjam",
+    "team": "Nantes",
+    "gross/w": "€ 4,808",
+    "gross/y": "€ 250,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Issa Soumaré",
+    "team": "Le Havre",
+    "gross/w": "€ 4,808",
+    "gross/y": "€ 250,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Panos Katseris",
+    "team": "Lorient",
+    "gross/w": "€ 4,808",
+    "gross/y": "€ 250,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Shavy Babicka",
+    "team": "Toulouse",
+    "gross/w": "€ 4,615",
+    "gross/y": "€ 240,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Christopher Wooh",
+    "team": "Rennes",
+    "gross/w": "€ 4,615",
+    "gross/y": "€ 240,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Denis Petric",
+    "team": "Nantes",
+    "gross/w": "€ 4,615",
+    "gross/y": "€ 240,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Oliver Zandén",
+    "team": "Toulouse",
+    "gross/w": "€ 4,615",
+    "gross/y": "€ 240,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Warren Kamanzi",
+    "team": "Toulouse",
+    "gross/w": "€ 4,615",
+    "gross/y": "€ 240,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Mehdi Zeffane",
+    "team": "Clermont",
+    "gross/w": "€ 4,615",
+    "gross/y": "€ 240,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "César Gelabert",
+    "team": "Toulouse",
+    "gross/w": "€ 4,423",
+    "gross/y": "€ 230,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Yoël Armougom",
+    "team": "Clermont",
+    "gross/w": "€ 4,423",
+    "gross/y": "€ 230,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Étienne Youté Kinkoué",
+    "team": "Le Havre",
+    "gross/w": "€ 4,231",
+    "gross/y": "€ 220,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Jean N'Guessan",
+    "team": "Metz",
+    "gross/w": "€ 4,231",
+    "gross/y": "€ 220,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Samuel Moutoussamy",
+    "team": "Nantes",
+    "gross/w": "€ 4,038",
+    "gross/y": "€ 210,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Sami Lahssaini",
+    "team": "Metz",
+    "gross/w": "€ 4,038",
+    "gross/y": "€ 210,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Darline Yongwa",
+    "team": "Lorient",
+    "gross/w": "€ 4,038",
+    "gross/y": "€ 210,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Melvin Bard",
+    "team": "Nice",
+    "gross/w": "€ 3,846",
+    "gross/y": "€ 200,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Adrien Lebeau",
+    "team": "Brest",
+    "gross/w": "€ 3,846",
+    "gross/y": "€ 200,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Dominique Youfeigane",
+    "team": "Lorient",
+    "gross/w": "€ 3,846",
+    "gross/y": "€ 200,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Denis Genreau",
+    "team": "Toulouse",
+    "gross/w": "€ 3,462",
+    "gross/y": "€ 180,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Warren Tchimbembé",
+    "team": "Metz",
+    "gross/w": "€ 3,462",
+    "gross/y": "€ 180,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Marc-Aurèle Caillard",
+    "team": "Metz",
+    "gross/w": "€ 3,462",
+    "gross/y": "€ 180,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Guillaume Dietsch",
+    "team": "Metz",
+    "gross/w": "€ 3,462",
+    "gross/y": "€ 180,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Fali Candé",
+    "team": "Metz",
+    "gross/w": "€ 3,462",
+    "gross/y": "€ 180,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Pablo Pagis",
+    "team": "Lorient",
+    "gross/w": "€ 3,462",
+    "gross/y": "€ 180,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Yohann Magnin",
+    "team": "Clermont",
+    "gross/w": "€ 3,462",
+    "gross/y": "€ 180,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Grégoire Coudert",
+    "team": "Brest",
+    "gross/w": "€ 3,462",
+    "gross/y": "€ 180,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Antoine Joujou",
+    "team": "Le Havre",
+    "gross/w": "€ 3,269",
+    "gross/y": "€ 170,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Cheick Oumar Konaté",
+    "team": "Clermont",
+    "gross/w": "€ 3,077",
+    "gross/y": "€ 160,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Belmin Dizdarevic",
+    "team": "Montpellier",
+    "gross/w": "€ 3,077",
+    "gross/y": "€ 160,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Amidou Doumbouya",
+    "team": "Nice",
+    "gross/w": "€ 3,077",
+    "gross/y": "€ 160,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Ayanda Sishuba",
+    "team": "Lens",
+    "gross/w": "€ 3,077",
+    "gross/y": "€ 160,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Guéla Doué",
+    "team": "Rennes",
+    "gross/w": "€ 2,885",
+    "gross/y": "€ 150,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Kamory Doumbia",
+    "team": "Brest",
+    "gross/w": "€ 2,885",
+    "gross/y": "€ 150,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Maxime Estève",
+    "team": "Montpellier",
+    "gross/w": "€ 2,885",
+    "gross/y": "€ 150,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Yannick Pandor",
+    "team": "Lens",
+    "gross/w": "€ 2,885",
+    "gross/y": "€ 150,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Neil El Aynaoui",
+    "team": "Lens",
+    "gross/w": "€ 2,885",
+    "gross/y": "€ 150,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Geoffrey Lembet",
+    "team": "Rennes",
+    "gross/w": "€ 2,885",
+    "gross/y": "€ 150,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Mohamed El Arouch",
+    "team": "Lyon",
+    "gross/w": "€ 2,885",
+    "gross/y": "€ 150,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Yannis M'Bemba",
+    "team": "Nantes",
+    "gross/w": "€ 2,885",
+    "gross/y": "€ 150,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Kandet Diawara",
+    "team": "Le Havre",
+    "gross/w": "€ 2,885",
+    "gross/y": "€ 150,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Maxime Bastian",
+    "team": "Strasbourg",
+    "gross/w": "€ 2,885",
+    "gross/y": "€ 150,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Marvin Senaya",
+    "team": "Strasbourg",
+    "gross/w": "€ 2,692",
+    "gross/y": "€ 140,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Billal Brahimi",
+    "team": "Brest",
+    "gross/w": "€ 2,692",
+    "gross/y": "€ 140,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Justin Lacombe",
+    "team": "Toulouse",
+    "gross/w": "€ 2,692",
+    "gross/y": "€ 140,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Falaye Sacko",
+    "team": "Montpellier",
+    "gross/w": "€ 2,692",
+    "gross/y": "€ 140,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Abdukodir Khusanov",
+    "team": "Lens",
+    "gross/w": "€ 2,692",
+    "gross/y": "€ 140,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Elbasan Rashani",
+    "team": "Clermont",
+    "gross/w": "€ 2,692",
+    "gross/y": "€ 140,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Jim Allevinah",
+    "team": "Clermont",
+    "gross/w": "€ 2,500",
+    "gross/y": "€ 130,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Samuel Koeberlé",
+    "team": "Reims",
+    "gross/w": "€ 2,500",
+    "gross/y": "€ 130,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Achraf Laâziri",
+    "team": "Lyon",
+    "gross/w": "€ 2,500",
+    "gross/y": "€ 130,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Christian Mawissa",
+    "team": "Toulouse",
+    "gross/w": "€ 2,500",
+    "gross/y": "€ 130,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Aïman Maurer",
+    "team": "Clermont",
+    "gross/w": "€ 2,500",
+    "gross/y": "€ 130,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Théo Borne",
+    "team": "Clermont",
+    "gross/w": "€ 2,500",
+    "gross/y": "€ 130,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Lamine Camara",
+    "team": "Metz",
+    "gross/w": "€ 2,500",
+    "gross/y": "€ 130,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Loris Mouyokolo",
+    "team": "Lorient",
+    "gross/w": "€ 2,500",
+    "gross/y": "€ 130,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Malick Mbaye",
+    "team": "Metz",
+    "gross/w": "€ 2,500",
+    "gross/y": "€ 130,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Lucas Perrin",
+    "team": "Strasbourg",
+    "gross/w": "€ 2,308",
+    "gross/y": "€ 120,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Josué Escartin",
+    "team": "Brest",
+    "gross/w": "€ 2,308",
+    "gross/y": "€ 120,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Ibrahima Baldé",
+    "team": "Lens",
+    "gross/w": "€ 2,308",
+    "gross/y": "€ 120,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Yoni Gomis",
+    "team": "Le Havre",
+    "gross/w": "€ 2,308",
+    "gross/y": "€ 120,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Thérence Koudou",
+    "team": "Reims",
+    "gross/w": "€ 2,308",
+    "gross/y": "€ 120,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Adama Bojang",
+    "team": "Reims",
+    "gross/w": "€ 2,308",
+    "gross/y": "€ 120,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Valentin Atangana",
+    "team": "Reims",
+    "gross/w": "€ 2,308",
+    "gross/y": "€ 120,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Mokrane Bentoumi",
+    "team": "Le Havre",
+    "gross/w": "€ 2,308",
+    "gross/y": "€ 120,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Mohamed Koné",
+    "team": "Le Havre",
+    "gross/w": "€ 2,308",
+    "gross/y": "€ 120,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Badredine Bouanani",
+    "team": "Lorient",
+    "gross/w": "€ 2,308",
+    "gross/y": "€ 120,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Siriné Doucouré",
+    "team": "Lorient",
+    "gross/w": "€ 2,308",
+    "gross/y": "€ 120,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Elysée Logbo",
+    "team": "Le Havre",
+    "gross/w": "€ 2,308",
+    "gross/y": "€ 120,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Cheick Doumbia",
+    "team": "Le Havre",
+    "gross/w": "€ 2,308",
+    "gross/y": "€ 120,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Justin Bengui Joao",
+    "team": "Lyon",
+    "gross/w": "€ 2,308",
+    "gross/y": "€ 120,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Yannis Nahounou",
+    "team": "Nice",
+    "gross/w": "€ 2,308",
+    "gross/y": "€ 120,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Tom Louchet",
+    "team": "Nice",
+    "gross/w": "€ 2,308",
+    "gross/y": "€ 120,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Aloïs Confais",
+    "team": "Le Havre",
+    "gross/w": "€ 2,308",
+    "gross/y": "€ 120,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Teddy Boulhendi",
+    "team": "Nice",
+    "gross/w": "€ 2,308",
+    "gross/y": "€ 120,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Mathis Lambourde",
+    "team": "Rennes",
+    "gross/w": "€ 2,308",
+    "gross/y": "€ 120,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Yanis Massolin",
+    "team": "Clermont",
+    "gross/w": "€ 2,308",
+    "gross/y": "€ 120,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Reda Belahyane",
+    "team": "Nice",
+    "gross/w": "€ 2,308",
+    "gross/y": "€ 120,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Alexandre Pierre",
+    "team": "Strasbourg",
+    "gross/w": "€ 2,308",
+    "gross/y": "€ 120,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Danley Jean Jacques",
+    "team": "Metz",
+    "gross/w": "€ 2,308",
+    "gross/y": "€ 120,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Daouda Traoré",
+    "team": "Nice",
+    "gross/w": "€ 2,308",
+    "gross/y": "€ 120,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Badredine Bouanani",
+    "team": "Nice",
+    "gross/w": "€ 2,308",
+    "gross/y": "€ 120,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Antoine Mendy",
+    "team": "Nice",
+    "gross/w": "€ 2,308",
+    "gross/y": "€ 120,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Ibou Sané",
+    "team": "Metz",
+    "gross/w": "€ 2,308",
+    "gross/y": "€ 120,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Stredair Appuah",
+    "team": "Nantes",
+    "gross/w": "€ 2,308",
+    "gross/y": "€ 120,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Rémy Descamps",
+    "team": "Nantes",
+    "gross/w": "€ 2,308",
+    "gross/y": "€ 120,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Quentin Merlin",
+    "team": "Nantes",
+    "gross/w": "€ 2,308",
+    "gross/y": "€ 120,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Joseph Nduquidi",
+    "team": "Metz",
+    "gross/w": "€ 2,308",
+    "gross/y": "€ 120,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Moussa Diarra",
+    "team": "Toulouse",
+    "gross/w": "€ 2,308",
+    "gross/y": "€ 120,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Naatan Skyttä",
+    "team": "Toulouse",
+    "gross/w": "€ 2,308",
+    "gross/y": "€ 120,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Axel Camblan",
+    "team": "Brest",
+    "gross/w": "€ 2,308",
+    "gross/y": "€ 120,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Noah Edjouma",
+    "team": "Toulouse",
+    "gross/w": "€ 2,308",
+    "gross/y": "€ 120,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Noah Lahmadi",
+    "team": "Toulouse",
+    "gross/w": "€ 2,308",
+    "gross/y": "€ 120,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Antonin Cartillier",
+    "team": "Brest",
+    "gross/w": "€ 2,308",
+    "gross/y": "€ 120,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Bastien Meupiyou",
+    "team": "Nantes",
+    "gross/w": "€ 2,308",
+    "gross/y": "€ 120,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Dimitry Bertaud",
+    "team": "Montpellier",
+    "gross/w": "€ 2,308",
+    "gross/y": "€ 120,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Thijs Dallinga",
+    "team": "Toulouse",
+    "gross/w": "€ 2,308",
+    "gross/y": "€ 120,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Thomas Himeur",
+    "team": "Toulouse",
+    "gross/w": "€ 2,308",
+    "gross/y": "€ 120,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Enzo Tchato",
+    "team": "Montpellier",
+    "gross/w": "€ 2,308",
+    "gross/y": "€ 120,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Joris Chotard",
+    "team": "Montpellier",
+    "gross/w": "€ 2,308",
+    "gross/y": "€ 120,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Sacha Delaye",
+    "team": "Montpellier",
+    "gross/w": "€ 2,308",
+    "gross/y": "€ 120,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Mohamed Achi",
+    "team": "Nantes",
+    "gross/w": "€ 2,308",
+    "gross/y": "€ 120,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Yan Marillat",
+    "team": "Brest",
+    "gross/w": "€ 2,308",
+    "gross/y": "€ 120,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Papa Amadou Diallo",
+    "team": "Metz",
+    "gross/w": "€ 2,308",
+    "gross/y": "€ 120,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Steven Baseya",
+    "team": "Strasbourg",
+    "gross/w": "€ 2,308",
+    "gross/y": "€ 120,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Sadibou Sané",
+    "team": "Metz",
+    "gross/w": "€ 2,308",
+    "gross/y": "€ 120,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Lilian Brassier",
+    "team": "Brest",
+    "gross/w": "€ 2,308",
+    "gross/y": "€ 120,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Bonota Traoré",
+    "team": "Toulouse",
+    "gross/w": "€ 2,308",
+    "gross/y": "€ 120,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Eliot Matazo",
+    "team": "Monaco",
+    "gross/w": "€ 2,308",
+    "gross/y": "€ 120,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Gor Manvelyan",
+    "team": "Nantes",
+    "gross/w": "€ 2,308",
+    "gross/y": "€ 120,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Maghnes Akliouche",
+    "team": "Monaco",
+    "gross/w": "€ 2,308",
+    "gross/y": "€ 120,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Nolan Bonte",
+    "team": "Lens",
+    "gross/w": "€ 2,308",
+    "gross/y": "€ 120,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Yann Lienard",
+    "team": "Monaco",
+    "gross/w": "€ 2,308",
+    "gross/y": "€ 120,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Junior Flemmings",
+    "team": "Toulouse",
+    "gross/w": "€ 2,308",
+    "gross/y": "€ 120,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Kévin Keben",
+    "team": "Toulouse",
+    "gross/w": "€ 2,308",
+    "gross/y": "€ 120,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Kléri Serber",
+    "team": "Toulouse",
+    "gross/w": "€ 2,308",
+    "gross/y": "€ 120,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Yllan Okou",
+    "team": "Monaco",
+    "gross/w": "€ 2,308",
+    "gross/y": "€ 120,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Mamady Bangré",
+    "team": "Toulouse",
+    "gross/w": "€ 2,308",
+    "gross/y": "€ 120,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Jelle Van Neck",
+    "team": "Marseille",
+    "gross/w": "€ 1,923",
+    "gross/y": "€ 100,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Mamadou Diakhon",
+    "team": "Reims",
+    "gross/w": "€ 1,923",
+    "gross/y": "€ 100,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Nathaniel Adjei",
+    "team": "Lorient",
+    "gross/w": "€ 1,731",
+    "gross/y": "€ 90,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Mahamadou Nagida",
+    "team": "Rennes",
+    "gross/w": "€ 1,731",
+    "gross/y": "€ 90,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Amadou Koné",
+    "team": "Reims",
+    "gross/w": "€ 1,538",
+    "gross/y": "€ 80,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Ylies Aradj",
+    "team": "Toulouse",
+    "gross/w": "€ 1,538",
+    "gross/y": "€ 80,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Luck Zogbé",
+    "team": "Brest",
+    "gross/w": "€ 1,538",
+    "gross/y": "€ 80,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Jérémy Jacquet",
+    "team": "Clermont",
+    "gross/w": "€ 1,346",
+    "gross/y": "€ 70,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Yadaly Diaby",
+    "team": "Clermont",
+    "gross/w": "€ 0",
+    "gross/y": "€ 0",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Edouard Michut",
+    "team": "PSG",
+    "gross/w": "€ 0",
+    "gross/y": "€ 0",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Ibrahim Diakité",
+    "team": "Reims",
+    "gross/w": "€ 0",
+    "gross/y": "€ 0",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Adrian Grbic",
+    "team": "Lorient",
+    "gross/w": "€ 0",
+    "gross/y": "€ 0",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Renato Sanches",
+    "team": "PSG",
+    "gross/w": "€ 0",
+    "gross/y": "€ 0",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  }
+]

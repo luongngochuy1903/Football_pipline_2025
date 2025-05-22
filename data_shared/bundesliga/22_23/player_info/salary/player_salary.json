@@ -1,0 +1,5141 @@
+[
+  {
+    "player_name": "Sadio Mané",
+    "team": "Bayern Munich",
+    "gross/w": "€ 423,077",
+    "gross/y": "€ 22,000,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Manuel Neuer",
+    "team": "Bayern Munich",
+    "gross/w": "€ 403,846",
+    "gross/y": "€ 21,000,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Thomas Müller",
+    "team": "Bayern Munich",
+    "gross/w": "€ 394,231",
+    "gross/y": "€ 20,500,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Joshua Kimmich",
+    "team": "Bayern Munich",
+    "gross/w": "€ 375,000",
+    "gross/y": "€ 19,500,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Serge Gnabry",
+    "team": "Bayern Munich",
+    "gross/w": "€ 362,885",
+    "gross/y": "€ 18,870,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Kingsley Coman",
+    "team": "Bayern Munich",
+    "gross/w": "€ 326,923",
+    "gross/y": "€ 17,000,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Matthijs de Ligt",
+    "team": "Bayern Munich",
+    "gross/w": "€ 307,692",
+    "gross/y": "€ 16,000,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "João Cancelo",
+    "team": "Bayern Munich",
+    "gross/w": "€ 293,846",
+    "gross/y": "€ 15,280,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Leroy Sané",
+    "team": "Bayern Munich",
+    "gross/w": "€ 288,462",
+    "gross/y": "€ 15,000,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Lucas Hernández",
+    "team": "Bayern Munich",
+    "gross/w": "€ 288,462",
+    "gross/y": "€ 15,000,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Leon Goretzka",
+    "team": "Bayern Munich",
+    "gross/w": "€ 250,000",
+    "gross/y": "€ 13,000,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Alphonso Davies",
+    "team": "Bayern Munich",
+    "gross/w": "€ 216,346",
+    "gross/y": "€ 11,250,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Sébastien Haller",
+    "team": "Borussia Dortmund",
+    "gross/w": "€ 211,538",
+    "gross/y": "€ 11,000,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Christopher Nkunku",
+    "team": "Leipzig",
+    "gross/w": "€ 192,308",
+    "gross/y": "€ 10,000,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Dayot Upamecano",
+    "team": "Bayern Munich",
+    "gross/w": "€ 192,308",
+    "gross/y": "€ 10,000,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Niklas Süle",
+    "team": "Borussia Dortmund",
+    "gross/w": "€ 192,308",
+    "gross/y": "€ 10,000,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Timo Werner",
+    "team": "Leipzig",
+    "gross/w": "€ 192,308",
+    "gross/y": "€ 10,000,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Dani Olmo",
+    "team": "Leipzig",
+    "gross/w": "€ 181,346",
+    "gross/y": "€ 9,430,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Ryan Gravenberch",
+    "team": "Bayern Munich",
+    "gross/w": "€ 176,923",
+    "gross/y": "€ 9,200,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Emre Can",
+    "team": "Borussia Dortmund",
+    "gross/w": "€ 163,462",
+    "gross/y": "€ 8,500,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Noussair Mazraoui",
+    "team": "Bayern Munich",
+    "gross/w": "€ 153,846",
+    "gross/y": "€ 8,000,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "David Raum",
+    "team": "Leipzig",
+    "gross/w": "€ 145,192",
+    "gross/y": "€ 7,550,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Matthias Ginter",
+    "team": "Freiburg",
+    "gross/w": "€ 145,192",
+    "gross/y": "€ 7,550,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Thomas Meunier",
+    "team": "Borussia Dortmund",
+    "gross/w": "€ 144,231",
+    "gross/y": "€ 7,500,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Julian Brandt",
+    "team": "Borussia Dortmund",
+    "gross/w": "€ 134,615",
+    "gross/y": "€ 7,000,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Josko Gvardiol",
+    "team": "Leipzig",
+    "gross/w": "€ 134,615",
+    "gross/y": "€ 7,000,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Mats Hummels",
+    "team": "Borussia Dortmund",
+    "gross/w": "€ 134,615",
+    "gross/y": "€ 7,000,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Marco Reus",
+    "team": "Borussia Dortmund",
+    "gross/w": "€ 134,615",
+    "gross/y": "€ 7,000,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Eric Maxim Choupo-Moting",
+    "team": "Bayern Munich",
+    "gross/w": "€ 134,615",
+    "gross/y": "€ 7,000,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Emil Forsberg",
+    "team": "Leipzig",
+    "gross/w": "€ 126,923",
+    "gross/y": "€ 6,600,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Donyell Malen",
+    "team": "Borussia Dortmund",
+    "gross/w": "€ 115,385",
+    "gross/y": "€ 6,000,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Patrik Schick",
+    "team": "Bayer Leverkusen",
+    "gross/w": "€ 115,385",
+    "gross/y": "€ 6,000,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Anthony Modeste",
+    "team": "Borussia Dortmund",
+    "gross/w": "€ 115,385",
+    "gross/y": "€ 6,000,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Péter Gulácsi",
+    "team": "Leipzig",
+    "gross/w": "€ 107,692",
+    "gross/y": "€ 5,600,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Raphaël Guerreiro",
+    "team": "Borussia Dortmund",
+    "gross/w": "€ 105,769",
+    "gross/y": "€ 5,500,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Maximilian Arnold",
+    "team": "Wolfsburg",
+    "gross/w": "€ 105,769",
+    "gross/y": "€ 5,500,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Abdou Diallo",
+    "team": "Leipzig",
+    "gross/w": "€ 103,846",
+    "gross/y": "€ 5,400,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Lukas Klostermann",
+    "team": "Leipzig",
+    "gross/w": "€ 100,000",
+    "gross/y": "€ 5,200,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Jamal Musiala",
+    "team": "Bayern Munich",
+    "gross/w": "€ 96,154",
+    "gross/y": "€ 5,000,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Nico Schulz",
+    "team": "Borussia Dortmund",
+    "gross/w": "€ 96,154",
+    "gross/y": "€ 5,000,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Yann Sommer",
+    "team": "Bayern Munich",
+    "gross/w": "€ 96,154",
+    "gross/y": "€ 5,000,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Benjamin Pavard",
+    "team": "Bayern Munich",
+    "gross/w": "€ 96,154",
+    "gross/y": "€ 5,000,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Thorgan Hazard",
+    "team": "Borussia Dortmund",
+    "gross/w": "€ 96,154",
+    "gross/y": "€ 5,000,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "André Silva",
+    "team": "Leipzig",
+    "gross/w": "€ 96,154",
+    "gross/y": "€ 5,000,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Karim Adeyemi",
+    "team": "Borussia Dortmund",
+    "gross/w": "€ 96,154",
+    "gross/y": "€ 5,000,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Karim Bellarabi",
+    "team": "Bayer Leverkusen",
+    "gross/w": "€ 94,231",
+    "gross/y": "€ 4,900,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Alassane Plea",
+    "team": "Monchengladbach",
+    "gross/w": "€ 90,769",
+    "gross/y": "€ 4,720,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Nico Schlotterbeck",
+    "team": "Borussia Dortmund",
+    "gross/w": "€ 90,769",
+    "gross/y": "€ 4,720,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Florian Wirtz",
+    "team": "Bayer Leverkusen",
+    "gross/w": "€ 86,538",
+    "gross/y": "€ 4,500,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Willi Orbán",
+    "team": "Leipzig",
+    "gross/w": "€ 80,769",
+    "gross/y": "€ 4,200,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Dominik Szoboszlai",
+    "team": "Leipzig",
+    "gross/w": "€ 80,769",
+    "gross/y": "€ 4,200,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Jonas Hofmann",
+    "team": "Monchengladbach",
+    "gross/w": "€ 77,308",
+    "gross/y": "€ 4,020,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Mathys Tel",
+    "team": "Bayern Munich",
+    "gross/w": "€ 76,923",
+    "gross/y": "€ 4,000,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Mahmoud Dahoud",
+    "team": "Borussia Dortmund",
+    "gross/w": "€ 76,923",
+    "gross/y": "€ 4,000,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Koen Casteels",
+    "team": "Wolfsburg",
+    "gross/w": "€ 76,923",
+    "gross/y": "€ 4,000,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Callum Hudson-Odoi",
+    "team": "Bayer Leverkusen",
+    "gross/w": "€ 76,923",
+    "gross/y": "€ 4,000,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Yann Sommer",
+    "team": "Monchengladbach",
+    "gross/w": "€ 76,923",
+    "gross/y": "€ 4,000,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Andrej Kramaric",
+    "team": "Hoffenheim",
+    "gross/w": "€ 76,923",
+    "gross/y": "€ 4,000,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Xaver Schlager",
+    "team": "Leipzig",
+    "gross/w": "€ 76,923",
+    "gross/y": "€ 4,000,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Yussuf Poulsen",
+    "team": "Leipzig",
+    "gross/w": "€ 76,923",
+    "gross/y": "€ 4,000,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Sebastian Rudy",
+    "team": "Hoffenheim",
+    "gross/w": "€ 73,846",
+    "gross/y": "€ 3,840,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Simon Terodde",
+    "team": "Schalke 04",
+    "gross/w": "€ 73,654",
+    "gross/y": "€ 3,830,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Benjamin Henrichs",
+    "team": "Leipzig",
+    "gross/w": "€ 73,077",
+    "gross/y": "€ 3,800,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Max Kruse",
+    "team": "Wolfsburg",
+    "gross/w": "€ 73,077",
+    "gross/y": "€ 3,800,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Salih Özcan",
+    "team": "Borussia Dortmund",
+    "gross/w": "€ 72,692",
+    "gross/y": "€ 3,780,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Charles Aránguiz",
+    "team": "Bayer Leverkusen",
+    "gross/w": "€ 72,692",
+    "gross/y": "€ 3,780,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Maxence Lacroix",
+    "team": "Wolfsburg",
+    "gross/w": "€ 69,615",
+    "gross/y": "€ 3,620,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Yannick Gerhardt",
+    "team": "Wolfsburg",
+    "gross/w": "€ 69,231",
+    "gross/y": "€ 3,600,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Timo Horn",
+    "team": "Koln",
+    "gross/w": "€ 67,308",
+    "gross/y": "€ 3,500,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Angeliño",
+    "team": "Hoffenheim",
+    "gross/w": "€ 67,308",
+    "gross/y": "€ 3,500,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Munas Dabbur",
+    "team": "Hoffenheim",
+    "gross/w": "€ 67,308",
+    "gross/y": "€ 3,500,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Jonas Hector",
+    "team": "Koln",
+    "gross/w": "€ 67,308",
+    "gross/y": "€ 3,500,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Amadou Haidara",
+    "team": "Leipzig",
+    "gross/w": "€ 67,308",
+    "gross/y": "€ 3,500,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Kevin Trapp",
+    "team": "Eintracht Frankfurt",
+    "gross/w": "€ 67,308",
+    "gross/y": "€ 3,500,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Christoph Kramer",
+    "team": "Monchengladbach",
+    "gross/w": "€ 67,308",
+    "gross/y": "€ 3,500,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Mario Götze",
+    "team": "Eintracht Frankfurt",
+    "gross/w": "€ 67,308",
+    "gross/y": "€ 3,500,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Thomas Delaney",
+    "team": "Hoffenheim",
+    "gross/w": "€ 66,731",
+    "gross/y": "€ 3,470,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Julian Weigl",
+    "team": "Monchengladbach",
+    "gross/w": "€ 65,385",
+    "gross/y": "€ 3,400,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Luca Waldschmidt",
+    "team": "Wolfsburg",
+    "gross/w": "€ 65,385",
+    "gross/y": "€ 3,400,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Marius Wolf",
+    "team": "Borussia Dortmund",
+    "gross/w": "€ 63,462",
+    "gross/y": "€ 3,300,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Josuha Guilavogui",
+    "team": "Wolfsburg",
+    "gross/w": "€ 63,462",
+    "gross/y": "€ 3,300,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Jude Bellingham",
+    "team": "Borussia Dortmund",
+    "gross/w": "€ 62,308",
+    "gross/y": "€ 3,240,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Kerem Demirbay",
+    "team": "Bayer Leverkusen",
+    "gross/w": "€ 61,538",
+    "gross/y": "€ 3,200,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Sardar Azmoun",
+    "team": "Bayer Leverkusen",
+    "gross/w": "€ 61,538",
+    "gross/y": "€ 3,200,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Marcus Thuram",
+    "team": "Monchengladbach",
+    "gross/w": "€ 61,538",
+    "gross/y": "€ 3,200,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Ozan Kabak",
+    "team": "Hoffenheim",
+    "gross/w": "€ 60,577",
+    "gross/y": "€ 3,150,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Suat Serdar",
+    "team": "Hertha Berlin",
+    "gross/w": "€ 60,192",
+    "gross/y": "€ 3,130,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Jonas Omlin",
+    "team": "Monchengladbach",
+    "gross/w": "€ 57,692",
+    "gross/y": "€ 3,000,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Oliver Baumann",
+    "team": "Hoffenheim",
+    "gross/w": "€ 57,692",
+    "gross/y": "€ 3,000,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Kasper Dolberg",
+    "team": "Hoffenheim",
+    "gross/w": "€ 57,692",
+    "gross/y": "€ 3,000,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Konrad Laimer",
+    "team": "Leipzig",
+    "gross/w": "€ 57,692",
+    "gross/y": "€ 3,000,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Marcel Halstenberg",
+    "team": "Leipzig",
+    "gross/w": "€ 57,692",
+    "gross/y": "€ 3,000,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Youssoufa Moukoko",
+    "team": "Borussia Dortmund",
+    "gross/w": "€ 57,692",
+    "gross/y": "€ 3,000,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Jérôme Roussillon",
+    "team": "Wolfsburg",
+    "gross/w": "€ 55,385",
+    "gross/y": "€ 2,880,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Jonathan Tah",
+    "team": "Bayer Leverkusen",
+    "gross/w": "€ 54,423",
+    "gross/y": "€ 2,830,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Mattias Svanberg",
+    "team": "Wolfsburg",
+    "gross/w": "€ 54,423",
+    "gross/y": "€ 2,830,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Mergim Berisha",
+    "team": "Augsburg",
+    "gross/w": "€ 54,423",
+    "gross/y": "€ 2,830,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Dan-Axel Zagadou",
+    "team": "Stuttgart",
+    "gross/w": "€ 54,423",
+    "gross/y": "€ 2,830,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Nadiem Amiri",
+    "team": "Bayer Leverkusen",
+    "gross/w": "€ 54,423",
+    "gross/y": "€ 2,830,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Sebastiaan Bornauw",
+    "team": "Wolfsburg",
+    "gross/w": "€ 54,231",
+    "gross/y": "€ 2,820,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Lars Stindl",
+    "team": "Monchengladbach",
+    "gross/w": "€ 53,846",
+    "gross/y": "€ 2,800,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Ralf Fährmann",
+    "team": "Schalke 04",
+    "gross/w": "€ 53,846",
+    "gross/y": "€ 2,800,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Danny Latza",
+    "team": "Schalke 04",
+    "gross/w": "€ 52,885",
+    "gross/y": "€ 2,750,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Ihlas Bebou",
+    "team": "Hoffenheim",
+    "gross/w": "€ 51,923",
+    "gross/y": "€ 2,700,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Lucas Tousart",
+    "team": "Hertha Berlin",
+    "gross/w": "€ 50,000",
+    "gross/y": "€ 2,600,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Lukas Hradecky",
+    "team": "Bayer Leverkusen",
+    "gross/w": "€ 50,000",
+    "gross/y": "€ 2,600,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Leonardo Bittencourt",
+    "team": "Werder Bremen",
+    "gross/w": "€ 48,077",
+    "gross/y": "€ 2,500,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Dodi Lukébakio",
+    "team": "Hertha Berlin",
+    "gross/w": "€ 48,077",
+    "gross/y": "€ 2,500,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Niclas Füllkrug",
+    "team": "Werder Bremen",
+    "gross/w": "€ 48,077",
+    "gross/y": "€ 2,500,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Jiri Pavlenka",
+    "team": "Werder Bremen",
+    "gross/w": "€ 48,077",
+    "gross/y": "€ 2,500,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Florian Neuhaus",
+    "team": "Monchengladbach",
+    "gross/w": "€ 48,077",
+    "gross/y": "€ 2,500,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Sebastian Rode",
+    "team": "Eintracht Frankfurt",
+    "gross/w": "€ 48,077",
+    "gross/y": "€ 2,500,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Santos Borré",
+    "team": "Eintracht Frankfurt",
+    "gross/w": "€ 48,077",
+    "gross/y": "€ 2,500,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Nico Elvedi",
+    "team": "Monchengladbach",
+    "gross/w": "€ 48,077",
+    "gross/y": "€ 2,500,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Lucas Alario",
+    "team": "Eintracht Frankfurt",
+    "gross/w": "€ 48,077",
+    "gross/y": "€ 2,500,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Kevin Kampl",
+    "team": "Leipzig",
+    "gross/w": "€ 48,077",
+    "gross/y": "€ 2,500,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Sebastian Andersson",
+    "team": "Koln",
+    "gross/w": "€ 48,077",
+    "gross/y": "€ 2,500,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Giovanni Reyna",
+    "team": "Borussia Dortmund",
+    "gross/w": "€ 48,077",
+    "gross/y": "€ 2,500,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Ellyes Skhiri",
+    "team": "Koln",
+    "gross/w": "€ 48,077",
+    "gross/y": "€ 2,500,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Luca Pellegrini",
+    "team": "Eintracht Frankfurt",
+    "gross/w": "€ 47,115",
+    "gross/y": "€ 2,450,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Vladimir Darida",
+    "team": "Hertha Berlin",
+    "gross/w": "€ 46,154",
+    "gross/y": "€ 2,400,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Kevin Vogt",
+    "team": "Hoffenheim",
+    "gross/w": "€ 46,154",
+    "gross/y": "€ 2,400,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Luca Netz",
+    "team": "Monchengladbach",
+    "gross/w": "€ 46,154",
+    "gross/y": "€ 2,400,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Stefan Lainer",
+    "team": "Monchengladbach",
+    "gross/w": "€ 44,231",
+    "gross/y": "€ 2,300,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Moussa Diaby",
+    "team": "Bayer Leverkusen",
+    "gross/w": "€ 43,462",
+    "gross/y": "€ 2,260,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Edmond Tapsoba",
+    "team": "Bayer Leverkusen",
+    "gross/w": "€ 43,462",
+    "gross/y": "€ 2,260,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Serhou Guirassy",
+    "team": "Stuttgart",
+    "gross/w": "€ 41,538",
+    "gross/y": "€ 2,160,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Ludovic Ajorque",
+    "team": "Mainz",
+    "gross/w": "€ 41,538",
+    "gross/y": "€ 2,160,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Dennis Geiger",
+    "team": "Hoffenheim",
+    "gross/w": "€ 41,538",
+    "gross/y": "€ 2,160,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Daniel Caligiuri",
+    "team": "Augsburg",
+    "gross/w": "€ 40,385",
+    "gross/y": "€ 2,100,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Maximilian Philipp",
+    "team": "Wolfsburg",
+    "gross/w": "€ 40,385",
+    "gross/y": "€ 2,100,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Piero Hincapié",
+    "team": "Bayer Leverkusen",
+    "gross/w": "€ 40,000",
+    "gross/y": "€ 2,080,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Rune Jarstein",
+    "team": "Hertha Berlin",
+    "gross/w": "€ 40,000",
+    "gross/y": "€ 2,080,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Djibril Sow",
+    "team": "Eintracht Frankfurt",
+    "gross/w": "€ 39,808",
+    "gross/y": "€ 2,070,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Jonas Wind",
+    "team": "Wolfsburg",
+    "gross/w": "€ 39,231",
+    "gross/y": "€ 2,040,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Gregor Kobel",
+    "team": "Borussia Dortmund",
+    "gross/w": "€ 39,231",
+    "gross/y": "€ 2,040,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Marius Bülter",
+    "team": "Schalke 04",
+    "gross/w": "€ 39,231",
+    "gross/y": "€ 2,040,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Julian Ryerson",
+    "team": "Borussia Dortmund",
+    "gross/w": "€ 39,231",
+    "gross/y": "€ 2,040,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Mohamed Simakan",
+    "team": "Leipzig",
+    "gross/w": "€ 38,462",
+    "gross/y": "€ 2,000,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Patrick Wimmer",
+    "team": "Wolfsburg",
+    "gross/w": "€ 38,462",
+    "gross/y": "€ 2,000,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Lukas Nmecha",
+    "team": "Wolfsburg",
+    "gross/w": "€ 38,462",
+    "gross/y": "€ 2,000,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Daley Sinkgraven",
+    "team": "Bayer Leverkusen",
+    "gross/w": "€ 38,462",
+    "gross/y": "€ 2,000,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Daley Blind",
+    "team": "Bayern Munich",
+    "gross/w": "€ 38,462",
+    "gross/y": "€ 2,000,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Paul Wanner",
+    "team": "Bayern Munich",
+    "gross/w": "€ 38,462",
+    "gross/y": "€ 2,000,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Sven Ulreich",
+    "team": "Bayern Munich",
+    "gross/w": "€ 38,462",
+    "gross/y": "€ 2,000,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Maximilian Philipp",
+    "team": "Werder Bremen",
+    "gross/w": "€ 38,462",
+    "gross/y": "€ 2,000,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Daichi Kamada",
+    "team": "Eintracht Frankfurt",
+    "gross/w": "€ 38,462",
+    "gross/y": "€ 2,000,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Ramy Bensebaini",
+    "team": "Monchengladbach",
+    "gross/w": "€ 38,462",
+    "gross/y": "€ 2,000,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Marvin Friedrich",
+    "team": "Monchengladbach",
+    "gross/w": "€ 38,462",
+    "gross/y": "€ 2,000,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Aarón Martín",
+    "team": "Mainz",
+    "gross/w": "€ 38,462",
+    "gross/y": "€ 2,000,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Pavel Kaderabek",
+    "team": "Hoffenheim",
+    "gross/w": "€ 38,462",
+    "gross/y": "€ 2,000,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Philipp Max",
+    "team": "Eintracht Frankfurt",
+    "gross/w": "€ 38,269",
+    "gross/y": "€ 1,990,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Angelo Fulgini",
+    "team": "Mainz",
+    "gross/w": "€ 38,077",
+    "gross/y": "€ 1,980,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Mitchell Weiser",
+    "team": "Werder Bremen",
+    "gross/w": "€ 38,077",
+    "gross/y": "€ 1,980,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Edimilson Fernandes",
+    "team": "Mainz",
+    "gross/w": "€ 38,077",
+    "gross/y": "€ 1,980,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Marcin Kaminski",
+    "team": "Schalke 04",
+    "gross/w": "€ 37,885",
+    "gross/y": "€ 1,970,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Hannes Wolf",
+    "team": "Monchengladbach",
+    "gross/w": "€ 36,923",
+    "gross/y": "€ 1,920,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Kouadio Koné",
+    "team": "Monchengladbach",
+    "gross/w": "€ 36,923",
+    "gross/y": "€ 1,920,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Bouna Sarr",
+    "team": "Bayern Munich",
+    "gross/w": "€ 36,538",
+    "gross/y": "€ 1,900,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Dominick Drexler",
+    "team": "Schalke 04",
+    "gross/w": "€ 36,346",
+    "gross/y": "€ 1,890,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Josip Brekalo",
+    "team": "Wolfsburg",
+    "gross/w": "€ 36,346",
+    "gross/y": "€ 1,890,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Jae-sung Lee",
+    "team": "Mainz",
+    "gross/w": "€ 36,346",
+    "gross/y": "€ 1,890,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Josip Stanisic",
+    "team": "Bayern Munich",
+    "gross/w": "€ 36,346",
+    "gross/y": "€ 1,890,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Silvan Widmer",
+    "team": "Mainz",
+    "gross/w": "€ 36,346",
+    "gross/y": "€ 1,890,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Ivan Ordets",
+    "team": "Bochum",
+    "gross/w": "€ 36,346",
+    "gross/y": "€ 1,890,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Ko Itakura",
+    "team": "Monchengladbach",
+    "gross/w": "€ 36,346",
+    "gross/y": "€ 1,890,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Adam Hlozek",
+    "team": "Bayer Leverkusen",
+    "gross/w": "€ 36,154",
+    "gross/y": "€ 1,880,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Nicolai Rapp",
+    "team": "Werder Bremen",
+    "gross/w": "€ 35,192",
+    "gross/y": "€ 1,830,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Mark Uth",
+    "team": "Koln",
+    "gross/w": "€ 34,615",
+    "gross/y": "€ 1,800,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Stefan Bell",
+    "team": "Mainz",
+    "gross/w": "€ 34,615",
+    "gross/y": "€ 1,800,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Marvin Ducksch",
+    "team": "Werder Bremen",
+    "gross/w": "€ 34,615",
+    "gross/y": "€ 1,800,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Jacob Bruun Larsen",
+    "team": "Hoffenheim",
+    "gross/w": "€ 34,615",
+    "gross/y": "€ 1,800,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Dominik Kohr",
+    "team": "Mainz",
+    "gross/w": "€ 34,615",
+    "gross/y": "€ 1,800,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Almamy Touré",
+    "team": "Eintracht Frankfurt",
+    "gross/w": "€ 34,615",
+    "gross/y": "€ 1,800,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Jordan Siebatcheu",
+    "team": "Union Berlin",
+    "gross/w": "€ 34,615",
+    "gross/y": "€ 1,800,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Robert Skov",
+    "team": "Hoffenheim",
+    "gross/w": "€ 34,615",
+    "gross/y": "€ 1,800,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Ridle Baku",
+    "team": "Wolfsburg",
+    "gross/w": "€ 34,615",
+    "gross/y": "€ 1,800,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Alex Král",
+    "team": "Schalke 04",
+    "gross/w": "€ 34,423",
+    "gross/y": "€ 1,790,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Ermin Bicakcic",
+    "team": "Hoffenheim",
+    "gross/w": "€ 32,692",
+    "gross/y": "€ 1,700,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Patrick Herrmann",
+    "team": "Monchengladbach",
+    "gross/w": "€ 32,692",
+    "gross/y": "€ 1,700,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Karim Onisiwo",
+    "team": "Mainz",
+    "gross/w": "€ 32,692",
+    "gross/y": "€ 1,700,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Exequiel Palacios",
+    "team": "Bayer Leverkusen",
+    "gross/w": "€ 32,692",
+    "gross/y": "€ 1,700,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Maya Yoshida",
+    "team": "Schalke 04",
+    "gross/w": "€ 32,692",
+    "gross/y": "€ 1,700,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Leandro Barreiro Martins",
+    "team": "Mainz",
+    "gross/w": "€ 32,308",
+    "gross/y": "€ 1,680,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Anthony Caci",
+    "team": "Mainz",
+    "gross/w": "€ 32,308",
+    "gross/y": "€ 1,680,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Odilon Kossounou",
+    "team": "Bayer Leverkusen",
+    "gross/w": "€ 31,346",
+    "gross/y": "€ 1,630,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Jesper Lindström",
+    "team": "Eintracht Frankfurt",
+    "gross/w": "€ 31,154",
+    "gross/y": "€ 1,620,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Chidera Ejuke",
+    "team": "Hertha Berlin",
+    "gross/w": "€ 31,154",
+    "gross/y": "€ 1,620,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Mitchel Bakker",
+    "team": "Bayer Leverkusen",
+    "gross/w": "€ 30,962",
+    "gross/y": "€ 1,610,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Carlos Gruezo",
+    "team": "Augsburg",
+    "gross/w": "€ 30,769",
+    "gross/y": "€ 1,600,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Robert Andrich",
+    "team": "Bayer Leverkusen",
+    "gross/w": "€ 30,769",
+    "gross/y": "€ 1,600,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Jordan Larsson",
+    "team": "Schalke 04",
+    "gross/w": "€ 30,769",
+    "gross/y": "€ 1,600,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Josip Juranovic",
+    "team": "Union Berlin",
+    "gross/w": "€ 30,769",
+    "gross/y": "€ 1,600,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "André Hahn",
+    "team": "Augsburg",
+    "gross/w": "€ 30,769",
+    "gross/y": "€ 1,600,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Florent Mollet",
+    "team": "Schalke 04",
+    "gross/w": "€ 30,000",
+    "gross/y": "€ 1,560,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Alexander Hack",
+    "team": "Mainz",
+    "gross/w": "€ 28,846",
+    "gross/y": "€ 1,500,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Randal Kolo Muani",
+    "team": "Eintracht Frankfurt",
+    "gross/w": "€ 28,846",
+    "gross/y": "€ 1,500,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Tuta",
+    "team": "Eintracht Frankfurt",
+    "gross/w": "€ 28,846",
+    "gross/y": "€ 1,500,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Robin Knoche",
+    "team": "Union Berlin",
+    "gross/w": "€ 28,846",
+    "gross/y": "€ 1,500,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Tony Jantschke",
+    "team": "Monchengladbach",
+    "gross/w": "€ 28,846",
+    "gross/y": "€ 1,500,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Robin Zentner",
+    "team": "Mainz",
+    "gross/w": "€ 28,846",
+    "gross/y": "€ 1,500,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Jonathan Burkardt",
+    "team": "Mainz",
+    "gross/w": "€ 28,846",
+    "gross/y": "€ 1,500,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Davie Selke",
+    "team": "Hertha Berlin",
+    "gross/w": "€ 28,846",
+    "gross/y": "€ 1,500,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Genki Haraguchi",
+    "team": "Stuttgart",
+    "gross/w": "€ 28,846",
+    "gross/y": "€ 1,500,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Marvin Plattenhardt",
+    "team": "Hertha Berlin",
+    "gross/w": "€ 28,846",
+    "gross/y": "€ 1,500,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Christoph Baumgartner",
+    "team": "Hoffenheim",
+    "gross/w": "€ 28,846",
+    "gross/y": "€ 1,500,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Chris Führich",
+    "team": "Stuttgart",
+    "gross/w": "€ 28,846",
+    "gross/y": "€ 1,500,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "John Anthony Brooks",
+    "team": "Hoffenheim",
+    "gross/w": "€ 28,846",
+    "gross/y": "€ 1,500,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Kevin Akpoguma",
+    "team": "Hoffenheim",
+    "gross/w": "€ 28,846",
+    "gross/y": "€ 1,500,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Jeffrey Gouweleeuw",
+    "team": "Augsburg",
+    "gross/w": "€ 28,846",
+    "gross/y": "€ 1,500,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Florian Niederlechner",
+    "team": "Augsburg",
+    "gross/w": "€ 28,846",
+    "gross/y": "€ 1,500,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Davie Selke",
+    "team": "Koln",
+    "gross/w": "€ 28,846",
+    "gross/y": "€ 1,500,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Jérôme Roussillon",
+    "team": "Union Berlin",
+    "gross/w": "€ 28,846",
+    "gross/y": "€ 1,500,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Niklas Stark",
+    "team": "Werder Bremen",
+    "gross/w": "€ 27,692",
+    "gross/y": "€ 1,440,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Makoto Hasebe",
+    "team": "Eintracht Frankfurt",
+    "gross/w": "€ 26,923",
+    "gross/y": "€ 1,400,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Florian Kainz",
+    "team": "Koln",
+    "gross/w": "€ 26,923",
+    "gross/y": "€ 1,400,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Éder Balanta",
+    "team": "Schalke 04",
+    "gross/w": "€ 26,923",
+    "gross/y": "€ 1,400,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Micky van de Ven",
+    "team": "Wolfsburg",
+    "gross/w": "€ 26,538",
+    "gross/y": "€ 1,380,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Sheraldo Becker",
+    "team": "Union Berlin",
+    "gross/w": "€ 26,538",
+    "gross/y": "€ 1,380,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Elvis Rexhbecaj",
+    "team": "Augsburg",
+    "gross/w": "€ 26,538",
+    "gross/y": "€ 1,380,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Bartol Franjic",
+    "team": "Wolfsburg",
+    "gross/w": "€ 25,962",
+    "gross/y": "€ 1,350,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Florian Niederlechner",
+    "team": "Hertha Berlin",
+    "gross/w": "€ 25,385",
+    "gross/y": "€ 1,320,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Jeremie Frimpong",
+    "team": "Bayer Leverkusen",
+    "gross/w": "€ 25,385",
+    "gross/y": "€ 1,320,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Stevan Jovetic",
+    "team": "Hertha Berlin",
+    "gross/w": "€ 25,192",
+    "gross/y": "€ 1,310,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Paulinho",
+    "team": "Bayer Leverkusen",
+    "gross/w": "€ 25,000",
+    "gross/y": "€ 1,300,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Julian Baumgartlinger",
+    "team": "Augsburg",
+    "gross/w": "€ 24,038",
+    "gross/y": "€ 1,250,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Andrey Lunev",
+    "team": "Bayer Leverkusen",
+    "gross/w": "€ 23,846",
+    "gross/y": "€ 1,240,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Lys Mousset",
+    "team": "Bochum",
+    "gross/w": "€ 23,654",
+    "gross/y": "€ 1,230,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Marcus Ingvartsen",
+    "team": "Mainz",
+    "gross/w": "€ 23,077",
+    "gross/y": "€ 1,200,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Kingsley Schindler",
+    "team": "Koln",
+    "gross/w": "€ 23,077",
+    "gross/y": "€ 1,200,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Milos Veljkovic",
+    "team": "Werder Bremen",
+    "gross/w": "€ 23,077",
+    "gross/y": "€ 1,200,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "András Schäfer",
+    "team": "Union Berlin",
+    "gross/w": "€ 23,077",
+    "gross/y": "€ 1,200,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Evan N'Dicka",
+    "team": "Eintracht Frankfurt",
+    "gross/w": "€ 23,077",
+    "gross/y": "€ 1,200,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Timothy Chandler",
+    "team": "Eintracht Frankfurt",
+    "gross/w": "€ 23,077",
+    "gross/y": "€ 1,200,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Joe Scally",
+    "team": "Monchengladbach",
+    "gross/w": "€ 23,077",
+    "gross/y": "€ 1,200,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Stanley Nsoki",
+    "team": "Hoffenheim",
+    "gross/w": "€ 23,077",
+    "gross/y": "€ 1,200,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Jonjoe Kenny",
+    "team": "Hertha Berlin",
+    "gross/w": "€ 23,077",
+    "gross/y": "€ 1,200,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Omar Marmoush",
+    "team": "Wolfsburg",
+    "gross/w": "€ 23,077",
+    "gross/y": "€ 1,200,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Kevin-Prince Boateng",
+    "team": "Hertha Berlin",
+    "gross/w": "€ 23,077",
+    "gross/y": "€ 1,200,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Andreas Hanche-Olsen",
+    "team": "Mainz",
+    "gross/w": "€ 23,077",
+    "gross/y": "€ 1,200,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Marvin Schwäbe",
+    "team": "Koln",
+    "gross/w": "€ 23,077",
+    "gross/y": "€ 1,200,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Frederik Rönnow",
+    "team": "Union Berlin",
+    "gross/w": "€ 23,077",
+    "gross/y": "€ 1,200,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Pavao Pervan",
+    "team": "Wolfsburg",
+    "gross/w": "€ 23,077",
+    "gross/y": "€ 1,200,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Hiroki Ito",
+    "team": "Stuttgart",
+    "gross/w": "€ 22,115",
+    "gross/y": "€ 1,150,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Anthony Jung",
+    "team": "Werder Bremen",
+    "gross/w": "€ 22,115",
+    "gross/y": "€ 1,150,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Nicolas Cozza",
+    "team": "Wolfsburg",
+    "gross/w": "€ 22,115",
+    "gross/y": "€ 1,150,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Paulo Otávio",
+    "team": "Wolfsburg",
+    "gross/w": "€ 22,115",
+    "gross/y": "€ 1,150,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Jakub Kaminski",
+    "team": "Wolfsburg",
+    "gross/w": "€ 22,115",
+    "gross/y": "€ 1,150,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Silas Katompa Mvumpa",
+    "team": "Stuttgart",
+    "gross/w": "€ 21,923",
+    "gross/y": "€ 1,140,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Michael Gregoritsch",
+    "team": "Freiburg",
+    "gross/w": "€ 21,923",
+    "gross/y": "€ 1,140,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Amine Adli",
+    "team": "Bayer Leverkusen",
+    "gross/w": "€ 21,923",
+    "gross/y": "€ 1,140,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Ermedin Demirovic",
+    "team": "Augsburg",
+    "gross/w": "€ 21,923",
+    "gross/y": "€ 1,140,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Agustín Rogel",
+    "team": "Hertha Berlin",
+    "gross/w": "€ 21,923",
+    "gross/y": "€ 1,140,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Sebastian Polter",
+    "team": "Schalke 04",
+    "gross/w": "€ 21,923",
+    "gross/y": "€ 1,140,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Myziane Maolida",
+    "team": "Hertha Berlin",
+    "gross/w": "€ 21,923",
+    "gross/y": "€ 1,140,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Ondrej Duda",
+    "team": "Koln",
+    "gross/w": "€ 21,154",
+    "gross/y": "€ 1,100,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Angelo Stiller",
+    "team": "Hoffenheim",
+    "gross/w": "€ 20,769",
+    "gross/y": "€ 1,080,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Janik Haberer",
+    "team": "Union Berlin",
+    "gross/w": "€ 20,769",
+    "gross/y": "€ 1,080,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Marc Oliver Kempf",
+    "team": "Hertha Berlin",
+    "gross/w": "€ 20,769",
+    "gross/y": "€ 1,080,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Ivan Sunjic",
+    "team": "Hertha Berlin",
+    "gross/w": "€ 20,192",
+    "gross/y": "€ 1,050,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Morten Thorsby",
+    "team": "Union Berlin",
+    "gross/w": "€ 20,000",
+    "gross/y": "€ 1,040,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Timo Baumgartl",
+    "team": "Union Berlin",
+    "gross/w": "€ 20,000",
+    "gross/y": "€ 1,040,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Kristijan Jakic",
+    "team": "Eintracht Frankfurt",
+    "gross/w": "€ 20,000",
+    "gross/y": "€ 1,040,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Soumaïla Coulibaly",
+    "team": "Borussia Dortmund",
+    "gross/w": "€ 20,000",
+    "gross/y": "€ 1,040,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Nathan N'Goumou",
+    "team": "Monchengladbach",
+    "gross/w": "€ 20,000",
+    "gross/y": "€ 1,040,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Wilfried Kanga",
+    "team": "Hertha Berlin",
+    "gross/w": "€ 19,615",
+    "gross/y": "€ 1,020,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Cédric Brunner",
+    "team": "Schalke 04",
+    "gross/w": "€ 19,615",
+    "gross/y": "€ 1,020,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Christian Günter",
+    "team": "Freiburg",
+    "gross/w": "€ 19,615",
+    "gross/y": "€ 1,020,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Jamie Leweling",
+    "team": "Union Berlin",
+    "gross/w": "€ 19,615",
+    "gross/y": "€ 1,020,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Oliver Burke",
+    "team": "Werder Bremen",
+    "gross/w": "€ 19,615",
+    "gross/y": "€ 1,020,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Tobias Strobl",
+    "team": "Augsburg",
+    "gross/w": "€ 19,231",
+    "gross/y": "€ 1,000,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Arne Maier",
+    "team": "Augsburg",
+    "gross/w": "€ 19,231",
+    "gross/y": "€ 1,000,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Tomas Koubek",
+    "team": "Augsburg",
+    "gross/w": "€ 19,231",
+    "gross/y": "€ 1,000,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Iago",
+    "team": "Augsburg",
+    "gross/w": "€ 19,231",
+    "gross/y": "€ 1,000,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Maximilian Mittelstädt",
+    "team": "Hertha Berlin",
+    "gross/w": "€ 19,038",
+    "gross/y": "€ 990,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Rodrigo Zalazar",
+    "team": "Schalke 04",
+    "gross/w": "€ 18,846",
+    "gross/y": "€ 980,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Mateu Morey Bauzà",
+    "team": "Borussia Dortmund",
+    "gross/w": "€ 18,846",
+    "gross/y": "€ 980,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Maxim Leitsch",
+    "team": "Mainz",
+    "gross/w": "€ 18,462",
+    "gross/y": "€ 960,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Danny da Costa",
+    "team": "Mainz",
+    "gross/w": "€ 18,462",
+    "gross/y": "€ 960,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Dominique Heintz",
+    "team": "Bochum",
+    "gross/w": "€ 18,462",
+    "gross/y": "€ 960,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Maximilian Eggestein",
+    "team": "Freiburg",
+    "gross/w": "€ 18,462",
+    "gross/y": "€ 960,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Niklas Dorsch",
+    "team": "Augsburg",
+    "gross/w": "€ 18,269",
+    "gross/y": "€ 950,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Timothée Kolodziejczak",
+    "team": "Schalke 04",
+    "gross/w": "€ 18,269",
+    "gross/y": "€ 950,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Vincenzo Grifo",
+    "team": "Freiburg",
+    "gross/w": "€ 18,269",
+    "gross/y": "€ 950,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Tom Krauß",
+    "team": "Schalke 04",
+    "gross/w": "€ 18,077",
+    "gross/y": "€ 940,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Josha Vagnoman",
+    "team": "Stuttgart",
+    "gross/w": "€ 18,077",
+    "gross/y": "€ 940,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Filip Uremovic",
+    "team": "Hertha Berlin",
+    "gross/w": "€ 18,077",
+    "gross/y": "€ 940,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Anton Stach",
+    "team": "Mainz",
+    "gross/w": "€ 17,500",
+    "gross/y": "€ 910,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Nicolas Höfler",
+    "team": "Freiburg",
+    "gross/w": "€ 17,308",
+    "gross/y": "€ 900,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Kevin Paredes",
+    "team": "Wolfsburg",
+    "gross/w": "€ 17,308",
+    "gross/y": "€ 900,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Timothy Fosu-Mensah",
+    "team": "Bayer Leverkusen",
+    "gross/w": "€ 17,308",
+    "gross/y": "€ 900,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Jean-Paul Boëtius",
+    "team": "Hertha Berlin",
+    "gross/w": "€ 17,308",
+    "gross/y": "€ 900,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Christopher Trimmel",
+    "team": "Union Berlin",
+    "gross/w": "€ 17,308",
+    "gross/y": "€ 900,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Delano Burgzorg",
+    "team": "Mainz",
+    "gross/w": "€ 17,308",
+    "gross/y": "€ 900,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Jamie Bynoe-Gittens",
+    "team": "Borussia Dortmund",
+    "gross/w": "€ 17,308",
+    "gross/y": "€ 900,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Benno Schmitz",
+    "team": "Koln",
+    "gross/w": "€ 17,308",
+    "gross/y": "€ 900,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Felix Passlack",
+    "team": "Borussia Dortmund",
+    "gross/w": "€ 17,115",
+    "gross/y": "€ 890,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Benjamin Hübner",
+    "team": "Hoffenheim",
+    "gross/w": "€ 16,923",
+    "gross/y": "€ 880,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Alexander Schwolow",
+    "team": "Schalke 04",
+    "gross/w": "€ 16,923",
+    "gross/y": "€ 880,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Kilian Fischer",
+    "team": "Wolfsburg",
+    "gross/w": "€ 16,731",
+    "gross/y": "€ 870,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Rubén Vargas",
+    "team": "Augsburg",
+    "gross/w": "€ 16,346",
+    "gross/y": "€ 850,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Rani Khedira",
+    "team": "Union Berlin",
+    "gross/w": "€ 16,346",
+    "gross/y": "€ 850,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Levin Öztunali",
+    "team": "Union Berlin",
+    "gross/w": "€ 16,154",
+    "gross/y": "€ 840,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Manuel Riemann",
+    "team": "Bochum",
+    "gross/w": "€ 16,154",
+    "gross/y": "€ 840,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Ritsu Doan",
+    "team": "Freiburg",
+    "gross/w": "€ 16,154",
+    "gross/y": "€ 840,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Grischa Prömel",
+    "team": "Hoffenheim",
+    "gross/w": "€ 16,154",
+    "gross/y": "€ 840,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Dejan Ljubicic",
+    "team": "Koln",
+    "gross/w": "€ 16,154",
+    "gross/y": "€ 840,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Kristian Pedersen",
+    "team": "Koln",
+    "gross/w": "€ 16,154",
+    "gross/y": "€ 840,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Aymen Barkok",
+    "team": "Mainz",
+    "gross/w": "€ 16,154",
+    "gross/y": "€ 840,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Aïssa Laïdouni",
+    "team": "Union Berlin",
+    "gross/w": "€ 16,154",
+    "gross/y": "€ 840,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Lennart Grill",
+    "team": "Union Berlin",
+    "gross/w": "€ 16,154",
+    "gross/y": "€ 840,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Jonathan Schmid",
+    "team": "Freiburg",
+    "gross/w": "€ 15,577",
+    "gross/y": "€ 810,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Reece Oxford",
+    "team": "Augsburg",
+    "gross/w": "€ 15,385",
+    "gross/y": "€ 800,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Felix Uduokhai",
+    "team": "Augsburg",
+    "gross/w": "€ 15,385",
+    "gross/y": "€ 800,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Oscar Fraulo",
+    "team": "Monchengladbach",
+    "gross/w": "€ 15,000",
+    "gross/y": "€ 780,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Christian Groß",
+    "team": "Werder Bremen",
+    "gross/w": "€ 15,000",
+    "gross/y": "€ 780,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Leo Greiml",
+    "team": "Schalke 04",
+    "gross/w": "€ 15,000",
+    "gross/y": "€ 780,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Gil Dias",
+    "team": "Stuttgart",
+    "gross/w": "€ 14,615",
+    "gross/y": "€ 760,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Konstantinos Mavropanos",
+    "team": "Stuttgart",
+    "gross/w": "€ 14,615",
+    "gross/y": "€ 760,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Dion Beljo",
+    "team": "Augsburg",
+    "gross/w": "€ 14,615",
+    "gross/y": "€ 760,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Kelvin Yeboah",
+    "team": "Augsburg",
+    "gross/w": "€ 14,423",
+    "gross/y": "€ 750,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Tobias Mohr",
+    "team": "Schalke 04",
+    "gross/w": "€ 14,423",
+    "gross/y": "€ 750,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Waldemar Anton",
+    "team": "Stuttgart",
+    "gross/w": "€ 14,423",
+    "gross/y": "€ 750,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Thomas Ouwejan",
+    "team": "Schalke 04",
+    "gross/w": "€ 14,423",
+    "gross/y": "€ 750,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Rafal Gikiewicz",
+    "team": "Augsburg",
+    "gross/w": "€ 14,423",
+    "gross/y": "€ 750,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Nils Petersen",
+    "team": "Freiburg",
+    "gross/w": "€ 14,423",
+    "gross/y": "€ 750,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Peter Pekarik",
+    "team": "Hertha Berlin",
+    "gross/w": "€ 14,231",
+    "gross/y": "€ 740,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Kevin Möhwald",
+    "team": "Union Berlin",
+    "gross/w": "€ 13,846",
+    "gross/y": "€ 720,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Julian Chabot",
+    "team": "Koln",
+    "gross/w": "€ 13,846",
+    "gross/y": "€ 720,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Konstantinos Stafylidis",
+    "team": "Bochum",
+    "gross/w": "€ 13,846",
+    "gross/y": "€ 720,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Marco Friedl",
+    "team": "Werder Bremen",
+    "gross/w": "€ 13,846",
+    "gross/y": "€ 720,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Kevin Behrens",
+    "team": "Union Berlin",
+    "gross/w": "€ 13,846",
+    "gross/y": "€ 720,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Kevin Stöger",
+    "team": "Bochum",
+    "gross/w": "€ 13,846",
+    "gross/y": "€ 720,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Éric Ebimbe",
+    "team": "Eintracht Frankfurt",
+    "gross/w": "€ 13,846",
+    "gross/y": "€ 720,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Paul Seguin",
+    "team": "Union Berlin",
+    "gross/w": "€ 13,846",
+    "gross/y": "€ 720,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Ilia Gruev",
+    "team": "Werder Bremen",
+    "gross/w": "€ 13,846",
+    "gross/y": "€ 720,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Roland Sallai",
+    "team": "Freiburg",
+    "gross/w": "€ 13,846",
+    "gross/y": "€ 720,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Arthur",
+    "team": "Bayer Leverkusen",
+    "gross/w": "€ 13,846",
+    "gross/y": "€ 720,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Christopher Lenz",
+    "team": "Eintracht Frankfurt",
+    "gross/w": "€ 13,846",
+    "gross/y": "€ 720,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Jan Thielmann",
+    "team": "Koln",
+    "gross/w": "€ 13,846",
+    "gross/y": "€ 720,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Pascal Stenzel",
+    "team": "Stuttgart",
+    "gross/w": "€ 13,654",
+    "gross/y": "€ 710,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Dong-jun Lee",
+    "team": "Hertha Berlin",
+    "gross/w": "€ 13,654",
+    "gross/y": "€ 710,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Noah Sarenren Bazee",
+    "team": "Augsburg",
+    "gross/w": "€ 13,462",
+    "gross/y": "€ 700,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Sven Michel",
+    "team": "Union Berlin",
+    "gross/w": "€ 13,269",
+    "gross/y": "€ 690,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Conor Noß",
+    "team": "Monchengladbach",
+    "gross/w": "€ 13,077",
+    "gross/y": "€ 680,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Philipp Lienhart",
+    "team": "Freiburg",
+    "gross/w": "€ 13,077",
+    "gross/y": "€ 680,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Wataru Endo",
+    "team": "Stuttgart",
+    "gross/w": "€ 12,692",
+    "gross/y": "€ 660,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Steffen Tigges",
+    "team": "Koln",
+    "gross/w": "€ 12,692",
+    "gross/y": "€ 660,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Borna Sosa",
+    "team": "Stuttgart",
+    "gross/w": "€ 12,308",
+    "gross/y": "€ 640,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Erhan Masovic",
+    "team": "Bochum",
+    "gross/w": "€ 12,308",
+    "gross/y": "€ 640,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Nikolas Nartey",
+    "team": "Stuttgart",
+    "gross/w": "€ 11,923",
+    "gross/y": "€ 620,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Gerrit Holtmann",
+    "team": "Bochum",
+    "gross/w": "€ 11,538",
+    "gross/y": "€ 600,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Sargis Adamyan",
+    "team": "Koln",
+    "gross/w": "€ 11,538",
+    "gross/y": "€ 600,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Dimitrios Limnios",
+    "team": "Koln",
+    "gross/w": "€ 11,538",
+    "gross/y": "€ 600,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Felix Nmecha",
+    "team": "Wolfsburg",
+    "gross/w": "€ 11,538",
+    "gross/y": "€ 600,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Cristian Gamboa",
+    "team": "Bochum",
+    "gross/w": "€ 11,538",
+    "gross/y": "€ 600,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Georginio Rutter",
+    "team": "Hoffenheim",
+    "gross/w": "€ 11,538",
+    "gross/y": "€ 600,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Jens Stage",
+    "team": "Werder Bremen",
+    "gross/w": "€ 11,538",
+    "gross/y": "€ 600,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Örjan Nyland",
+    "team": "Leipzig",
+    "gross/w": "€ 11,538",
+    "gross/y": "€ 600,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Felix Agu",
+    "team": "Werder Bremen",
+    "gross/w": "€ 11,538",
+    "gross/y": "€ 600,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Amos Pieper",
+    "team": "Werder Bremen",
+    "gross/w": "€ 11,538",
+    "gross/y": "€ 600,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Deyovaisio Zeefuik",
+    "team": "Hertha Berlin",
+    "gross/w": "€ 11,538",
+    "gross/y": "€ 600,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Niko Gießelmann",
+    "team": "Union Berlin",
+    "gross/w": "€ 11,538",
+    "gross/y": "€ 600,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Danilho Doekhi",
+    "team": "Union Berlin",
+    "gross/w": "€ 11,538",
+    "gross/y": "€ 600,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Benjamin Uphoff",
+    "team": "Freiburg",
+    "gross/w": "€ 11,538",
+    "gross/y": "€ 600,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Philipp Förster",
+    "team": "Bochum",
+    "gross/w": "€ 11,538",
+    "gross/y": "€ 600,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Luca Pfeiffer",
+    "team": "Stuttgart",
+    "gross/w": "€ 11,538",
+    "gross/y": "€ 600,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Pierre Kunde Malong",
+    "team": "Bochum",
+    "gross/w": "€ 11,538",
+    "gross/y": "€ 600,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Tobias Sippel",
+    "team": "Monchengladbach",
+    "gross/w": "€ 11,538",
+    "gross/y": "€ 600,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Simon Zoller",
+    "team": "Bochum",
+    "gross/w": "€ 11,538",
+    "gross/y": "€ 600,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Henning Matriciani",
+    "team": "Schalke 04",
+    "gross/w": "€ 11,538",
+    "gross/y": "€ 600,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Kenan Karaman",
+    "team": "Schalke 04",
+    "gross/w": "€ 11,538",
+    "gross/y": "€ 600,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Tymoteusz Puchacz",
+    "team": "Union Berlin",
+    "gross/w": "€ 11,154",
+    "gross/y": "€ 580,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Mehmet Aydin",
+    "team": "Schalke 04",
+    "gross/w": "€ 10,962",
+    "gross/y": "€ 570,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Alexander Meyer",
+    "team": "Borussia Dortmund",
+    "gross/w": "€ 10,962",
+    "gross/y": "€ 570,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Raphael Framberger",
+    "team": "Augsburg",
+    "gross/w": "€ 10,962",
+    "gross/y": "€ 570,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Tolga Cigerci",
+    "team": "Hertha Berlin",
+    "gross/w": "€ 10,769",
+    "gross/y": "€ 560,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Irvin Cardona",
+    "team": "Augsburg",
+    "gross/w": "€ 10,769",
+    "gross/y": "€ 560,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Derry Scherhant",
+    "team": "Hertha Berlin",
+    "gross/w": "€ 10,769",
+    "gross/y": "€ 560,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Nathanaël Mbuku",
+    "team": "Augsburg",
+    "gross/w": "€ 10,769",
+    "gross/y": "€ 560,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Fredrik Jensen",
+    "team": "Augsburg",
+    "gross/w": "€ 10,769",
+    "gross/y": "€ 560,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Mamadou Doucouré",
+    "team": "Monchengladbach",
+    "gross/w": "€ 10,385",
+    "gross/y": "€ 540,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Sergio Córdova",
+    "team": "Augsburg",
+    "gross/w": "€ 10,385",
+    "gross/y": "€ 540,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Julian Ryerson",
+    "team": "Union Berlin",
+    "gross/w": "€ 10,385",
+    "gross/y": "€ 540,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Niklas Tauer",
+    "team": "Mainz",
+    "gross/w": "€ 10,385",
+    "gross/y": "€ 540,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Jannes Horn",
+    "team": "Bochum",
+    "gross/w": "€ 10,385",
+    "gross/y": "€ 540,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Keven Schlotterbeck",
+    "team": "Bochum",
+    "gross/w": "€ 10,385",
+    "gross/y": "€ 540,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Anthony Losilla",
+    "team": "Bochum",
+    "gross/w": "€ 10,385",
+    "gross/y": "€ 540,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Jérôme Onguéné",
+    "team": "Eintracht Frankfurt",
+    "gross/w": "€ 10,385",
+    "gross/y": "€ 540,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Keven Schlotterbeck",
+    "team": "Freiburg",
+    "gross/w": "€ 10,385",
+    "gross/y": "€ 540,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Ansgar Knauff",
+    "team": "Eintracht Frankfurt",
+    "gross/w": "€ 10,385",
+    "gross/y": "€ 540,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Niklas Tauer",
+    "team": "Schalke 04",
+    "gross/w": "€ 10,385",
+    "gross/y": "€ 540,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Sepp van den Berg",
+    "team": "Schalke 04",
+    "gross/w": "€ 10,385",
+    "gross/y": "€ 540,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Lucas Höler",
+    "team": "Freiburg",
+    "gross/w": "€ 10,000",
+    "gross/y": "€ 520,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Patrick Osterhage",
+    "team": "Bochum",
+    "gross/w": "€ 10,000",
+    "gross/y": "€ 520,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Nassim Boujellab",
+    "team": "Schalke 04",
+    "gross/w": "€ 10,000",
+    "gross/y": "€ 520,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Timo Hübers",
+    "team": "Koln",
+    "gross/w": "€ 10,000",
+    "gross/y": "€ 520,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Fabian Bredlow",
+    "team": "Stuttgart",
+    "gross/w": "€ 9,423",
+    "gross/y": "€ 490,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Aurélio Buta",
+    "team": "Eintracht Frankfurt",
+    "gross/w": "€ 9,231",
+    "gross/y": "€ 480,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Manuel Gulde",
+    "team": "Freiburg",
+    "gross/w": "€ 9,231",
+    "gross/y": "€ 480,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Muhammed Damar",
+    "team": "Hoffenheim",
+    "gross/w": "€ 9,231",
+    "gross/y": "€ 480,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Dzenan Pejcinovic",
+    "team": "Wolfsburg",
+    "gross/w": "€ 9,231",
+    "gross/y": "€ 480,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Jere Uronen",
+    "team": "Schalke 04",
+    "gross/w": "€ 9,231",
+    "gross/y": "€ 480,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Soichiro Kozuki",
+    "team": "Schalke 04",
+    "gross/w": "€ 9,231",
+    "gross/y": "€ 480,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Faride Alidou",
+    "team": "Eintracht Frankfurt",
+    "gross/w": "€ 9,231",
+    "gross/y": "€ 480,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Finn Dahmen",
+    "team": "Mainz",
+    "gross/w": "€ 9,231",
+    "gross/y": "€ 480,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Moritz Jenz",
+    "team": "Schalke 04",
+    "gross/w": "€ 9,038",
+    "gross/y": "€ 470,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Atakan Karazor",
+    "team": "Stuttgart",
+    "gross/w": "€ 9,038",
+    "gross/y": "€ 470,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Mads Pedersen",
+    "team": "Augsburg",
+    "gross/w": "€ 8,846",
+    "gross/y": "€ 460,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Michael Langer",
+    "team": "Schalke 04",
+    "gross/w": "€ 8,846",
+    "gross/y": "€ 460,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Takuma Asano",
+    "team": "Bochum",
+    "gross/w": "€ 8,654",
+    "gross/y": "€ 450,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Marco Richter",
+    "team": "Hertha Berlin",
+    "gross/w": "€ 8,654",
+    "gross/y": "€ 450,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Oliver Christensen",
+    "team": "Hertha Berlin",
+    "gross/w": "€ 8,654",
+    "gross/y": "€ 450,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Danilo Soares",
+    "team": "Bochum",
+    "gross/w": "€ 8,269",
+    "gross/y": "€ 430,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Paul Jaeckel",
+    "team": "Union Berlin",
+    "gross/w": "€ 8,077",
+    "gross/y": "€ 420,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Tim Skarke",
+    "team": "Schalke 04",
+    "gross/w": "€ 8,077",
+    "gross/y": "€ 420,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Tim Skarke",
+    "team": "Union Berlin",
+    "gross/w": "€ 8,077",
+    "gross/y": "€ 420,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Woo-yeong Jeong",
+    "team": "Freiburg",
+    "gross/w": "€ 8,077",
+    "gross/y": "€ 420,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Ben Bobzien",
+    "team": "Mainz",
+    "gross/w": "€ 8,077",
+    "gross/y": "€ 420,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Jakob Busk",
+    "team": "Union Berlin",
+    "gross/w": "€ 8,077",
+    "gross/y": "€ 420,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Rocco Reitz",
+    "team": "Monchengladbach",
+    "gross/w": "€ 7,500",
+    "gross/y": "€ 390,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Juan José Perea",
+    "team": "Stuttgart",
+    "gross/w": "€ 7,500",
+    "gross/y": "€ 390,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Lukas Kübler",
+    "team": "Freiburg",
+    "gross/w": "€ 7,500",
+    "gross/y": "€ 390,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Jacek Goralski",
+    "team": "Bochum",
+    "gross/w": "€ 7,500",
+    "gross/y": "€ 390,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Jordi Osei-Tutu",
+    "team": "Bochum",
+    "gross/w": "€ 7,500",
+    "gross/y": "€ 390,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Milos Pantovic",
+    "team": "Union Berlin",
+    "gross/w": "€ 7,500",
+    "gross/y": "€ 390,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Philipp Hofmann",
+    "team": "Bochum",
+    "gross/w": "€ 7,500",
+    "gross/y": "€ 390,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Marko Johansson",
+    "team": "Bochum",
+    "gross/w": "€ 7,308",
+    "gross/y": "€ 380,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Patrick Pentz",
+    "team": "Bayer Leverkusen",
+    "gross/w": "€ 7,308",
+    "gross/y": "€ 380,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Janis Blaswich",
+    "team": "Leipzig",
+    "gross/w": "€ 7,115",
+    "gross/y": "€ 370,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Linton Maina",
+    "team": "Koln",
+    "gross/w": "€ 6,923",
+    "gross/y": "€ 360,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Florian Dietz",
+    "team": "Koln",
+    "gross/w": "€ 6,923",
+    "gross/y": "€ 360,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Finn Ole Becker",
+    "team": "Hoffenheim",
+    "gross/w": "€ 6,923",
+    "gross/y": "€ 360,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Nelson Weiper",
+    "team": "Mainz",
+    "gross/w": "€ 6,923",
+    "gross/y": "€ 360,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Jan Olschowsky",
+    "team": "Monchengladbach",
+    "gross/w": "€ 6,923",
+    "gross/y": "€ 360,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Daniel-Kofi Kyereh",
+    "team": "Freiburg",
+    "gross/w": "€ 6,923",
+    "gross/y": "€ 360,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Yvandro Borges Sanches",
+    "team": "Monchengladbach",
+    "gross/w": "€ 6,923",
+    "gross/y": "€ 360,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Silvère Ganvoula",
+    "team": "Bochum",
+    "gross/w": "€ 6,923",
+    "gross/y": "€ 360,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Laurin Ulrich",
+    "team": "Stuttgart",
+    "gross/w": "€ 6,923",
+    "gross/y": "€ 360,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Niklas Schmidt",
+    "team": "Werder Bremen",
+    "gross/w": "€ 6,923",
+    "gross/y": "€ 360,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Romano Schmid",
+    "team": "Werder Bremen",
+    "gross/w": "€ 6,923",
+    "gross/y": "€ 360,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Luca Kilian",
+    "team": "Koln",
+    "gross/w": "€ 6,923",
+    "gross/y": "€ 360,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Genki Haraguchi",
+    "team": "Union Berlin",
+    "gross/w": "€ 6,731",
+    "gross/y": "€ 350,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Jens Grahl",
+    "team": "Eintracht Frankfurt",
+    "gross/w": "€ 6,731",
+    "gross/y": "€ 350,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Mark Flekken",
+    "team": "Freiburg",
+    "gross/w": "€ 6,731",
+    "gross/y": "€ 350,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Diogo Leite",
+    "team": "Union Berlin",
+    "gross/w": "€ 6,538",
+    "gross/y": "€ 340,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Simon Walde",
+    "team": "Monchengladbach",
+    "gross/w": "€ 6,538",
+    "gross/y": "€ 340,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Michael Esser",
+    "team": "Bochum",
+    "gross/w": "€ 6,346",
+    "gross/y": "€ 330,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Thomas Kastanaras",
+    "team": "Stuttgart",
+    "gross/w": "€ 6,346",
+    "gross/y": "€ 330,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Michael Frey",
+    "team": "Schalke 04",
+    "gross/w": "€ 6,154",
+    "gross/y": "€ 320,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Andreas Ivan",
+    "team": "Schalke 04",
+    "gross/w": "€ 6,154",
+    "gross/y": "€ 320,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Kiliann Sildillia",
+    "team": "Freiburg",
+    "gross/w": "€ 6,154",
+    "gross/y": "€ 320,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Maximilian Bauer",
+    "team": "Augsburg",
+    "gross/w": "€ 5,769",
+    "gross/y": "€ 300,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Vasilios Lampropoulos",
+    "team": "Bochum",
+    "gross/w": "€ 5,769",
+    "gross/y": "€ 300,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Fisnik Asllani",
+    "team": "Hoffenheim",
+    "gross/w": "€ 5,769",
+    "gross/y": "€ 300,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Christopher Antwi-Adjei",
+    "team": "Bochum",
+    "gross/w": "€ 5,769",
+    "gross/y": "€ 300,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Marcel Wenig",
+    "team": "Eintracht Frankfurt",
+    "gross/w": "€ 5,769",
+    "gross/y": "€ 300,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Tom Rothe",
+    "team": "Borussia Dortmund",
+    "gross/w": "€ 5,769",
+    "gross/y": "€ 300,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Enzo Millot",
+    "team": "Stuttgart",
+    "gross/w": "€ 5,769",
+    "gross/y": "€ 300,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Niklas Klinger",
+    "team": "Wolfsburg",
+    "gross/w": "€ 5,769",
+    "gross/y": "€ 300,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Kevin Schade",
+    "team": "Freiburg",
+    "gross/w": "€ 5,385",
+    "gross/y": "€ 280,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "David Colina",
+    "team": "Augsburg",
+    "gross/w": "€ 5,385",
+    "gross/y": "€ 280,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Noah Mbamba",
+    "team": "Bayer Leverkusen",
+    "gross/w": "€ 5,385",
+    "gross/y": "€ 280,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Florian Müller",
+    "team": "Stuttgart",
+    "gross/w": "€ 5,192",
+    "gross/y": "€ 270,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Niklas Lomb",
+    "team": "Bayer Leverkusen",
+    "gross/w": "€ 5,192",
+    "gross/y": "€ 270,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Tim Oermann",
+    "team": "Bochum",
+    "gross/w": "€ 5,192",
+    "gross/y": "€ 270,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Eren Dinkci",
+    "team": "Werder Bremen",
+    "gross/w": "€ 5,192",
+    "gross/y": "€ 270,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Lee Buchanan",
+    "team": "Werder Bremen",
+    "gross/w": "€ 5,192",
+    "gross/y": "€ 270,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Eric Martel",
+    "team": "Koln",
+    "gross/w": "€ 5,192",
+    "gross/y": "€ 270,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Hugo Novoa",
+    "team": "Leipzig",
+    "gross/w": "€ 5,192",
+    "gross/y": "€ 270,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Saidy Janko",
+    "team": "Bochum",
+    "gross/w": "€ 4,808",
+    "gross/y": "€ 250,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Robert Gumny",
+    "team": "Augsburg",
+    "gross/w": "€ 4,808",
+    "gross/y": "€ 250,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Florian Flick",
+    "team": "Schalke 04",
+    "gross/w": "€ 4,808",
+    "gross/y": "€ 250,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Eduardo Quaresma",
+    "team": "Hoffenheim",
+    "gross/w": "€ 4,808",
+    "gross/y": "€ 250,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Denis Huseinbasic",
+    "team": "Koln",
+    "gross/w": "€ 4,615",
+    "gross/y": "€ 240,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Marcel Lotka",
+    "team": "Borussia Dortmund",
+    "gross/w": "€ 4,615",
+    "gross/y": "€ 240,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Lasse Rieß",
+    "team": "Mainz",
+    "gross/w": "€ 4,615",
+    "gross/y": "€ 240,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Luca Unbehaun",
+    "team": "Borussia Dortmund",
+    "gross/w": "€ 4,615",
+    "gross/y": "€ 240,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Paxten Aaronson",
+    "team": "Eintracht Frankfurt",
+    "gross/w": "€ 4,615",
+    "gross/y": "€ 240,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Tim Lemperle",
+    "team": "Koln",
+    "gross/w": "€ 4,615",
+    "gross/y": "€ 240,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Justin Heekeren",
+    "team": "Schalke 04",
+    "gross/w": "€ 4,615",
+    "gross/y": "€ 240,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Mathias Olesen",
+    "team": "Koln",
+    "gross/w": "€ 4,615",
+    "gross/y": "€ 240,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Julien Duranville",
+    "team": "Borussia Dortmund",
+    "gross/w": "€ 4,615",
+    "gross/y": "€ 240,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Paul Grave",
+    "team": "Bochum",
+    "gross/w": "€ 4,615",
+    "gross/y": "€ 240,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Ibrahima Cissé",
+    "team": "Schalke 04",
+    "gross/w": "€ 4,615",
+    "gross/y": "€ 240,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Alou Kuol",
+    "team": "Stuttgart",
+    "gross/w": "€ 4,038",
+    "gross/y": "€ 210,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Tanguy Coulibaly",
+    "team": "Stuttgart",
+    "gross/w": "€ 3,846",
+    "gross/y": "€ 200,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Tarsis Bonga",
+    "team": "Bochum",
+    "gross/w": "€ 3,846",
+    "gross/y": "€ 200,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Diant Ramaj",
+    "team": "Eintracht Frankfurt",
+    "gross/w": "€ 3,846",
+    "gross/y": "€ 200,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Torben Müsel",
+    "team": "Monchengladbach",
+    "gross/w": "€ 3,654",
+    "gross/y": "€ 190,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Marlon Mustapha",
+    "team": "Mainz",
+    "gross/w": "€ 3,654",
+    "gross/y": "€ 190,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Abdoulaye Kamara",
+    "team": "Borussia Dortmund",
+    "gross/w": "€ 3,462",
+    "gross/y": "€ 180,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Nikola Soldo",
+    "team": "Koln",
+    "gross/w": "€ 3,462",
+    "gross/y": "€ 180,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Michael Zetterer",
+    "team": "Werder Bremen",
+    "gross/w": "€ 3,462",
+    "gross/y": "€ 180,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Luca Philipp",
+    "team": "Hoffenheim",
+    "gross/w": "€ 3,462",
+    "gross/y": "€ 180,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Kelian Nsona",
+    "team": "Hertha Berlin",
+    "gross/w": "€ 3,462",
+    "gross/y": "€ 180,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Justin Che",
+    "team": "Hoffenheim",
+    "gross/w": "€ 3,462",
+    "gross/y": "€ 180,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Jean Manuel Mbom",
+    "team": "Werder Bremen",
+    "gross/w": "€ 3,462",
+    "gross/y": "€ 180,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Philipp Pentke",
+    "team": "Hoffenheim",
+    "gross/w": "€ 3,462",
+    "gross/y": "€ 180,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Johannes Schenk",
+    "team": "Bayern Munich",
+    "gross/w": "€ 3,462",
+    "gross/y": "€ 180,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Antonios Papadopoulos",
+    "team": "Borussia Dortmund",
+    "gross/w": "€ 3,462",
+    "gross/y": "€ 180,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Caden Clark",
+    "team": "Leipzig",
+    "gross/w": "€ 3,462",
+    "gross/y": "€ 180,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Arijon Ibrahimovic",
+    "team": "Bayern Munich",
+    "gross/w": "€ 3,462",
+    "gross/y": "€ 180,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Renato Veiga",
+    "team": "Augsburg",
+    "gross/w": "€ 3,077",
+    "gross/y": "€ 160,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Tim Maciejewski",
+    "team": "Union Berlin",
+    "gross/w": "€ 2,885",
+    "gross/y": "€ 150,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Simon Simoni",
+    "team": "Eintracht Frankfurt",
+    "gross/w": "€ 2,885",
+    "gross/y": "€ 150,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Hrvoje Smolcic",
+    "team": "Eintracht Frankfurt",
+    "gross/w": "€ 2,885",
+    "gross/y": "€ 150,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Eniss Shabani",
+    "team": "Mainz",
+    "gross/w": "€ 2,885",
+    "gross/y": "€ 150,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Jessic Ngankam",
+    "team": "Hertha Berlin",
+    "gross/w": "€ 2,885",
+    "gross/y": "€ 150,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Umut Tohumcu",
+    "team": "Hoffenheim",
+    "gross/w": "€ 2,885",
+    "gross/y": "€ 150,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Philipp Schulz",
+    "team": "Mainz",
+    "gross/w": "€ 2,885",
+    "gross/y": "€ 150,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Philipp Schulze",
+    "team": "Wolfsburg",
+    "gross/w": "€ 2,885",
+    "gross/y": "€ 150,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Eduardo Dos Santos Haesler",
+    "team": "Werder Bremen",
+    "gross/w": "€ 2,885",
+    "gross/y": "€ 150,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Zidan Sertdemir",
+    "team": "Bayer Leverkusen",
+    "gross/w": "€ 2,885",
+    "gross/y": "€ 150,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Hugo Siquet",
+    "team": "Freiburg",
+    "gross/w": "€ 2,885",
+    "gross/y": "€ 150,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Ömer Beyaz",
+    "team": "Stuttgart",
+    "gross/w": "€ 2,500",
+    "gross/y": "€ 130,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Göktan Gürpüz",
+    "team": "Borussia Dortmund",
+    "gross/w": "€ 2,308",
+    "gross/y": "€ 120,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Moritz Broschinski",
+    "team": "Bochum",
+    "gross/w": "€ 2,308",
+    "gross/y": "€ 120,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Tiago Tomás",
+    "team": "Stuttgart",
+    "gross/w": "€ 2,308",
+    "gross/y": "€ 120,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Antonis Aidonis",
+    "team": "Stuttgart",
+    "gross/w": "€ 2,308",
+    "gross/y": "€ 120,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Rijad Smajic",
+    "team": "Koln",
+    "gross/w": "€ 2,308",
+    "gross/y": "€ 120,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Brajan Gruda",
+    "team": "Mainz",
+    "gross/w": "€ 2,308",
+    "gross/y": "€ 120,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Robert Wagner",
+    "team": "Freiburg",
+    "gross/w": "€ 2,308",
+    "gross/y": "€ 120,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Nahuel Noll",
+    "team": "Hoffenheim",
+    "gross/w": "€ 2,308",
+    "gross/y": "€ 120,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Mehdi Loune",
+    "team": "Eintracht Frankfurt",
+    "gross/w": "€ 2,308",
+    "gross/y": "€ 120,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Benjamin Goller",
+    "team": "Werder Bremen",
+    "gross/w": "€ 2,115",
+    "gross/y": "€ 110,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Arne Engels",
+    "team": "Augsburg",
+    "gross/w": "€ 1,923",
+    "gross/y": "€ 100,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Kimberly Ezekwem",
+    "team": "Freiburg",
+    "gross/w": "€ 1,731",
+    "gross/y": "€ 90,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Noah Weißhaupt",
+    "team": "Freiburg",
+    "gross/w": "€ 1,731",
+    "gross/y": "€ 90,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Fabio Schneider",
+    "team": "Union Berlin",
+    "gross/w": "€ 1,731",
+    "gross/y": "€ 90,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Sanoussy Ba",
+    "team": "Leipzig",
+    "gross/w": "€ 1,731",
+    "gross/y": "€ 90,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Benjamin Leneis",
+    "team": "Augsburg",
+    "gross/w": "€ 1,731",
+    "gross/y": "€ 90,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Matteo Bignetti",
+    "team": "Eintracht Frankfurt",
+    "gross/w": "€ 1,731",
+    "gross/y": "€ 90,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Georg Strauch",
+    "team": "Koln",
+    "gross/w": "€ 1,731",
+    "gross/y": "€ 90,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Jan Schröder",
+    "team": "Eintracht Frankfurt",
+    "gross/w": "€ 1,731",
+    "gross/y": "€ 90,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Lukas Petkov",
+    "team": "Augsburg",
+    "gross/w": "€ 1,731",
+    "gross/y": "€ 90,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Maximilian Schmid",
+    "team": "Koln",
+    "gross/w": "€ 1,731",
+    "gross/y": "€ 90,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Joshua Eze",
+    "team": "Bayer Leverkusen",
+    "gross/w": "€ 1,538",
+    "gross/y": "€ 80,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Tom Bischof",
+    "team": "Hoffenheim",
+    "gross/w": "€ 1,538",
+    "gross/y": "€ 80,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Ayman Azhil",
+    "team": "Bayer Leverkusen",
+    "gross/w": "€ 1,538",
+    "gross/y": "€ 80,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Frederik Winther",
+    "team": "Augsburg",
+    "gross/w": "€ 1,538",
+    "gross/y": "€ 80,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Louis Lord",
+    "team": "Werder Bremen",
+    "gross/w": "€ 1,346",
+    "gross/y": "€ 70,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Fabio Chiarodia",
+    "team": "Werder Bremen",
+    "gross/w": "€ 1,346",
+    "gross/y": "€ 70,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Márton Dárdai",
+    "team": "Hertha Berlin",
+    "gross/w": "€ 1,346",
+    "gross/y": "€ 70,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Justin Diehl",
+    "team": "Koln",
+    "gross/w": "€ 1,346",
+    "gross/y": "€ 70,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Yannik Keitel",
+    "team": "Freiburg",
+    "gross/w": "€ 1,346",
+    "gross/y": "€ 70,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Nacho Ferri",
+    "team": "Eintracht Frankfurt",
+    "gross/w": "€ 1,346",
+    "gross/y": "€ 70,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Jonas Nickisch",
+    "team": "Leipzig",
+    "gross/w": "€ 1,346",
+    "gross/y": "€ 70,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Kenneth Schmidt",
+    "team": "Freiburg",
+    "gross/w": "€ 1,346",
+    "gross/y": "€ 70,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Tjark Ernst",
+    "team": "Hertha Berlin",
+    "gross/w": "€ 1,154",
+    "gross/y": "€ 60,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Matthias Köbbing",
+    "team": "Koln",
+    "gross/w": "€ 1,154",
+    "gross/y": "€ 60,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Julian Roloff",
+    "team": "Koln",
+    "gross/w": "€ 1,154",
+    "gross/y": "€ 60,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Joshua Schwirten",
+    "team": "Koln",
+    "gross/w": "€ 1,154",
+    "gross/y": "€ 60,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Noah Atubolu",
+    "team": "Freiburg",
+    "gross/w": "€ 1,154",
+    "gross/y": "€ 60,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Lukas Ullrich",
+    "team": "Hertha Berlin",
+    "gross/w": "€ 1,154",
+    "gross/y": "€ 60,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Julian Eitschberger",
+    "team": "Hertha Berlin",
+    "gross/w": "€ 1,154",
+    "gross/y": "€ 60,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Oskar Preil",
+    "team": "Leipzig",
+    "gross/w": "€ 1,154",
+    "gross/y": "€ 60,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Dikeni Salifou",
+    "team": "Werder Bremen",
+    "gross/w": "€ 1,154",
+    "gross/y": "€ 60,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Merlin Röhl",
+    "team": "Freiburg",
+    "gross/w": "€ 1,154",
+    "gross/y": "€ 60,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Timo Schlieck",
+    "team": "Leipzig",
+    "gross/w": "€ 1,154",
+    "gross/y": "€ 60,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Mohammed Tolba",
+    "team": "Bochum",
+    "gross/w": "€ 962",
+    "gross/y": "€ 50,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Aaron Zehnter",
+    "team": "Augsburg",
+    "gross/w": "€ 962",
+    "gross/y": "€ 50,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Mio Backhaus",
+    "team": "Werder Bremen",
+    "gross/w": "€ 962",
+    "gross/y": "€ 50,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Jonas Urbig",
+    "team": "Koln",
+    "gross/w": "€ 769",
+    "gross/y": "€ 40,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Kerim Calhanoglu",
+    "team": "Schalke 04",
+    "gross/w": "€ 769",
+    "gross/y": "€ 40,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Florian Schock",
+    "team": "Stuttgart",
+    "gross/w": "€ 577",
+    "gross/y": "€ 30,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Lilian Egloff",
+    "team": "Stuttgart",
+    "gross/w": "€ 577",
+    "gross/y": "€ 30,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Naouirou Ahamada",
+    "team": "Stuttgart",
+    "gross/w": "€ 385",
+    "gross/y": "€ 20,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Linus Gechter",
+    "team": "Hertha Berlin",
+    "gross/w": "€ 385",
+    "gross/y": "€ 20,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Daniel Klein",
+    "team": "Augsburg",
+    "gross/w": "€ 385",
+    "gross/y": "€ 20,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Marcel Sabitzer",
+    "team": "Bayern Munich",
+    "gross/w": "€ 0",
+    "gross/y": "€ 0",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  }
+]

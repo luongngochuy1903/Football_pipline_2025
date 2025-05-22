@@ -1,0 +1,110 @@
+[
+  {
+    "team": "Eintracht Frankfurt",
+    "incomes": "€ 125,040,000",
+    "expense": "€ 76,850,000",
+    "balance": "€ 48,190,000"
+  },
+  {
+    "team": "Leipzig",
+    "incomes": "€ 98,000,000",
+    "expense": "€ 119,500,000",
+    "balance": "€ -21,500,000"
+  },
+  {
+    "team": "Bayern Munich",
+    "incomes": "€ 84,350,000",
+    "expense": "€ 149,000,000",
+    "balance": "€ -64,650,000"
+  },
+  {
+    "team": "Stuttgart",
+    "incomes": "€ 80,120,000",
+    "expense": "€ 91,700,000",
+    "balance": "€ -11,580,000"
+  },
+  {
+    "team": "Borussia Dortmund",
+    "incomes": "€ 58,600,000",
+    "expense": "€ 89,200,000",
+    "balance": "€ -30,600,000"
+  },
+  {
+    "team": "Augsburg",
+    "incomes": "€ 40,250,000",
+    "expense": "€ 14,900,000",
+    "balance": "€ 25,350,000"
+  },
+  {
+    "team": "Mainz",
+    "incomes": "€ 36,800,000",
+    "expense": "€ 10,550,000",
+    "balance": "€ 26,250,000"
+  },
+  {
+    "team": "Hoffenheim",
+    "incomes": "€ 31,600,000",
+    "expense": "€ 76,000,000",
+    "balance": "€ -44,400,000"
+  },
+  {
+    "team": "Bayer Leverkusen",
+    "incomes": "€ 31,150,000",
+    "expense": "€ 53,000,000",
+    "balance": "€ -21,850,000"
+  },
+  {
+    "team": "Wolfsburg",
+    "incomes": "€ 25,450,000",
+    "expense": "€ 44,500,000",
+    "balance": "€ -19,050,000"
+  },
+  {
+    "team": "Union Berlin",
+    "incomes": "€ 24,200,000",
+    "expense": "€ 17,500,000",
+    "balance": "€ 6,700,000"
+  },
+  {
+    "team": "Heidenheim",
+    "incomes": "€ 15,500,000",
+    "expense": "€ 6,050,000",
+    "balance": "€ 9,450,000"
+  },
+  {
+    "team": "Freiburg",
+    "incomes": "€ 11,700,000",
+    "expense": "€ 18,800,000",
+    "balance": "€ -7,100,000"
+  },
+  {
+    "team": "Werder Bremen",
+    "incomes": "€ 5,700,000",
+    "expense": "€ 6,830,000",
+    "balance": "€ -1,130,000"
+  },
+  {
+    "team": "Bochum",
+    "incomes": "€ 4,800,000",
+    "expense": "€ 0",
+    "balance": "€ 4,800,000"
+  },
+  {
+    "team": "St Pauli",
+    "incomes": "€ 1,500,000",
+    "expense": "€ 2,250,000",
+    "balance": "€ -750,000"
+  },
+  {
+    "team": "Holstein Kiel",
+    "incomes": "€ 1,000,000",
+    "expense": "€ 7,200,000",
+    "balance": "€ -6,200,000"
+  },
+  {
+    "team": "Monchengladbach",
+    "incomes": "€ 300,000",
+    "expense": "€ 8,000,000",
+    "balance": "€ -7,700,000"
+  }
+]

@@ -1,0 +1,122 @@
+[
+    {
+        "team_name": "Manchester City",
+        "rank": "1",
+        "point": "89",
+        "manager": "Unknown"
+    },
+    {
+        "team_name": "Arsenal",
+        "rank": "2",
+        "point": "84",
+        "manager": "Unknown"
+    },
+    {
+        "team_name": "Manchester Utd",
+        "rank": "3",
+        "point": "75",
+        "manager": "Unknown"
+    },
+    {
+        "team_name": "Newcastle Utd",
+        "rank": "4",
+        "point": "71",
+        "manager": "Unknown"
+    },
+    {
+        "team_name": "Liverpool",
+        "rank": "5",
+        "point": "67",
+        "manager": "Unknown"
+    },
+    {
+        "team_name": "Brighton",
+        "rank": "6",
+        "point": "62",
+        "manager": "Unknown"
+    },
+    {
+        "team_name": "Aston Villa",
+        "rank": "7",
+        "point": "61",
+        "manager": "Unknown"
+    },
+    {
+        "team_name": "Tottenham",
+        "rank": "8",
+        "point": "60",
+        "manager": "Unknown"
+    },
+    {
+        "team_name": "Brentford",
+        "rank": "9",
+        "point": "59",
+        "manager": "Unknown"
+    },
+    {
+        "team_name": "Fulham",
+        "rank": "10",
+        "point": "52",
+        "manager": "Unknown"
+    },
+    {
+        "team_name": "Crystal Palace",
+        "rank": "11",
+        "point": "45",
+        "manager": "Unknown"
+    },
+    {
+        "team_name": "Chelsea",
+        "rank": "12",
+        "point": "44",
+        "manager": "Unknown"
+    },
+    {
+        "team_name": "Wolves",
+        "rank": "13",
+        "point": "41",
+        "manager": "Unknown"
+    },
+    {
+        "team_name": "West Ham",
+        "rank": "14",
+        "point": "40",
+        "manager": "Unknown"
+    },
+    {
+        "team_name": "Bournemouth",
+        "rank": "15",
+        "point": "39",
+        "manager": "Unknown"
+    },
+    {
+        "team_name": "Nott'ham Forest",
+        "rank": "16",
+        "point": "38",
+        "manager": "Unknown"
+    },
+    {
+        "team_name": "Everton",
+        "rank": "17",
+        "point": "36",
+        "manager": "Unknown"
+    },
+    {
+        "team_name": "Leicester City",
+        "rank": "18",
+        "point": "34",
+        "manager": "Unknown"
+    },
+    {
+        "team_name": "Leeds United",
+        "rank": "19",
+        "point": "31",
+        "manager": "Unknown"
+    },
+    {
+        "team_name": "Southampton",
+        "rank": "20",
+        "point": "25",
+        "manager": "Unknown"
+    }
+]

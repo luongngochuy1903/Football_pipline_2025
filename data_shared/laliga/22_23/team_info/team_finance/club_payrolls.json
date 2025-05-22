@@ -1,0 +1,182 @@
+[
+  {
+    "team": "Real Madrid",
+    "gross/w": "€ 5,791,538",
+    "gross/y": "€ 301,160,000",
+    "gross_keeper": "€ 17,810,000",
+    "gross_defense": "€ 95,140,000",
+    "gross_midfield": "€ 85,640,000",
+    "gross_forward": "€ 102,570,000"
+  },
+  {
+    "team": "Barcelona",
+    "gross/w": "€ 4,605,962",
+    "gross/y": "€ 239,510,000",
+    "gross_keeper": "€ 12,610,000",
+    "gross_defense": "€ 74,770,000",
+    "gross_midfield": "€ 67,390,000",
+    "gross_forward": "€ 84,740,000"
+  },
+  {
+    "team": "Atletico Madrid",
+    "gross/w": "€ 3,317,692",
+    "gross/y": "€ 172,520,000",
+    "gross_keeper": "€ 21,690,000",
+    "gross_defense": "€ 33,780,000",
+    "gross_midfield": "€ 59,380,000",
+    "gross_forward": "€ 57,670,000"
+  },
+  {
+    "team": "Sevilla",
+    "gross/w": "€ 1,601,154",
+    "gross/y": "€ 83,260,000",
+    "gross_keeper": "€ 3,960,000",
+    "gross_defense": "€ 25,570,000",
+    "gross_midfield": "€ 24,220,000",
+    "gross_forward": "€ 29,510,000"
+  },
+  {
+    "team": "Athletic Club",
+    "gross/w": "€ 1,178,269",
+    "gross/y": "€ 61,270,000",
+    "gross_keeper": "€ 4,900,000",
+    "gross_defense": "€ 21,700,000",
+    "gross_midfield": "€ 8,470,000",
+    "gross_forward": "€ 26,200,000"
+  },
+  {
+    "team": "Villarreal",
+    "gross/w": "€ 1,038,462",
+    "gross/y": "€ 54,000,000",
+    "gross_keeper": "€ 7,520,000",
+    "gross_defense": "€ 16,990,000",
+    "gross_midfield": "€ 16,270,000",
+    "gross_forward": "€ 13,220,000"
+  },
+  {
+    "team": "Valencia",
+    "gross/w": "€ 969,423",
+    "gross/y": "€ 50,410,000",
+    "gross_keeper": "€ 5,460,000",
+    "gross_defense": "€ 22,960,000",
+    "gross_midfield": "€ 6,240,000",
+    "gross_forward": "€ 15,750,000"
+  },
+  {
+    "team": "Real Betis",
+    "gross/w": "€ 929,808",
+    "gross/y": "€ 48,350,000",
+    "gross_keeper": "€ 2,450,000",
+    "gross_defense": "€ 19,250,000",
+    "gross_midfield": "€ 6,790,000",
+    "gross_forward": "€ 19,860,000"
+  },
+  {
+    "team": "Real Sociedad",
+    "gross/w": "€ 862,115",
+    "gross/y": "€ 44,830,000",
+    "gross_keeper": "€ 3,040,000",
+    "gross_defense": "€ 10,800,000",
+    "gross_midfield": "€ 10,570,000",
+    "gross_forward": "€ 20,420,000"
+  },
+  {
+    "team": "Getafe",
+    "gross/w": "€ 712,981",
+    "gross/y": "€ 37,075,000",
+    "gross_keeper": "€ 4,065,000",
+    "gross_defense": "€ 9,380,000",
+    "gross_midfield": "€ 8,270,000",
+    "gross_forward": "€ 15,360,000"
+  },
+  {
+    "team": "Espanyol",
+    "gross/w": "€ 630,769",
+    "gross/y": "€ 32,800,000",
+    "gross_keeper": "€ 4,910,000",
+    "gross_defense": "€ 6,920,000",
+    "gross_midfield": "€ 4,440,000",
+    "gross_forward": "€ 16,530,000"
+  },
+  {
+    "team": "Celta Vigo",
+    "gross/w": "€ 578,077",
+    "gross/y": "€ 30,060,000",
+    "gross_keeper": "€ 1,720,000",
+    "gross_defense": "€ 9,550,000",
+    "gross_midfield": "€ 2,670,000",
+    "gross_forward": "€ 16,120,000"
+  },
+  {
+    "team": "Valladolid",
+    "gross/w": "€ 417,019",
+    "gross/y": "€ 21,685,000",
+    "gross_keeper": "€ 1,520,000",
+    "gross_defense": "€ 4,620,000",
+    "gross_midfield": "€ 7,475,000",
+    "gross_forward": "€ 8,070,000"
+  },
+  {
+    "team": "Mallorca",
+    "gross/w": "€ 405,577",
+    "gross/y": "€ 21,090,000",
+    "gross_keeper": "€ 1,410,000",
+    "gross_defense": "€ 6,850,000",
+    "gross_midfield": "€ 5,040,000",
+    "gross_forward": "€ 7,790,000"
+  },
+  {
+    "team": "Girona",
+    "gross/w": "€ 404,904",
+    "gross/y": "€ 21,055,000",
+    "gross_keeper": "€ 1,360,000",
+    "gross_defense": "€ 7,170,000",
+    "gross_midfield": "€ 5,280,000",
+    "gross_forward": "€ 7,245,000"
+  },
+  {
+    "team": "Cadiz",
+    "gross/w": "€ 391,154",
+    "gross/y": "€ 20,340,000",
+    "gross_keeper": "€ 1,170,000",
+    "gross_defense": "€ 5,200,000",
+    "gross_midfield": "€ 5,770,000",
+    "gross_forward": "€ 8,200,000"
+  },
+  {
+    "team": "Elche",
+    "gross/w": "€ 384,615",
+    "gross/y": "€ 20,000,000",
+    "gross_keeper": "€ 860,000",
+    "gross_defense": "€ 8,140,000",
+    "gross_midfield": "€ 2,020,000",
+    "gross_forward": "€ 8,980,000"
+  },
+  {
+    "team": "Rayo Vallecano",
+    "gross/w": "€ 316,538",
+    "gross/y": "€ 16,460,000",
+    "gross_keeper": "€ 1,280,000",
+    "gross_defense": "€ 4,150,000",
+    "gross_midfield": "€ 1,800,000",
+    "gross_forward": "€ 9,230,000"
+  },
+  {
+    "team": "Osasuna",
+    "gross/w": "€ 315,096",
+    "gross/y": "€ 16,385,000",
+    "gross_keeper": "€ 2,300,000",
+    "gross_defense": "€ 4,620,000",
+    "gross_midfield": "€ 2,550,000",
+    "gross_forward": "€ 6,915,000"
+  },
+  {
+    "team": "Almeria",
+    "gross/w": "€ 294,038",
+    "gross/y": "€ 15,290,000",
+    "gross_keeper": "€ 1,680,000",
+    "gross_defense": "€ 4,730,000",
+    "gross_midfield": "€ 3,160,000",
+    "gross_forward": "€ 5,720,000"
+  }
+]

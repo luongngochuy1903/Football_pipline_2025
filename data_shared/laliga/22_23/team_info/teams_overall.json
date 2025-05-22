@@ -1,0 +1,122 @@
+[
+    {
+        "team_name": "Barcelona",
+        "rank": "1",
+        "point": "88",
+        "manager": "Unknown"
+    },
+    {
+        "team_name": "Real Madrid",
+        "rank": "2",
+        "point": "78",
+        "manager": "Unknown"
+    },
+    {
+        "team_name": "Atlético Madrid",
+        "rank": "3",
+        "point": "77",
+        "manager": "Unknown"
+    },
+    {
+        "team_name": "Real Sociedad",
+        "rank": "4",
+        "point": "71",
+        "manager": "Unknown"
+    },
+    {
+        "team_name": "Villarreal",
+        "rank": "5",
+        "point": "64",
+        "manager": "Unknown"
+    },
+    {
+        "team_name": "Betis",
+        "rank": "6",
+        "point": "60",
+        "manager": "Unknown"
+    },
+    {
+        "team_name": "Osasuna",
+        "rank": "7",
+        "point": "53",
+        "manager": "Unknown"
+    },
+    {
+        "team_name": "Athletic Club",
+        "rank": "8",
+        "point": "51",
+        "manager": "Unknown"
+    },
+    {
+        "team_name": "Mallorca",
+        "rank": "9",
+        "point": "50",
+        "manager": "Unknown"
+    },
+    {
+        "team_name": "Girona",
+        "rank": "10",
+        "point": "49",
+        "manager": "Unknown"
+    },
+    {
+        "team_name": "Rayo Vallecano",
+        "rank": "11",
+        "point": "49",
+        "manager": "Unknown"
+    },
+    {
+        "team_name": "Sevilla",
+        "rank": "12",
+        "point": "49",
+        "manager": "Unknown"
+    },
+    {
+        "team_name": "Celta Vigo",
+        "rank": "13",
+        "point": "43",
+        "manager": "Unknown"
+    },
+    {
+        "team_name": "Cádiz",
+        "rank": "14",
+        "point": "42",
+        "manager": "Unknown"
+    },
+    {
+        "team_name": "Getafe",
+        "rank": "15",
+        "point": "42",
+        "manager": "Unknown"
+    },
+    {
+        "team_name": "Valencia",
+        "rank": "16",
+        "point": "42",
+        "manager": "Unknown"
+    },
+    {
+        "team_name": "Almería",
+        "rank": "17",
+        "point": "41",
+        "manager": "Unknown"
+    },
+    {
+        "team_name": "Valladolid",
+        "rank": "18",
+        "point": "40",
+        "manager": "Unknown"
+    },
+    {
+        "team_name": "Espanyol",
+        "rank": "19",
+        "point": "37",
+        "manager": "Unknown"
+    },
+    {
+        "team_name": "Elche",
+        "rank": "20",
+        "point": "25",
+        "manager": "Unknown"
+    }
+]

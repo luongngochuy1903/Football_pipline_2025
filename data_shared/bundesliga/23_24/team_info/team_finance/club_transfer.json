@@ -1,0 +1,110 @@
+[
+  {
+    "team": "Leipzig",
+    "incomes": "€ 243,700,000",
+    "expense": "€ 176,500,000",
+    "balance": "€ 67,200,000"
+  },
+  {
+    "team": "Bayern Munich",
+    "incomes": "€ 173,250,000",
+    "expense": "€ 189,000,000",
+    "balance": "€ -15,750,000"
+  },
+  {
+    "team": "Eintracht Frankfurt",
+    "incomes": "€ 142,500,000",
+    "expense": "€ 80,150,000",
+    "balance": "€ 62,350,000"
+  },
+  {
+    "team": "Borussia Dortmund",
+    "incomes": "€ 113,350,000",
+    "expense": "€ 62,000,000",
+    "balance": "€ 51,350,000"
+  },
+  {
+    "team": "Wolfsburg",
+    "incomes": "€ 72,100,000",
+    "expense": "€ 74,500,000",
+    "balance": "€ -2,400,000"
+  },
+  {
+    "team": "Bayer Leverkusen",
+    "incomes": "€ 69,700,000",
+    "expense": "€ 81,800,000",
+    "balance": "€ -12,100,000"
+  },
+  {
+    "team": "Stuttgart",
+    "incomes": "€ 50,650,000",
+    "expense": "€ 21,350,000",
+    "balance": "€ 29,300,000"
+  },
+  {
+    "team": "Freiburg",
+    "incomes": "€ 41,800,000",
+    "expense": "€ 8,500,000",
+    "balance": "€ 33,300,000"
+  },
+  {
+    "team": "Hoffenheim",
+    "incomes": "€ 36,000,000",
+    "expense": "€ 43,550,000",
+    "balance": "€ -7,550,000"
+  },
+  {
+    "team": "Augsburg",
+    "incomes": "€ 27,100,000",
+    "expense": "€ 9,650,000",
+    "balance": "€ 17,450,000"
+  },
+  {
+    "team": "Werder Bremen",
+    "incomes": "€ 26,810,000",
+    "expense": "€ 8,500,000",
+    "balance": "€ 18,310,000"
+  },
+  {
+    "team": "Monchengladbach",
+    "incomes": "€ 25,000,000",
+    "expense": "€ 29,280,000",
+    "balance": "€ -4,280,000"
+  },
+  {
+    "team": "Mainz",
+    "incomes": "€ 23,550,000",
+    "expense": "€ 10,000,000",
+    "balance": "€ 13,550,000"
+  },
+  {
+    "team": "Union Berlin",
+    "incomes": "€ 7,100,000",
+    "expense": "€ 38,750,000",
+    "balance": "€ -31,650,000"
+  },
+  {
+    "team": "Koln",
+    "incomes": "€ 2,700,000",
+    "expense": "€ 2,500,000",
+    "balance": "€ 200,000"
+  },
+  {
+    "team": "Darmstadt",
+    "incomes": "€ 2,325,000",
+    "expense": "€ 3,800,000",
+    "balance": "€ -1,475,000"
+  },
+  {
+    "team": "Bochum",
+    "incomes": "€ 0",
+    "expense": "€ 2,450,000",
+    "balance": "€ -2,450,000"
+  },
+  {
+    "team": "Heidenheim",
+    "incomes": "€ 0",
+    "expense": "€ 2,300,000",
+    "balance": "€ -2,300,000"
+  }
+]

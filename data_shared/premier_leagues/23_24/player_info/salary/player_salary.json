@@ -1,0 +1,5492 @@
+[
+  {
+    "player_name": "Kevin De Bruyne",
+    "team": "Manchester City",
+    "gross/w": "£ 400,000",
+    "gross/y": "£ 20,800,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Erling Haaland",
+    "team": "Manchester City",
+    "gross/w": "£ 375,000",
+    "gross/y": "£ 19,500,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Casemiro",
+    "team": "Manchester United",
+    "gross/w": "£ 350,000",
+    "gross/y": "£ 18,200,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Mohamed Salah",
+    "team": "Liverpool",
+    "gross/w": "£ 350,000",
+    "gross/y": "£ 18,200,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Raphaël Varane",
+    "team": "Manchester United",
+    "gross/w": "£ 340,000",
+    "gross/y": "£ 17,680,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Raheem Sterling",
+    "team": "Chelsea",
+    "gross/w": "£ 325,000",
+    "gross/y": "£ 16,900,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Jack Grealish",
+    "team": "Manchester City",
+    "gross/w": "£ 300,000",
+    "gross/y": "£ 15,600,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Bernardo Silva",
+    "team": "Manchester City",
+    "gross/w": "£ 300,000",
+    "gross/y": "£ 15,600,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Marcus Rashford",
+    "team": "Manchester United",
+    "gross/w": "£ 300,000",
+    "gross/y": "£ 15,600,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Kai Havertz",
+    "team": "Arsenal",
+    "gross/w": "£ 280,000",
+    "gross/y": "£ 14,560,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Gabriel Jesus",
+    "team": "Arsenal",
+    "gross/w": "£ 265,000",
+    "gross/y": "£ 13,780,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Anthony Martial",
+    "team": "Manchester United",
+    "gross/w": "£ 250,000",
+    "gross/y": "£ 13,000,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Mason Mount",
+    "team": "Manchester United",
+    "gross/w": "£ 250,000",
+    "gross/y": "£ 13,000,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Reece James",
+    "team": "Chelsea",
+    "gross/w": "£ 250,000",
+    "gross/y": "£ 13,000,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "John Stones",
+    "team": "Manchester City",
+    "gross/w": "£ 250,000",
+    "gross/y": "£ 13,000,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Declan Rice",
+    "team": "Arsenal",
+    "gross/w": "£ 240,000",
+    "gross/y": "£ 12,480,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Martin Ødegaard",
+    "team": "Arsenal",
+    "gross/w": "£ 240,000",
+    "gross/y": "£ 12,480,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Bruno Fernandes",
+    "team": "Manchester United",
+    "gross/w": "£ 240,000",
+    "gross/y": "£ 12,480,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Phil Foden",
+    "team": "Manchester City",
+    "gross/w": "£ 225,000",
+    "gross/y": "£ 11,700,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Rodri",
+    "team": "Manchester City",
+    "gross/w": "£ 220,000",
+    "gross/y": "£ 11,440,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Virgil van Dijk",
+    "team": "Liverpool",
+    "gross/w": "£ 220,000",
+    "gross/y": "£ 11,440,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Wesley Fofana",
+    "team": "Chelsea",
+    "gross/w": "£ 200,000",
+    "gross/y": "£ 10,400,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Thiago",
+    "team": "Liverpool",
+    "gross/w": "£ 200,000",
+    "gross/y": "£ 10,400,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Ben Chilwell",
+    "team": "Chelsea",
+    "gross/w": "£ 200,000",
+    "gross/y": "£ 10,400,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Thomas Partey",
+    "team": "Arsenal",
+    "gross/w": "£ 200,000",
+    "gross/y": "£ 10,400,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Josko Gvardiol",
+    "team": "Manchester City",
+    "gross/w": "£ 200,000",
+    "gross/y": "£ 10,400,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Jadon Sancho",
+    "team": "Manchester United",
+    "gross/w": "£ 195,000",
+    "gross/y": "£ 10,140,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Christopher Nkunku",
+    "team": "Chelsea",
+    "gross/w": "£ 195,000",
+    "gross/y": "£ 10,140,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Bukayo Saka",
+    "team": "Arsenal",
+    "gross/w": "£ 195,000",
+    "gross/y": "£ 10,140,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Heung-min Son",
+    "team": "Tottenham",
+    "gross/w": "£ 190,000",
+    "gross/y": "£ 9,880,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "William Saliba",
+    "team": "Arsenal",
+    "gross/w": "£ 190,000",
+    "gross/y": "£ 9,880,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Harry Maguire",
+    "team": "Manchester United",
+    "gross/w": "£ 190,000",
+    "gross/y": "£ 9,880,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Gabriel Martinelli",
+    "team": "Arsenal",
+    "gross/w": "£ 180,000",
+    "gross/y": "£ 9,360,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Trent Alexander-Arnold",
+    "team": "Liverpool",
+    "gross/w": "£ 180,000",
+    "gross/y": "£ 9,360,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Manuel Akanji",
+    "team": "Manchester City",
+    "gross/w": "£ 180,000",
+    "gross/y": "£ 9,360,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Rúben Dias",
+    "team": "Manchester City",
+    "gross/w": "£ 180,000",
+    "gross/y": "£ 9,360,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Ivan Perisic",
+    "team": "Tottenham",
+    "gross/w": "£ 180,000",
+    "gross/y": "£ 9,360,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Enzo Fernández",
+    "team": "Chelsea",
+    "gross/w": "£ 180,000",
+    "gross/y": "£ 9,360,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Kyle Walker",
+    "team": "Manchester City",
+    "gross/w": "£ 175,000",
+    "gross/y": "£ 9,100,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Marc Cucurella",
+    "team": "Chelsea",
+    "gross/w": "£ 175,000",
+    "gross/y": "£ 9,100,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "James Maddison",
+    "team": "Tottenham",
+    "gross/w": "£ 170,000",
+    "gross/y": "£ 8,840,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Timo Werner",
+    "team": "Tottenham",
+    "gross/w": "£ 165,000",
+    "gross/y": "£ 8,580,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Cristian Romero",
+    "team": "Tottenham",
+    "gross/w": "£ 165,000",
+    "gross/y": "£ 8,580,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Nathan Aké",
+    "team": "Manchester City",
+    "gross/w": "£ 160,000",
+    "gross/y": "£ 8,320,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Andrew Robertson",
+    "team": "Liverpool",
+    "gross/w": "£ 160,000",
+    "gross/y": "£ 8,320,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Bruno Guimarães",
+    "team": "Newcastle",
+    "gross/w": "£ 160,000",
+    "gross/y": "£ 8,320,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Ansu Fati",
+    "team": "Brighton",
+    "gross/w": "£ 160,000",
+    "gross/y": "£ 8,320,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Lucas Paquetá",
+    "team": "West Ham",
+    "gross/w": "£ 150,000",
+    "gross/y": "£ 7,800,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Oleksandr Zinchenko",
+    "team": "Arsenal",
+    "gross/w": "£ 150,000",
+    "gross/y": "£ 7,800,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Boubacar Kamara",
+    "team": "Aston Villa",
+    "gross/w": "£ 150,000",
+    "gross/y": "£ 7,800,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Ben White",
+    "team": "Arsenal",
+    "gross/w": "£ 150,000",
+    "gross/y": "£ 7,800,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Clément Lenglet",
+    "team": "Aston Villa",
+    "gross/w": "£ 150,000",
+    "gross/y": "£ 7,800,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Youri Tielemans",
+    "team": "Aston Villa",
+    "gross/w": "£ 150,000",
+    "gross/y": "£ 7,800,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Kalvin Phillips",
+    "team": "West Ham",
+    "gross/w": "£ 150,000",
+    "gross/y": "£ 7,800,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Jarrod Bowen",
+    "team": "West Ham",
+    "gross/w": "£ 150,000",
+    "gross/y": "£ 7,800,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Joelinton",
+    "team": "Newcastle",
+    "gross/w": "£ 150,000",
+    "gross/y": "£ 7,800,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Luke Shaw",
+    "team": "Manchester United",
+    "gross/w": "£ 150,000",
+    "gross/y": "£ 7,800,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Christian Eriksen",
+    "team": "Manchester United",
+    "gross/w": "£ 150,000",
+    "gross/y": "£ 7,800,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Mateo Kovacic",
+    "team": "Manchester City",
+    "gross/w": "£ 150,000",
+    "gross/y": "£ 7,800,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Ryan Gravenberch",
+    "team": "Liverpool",
+    "gross/w": "£ 150,000",
+    "gross/y": "£ 7,800,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Alisson",
+    "team": "Liverpool",
+    "gross/w": "£ 150,000",
+    "gross/y": "£ 7,800,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Alexis Mac Allister",
+    "team": "Liverpool",
+    "gross/w": "£ 150,000",
+    "gross/y": "£ 7,800,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Moisés Caicedo",
+    "team": "Chelsea",
+    "gross/w": "£ 150,000",
+    "gross/y": "£ 7,800,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Diogo Jota",
+    "team": "Liverpool",
+    "gross/w": "£ 140,000",
+    "gross/y": "£ 7,280,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Darwin Núñez",
+    "team": "Liverpool",
+    "gross/w": "£ 140,000",
+    "gross/y": "£ 7,280,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Bernd Leno",
+    "team": "Fulham",
+    "gross/w": "£ 130,000",
+    "gross/y": "£ 6,760,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Matheus Nunes",
+    "team": "Manchester City",
+    "gross/w": "£ 130,000",
+    "gross/y": "£ 6,760,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Moussa Diaby",
+    "team": "Aston Villa",
+    "gross/w": "£ 130,000",
+    "gross/y": "£ 6,760,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Ollie Watkins",
+    "team": "Aston Villa",
+    "gross/w": "£ 130,000",
+    "gross/y": "£ 6,760,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Abdoulaye Doucouré",
+    "team": "Everton",
+    "gross/w": "£ 130,000",
+    "gross/y": "£ 6,760,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Jordan Pickford",
+    "team": "Everton",
+    "gross/w": "£ 125,000",
+    "gross/y": "£ 6,500,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Kurt Zouma",
+    "team": "West Ham",
+    "gross/w": "£ 125,000",
+    "gross/y": "£ 6,500,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Danny Ings",
+    "team": "West Ham",
+    "gross/w": "£ 125,000",
+    "gross/y": "£ 6,500,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Divock Origi",
+    "team": "Nottingham Forest",
+    "gross/w": "£ 120,000",
+    "gross/y": "£ 6,240,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Lucas Digne",
+    "team": "Aston Villa",
+    "gross/w": "£ 120,000",
+    "gross/y": "£ 6,240,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Leon Bailey",
+    "team": "Aston Villa",
+    "gross/w": "£ 120,000",
+    "gross/y": "£ 6,240,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Alexander Isak",
+    "team": "Newcastle",
+    "gross/w": "£ 120,000",
+    "gross/y": "£ 6,240,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Victor Lindelöf",
+    "team": "Manchester United",
+    "gross/w": "£ 120,000",
+    "gross/y": "£ 6,240,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Malang Sarr",
+    "team": "Chelsea",
+    "gross/w": "£ 120,000",
+    "gross/y": "£ 6,240,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Idrissa Gueye",
+    "team": "Everton",
+    "gross/w": "£ 120,000",
+    "gross/y": "£ 6,240,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Dominik Szoboszlai",
+    "team": "Liverpool",
+    "gross/w": "£ 120,000",
+    "gross/y": "£ 6,240,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Aaron Ramsdale",
+    "team": "Arsenal",
+    "gross/w": "£ 120,000",
+    "gross/y": "£ 6,240,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "André Onana",
+    "team": "Manchester United",
+    "gross/w": "£ 120,000",
+    "gross/y": "£ 6,240,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Alphonse Areola",
+    "team": "West Ham",
+    "gross/w": "£ 120,000",
+    "gross/y": "£ 6,240,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Emiliano Martínez",
+    "team": "Aston Villa",
+    "gross/w": "£ 120,000",
+    "gross/y": "£ 6,240,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Lisandro Martínez",
+    "team": "Manchester United",
+    "gross/w": "£ 120,000",
+    "gross/y": "£ 6,240,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Cody Gakpo",
+    "team": "Liverpool",
+    "gross/w": "£ 120,000",
+    "gross/y": "£ 6,240,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Kieran Trippier",
+    "team": "Newcastle",
+    "gross/w": "£ 120,000",
+    "gross/y": "£ 6,240,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "John McGinn",
+    "team": "Aston Villa",
+    "gross/w": "£ 120,000",
+    "gross/y": "£ 6,240,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "James Ward-Prowse",
+    "team": "West Ham",
+    "gross/w": "£ 115,000",
+    "gross/y": "£ 5,980,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "André Gomes",
+    "team": "Everton",
+    "gross/w": "£ 112,308",
+    "gross/y": "£ 5,840,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Jorginho",
+    "team": "Arsenal",
+    "gross/w": "£ 110,000",
+    "gross/y": "£ 5,720,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Thiago Silva",
+    "team": "Chelsea",
+    "gross/w": "£ 110,000",
+    "gross/y": "£ 5,720,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Dejan Kulusevski",
+    "team": "Tottenham",
+    "gross/w": "£ 110,000",
+    "gross/y": "£ 5,720,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Antony",
+    "team": "Manchester United",
+    "gross/w": "£ 105,000",
+    "gross/y": "£ 5,460,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "James Tarkowski",
+    "team": "Everton",
+    "gross/w": "£ 100,000",
+    "gross/y": "£ 5,200,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Pau Torres",
+    "team": "Aston Villa",
+    "gross/w": "£ 100,000",
+    "gross/y": "£ 5,200,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Levi Colwill",
+    "team": "Chelsea",
+    "gross/w": "£ 100,000",
+    "gross/y": "£ 5,200,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Eberechi Eze",
+    "team": "Crystal Palace",
+    "gross/w": "£ 100,000",
+    "gross/y": "£ 5,200,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Eddie Nketiah",
+    "team": "Arsenal",
+    "gross/w": "£ 100,000",
+    "gross/y": "£ 5,200,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Dele Alli",
+    "team": "Everton",
+    "gross/w": "£ 100,000",
+    "gross/y": "£ 5,200,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Mykhailo Mudryk",
+    "team": "Chelsea",
+    "gross/w": "£ 100,000",
+    "gross/y": "£ 5,200,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Gabriel Magalhães",
+    "team": "Arsenal",
+    "gross/w": "£ 100,000",
+    "gross/y": "£ 5,200,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Dominic Calvert-Lewin",
+    "team": "Everton",
+    "gross/w": "£ 100,000",
+    "gross/y": "£ 5,200,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Michael Olise",
+    "team": "Crystal Palace",
+    "gross/w": "£ 100,000",
+    "gross/y": "£ 5,200,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Ederson",
+    "team": "Manchester City",
+    "gross/w": "£ 100,000",
+    "gross/y": "£ 5,200,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Joel Matip",
+    "team": "Liverpool",
+    "gross/w": "£ 100,000",
+    "gross/y": "£ 5,200,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Reiss Nelson",
+    "team": "Arsenal",
+    "gross/w": "£ 100,000",
+    "gross/y": "£ 5,200,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Pierre-Emile Højbjerg",
+    "team": "Tottenham",
+    "gross/w": "£ 100,000",
+    "gross/y": "£ 5,200,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Carney Chukwuemeka",
+    "team": "Chelsea",
+    "gross/w": "£ 100,000",
+    "gross/y": "£ 5,200,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Tyrone Mings",
+    "team": "Aston Villa",
+    "gross/w": "£ 100,000",
+    "gross/y": "£ 5,200,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Edson Álvarez",
+    "team": "West Ham",
+    "gross/w": "£ 100,000",
+    "gross/y": "£ 5,200,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Julián Álvarez",
+    "team": "Manchester City",
+    "gross/w": "£ 100,000",
+    "gross/y": "£ 5,200,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Dean Henderson",
+    "team": "Crystal Palace",
+    "gross/w": "£ 100,000",
+    "gross/y": "£ 5,200,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Amadou Onana",
+    "team": "Everton",
+    "gross/w": "£ 100,000",
+    "gross/y": "£ 5,200,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Hugo Lloris",
+    "team": "Tottenham",
+    "gross/w": "£ 100,000",
+    "gross/y": "£ 5,200,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Takehiro Tomiyasu",
+    "team": "Arsenal",
+    "gross/w": "£ 100,000",
+    "gross/y": "£ 5,200,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Diego Carlos",
+    "team": "Aston Villa",
+    "gross/w": "£ 100,000",
+    "gross/y": "£ 5,200,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Raúl Jiménez",
+    "team": "Fulham",
+    "gross/w": "£ 100,000",
+    "gross/y": "£ 5,200,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Matt Targett",
+    "team": "Newcastle",
+    "gross/w": "£ 100,000",
+    "gross/y": "£ 5,200,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Emerson",
+    "team": "West Ham",
+    "gross/w": "£ 95,000",
+    "gross/y": "£ 4,940,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Adam Lallana",
+    "team": "Brighton",
+    "gross/w": "£ 90,000",
+    "gross/y": "£ 4,680,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Odsonne Edouard",
+    "team": "Crystal Palace",
+    "gross/w": "£ 90,000",
+    "gross/y": "£ 4,680,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Jack Harrison",
+    "team": "Everton",
+    "gross/w": "£ 90,000",
+    "gross/y": "£ 4,680,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Richarlison",
+    "team": "Tottenham",
+    "gross/w": "£ 90,000",
+    "gross/y": "£ 4,680,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Mohammed Kudus",
+    "team": "West Ham",
+    "gross/w": "£ 90,000",
+    "gross/y": "£ 4,680,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Pablo Sarabia",
+    "team": "Wolverhampton",
+    "gross/w": "£ 90,000",
+    "gross/y": "£ 4,680,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Sven Botman",
+    "team": "Newcastle",
+    "gross/w": "£ 90,000",
+    "gross/y": "£ 4,680,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Jurrien Timber",
+    "team": "Arsenal",
+    "gross/w": "£ 90,000",
+    "gross/y": "£ 4,680,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Willian",
+    "team": "Fulham",
+    "gross/w": "£ 90,000",
+    "gross/y": "£ 4,680,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Tomas Soucek",
+    "team": "West Ham",
+    "gross/w": "£ 90,000",
+    "gross/y": "£ 4,680,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Donny van de Beek",
+    "team": "Manchester United",
+    "gross/w": "£ 90,000",
+    "gross/y": "£ 4,680,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Leandro Trossard",
+    "team": "Arsenal",
+    "gross/w": "£ 90,000",
+    "gross/y": "£ 4,680,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Aaron Wan-Bissaka",
+    "team": "Manchester United",
+    "gross/w": "£ 90,000",
+    "gross/y": "£ 4,680,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Stefan Ortega Moreno",
+    "team": "Manchester City",
+    "gross/w": "£ 90,000",
+    "gross/y": "£ 4,680,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Benoît Badiashile",
+    "team": "Chelsea",
+    "gross/w": "£ 90,000",
+    "gross/y": "£ 4,680,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Radu Drăgușin",
+    "team": "Tottenham",
+    "gross/w": "£ 85,000",
+    "gross/y": "£ 4,420,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Pedro Porro",
+    "team": "Tottenham",
+    "gross/w": "£ 85,000",
+    "gross/y": "£ 4,420,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Michail Antonio",
+    "team": "West Ham",
+    "gross/w": "£ 85,000",
+    "gross/y": "£ 4,420,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Diogo Dalot",
+    "team": "Manchester United",
+    "gross/w": "£ 85,000",
+    "gross/y": "£ 4,420,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Eric Dier",
+    "team": "Tottenham",
+    "gross/w": "£ 85,000",
+    "gross/y": "£ 4,420,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "David Raya",
+    "team": "Arsenal",
+    "gross/w": "£ 85,000",
+    "gross/y": "£ 4,420,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Joe Gomez",
+    "team": "Liverpool",
+    "gross/w": "£ 85,000",
+    "gross/y": "£ 4,420,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Rasmus Højlund",
+    "team": "Manchester United",
+    "gross/w": "£ 85,000",
+    "gross/y": "£ 4,420,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Felipe",
+    "team": "Nottingham Forest",
+    "gross/w": "£ 80,000",
+    "gross/y": "£ 4,160,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Morgan Gibbs-White",
+    "team": "Nottingham Forest",
+    "gross/w": "£ 80,000",
+    "gross/y": "£ 4,160,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Cole Palmer",
+    "team": "Chelsea",
+    "gross/w": "£ 80,000",
+    "gross/y": "£ 4,160,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Ben Davies",
+    "team": "Tottenham",
+    "gross/w": "£ 80,000",
+    "gross/y": "£ 4,160,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Matty Cash",
+    "team": "Aston Villa",
+    "gross/w": "£ 80,000",
+    "gross/y": "£ 4,160,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Nélson Semedo",
+    "team": "Wolverhampton",
+    "gross/w": "£ 80,000",
+    "gross/y": "£ 4,160,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Thilo Kehrer",
+    "team": "West Ham",
+    "gross/w": "£ 80,000",
+    "gross/y": "£ 4,160,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Michael Keane",
+    "team": "Everton",
+    "gross/w": "£ 80,000",
+    "gross/y": "£ 4,160,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Kaoru Mitoma",
+    "team": "Brighton",
+    "gross/w": "£ 80,000",
+    "gross/y": "£ 4,160,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Lewis Dunk",
+    "team": "Brighton",
+    "gross/w": "£ 80,000",
+    "gross/y": "£ 4,160,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Joe Willock",
+    "team": "Newcastle",
+    "gross/w": "£ 80,000",
+    "gross/y": "£ 4,160,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Callum Hudson-Odoi",
+    "team": "Nottingham Forest",
+    "gross/w": "£ 80,000",
+    "gross/y": "£ 4,160,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Chris Wood",
+    "team": "Nottingham Forest",
+    "gross/w": "£ 80,000",
+    "gross/y": "£ 4,160,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "João Palhinha",
+    "team": "Fulham",
+    "gross/w": "£ 80,000",
+    "gross/y": "£ 4,160,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Justin Kluivert",
+    "team": "Bournemouth",
+    "gross/w": "£ 80,000",
+    "gross/y": "£ 4,160,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Axel Disasi",
+    "team": "Chelsea",
+    "gross/w": "£ 80,000",
+    "gross/y": "£ 4,160,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Alex Iwobi",
+    "team": "Fulham",
+    "gross/w": "£ 80,000",
+    "gross/y": "£ 4,160,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Joachim Andersen",
+    "team": "Crystal Palace",
+    "gross/w": "£ 80,000",
+    "gross/y": "£ 4,160,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Fábio Silva",
+    "team": "Wolverhampton",
+    "gross/w": "£ 80,000",
+    "gross/y": "£ 4,160,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Harvey Barnes",
+    "team": "Newcastle",
+    "gross/w": "£ 80,000",
+    "gross/y": "£ 4,160,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Bertrand Traoré",
+    "team": "Aston Villa",
+    "gross/w": "£ 77,885",
+    "gross/y": "£ 4,050,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Ibrahim Sangaré",
+    "team": "Nottingham Forest",
+    "gross/w": "£ 75,000",
+    "gross/y": "£ 3,900,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Ben Godfrey",
+    "team": "Everton",
+    "gross/w": "£ 75,000",
+    "gross/y": "£ 3,900,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Tyrell Malacia",
+    "team": "Manchester United",
+    "gross/w": "£ 75,000",
+    "gross/y": "£ 3,900,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Ezri Konsa",
+    "team": "Aston Villa",
+    "gross/w": "£ 75,000",
+    "gross/y": "£ 3,900,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Cédric Soares",
+    "team": "Arsenal",
+    "gross/w": "£ 75,000",
+    "gross/y": "£ 3,900,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Guglielmo Vicario",
+    "team": "Tottenham",
+    "gross/w": "£ 75,000",
+    "gross/y": "£ 3,900,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Destiny Udogie",
+    "team": "Tottenham",
+    "gross/w": "£ 75,000",
+    "gross/y": "£ 3,900,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Emiliano Buendía",
+    "team": "Aston Villa",
+    "gross/w": "£ 75,000",
+    "gross/y": "£ 3,900,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Konstantinos Tsimikas",
+    "team": "Liverpool",
+    "gross/w": "£ 75,000",
+    "gross/y": "£ 3,900,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Rodrigo Bentancur",
+    "team": "Tottenham",
+    "gross/w": "£ 75,000",
+    "gross/y": "£ 3,900,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Fraser Forster",
+    "team": "Tottenham",
+    "gross/w": "£ 75,000",
+    "gross/y": "£ 3,900,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Douglas Luiz",
+    "team": "Aston Villa",
+    "gross/w": "£ 75,000",
+    "gross/y": "£ 3,900,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Jacob Ramsey",
+    "team": "Aston Villa",
+    "gross/w": "£ 70,000",
+    "gross/y": "£ 3,640,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Angelo Ogbonna",
+    "team": "West Ham",
+    "gross/w": "£ 70,000",
+    "gross/y": "£ 3,640,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Pape Sarr",
+    "team": "Tottenham",
+    "gross/w": "£ 70,000",
+    "gross/y": "£ 3,640,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Ryan Christie",
+    "team": "Bournemouth",
+    "gross/w": "£ 70,000",
+    "gross/y": "£ 3,640,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Aaron Hickey",
+    "team": "Brentford",
+    "gross/w": "£ 70,000",
+    "gross/y": "£ 3,640,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Giovani Lo Celso",
+    "team": "Tottenham",
+    "gross/w": "£ 70,000",
+    "gross/y": "£ 3,640,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Brennan Johnson",
+    "team": "Tottenham",
+    "gross/w": "£ 70,000",
+    "gross/y": "£ 3,640,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Mason Holgate",
+    "team": "Sheffield United",
+    "gross/w": "£ 70,000",
+    "gross/y": "£ 3,640,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Dominic Solanke",
+    "team": "Bournemouth",
+    "gross/w": "£ 70,000",
+    "gross/y": "£ 3,640,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Jefferson Lerma",
+    "team": "Crystal Palace",
+    "gross/w": "£ 70,000",
+    "gross/y": "£ 3,640,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Ibrahima Konaté",
+    "team": "Liverpool",
+    "gross/w": "£ 70,000",
+    "gross/y": "£ 3,640,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Hee-chan Hwang",
+    "team": "Wolverhampton",
+    "gross/w": "£ 70,000",
+    "gross/y": "£ 3,640,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Cheick Doucouré",
+    "team": "Crystal Palace",
+    "gross/w": "£ 70,000",
+    "gross/y": "£ 3,640,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Issa Diop",
+    "team": "Fulham",
+    "gross/w": "£ 70,000",
+    "gross/y": "£ 3,640,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Pascal Groß",
+    "team": "Brighton",
+    "gross/w": "£ 65,000",
+    "gross/y": "£ 3,380,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Jonny Evans",
+    "team": "Manchester United",
+    "gross/w": "£ 65,000",
+    "gross/y": "£ 3,380,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Sofyan Amrabat",
+    "team": "Manchester United",
+    "gross/w": "£ 65,000",
+    "gross/y": "£ 3,380,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Pablo Fornals",
+    "team": "West Ham",
+    "gross/w": "£ 65,000",
+    "gross/y": "£ 3,380,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Maxwel Cornet",
+    "team": "West Ham",
+    "gross/w": "£ 65,000",
+    "gross/y": "£ 3,380,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Timothy Castagne",
+    "team": "Fulham",
+    "gross/w": "£ 65,000",
+    "gross/y": "£ 3,380,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Adama Traoré",
+    "team": "Fulham",
+    "gross/w": "£ 65,000",
+    "gross/y": "£ 3,380,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Luis Sinisterra",
+    "team": "Bournemouth",
+    "gross/w": "£ 65,000",
+    "gross/y": "£ 3,380,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Nicolas Jackson",
+    "team": "Chelsea",
+    "gross/w": "£ 65,000",
+    "gross/y": "£ 3,380,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Lukasz Fabianski",
+    "team": "West Ham",
+    "gross/w": "£ 65,000",
+    "gross/y": "£ 3,380,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Sasa Lukic",
+    "team": "Fulham",
+    "gross/w": "£ 63,000",
+    "gross/y": "£ 3,276,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Daniel Podence",
+    "team": "Wolverhampton",
+    "gross/w": "£ 60,000",
+    "gross/y": "£ 3,120,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Miguel Almirón",
+    "team": "Newcastle",
+    "gross/w": "£ 60,000",
+    "gross/y": "£ 3,120,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Nick Pope",
+    "team": "Newcastle",
+    "gross/w": "£ 60,000",
+    "gross/y": "£ 3,120,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Matheus Cunha",
+    "team": "Wolverhampton",
+    "gross/w": "£ 60,000",
+    "gross/y": "£ 3,120,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Scott McTominay",
+    "team": "Manchester United",
+    "gross/w": "£ 60,000",
+    "gross/y": "£ 3,120,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "James Milner",
+    "team": "Brighton",
+    "gross/w": "£ 60,000",
+    "gross/y": "£ 3,120,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Tyler Adams",
+    "team": "Bournemouth",
+    "gross/w": "£ 60,000",
+    "gross/y": "£ 3,120,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Nicolò Zaniolo",
+    "team": "Aston Villa",
+    "gross/w": "£ 60,000",
+    "gross/y": "£ 3,120,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Jeffrey Schlupp",
+    "team": "Crystal Palace",
+    "gross/w": "£ 60,000",
+    "gross/y": "£ 3,120,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Adrián",
+    "team": "Liverpool",
+    "gross/w": "£ 60,000",
+    "gross/y": "£ 3,120,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Danny Welbeck",
+    "team": "Brighton",
+    "gross/w": "£ 60,000",
+    "gross/y": "£ 3,120,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Anthony Gordon",
+    "team": "Newcastle",
+    "gross/w": "£ 60,000",
+    "gross/y": "£ 3,120,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Robert Sánchez",
+    "team": "Chelsea",
+    "gross/w": "£ 60,000",
+    "gross/y": "£ 3,120,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Manor Solomon",
+    "team": "Tottenham",
+    "gross/w": "£ 60,000",
+    "gross/y": "£ 3,120,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Vitaliy Mykolenko",
+    "team": "Everton",
+    "gross/w": "£ 58,000",
+    "gross/y": "£ 3,016,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Jakub Kiwior",
+    "team": "Arsenal",
+    "gross/w": "£ 58,000",
+    "gross/y": "£ 3,016,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Ben Mee",
+    "team": "Brentford",
+    "gross/w": "£ 55,000",
+    "gross/y": "£ 2,860,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Boubacar Traoré",
+    "team": "Wolverhampton",
+    "gross/w": "£ 55,000",
+    "gross/y": "£ 2,860,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Mahmoud Dahoud",
+    "team": "Brighton",
+    "gross/w": "£ 55,000",
+    "gross/y": "£ 2,860,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Saïd Benrahma",
+    "team": "West Ham",
+    "gross/w": "£ 55,000",
+    "gross/y": "£ 2,860,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Dan Burn",
+    "team": "Newcastle",
+    "gross/w": "£ 55,000",
+    "gross/y": "£ 2,860,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Adam Webster",
+    "team": "Brighton",
+    "gross/w": "£ 55,000",
+    "gross/y": "£ 2,860,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Emil Krafth",
+    "team": "Newcastle",
+    "gross/w": "£ 55,000",
+    "gross/y": "£ 2,860,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Jairo Riedewald",
+    "team": "Crystal Palace",
+    "gross/w": "£ 55,000",
+    "gross/y": "£ 2,860,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Seamus Coleman",
+    "team": "Everton",
+    "gross/w": "£ 55,000",
+    "gross/y": "£ 2,860,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Ryan Sessegnon",
+    "team": "Tottenham",
+    "gross/w": "£ 55,000",
+    "gross/y": "£ 2,860,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Chris Richards",
+    "team": "Crystal Palace",
+    "gross/w": "£ 55,000",
+    "gross/y": "£ 2,860,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Mohamed Elneny",
+    "team": "Arsenal",
+    "gross/w": "£ 55,000",
+    "gross/y": "£ 2,860,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Yves Bissouma",
+    "team": "Tottenham",
+    "gross/w": "£ 55,000",
+    "gross/y": "£ 2,860,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Luis Díaz",
+    "team": "Liverpool",
+    "gross/w": "£ 55,000",
+    "gross/y": "£ 2,860,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Sergio Reguilón",
+    "team": "Manchester United",
+    "gross/w": "£ 53,000",
+    "gross/y": "£ 2,756,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Sergio Reguilón",
+    "team": "Brentford",
+    "gross/w": "£ 53,000",
+    "gross/y": "£ 2,756,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Arnaut Danjuma",
+    "team": "Everton",
+    "gross/w": "£ 52,500",
+    "gross/y": "£ 2,730,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Sergio Gómez",
+    "team": "Manchester City",
+    "gross/w": "£ 50,000",
+    "gross/y": "£ 2,600,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Calum Chambers",
+    "team": "Aston Villa",
+    "gross/w": "£ 50,000",
+    "gross/y": "£ 2,600,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Robin Olsen",
+    "team": "Aston Villa",
+    "gross/w": "£ 50,000",
+    "gross/y": "£ 2,600,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "David Brooks",
+    "team": "Bournemouth",
+    "gross/w": "£ 50,000",
+    "gross/y": "£ 2,600,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Marcos Senesi",
+    "team": "Bournemouth",
+    "gross/w": "£ 50,000",
+    "gross/y": "£ 2,600,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Neto",
+    "team": "Bournemouth",
+    "gross/w": "£ 50,000",
+    "gross/y": "£ 2,600,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Mathias Jensen",
+    "team": "Brentford",
+    "gross/w": "£ 50,000",
+    "gross/y": "£ 2,600,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Neal Maupay",
+    "team": "Brentford",
+    "gross/w": "£ 50,000",
+    "gross/y": "£ 2,600,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "João Pedro",
+    "team": "Brighton",
+    "gross/w": "£ 50,000",
+    "gross/y": "£ 2,600,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Joël Veltman",
+    "team": "Brighton",
+    "gross/w": "£ 50,000",
+    "gross/y": "£ 2,600,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Pervis Estupiñán",
+    "team": "Brighton",
+    "gross/w": "£ 50,000",
+    "gross/y": "£ 2,600,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Solly March",
+    "team": "Brighton",
+    "gross/w": "£ 50,000",
+    "gross/y": "£ 2,600,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Conor Gallagher",
+    "team": "Chelsea",
+    "gross/w": "£ 50,000",
+    "gross/y": "£ 2,600,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Noni Madueke",
+    "team": "Chelsea",
+    "gross/w": "£ 50,000",
+    "gross/y": "£ 2,600,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Trevoh Chalobah",
+    "team": "Chelsea",
+    "gross/w": "£ 50,000",
+    "gross/y": "£ 2,600,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "James Tomkins",
+    "team": "Crystal Palace",
+    "gross/w": "£ 50,000",
+    "gross/y": "£ 2,600,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Jean-Philippe Mateta",
+    "team": "Crystal Palace",
+    "gross/w": "£ 50,000",
+    "gross/y": "£ 2,600,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Marc Guéhi",
+    "team": "Crystal Palace",
+    "gross/w": "£ 50,000",
+    "gross/y": "£ 2,600,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Nathaniel Clyne",
+    "team": "Crystal Palace",
+    "gross/w": "£ 50,000",
+    "gross/y": "£ 2,600,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Will Hughes",
+    "team": "Crystal Palace",
+    "gross/w": "£ 50,000",
+    "gross/y": "£ 2,600,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Beto",
+    "team": "Everton",
+    "gross/w": "£ 50,000",
+    "gross/y": "£ 2,600,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Andreas Pereira",
+    "team": "Fulham",
+    "gross/w": "£ 50,000",
+    "gross/y": "£ 2,600,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Antonee Robinson",
+    "team": "Fulham",
+    "gross/w": "£ 50,000",
+    "gross/y": "£ 2,600,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Harrison Reed",
+    "team": "Fulham",
+    "gross/w": "£ 50,000",
+    "gross/y": "£ 2,600,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Kenny Tete",
+    "team": "Fulham",
+    "gross/w": "£ 50,000",
+    "gross/y": "£ 2,600,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Wataru Endo",
+    "team": "Liverpool",
+    "gross/w": "£ 50,000",
+    "gross/y": "£ 2,600,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Albert Sambi Lokonga",
+    "team": "Luton Town",
+    "gross/w": "£ 50,000",
+    "gross/y": "£ 2,600,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Jérémy Doku",
+    "team": "Manchester City",
+    "gross/w": "£ 50,000",
+    "gross/y": "£ 2,600,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Oscar Bobb",
+    "team": "Manchester City",
+    "gross/w": "£ 50,000",
+    "gross/y": "£ 2,600,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Alejandro Garnacho",
+    "team": "Manchester United",
+    "gross/w": "£ 50,000",
+    "gross/y": "£ 2,600,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Mason Greenwood",
+    "team": "Manchester United",
+    "gross/w": "£ 50,000",
+    "gross/y": "£ 2,600,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Sean Longstaff",
+    "team": "Newcastle",
+    "gross/w": "£ 50,000",
+    "gross/y": "£ 2,600,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Tino Livramento",
+    "team": "Newcastle",
+    "gross/w": "£ 50,000",
+    "gross/y": "£ 2,600,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Neco Williams",
+    "team": "Nottingham Forest",
+    "gross/w": "£ 50,000",
+    "gross/y": "£ 2,600,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Serge Aurier",
+    "team": "Nottingham Forest",
+    "gross/w": "£ 50,000",
+    "gross/y": "£ 2,600,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Taiwo Awoniyi",
+    "team": "Nottingham Forest",
+    "gross/w": "£ 50,000",
+    "gross/y": "£ 2,600,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Micky van de Ven",
+    "team": "Tottenham",
+    "gross/w": "£ 50,000",
+    "gross/y": "£ 2,600,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Aaron Cresswell",
+    "team": "West Ham",
+    "gross/w": "£ 50,000",
+    "gross/y": "£ 2,600,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Konstantinos Mavropanos",
+    "team": "West Ham",
+    "gross/w": "£ 50,000",
+    "gross/y": "£ 2,600,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Nayef Aguerd",
+    "team": "West Ham",
+    "gross/w": "£ 50,000",
+    "gross/y": "£ 2,600,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Matt Doherty",
+    "team": "Wolverhampton",
+    "gross/w": "£ 50,000",
+    "gross/y": "£ 2,600,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Max Kilman",
+    "team": "Wolverhampton",
+    "gross/w": "£ 50,000",
+    "gross/y": "£ 2,600,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Pedro Neto",
+    "team": "Wolverhampton",
+    "gross/w": "£ 50,000",
+    "gross/y": "£ 2,600,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Zack Steffen",
+    "team": "Manchester City",
+    "gross/w": "£ 46,000",
+    "gross/y": "£ 2,392,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Callum Wilson",
+    "team": "Newcastle",
+    "gross/w": "£ 46,000",
+    "gross/y": "£ 2,392,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Odysseas Vlachodimos",
+    "team": "Nottingham Forest",
+    "gross/w": "£ 45,000",
+    "gross/y": "£ 2,340,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Josh Brownhill",
+    "team": "Burnley",
+    "gross/w": "£ 45,000",
+    "gross/y": "£ 2,340,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Fabian Schär",
+    "team": "Newcastle",
+    "gross/w": "£ 45,000",
+    "gross/y": "£ 2,340,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Matt Ritchie",
+    "team": "Newcastle",
+    "gross/w": "£ 45,000",
+    "gross/y": "£ 2,340,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Jack Cork",
+    "team": "Burnley",
+    "gross/w": "£ 45,000",
+    "gross/y": "£ 2,340,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Malo Gusto",
+    "team": "Chelsea",
+    "gross/w": "£ 45,000",
+    "gross/y": "£ 2,340,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Fábio Vieira",
+    "team": "Arsenal",
+    "gross/w": "£ 45,000",
+    "gross/y": "£ 2,340,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Calvin Bassey",
+    "team": "Fulham",
+    "gross/w": "£ 45,000",
+    "gross/y": "£ 2,340,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Mario Lemina",
+    "team": "Wolverhampton",
+    "gross/w": "£ 45,000",
+    "gross/y": "£ 2,340,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Bryan Mbeumo",
+    "team": "Brentford",
+    "gross/w": "£ 45,000",
+    "gross/y": "£ 2,340,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Lesley Ugochukwu",
+    "team": "Chelsea",
+    "gross/w": "£ 45,000",
+    "gross/y": "£ 2,340,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Igor",
+    "team": "Brighton",
+    "gross/w": "£ 45,000",
+    "gross/y": "£ 2,340,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Cheikhou Kouyaté",
+    "team": "Nottingham Forest",
+    "gross/w": "£ 45,000",
+    "gross/y": "£ 2,340,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Moussa Niakhaté",
+    "team": "Nottingham Forest",
+    "gross/w": "£ 45,000",
+    "gross/y": "£ 2,340,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Tom Heaton",
+    "team": "Manchester United",
+    "gross/w": "£ 45,000",
+    "gross/y": "£ 2,340,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Craig Dawson",
+    "team": "Wolverhampton",
+    "gross/w": "£ 45,000",
+    "gross/y": "£ 2,340,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Daniel Muñoz",
+    "team": "Crystal Palace",
+    "gross/w": "£ 45,000",
+    "gross/y": "£ 2,340,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Roméo Lavia",
+    "team": "Chelsea",
+    "gross/w": "£ 45,000",
+    "gross/y": "£ 2,340,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Philip Billing",
+    "team": "Bournemouth",
+    "gross/w": "£ 45,000",
+    "gross/y": "£ 2,340,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Rob Holding",
+    "team": "Crystal Palace",
+    "gross/w": "£ 45,000",
+    "gross/y": "£ 2,340,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Tyrick Mitchell",
+    "team": "Crystal Palace",
+    "gross/w": "£ 40,000",
+    "gross/y": "£ 2,080,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Harvey Elliott",
+    "team": "Liverpool",
+    "gross/w": "£ 40,000",
+    "gross/y": "£ 2,080,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Armando Broja",
+    "team": "Chelsea",
+    "gross/w": "£ 40,000",
+    "gross/y": "£ 2,080,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Ashley Young",
+    "team": "Everton",
+    "gross/w": "£ 40,000",
+    "gross/y": "£ 2,080,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Sander Berge",
+    "team": "Burnley",
+    "gross/w": "£ 40,000",
+    "gross/y": "£ 2,080,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Stefan Bajcetic",
+    "team": "Liverpool",
+    "gross/w": "£ 40,000",
+    "gross/y": "£ 2,080,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "José Sá",
+    "team": "Wolverhampton",
+    "gross/w": "£ 40,000",
+    "gross/y": "£ 2,080,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Jay Rodríguez",
+    "team": "Burnley",
+    "gross/w": "£ 40,000",
+    "gross/y": "£ 2,080,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Willy Boly",
+    "team": "Nottingham Forest",
+    "gross/w": "£ 40,000",
+    "gross/y": "£ 2,080,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Oliver Skipp",
+    "team": "Tottenham",
+    "gross/w": "£ 40,000",
+    "gross/y": "£ 2,080,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Martin Dubravka",
+    "team": "Newcastle",
+    "gross/w": "£ 40,000",
+    "gross/y": "£ 2,080,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Alex Scott",
+    "team": "Bournemouth",
+    "gross/w": "£ 40,000",
+    "gross/y": "£ 2,080,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Josh Cullen",
+    "team": "Burnley",
+    "gross/w": "£ 40,000",
+    "gross/y": "£ 2,080,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Lewis Cook",
+    "team": "Bournemouth",
+    "gross/w": "£ 40,000",
+    "gross/y": "£ 2,080,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Ola Aina",
+    "team": "Nottingham Forest",
+    "gross/w": "£ 40,000",
+    "gross/y": "£ 2,080,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Kristoffer Ajer",
+    "team": "Brentford",
+    "gross/w": "£ 40,000",
+    "gross/y": "£ 2,080,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Jamaal Lascelles",
+    "team": "Newcastle",
+    "gross/w": "£ 40,000",
+    "gross/y": "£ 2,080,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Matheus França",
+    "team": "Crystal Palace",
+    "gross/w": "£ 40,000",
+    "gross/y": "£ 2,080,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Emile Smith Rowe",
+    "team": "Arsenal",
+    "gross/w": "£ 40,000",
+    "gross/y": "£ 2,080,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Tosin Adarabioyo",
+    "team": "Fulham",
+    "gross/w": "£ 40,000",
+    "gross/y": "£ 2,080,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Armando Broja",
+    "team": "Fulham",
+    "gross/w": "£ 40,000",
+    "gross/y": "£ 2,080,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Matt Turner",
+    "team": "Nottingham Forest",
+    "gross/w": "£ 40,000",
+    "gross/y": "£ 2,080,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Bryan Gil",
+    "team": "Tottenham",
+    "gross/w": "£ 40,000",
+    "gross/y": "£ 2,080,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Emerson",
+    "team": "Tottenham",
+    "gross/w": "£ 40,000",
+    "gross/y": "£ 2,080,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Frank Onyeka",
+    "team": "Brentford",
+    "gross/w": "£ 40,000",
+    "gross/y": "£ 2,080,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Giovanni Reyna",
+    "team": "Nottingham Forest",
+    "gross/w": "£ 40,000",
+    "gross/y": "£ 2,080,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Sam Johnstone",
+    "team": "Crystal Palace",
+    "gross/w": "£ 40,000",
+    "gross/y": "£ 2,080,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Deivid Washington",
+    "team": "Chelsea",
+    "gross/w": "£ 40,000",
+    "gross/y": "£ 2,080,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Jean-Ricner Bellegarde",
+    "team": "Wolverhampton",
+    "gross/w": "£ 35,000",
+    "gross/y": "£ 1,820,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Matz Sels",
+    "team": "Nottingham Forest",
+    "gross/w": "£ 35,000",
+    "gross/y": "£ 1,820,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Nicolás Domínguez",
+    "team": "Nottingham Forest",
+    "gross/w": "£ 35,000",
+    "gross/y": "£ 1,820,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Marcus Bettinelli",
+    "team": "Chelsea",
+    "gross/w": "£ 35,000",
+    "gross/y": "£ 1,820,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Jarrad Branthwaite",
+    "team": "Everton",
+    "gross/w": "£ 35,000",
+    "gross/y": "£ 1,820,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Bobby Reid",
+    "team": "Fulham",
+    "gross/w": "£ 35,000",
+    "gross/y": "£ 1,820,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Álex Moreno",
+    "team": "Aston Villa",
+    "gross/w": "£ 35,000",
+    "gross/y": "£ 1,820,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Nathan Redmond",
+    "team": "Burnley",
+    "gross/w": "£ 35,000",
+    "gross/y": "£ 1,820,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Vladimir Coufal",
+    "team": "West Ham",
+    "gross/w": "£ 35,000",
+    "gross/y": "£ 1,820,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Sasa Kalajdzic",
+    "team": "Wolverhampton",
+    "gross/w": "£ 35,000",
+    "gross/y": "£ 1,820,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Adam Smith",
+    "team": "Bournemouth",
+    "gross/w": "£ 35,000",
+    "gross/y": "£ 1,820,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Joel Ward",
+    "team": "Crystal Palace",
+    "gross/w": "£ 35,000",
+    "gross/y": "£ 1,820,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Chris Mepham",
+    "team": "Bournemouth",
+    "gross/w": "£ 35,000",
+    "gross/y": "£ 1,820,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Dango Ouattara",
+    "team": "Bournemouth",
+    "gross/w": "£ 35,000",
+    "gross/y": "£ 1,820,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Harry Wilson",
+    "team": "Fulham",
+    "gross/w": "£ 35,000",
+    "gross/y": "£ 1,820,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Ryan Giles",
+    "team": "Luton Town",
+    "gross/w": "£ 35,000",
+    "gross/y": "£ 1,820,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Marcus Tavernier",
+    "team": "Bournemouth",
+    "gross/w": "£ 35,000",
+    "gross/y": "£ 1,820,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Max Aarons",
+    "team": "Bournemouth",
+    "gross/w": "£ 35,000",
+    "gross/y": "£ 1,820,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Jonny Otto",
+    "team": "Wolverhampton",
+    "gross/w": "£ 35,000",
+    "gross/y": "£ 1,820,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Jóhann Berg Gudmundsson",
+    "team": "Burnley",
+    "gross/w": "£ 35,000",
+    "gross/y": "£ 1,820,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Jacob Bruun Larsen",
+    "team": "Burnley",
+    "gross/w": "£ 35,000",
+    "gross/y": "£ 1,820,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Adam Wharton",
+    "team": "Crystal Palace",
+    "gross/w": "£ 35,000",
+    "gross/y": "£ 1,820,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Romain Faivre",
+    "team": "Bournemouth",
+    "gross/w": "£ 35,000",
+    "gross/y": "£ 1,820,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Ryan Fredericks",
+    "team": "Bournemouth",
+    "gross/w": "£ 35,000",
+    "gross/y": "£ 1,820,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Altay Bayındır",
+    "team": "Manchester United",
+    "gross/w": "£ 35,000",
+    "gross/y": "£ 1,820,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Christian Nørgaard",
+    "team": "Brentford",
+    "gross/w": "£ 35,000",
+    "gross/y": "£ 1,820,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Harry Toffolo",
+    "team": "Nottingham Forest",
+    "gross/w": "£ 35,000",
+    "gross/y": "£ 1,820,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Tariq Lamptey",
+    "team": "Brighton",
+    "gross/w": "£ 35,000",
+    "gross/y": "£ 1,820,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Keane Lewis-Potter",
+    "team": "Brentford",
+    "gross/w": "£ 35,000",
+    "gross/y": "£ 1,820,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Rhian Brewster",
+    "team": "Sheffield United",
+    "gross/w": "£ 35,000",
+    "gross/y": "£ 1,820,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Bart Verbruggen",
+    "team": "Brighton",
+    "gross/w": "£ 35,000",
+    "gross/y": "£ 1,820,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Jacob Murphy",
+    "team": "Newcastle",
+    "gross/w": "£ 35,000",
+    "gross/y": "£ 1,820,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Javier Manquillo",
+    "team": "Newcastle",
+    "gross/w": "£ 35,000",
+    "gross/y": "£ 1,820,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Paul Dummett",
+    "team": "Newcastle",
+    "gross/w": "£ 35,000",
+    "gross/y": "£ 1,820,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Andrew Omobamidele",
+    "team": "Nottingham Forest",
+    "gross/w": "£ 35,000",
+    "gross/y": "£ 1,820,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Ben Brereton",
+    "team": "Sheffield United",
+    "gross/w": "£ 35,000",
+    "gross/y": "£ 1,820,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Rico Henry",
+    "team": "Brentford",
+    "gross/w": "£ 35,000",
+    "gross/y": "£ 1,820,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Fodé Ballo-Touré",
+    "team": "Fulham",
+    "gross/w": "£ 32,500",
+    "gross/y": "£ 1,690,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Lyle Foster",
+    "team": "Burnley",
+    "gross/w": "£ 32,500",
+    "gross/y": "£ 1,690,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Danilo",
+    "team": "Nottingham Forest",
+    "gross/w": "£ 30,000",
+    "gross/y": "£ 1,560,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "David Datro Fofana",
+    "team": "Burnley",
+    "gross/w": "£ 30,000",
+    "gross/y": "£ 1,560,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Vinicius Souza",
+    "team": "Sheffield United",
+    "gross/w": "£ 30,000",
+    "gross/y": "£ 1,560,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "James Garner",
+    "team": "Everton",
+    "gross/w": "£ 30,000",
+    "gross/y": "£ 1,560,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Lloyd Kelly",
+    "team": "Bournemouth",
+    "gross/w": "£ 30,000",
+    "gross/y": "£ 1,560,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Murillo",
+    "team": "Nottingham Forest",
+    "gross/w": "£ 30,000",
+    "gross/y": "£ 1,560,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Tom Davies",
+    "team": "Sheffield United",
+    "gross/w": "£ 30,000",
+    "gross/y": "£ 1,560,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Evan Ferguson",
+    "team": "Brighton",
+    "gross/w": "£ 30,000",
+    "gross/y": "£ 1,560,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Anel Ahmedhodzic",
+    "team": "Sheffield United",
+    "gross/w": "£ 30,000",
+    "gross/y": "£ 1,560,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Nuno Tavares",
+    "team": "Nottingham Forest",
+    "gross/w": "£ 30,000",
+    "gross/y": "£ 1,560,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Tom Cairney",
+    "team": "Fulham",
+    "gross/w": "£ 30,000",
+    "gross/y": "£ 1,560,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Zeki Amdouni",
+    "team": "Burnley",
+    "gross/w": "£ 30,000",
+    "gross/y": "£ 1,560,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Elliot Anderson",
+    "team": "Newcastle",
+    "gross/w": "£ 30,000",
+    "gross/y": "£ 1,560,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Ross Barkley",
+    "team": "Luton Town",
+    "gross/w": "£ 30,000",
+    "gross/y": "£ 1,560,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Tim Ream",
+    "team": "Fulham",
+    "gross/w": "£ 30,000",
+    "gross/y": "£ 1,560,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "João Gomes",
+    "team": "Wolverhampton",
+    "gross/w": "£ 30,000",
+    "gross/y": "£ 1,560,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Orel Mangala",
+    "team": "Nottingham Forest",
+    "gross/w": "£ 30,000",
+    "gross/y": "£ 1,560,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Vitaly Janelt",
+    "team": "Brentford",
+    "gross/w": "£ 30,000",
+    "gross/y": "£ 1,560,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Mikkel Damsgaard",
+    "team": "Brentford",
+    "gross/w": "£ 30,000",
+    "gross/y": "£ 1,560,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Santiago Bueno",
+    "team": "Wolverhampton",
+    "gross/w": "£ 30,000",
+    "gross/y": "£ 1,560,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Connor Roberts",
+    "team": "Burnley",
+    "gross/w": "£ 30,000",
+    "gross/y": "£ 1,560,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Ionut Radu",
+    "team": "Bournemouth",
+    "gross/w": "£ 30,000",
+    "gross/y": "£ 1,560,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Charlie Taylor",
+    "team": "Burnley",
+    "gross/w": "£ 30,000",
+    "gross/y": "£ 1,560,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Tahith Chong",
+    "team": "Luton Town",
+    "gross/w": "£ 30,000",
+    "gross/y": "£ 1,560,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Jhon Durán",
+    "team": "Aston Villa",
+    "gross/w": "£ 30,000",
+    "gross/y": "£ 1,560,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Marvelous Nakamba",
+    "team": "Luton Town",
+    "gross/w": "£ 30,000",
+    "gross/y": "£ 1,560,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Youssef Chermiti",
+    "team": "Everton",
+    "gross/w": "£ 30,000",
+    "gross/y": "£ 1,560,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Joshua Da Silva",
+    "team": "Brentford",
+    "gross/w": "£ 30,000",
+    "gross/y": "£ 1,560,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Jan Paul van Hecke",
+    "team": "Brighton",
+    "gross/w": "£ 30,000",
+    "gross/y": "£ 1,560,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Jacob Brown",
+    "team": "Luton Town",
+    "gross/w": "£ 30,000",
+    "gross/y": "£ 1,560,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Marquinhos",
+    "team": "Arsenal",
+    "gross/w": "£ 30,000",
+    "gross/y": "£ 1,560,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Ethan Pinnock",
+    "team": "Brentford",
+    "gross/w": "£ 30,000",
+    "gross/y": "£ 1,560,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Cameron Archer",
+    "team": "Sheffield United",
+    "gross/w": "£ 30,000",
+    "gross/y": "£ 1,560,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Gustavo Hamer",
+    "team": "Sheffield United",
+    "gross/w": "£ 30,000",
+    "gross/y": "£ 1,560,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Mark Flekken",
+    "team": "Brentford",
+    "gross/w": "£ 30,000",
+    "gross/y": "£ 1,560,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Milos Kerkez",
+    "team": "Bournemouth",
+    "gross/w": "£ 30,000",
+    "gross/y": "£ 1,560,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Nathan Collins",
+    "team": "Brentford",
+    "gross/w": "£ 30,000",
+    "gross/y": "£ 1,560,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Scott Carson",
+    "team": "Manchester City",
+    "gross/w": "£ 30,000",
+    "gross/y": "£ 1,560,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Amad Diallo",
+    "team": "Manchester United",
+    "gross/w": "£ 28,846",
+    "gross/y": "£ 1,500,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Nathan Patterson",
+    "team": "Everton",
+    "gross/w": "£ 28,000",
+    "gross/y": "£ 1,456,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Thomas Strakosha",
+    "team": "Brentford",
+    "gross/w": "£ 25,000",
+    "gross/y": "£ 1,300,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Toti Gomes",
+    "team": "Wolverhampton",
+    "gross/w": "£ 25,000",
+    "gross/y": "£ 1,300,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "James Trafford",
+    "team": "Burnley",
+    "gross/w": "£ 25,000",
+    "gross/y": "£ 1,300,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Carlos Vinícius",
+    "team": "Fulham",
+    "gross/w": "£ 25,000",
+    "gross/y": "£ 1,300,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Rico Lewis",
+    "team": "Manchester City",
+    "gross/w": "£ 25,000",
+    "gross/y": "£ 1,300,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Gonzalo Montiel",
+    "team": "Nottingham Forest",
+    "gross/w": "£ 25,000",
+    "gross/y": "£ 1,300,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Anthony Elanga",
+    "team": "Nottingham Forest",
+    "gross/w": "£ 25,000",
+    "gross/y": "£ 1,300,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Vitinho",
+    "team": "Burnley",
+    "gross/w": "£ 25,000",
+    "gross/y": "£ 1,300,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Auston Trusty",
+    "team": "Sheffield United",
+    "gross/w": "£ 25,000",
+    "gross/y": "£ 1,300,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Benson Manuel",
+    "team": "Burnley",
+    "gross/w": "£ 25,000",
+    "gross/y": "£ 1,300,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Arijanet Muric",
+    "team": "Burnley",
+    "gross/w": "£ 25,000",
+    "gross/y": "£ 1,300,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Aaron Ramsey",
+    "team": "Burnley",
+    "gross/w": "£ 25,000",
+    "gross/y": "£ 1,300,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Valentín Barco",
+    "team": "Brighton",
+    "gross/w": "£ 25,000",
+    "gross/y": "£ 1,300,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Dwight McNeil",
+    "team": "Everton",
+    "gross/w": "£ 25,000",
+    "gross/y": "£ 1,300,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Kobbie Mainoo",
+    "team": "Manchester United",
+    "gross/w": "£ 25,000",
+    "gross/y": "£ 1,300,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Djordje Petrovic",
+    "team": "Chelsea",
+    "gross/w": "£ 25,000",
+    "gross/y": "£ 1,300,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Djed Spence",
+    "team": "Tottenham",
+    "gross/w": "£ 25,000",
+    "gross/y": "£ 1,300,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Alejo Véliz",
+    "team": "Tottenham",
+    "gross/w": "£ 25,000",
+    "gross/y": "£ 1,300,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Nathan Ferguson",
+    "team": "Crystal Palace",
+    "gross/w": "£ 25,000",
+    "gross/y": "£ 1,300,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Adam Davies",
+    "team": "Sheffield United",
+    "gross/w": "£ 25,000",
+    "gross/y": "£ 1,300,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Zanka",
+    "team": "Brentford",
+    "gross/w": "£ 25,000",
+    "gross/y": "£ 1,300,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Ryan Yates",
+    "team": "Nottingham Forest",
+    "gross/w": "£ 25,000",
+    "gross/y": "£ 1,300,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Yoane Wissa",
+    "team": "Brentford",
+    "gross/w": "£ 25,000",
+    "gross/y": "£ 1,300,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Oliver McBurnie",
+    "team": "Sheffield United",
+    "gross/w": "£ 25,000",
+    "gross/y": "£ 1,300,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "John Fleck",
+    "team": "Sheffield United",
+    "gross/w": "£ 25,000",
+    "gross/y": "£ 1,300,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Jordan Ayew",
+    "team": "Crystal Palace",
+    "gross/w": "£ 25,000",
+    "gross/y": "£ 1,300,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Darren Randolph",
+    "team": "Bournemouth",
+    "gross/w": "£ 25,000",
+    "gross/y": "£ 1,300,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Ilya Zabarnyi",
+    "team": "Bournemouth",
+    "gross/w": "£ 25,000",
+    "gross/y": "£ 1,300,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Thomas Kaminski",
+    "team": "Luton Town",
+    "gross/w": "£ 25,000",
+    "gross/y": "£ 1,300,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Tim Krul",
+    "team": "Luton Town",
+    "gross/w": "£ 25,000",
+    "gross/y": "£ 1,300,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Jack Robinson",
+    "team": "Sheffield United",
+    "gross/w": "£ 25,000",
+    "gross/y": "£ 1,300,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Ivo Grbic",
+    "team": "Sheffield United",
+    "gross/w": "£ 25,000",
+    "gross/y": "£ 1,300,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Isaac Hayden",
+    "team": "Newcastle",
+    "gross/w": "£ 22,000",
+    "gross/y": "£ 1,144,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Ben Osborn",
+    "team": "Sheffield United",
+    "gross/w": "£ 20,000",
+    "gross/y": "£ 1,040,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Issa Kabore",
+    "team": "Luton Town",
+    "gross/w": "£ 20,000",
+    "gross/y": "£ 1,040,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Ivan Toney",
+    "team": "Brentford",
+    "gross/w": "£ 20,000",
+    "gross/y": "£ 1,040,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Cauley Woodrow",
+    "team": "Luton Town",
+    "gross/w": "£ 20,000",
+    "gross/y": "£ 1,040,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Ben Johnson",
+    "team": "West Ham",
+    "gross/w": "£ 20,000",
+    "gross/y": "£ 1,040,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Mark Travers",
+    "team": "Bournemouth",
+    "gross/w": "£ 20,000",
+    "gross/y": "£ 1,040,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Facundo Pellistri",
+    "team": "Manchester United",
+    "gross/w": "£ 20,000",
+    "gross/y": "£ 1,040,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Mads Roerslev Rasmussen",
+    "team": "Brentford",
+    "gross/w": "£ 20,000",
+    "gross/y": "£ 1,040,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Harry Arter",
+    "team": "Nottingham Forest",
+    "gross/w": "£ 20,000",
+    "gross/y": "£ 1,040,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Dara O'Shea",
+    "team": "Burnley",
+    "gross/w": "£ 20,000",
+    "gross/y": "£ 1,040,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Enso González",
+    "team": "Wolverhampton",
+    "gross/w": "£ 20,000",
+    "gross/y": "£ 1,040,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Giulian Biancone",
+    "team": "Nottingham Forest",
+    "gross/w": "£ 20,000",
+    "gross/y": "£ 1,040,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Hjalmar Ekdal",
+    "team": "Burnley",
+    "gross/w": "£ 20,000",
+    "gross/y": "£ 1,040,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Morgan Rogers",
+    "team": "Aston Villa",
+    "gross/w": "£ 20,000",
+    "gross/y": "£ 1,040,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Scott McKenna",
+    "team": "Nottingham Forest",
+    "gross/w": "£ 20,000",
+    "gross/y": "£ 1,040,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Antoine Semenyo",
+    "team": "Bournemouth",
+    "gross/w": "£ 20,000",
+    "gross/y": "£ 1,040,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Oliver Norwood",
+    "team": "Sheffield United",
+    "gross/w": "£ 20,000",
+    "gross/y": "£ 1,040,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Andros Townsend",
+    "team": "Luton Town",
+    "gross/w": "£ 20,000",
+    "gross/y": "£ 1,040,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Naouirou Ahamada",
+    "team": "Crystal Palace",
+    "gross/w": "£ 20,000",
+    "gross/y": "£ 1,040,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Jason Steele",
+    "team": "Brighton",
+    "gross/w": "£ 20,000",
+    "gross/y": "£ 1,040,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Tom Lockyer",
+    "team": "Luton Town",
+    "gross/w": "£ 20,000",
+    "gross/y": "£ 1,040,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Jayden Bogle",
+    "team": "Sheffield United",
+    "gross/w": "£ 20,000",
+    "gross/y": "£ 1,040,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Billy Gilmour",
+    "team": "Brighton",
+    "gross/w": "£ 20,000",
+    "gross/y": "£ 1,040,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Ethan Horvath",
+    "team": "Nottingham Forest",
+    "gross/w": "£ 17,115",
+    "gross/y": "£ 890,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Steven Alzate",
+    "team": "Brighton",
+    "gross/w": "£ 15,000",
+    "gross/y": "£ 780,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Marek Rodak",
+    "team": "Fulham",
+    "gross/w": "£ 15,000",
+    "gross/y": "£ 780,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Ben Doak",
+    "team": "Liverpool",
+    "gross/w": "£ 15,000",
+    "gross/y": "£ 780,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Curtis Jones",
+    "team": "Liverpool",
+    "gross/w": "£ 15,000",
+    "gross/y": "£ 780,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Jarell Quansah",
+    "team": "Liverpool",
+    "gross/w": "£ 15,000",
+    "gross/y": "£ 780,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Michael Obafemi",
+    "team": "Burnley",
+    "gross/w": "£ 15,000",
+    "gross/y": "£ 780,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Chiedozie Ogbene",
+    "team": "Luton Town",
+    "gross/w": "£ 15,000",
+    "gross/y": "£ 780,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Daiki Hashioka",
+    "team": "Luton Town",
+    "gross/w": "£ 15,000",
+    "gross/y": "£ 780,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Mads Juel Andersen",
+    "team": "Luton Town",
+    "gross/w": "£ 15,000",
+    "gross/y": "£ 780,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Han-Noah Massengo",
+    "team": "Burnley",
+    "gross/w": "£ 15,000",
+    "gross/y": "£ 780,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Hannes Delcroix",
+    "team": "Burnley",
+    "gross/w": "£ 15,000",
+    "gross/y": "£ 780,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Anass Zaroury",
+    "team": "Burnley",
+    "gross/w": "£ 15,000",
+    "gross/y": "£ 780,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Ameen Al-Dakhil",
+    "team": "Burnley",
+    "gross/w": "£ 15,000",
+    "gross/y": "£ 780,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Facundo Buonanotte",
+    "team": "Brighton",
+    "gross/w": "£ 15,000",
+    "gross/y": "£ 780,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Yunus Emre Konak",
+    "team": "Brentford",
+    "gross/w": "£ 15,000",
+    "gross/y": "£ 780,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Shandon Baptiste",
+    "team": "Brentford",
+    "gross/w": "£ 15,000",
+    "gross/y": "£ 780,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Saman Ghoddos",
+    "team": "Brentford",
+    "gross/w": "£ 15,000",
+    "gross/y": "£ 780,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Wayne Hennessey",
+    "team": "Nottingham Forest",
+    "gross/w": "£ 15,000",
+    "gross/y": "£ 780,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Andre Brooks",
+    "team": "Sheffield United",
+    "gross/w": "£ 15,000",
+    "gross/y": "£ 780,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Chris Basham",
+    "team": "Sheffield United",
+    "gross/w": "£ 15,000",
+    "gross/y": "£ 780,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "James McAtee",
+    "team": "Sheffield United",
+    "gross/w": "£ 15,000",
+    "gross/y": "£ 780,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Luke Thomas",
+    "team": "Sheffield United",
+    "gross/w": "£ 15,000",
+    "gross/y": "£ 780,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Ashley Phillips",
+    "team": "Tottenham",
+    "gross/w": "£ 15,000",
+    "gross/y": "£ 780,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Brandon Austin",
+    "team": "Tottenham",
+    "gross/w": "£ 15,000",
+    "gross/y": "£ 780,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Kieffer Moore",
+    "team": "Bournemouth",
+    "gross/w": "£ 15,000",
+    "gross/y": "£ 780,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Enes Ünal",
+    "team": "Bournemouth",
+    "gross/w": "£ 15,000",
+    "gross/y": "£ 780,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Emiliano Marcondes",
+    "team": "Bournemouth",
+    "gross/w": "£ 15,000",
+    "gross/y": "£ 780,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Bruno Jordão",
+    "team": "Wolverhampton",
+    "gross/w": "£ 15,000",
+    "gross/y": "£ 780,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Simon Adingra",
+    "team": "Brighton",
+    "gross/w": "£ 12,500",
+    "gross/y": "£ 650,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Luke Harris",
+    "team": "Fulham",
+    "gross/w": "£ 12,500",
+    "gross/y": "£ 650,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "John Egan",
+    "team": "Sheffield United",
+    "gross/w": "£ 12,500",
+    "gross/y": "£ 650,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Anis Slimane",
+    "team": "Sheffield United",
+    "gross/w": "£ 12,500",
+    "gross/y": "£ 650,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "William Osula",
+    "team": "Sheffield United",
+    "gross/w": "£ 12,500",
+    "gross/y": "£ 650,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Wes Foderingham",
+    "team": "Sheffield United",
+    "gross/w": "£ 12,500",
+    "gross/y": "£ 650,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Elijah Adebayo",
+    "team": "Luton Town",
+    "gross/w": "£ 12,500",
+    "gross/y": "£ 650,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Carlos Baleba",
+    "team": "Brighton",
+    "gross/w": "£ 12,500",
+    "gross/y": "£ 650,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Reece Burke",
+    "team": "Luton Town",
+    "gross/w": "£ 12,500",
+    "gross/y": "£ 650,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Loris Karius",
+    "team": "Newcastle",
+    "gross/w": "£ 10,000",
+    "gross/y": "£ 520,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Malcolm Ebiowei",
+    "team": "Crystal Palace",
+    "gross/w": "£ 10,000",
+    "gross/y": "£ 520,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Max Lowe",
+    "team": "Sheffield United",
+    "gross/w": "£ 10,000",
+    "gross/y": "£ 520,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Hugo Bueno",
+    "team": "Wolverhampton",
+    "gross/w": "£ 10,000",
+    "gross/y": "£ 520,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Bénie Traoré",
+    "team": "Sheffield United",
+    "gross/w": "£ 10,000",
+    "gross/y": "£ 520,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Tommy Doyle",
+    "team": "Wolverhampton",
+    "gross/w": "£ 10,000",
+    "gross/y": "£ 520,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Steven Benda",
+    "team": "Fulham",
+    "gross/w": "£ 10,000",
+    "gross/y": "£ 520,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Femi Seriki",
+    "team": "Sheffield United",
+    "gross/w": "£ 10,000",
+    "gross/y": "£ 520,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "George Baldock",
+    "team": "Sheffield United",
+    "gross/w": "£ 10,000",
+    "gross/y": "£ 520,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Ismaila Coulibaly",
+    "team": "Sheffield United",
+    "gross/w": "£ 10,000",
+    "gross/y": "£ 520,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Tom King",
+    "team": "Wolverhampton",
+    "gross/w": "£ 10,000",
+    "gross/y": "£ 520,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Mark Gillespie",
+    "team": "Newcastle",
+    "gross/w": "£ 10,000",
+    "gross/y": "£ 520,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Jack Hinshelwood",
+    "team": "Brighton",
+    "gross/w": "£ 10,000",
+    "gross/y": "£ 520,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Yasser Larouci",
+    "team": "Sheffield United",
+    "gross/w": "£ 10,000",
+    "gross/y": "£ 520,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Kevin Schade",
+    "team": "Brentford",
+    "gross/w": "£ 10,000",
+    "gross/y": "£ 520,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Jakub Moder",
+    "team": "Brighton",
+    "gross/w": "£ 10,000",
+    "gross/y": "£ 520,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Julio Enciso",
+    "team": "Brighton",
+    "gross/w": "£ 10,000",
+    "gross/y": "£ 520,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Karl Hein",
+    "team": "Arsenal",
+    "gross/w": "£ 10,000",
+    "gross/y": "£ 520,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Hákon Rafn Valdimarsson",
+    "team": "Brentford",
+    "gross/w": "£ 10,000",
+    "gross/y": "£ 520,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Tom McGill",
+    "team": "Brighton",
+    "gross/w": "£ 10,000",
+    "gross/y": "£ 520,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Ellery Balcombe",
+    "team": "Brentford",
+    "gross/w": "£ 10,000",
+    "gross/y": "£ 520,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Darko Churlinov",
+    "team": "Burnley",
+    "gross/w": "£ 10,000",
+    "gross/y": "£ 520,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Lorenz Assignon",
+    "team": "Burnley",
+    "gross/w": "£ 10,000",
+    "gross/y": "£ 520,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Luca Koleosho",
+    "team": "Burnley",
+    "gross/w": "£ 10,000",
+    "gross/y": "£ 520,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Teden Mengi",
+    "team": "Luton Town",
+    "gross/w": "£ 10,000",
+    "gross/y": "£ 520,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Rayan Aït-Nouri",
+    "team": "Wolverhampton",
+    "gross/w": "£ 10,000",
+    "gross/y": "£ 520,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Pelly Ruddock Mpanzu",
+    "team": "Luton Town",
+    "gross/w": "£ 10,000",
+    "gross/y": "£ 520,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Luke Berry",
+    "team": "Luton Town",
+    "gross/w": "£ 10,000",
+    "gross/y": "£ 520,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Joe Whitworth",
+    "team": "Crystal Palace",
+    "gross/w": "£ 10,000",
+    "gross/y": "£ 520,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Andrey Santos",
+    "team": "Nottingham Forest",
+    "gross/w": "£ 10,000",
+    "gross/y": "£ 520,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Gabriel Osho",
+    "team": "Luton Town",
+    "gross/w": "£ 10,000",
+    "gross/y": "£ 520,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Dan Potts",
+    "team": "Luton Town",
+    "gross/w": "£ 10,000",
+    "gross/y": "£ 520,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Carlton Morris",
+    "team": "Luton Town",
+    "gross/w": "£ 10,000",
+    "gross/y": "£ 520,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Amari'i Bell",
+    "team": "Luton Town",
+    "gross/w": "£ 10,000",
+    "gross/y": "£ 520,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Kortney Hause",
+    "team": "Aston Villa",
+    "gross/w": "£ 10,000",
+    "gross/y": "£ 520,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Joe Gauci",
+    "team": "Aston Villa",
+    "gross/w": "£ 10,000",
+    "gross/y": "£ 520,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Mike Trésor",
+    "team": "Burnley",
+    "gross/w": "£ 10,000",
+    "gross/y": "£ 520,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Daniel Bentley",
+    "team": "Wolverhampton",
+    "gross/w": "£ 10,000",
+    "gross/y": "£ 520,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Rhys Williams",
+    "team": "Liverpool",
+    "gross/w": "£ 10,000",
+    "gross/y": "£ 520,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Wilson Odobert",
+    "team": "Burnley",
+    "gross/w": "£ 10,000",
+    "gross/y": "£ 520,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Diego Moreira",
+    "team": "Chelsea",
+    "gross/w": "£ 10,000",
+    "gross/y": "£ 520,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Conor Bradley",
+    "team": "Liverpool",
+    "gross/w": "£ 10,000",
+    "gross/y": "£ 520,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Caoimhín Kelleher",
+    "team": "Liverpool",
+    "gross/w": "£ 10,000",
+    "gross/y": "£ 520,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Brandon Aguilera",
+    "team": "Nottingham Forest",
+    "gross/w": "£ 10,000",
+    "gross/y": "£ 520,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Charlie Goode",
+    "team": "Brentford",
+    "gross/w": "£ 8,000",
+    "gross/y": "£ 416,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Joe Rothwell",
+    "team": "Bournemouth",
+    "gross/w": "£ 8,000",
+    "gross/y": "£ 416,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Lewis Dobbin",
+    "team": "Everton",
+    "gross/w": "£ 8,000",
+    "gross/y": "£ 416,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "James Shea",
+    "team": "Luton Town",
+    "gross/w": "£ 7,500",
+    "gross/y": "£ 390,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Alfie Doughty",
+    "team": "Luton Town",
+    "gross/w": "£ 7,500",
+    "gross/y": "£ 390,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Andy Lonergan",
+    "team": "Everton",
+    "gross/w": "£ 7,500",
+    "gross/y": "£ 390,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Cesare Casadei",
+    "team": "Chelsea",
+    "gross/w": "£ 7,500",
+    "gross/y": "£ 390,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Rodrigo Muniz",
+    "team": "Fulham",
+    "gross/w": "£ 7,500",
+    "gross/y": "£ 390,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "João Virgínia",
+    "team": "Everton",
+    "gross/w": "£ 7,500",
+    "gross/y": "£ 390,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Alfie Whiteman",
+    "team": "Tottenham",
+    "gross/w": "£ 7,500",
+    "gross/y": "£ 390,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Jesurun Rak-Sakyi",
+    "team": "Crystal Palace",
+    "gross/w": "£ 7,500",
+    "gross/y": "£ 390,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Rodrigo Ribeiro",
+    "team": "Nottingham Forest",
+    "gross/w": "£ 7,500",
+    "gross/y": "£ 390,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Remi Matthews",
+    "team": "Crystal Palace",
+    "gross/w": "£ 7,500",
+    "gross/y": "£ 390,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Willy Kambwala",
+    "team": "Manchester United",
+    "gross/w": "£ 7,500",
+    "gross/y": "£ 390,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Lewis Hall",
+    "team": "Newcastle",
+    "gross/w": "£ 7,000",
+    "gross/y": "£ 364,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Tyrese Francois",
+    "team": "Fulham",
+    "gross/w": "£ 7,000",
+    "gross/y": "£ 364,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Lawrence Vigouroux",
+    "team": "Burnley",
+    "gross/w": "£ 7,000",
+    "gross/y": "£ 364,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "CJ Egan-Riley",
+    "team": "Burnley",
+    "gross/w": "£ 6,000",
+    "gross/y": "£ 312,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Fred Onyedinma",
+    "team": "Luton Town",
+    "gross/w": "£ 6,000",
+    "gross/y": "£ 312,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Lewis Miley",
+    "team": "Newcastle",
+    "gross/w": "£ 5,000",
+    "gross/y": "£ 260,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Myles Peart-Harris",
+    "team": "Brentford",
+    "gross/w": "£ 5,000",
+    "gross/y": "£ 260,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Jordan Clark",
+    "team": "Luton Town",
+    "gross/w": "£ 5,000",
+    "gross/y": "£ 260,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Conor Coventry",
+    "team": "West Ham",
+    "gross/w": "£ 5,000",
+    "gross/y": "£ 260,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Maxime Estève",
+    "team": "Burnley",
+    "gross/w": "£ 5,000",
+    "gross/y": "£ 260,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Joe Hodge",
+    "team": "Wolverhampton",
+    "gross/w": "£ 5,000",
+    "gross/y": "£ 260,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Tyler Onyango",
+    "team": "Everton",
+    "gross/w": "£ 5,000",
+    "gross/y": "£ 260,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Shola Shoretire",
+    "team": "Manchester United",
+    "gross/w": "£ 5,000",
+    "gross/y": "£ 260,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Tim Iroegbunam",
+    "team": "Aston Villa",
+    "gross/w": "£ 5,000",
+    "gross/y": "£ 260,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Noha Lemina",
+    "team": "Wolverhampton",
+    "gross/w": "£ 5,000",
+    "gross/y": "£ 260,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Yegor Yarmolyuk",
+    "team": "Brentford",
+    "gross/w": "£ 5,000",
+    "gross/y": "£ 260,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Rhys Norrington-Davies",
+    "team": "Sheffield United",
+    "gross/w": "£ 4,000",
+    "gross/y": "£ 208,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Divin Mubama",
+    "team": "West Ham",
+    "gross/w": "£ 4,000",
+    "gross/y": "£ 208,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Daniel Jebbison",
+    "team": "Sheffield United",
+    "gross/w": "£ 4,000",
+    "gross/y": "£ 208,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Joseph Anang",
+    "team": "West Ham",
+    "gross/w": "£ 4,000",
+    "gross/y": "£ 208,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Enock Agyei",
+    "team": "Burnley",
+    "gross/w": "£ 4,000",
+    "gross/y": "£ 208,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Alex Mighten",
+    "team": "Nottingham Forest",
+    "gross/w": "£ 3,462",
+    "gross/y": "£ 180,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Jordan Beyer",
+    "team": "Burnley",
+    "gross/w": "£ 3,000",
+    "gross/y": "£ 156,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "James Hill",
+    "team": "Bournemouth",
+    "gross/w": "£ 3,000",
+    "gross/y": "£ 156,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Denis Franchi",
+    "team": "Burnley",
+    "gross/w": "£ 3,000",
+    "gross/y": "£ 156,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Ryan Trevitt",
+    "team": "Brentford",
+    "gross/w": "£ 2,500",
+    "gross/y": "£ 130,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Elliot Thorpe",
+    "team": "Luton Town",
+    "gross/w": "£ 2,500",
+    "gross/y": "£ 130,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Gavin Kilkenny",
+    "team": "Bournemouth",
+    "gross/w": "£ 1,500",
+    "gross/y": "£ 78,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Jordan Amissah",
+    "team": "Sheffield United",
+    "gross/w": "£ 1,000",
+    "gross/y": "£ 52,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Louie Marsh",
+    "team": "Sheffield United",
+    "gross/w": "£ 1,000",
+    "gross/y": "£ 52,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Hakim Ziyech",
+    "team": "Chelsea",
+    "gross/w": "£ 0",
+    "gross/y": "£ 0",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Hamed Junior Traorè",
+    "team": "Bournemouth",
+    "gross/w": "£ 0",
+    "gross/y": "£ 0",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Kacper Kozlowski",
+    "team": "Brighton",
+    "gross/w": "£ 0",
+    "gross/y": "£ 0",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Tanguy Ndombélé",
+    "team": "Tottenham",
+    "gross/w": "£ 0",
+    "gross/y": "£ 0",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Ui-jo Hwang",
+    "team": "Nottingham Forest",
+    "gross/w": "£ 0",
+    "gross/y": "£ 0",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Romelu Lukaku",
+    "team": "Chelsea",
+    "gross/w": "£ 0",
+    "gross/y": "£ 0",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Kieran Tierney",
+    "team": "Arsenal",
+    "gross/w": "£ 0",
+    "gross/y": "£ 0",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Sergio Reguilón",
+    "team": "Tottenham",
+    "gross/w": "£ 0",
+    "gross/y": "£ 0",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Hannibal",
+    "team": "Manchester United",
+    "gross/w": "£ 0",
+    "gross/y": "£ 0",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Joe Worrall",
+    "team": "Nottingham Forest",
+    "gross/w": "£ 0",
+    "gross/y": "£ 0",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Sandro Tonali",
+    "team": "Newcastle",
+    "gross/w": "£ 0",
+    "gross/y": "£ 0",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Emmanuel Dennis",
+    "team": "Nottingham Forest",
+    "gross/w": "£ 0",
+    "gross/y": "£ 0",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "João Cancelo",
+    "team": "Manchester City",
+    "gross/w": "£ 0",
+    "gross/y": "£ 0",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Andrey Santos",
+    "team": "Chelsea",
+    "gross/w": "£ 0",
+    "gross/y": "£ 0",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Máximo Perrone",
+    "team": "Manchester City",
+    "gross/w": "£ 0",
+    "gross/y": "£ 0",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Kalvin Phillips",
+    "team": "Manchester City",
+    "gross/w": "£ 0",
+    "gross/y": "£ 0",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Leander Dendoncker",
+    "team": "Aston Villa",
+    "gross/w": "£ 0",
+    "gross/y": "£ 0",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Philippe Coutinho",
+    "team": "Aston Villa",
+    "gross/w": "£ 0",
+    "gross/y": "£ 0",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Lucas Bergström",
+    "team": "Chelsea",
+    "gross/w": "£ 0",
+    "gross/y": "£ 0",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Ian Maatsen",
+    "team": "Chelsea",
+    "gross/w": "£ 0",
+    "gross/y": "£ 0",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Jonjo Shelvey",
+    "team": "Nottingham Forest",
+    "gross/w": "£ 0",
+    "gross/y": "£ 0",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  }
+]

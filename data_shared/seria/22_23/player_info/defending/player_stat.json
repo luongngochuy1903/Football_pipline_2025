@@ -1,0 +1,5725 @@
+[
+  {
+    "Napoli": [
+      {
+        "player_name": "Giovanni Di Lorenzo",
+        "tkl": "60",
+        "tklWon": "29",
+        "tkl_pct": "51.0",
+        "interception": "30",
+        "blocks": "30",
+        "errors": "0"
+      },
+      {
+        "player_name": "Andre-Frank Zambo Anguissa",
+        "tkl": "53",
+        "tklWon": "32",
+        "tkl_pct": "25.0",
+        "interception": "49",
+        "blocks": "50",
+        "errors": "0"
+      },
+      {
+        "player_name": "Kim Min-jae",
+        "tkl": "55",
+        "tklWon": "30",
+        "tkl_pct": "86.2",
+        "interception": "41",
+        "blocks": "36",
+        "errors": "1"
+      },
+      {
+        "player_name": "Stanislav Lobotka",
+        "tkl": "83",
+        "tklWon": "44",
+        "tkl_pct": "58.9",
+        "interception": "23",
+        "blocks": "29",
+        "errors": "0"
+      },
+      {
+        "player_name": "Alex Meret",
+        "tkl": "0",
+        "tklWon": "0",
+        "tkl_pct": "",
+        "interception": "0",
+        "blocks": "0",
+        "errors": "1"
+      },
+      {
+        "player_name": "Victor Osimhen",
+        "tkl": "10",
+        "tklWon": "6",
+        "tkl_pct": "0.0",
+        "interception": "6",
+        "blocks": "6",
+        "errors": "0"
+      },
+      {
+        "player_name": "Khvicha Kvaratskhelia",
+        "tkl": "43",
+        "tklWon": "23",
+        "tkl_pct": "39.5",
+        "interception": "5",
+        "blocks": "20",
+        "errors": "1"
+      },
+      {
+        "player_name": "Amir Rrahmani",
+        "tkl": "33",
+        "tklWon": "18",
+        "tkl_pct": "65.4",
+        "interception": "14",
+        "blocks": "36",
+        "errors": "1"
+      },
+      {
+        "player_name": "Piotr Zieliński",
+        "tkl": "17",
+        "tklWon": "10",
+        "tkl_pct": "48.0",
+        "interception": "14",
+        "blocks": "16",
+        "errors": "0"
+      },
+      {
+        "player_name": "Mário Rui",
+        "tkl": "34",
+        "tklWon": "22",
+        "tkl_pct": "48.8",
+        "interception": "15",
+        "blocks": "17",
+        "errors": "1"
+      },
+      {
+        "player_name": "Hirving Lozano",
+        "tkl": "24",
+        "tklWon": "13",
+        "tkl_pct": "42.9",
+        "interception": "15",
+        "blocks": "31",
+        "errors": "0"
+      },
+      {
+        "player_name": "Mathías Olivera",
+        "tkl": "39",
+        "tklWon": "23",
+        "tkl_pct": "51.2",
+        "interception": "22",
+        "blocks": "28",
+        "errors": "0"
+      },
+      {
+        "player_name": "Elif Elmas",
+        "tkl": "24",
+        "tklWon": "13",
+        "tkl_pct": "47.8",
+        "interception": "11",
+        "blocks": "18",
+        "errors": "0"
+      },
+      {
+        "player_name": "Matteo Politano",
+        "tkl": "18",
+        "tklWon": "9",
+        "tkl_pct": "44.0",
+        "interception": "7",
+        "blocks": "6",
+        "errors": "0"
+      },
+      {
+        "player_name": "Juan Jesus",
+        "tkl": "16",
+        "tklWon": "11",
+        "tkl_pct": "75.0",
+        "interception": "10",
+        "blocks": "18",
+        "errors": "0"
+      },
+      {
+        "player_name": "Giacomo Raspadori",
+        "tkl": "10",
+        "tklWon": "8",
+        "tkl_pct": "40.0",
+        "interception": "4",
+        "blocks": "9",
+        "errors": "0"
+      },
+      {
+        "player_name": "Tanguy Ndombele",
+        "tkl": "14",
+        "tklWon": "8",
+        "tkl_pct": "57.1",
+        "interception": "7",
+        "blocks": "10",
+        "errors": "1"
+      },
+      {
+        "player_name": "Leo Skiri Østigård",
+        "tkl": "4",
+        "tklWon": "1",
+        "tkl_pct": "100.0",
+        "interception": "6",
+        "blocks": "3",
+        "errors": "1"
+      },
+      {
+        "player_name": "Pierluigi Gollini",
+        "tkl": "0",
+        "tklWon": "0",
+        "tkl_pct": "",
+        "interception": "0",
+        "blocks": "0",
+        "errors": "0"
+      },
+      {
+        "player_name": "Alessio Zerbin",
+        "tkl": "10",
+        "tklWon": "5",
+        "tkl_pct": "50.0",
+        "interception": "2",
+        "blocks": "2",
+        "errors": "0"
+      },
+      {
+        "player_name": "Bartosz Bereszyński",
+        "tkl": "3",
+        "tklWon": "2",
+        "tkl_pct": "100.0",
+        "interception": "3",
+        "blocks": "4",
+        "errors": "0"
+      },
+      {
+        "player_name": "Diego Demme",
+        "tkl": "1",
+        "tklWon": "0",
+        "tkl_pct": "0.0",
+        "interception": "0",
+        "blocks": "2",
+        "errors": "0"
+      },
+      {
+        "player_name": "Giovanni Simeone",
+        "tkl": "12",
+        "tklWon": "3",
+        "tkl_pct": "37.5",
+        "interception": "1",
+        "blocks": "2",
+        "errors": "0"
+      },
+      {
+        "player_name": "Gianluca Gaetano",
+        "tkl": "5",
+        "tklWon": "3",
+        "tkl_pct": "",
+        "interception": "1",
+        "blocks": "1",
+        "errors": "0"
+      },
+      {
+        "player_name": "Karim Zedadka",
+        "tkl": "0",
+        "tklWon": "0",
+        "tkl_pct": "",
+        "interception": "0",
+        "blocks": "0",
+        "errors": "0"
+      },
+      {
+        "player_name": "Adam Ounas",
+        "tkl": "0",
+        "tklWon": "0",
+        "tkl_pct": "",
+        "interception": "1",
+        "blocks": "0",
+        "errors": "0"
+      },
+      {
+        "player_name": "Alessandro Zanoli",
+        "tkl": "1",
+        "tklWon": "0",
+        "tkl_pct": "",
+        "interception": "0",
+        "blocks": "0",
+        "errors": "0"
+      }
+    ]
+  },
+  {
+    "Lazio": [
+      {
+        "player_name": "Ivan Provedel",
+        "tkl": "1",
+        "tklWon": "0",
+        "tkl_pct": "",
+        "interception": "0",
+        "blocks": "0",
+        "errors": "1"
+      },
+      {
+        "player_name": "Felipe Anderson",
+        "tkl": "80",
+        "tklWon": "50",
+        "tkl_pct": "35.2",
+        "interception": "31",
+        "blocks": "58",
+        "errors": "0"
+      },
+      {
+        "player_name": "Sergej Milinković-Savić",
+        "tkl": "58",
+        "tklWon": "35",
+        "tkl_pct": "35.8",
+        "interception": "28",
+        "blocks": "50",
+        "errors": "0"
+      },
+      {
+        "player_name": "Alessio Romagnoli",
+        "tkl": "33",
+        "tklWon": "15",
+        "tkl_pct": "50.0",
+        "interception": "38",
+        "blocks": "33",
+        "errors": "0"
+      },
+      {
+        "player_name": "Mattia Zaccagni",
+        "tkl": "42",
+        "tklWon": "28",
+        "tkl_pct": "36.8",
+        "interception": "21",
+        "blocks": "37",
+        "errors": "1"
+      },
+      {
+        "player_name": "Adam Marušić",
+        "tkl": "41",
+        "tklWon": "30",
+        "tkl_pct": "64.1",
+        "interception": "38",
+        "blocks": "20",
+        "errors": "1"
+      },
+      {
+        "player_name": "Luis Alberto",
+        "tkl": "49",
+        "tklWon": "29",
+        "tkl_pct": "31.9",
+        "interception": "9",
+        "blocks": "35",
+        "errors": "0"
+      },
+      {
+        "player_name": "Nicolò Casale",
+        "tkl": "42",
+        "tklWon": "20",
+        "tkl_pct": "64.7",
+        "interception": "17",
+        "blocks": "25",
+        "errors": "1"
+      },
+      {
+        "player_name": "Ciro Immobile",
+        "tkl": "11",
+        "tklWon": "5",
+        "tkl_pct": "66.7",
+        "interception": "1",
+        "blocks": "10",
+        "errors": "0"
+      },
+      {
+        "player_name": "Danilo Cataldi",
+        "tkl": "25",
+        "tklWon": "16",
+        "tkl_pct": "35.0",
+        "interception": "24",
+        "blocks": "23",
+        "errors": "0"
+      },
+      {
+        "player_name": "Elseid Hysaj",
+        "tkl": "39",
+        "tklWon": "23",
+        "tkl_pct": "56.1",
+        "interception": "20",
+        "blocks": "31",
+        "errors": "0"
+      },
+      {
+        "player_name": "Manuel Lazzari",
+        "tkl": "33",
+        "tklWon": "21",
+        "tkl_pct": "58.3",
+        "interception": "18",
+        "blocks": "20",
+        "errors": "1"
+      },
+      {
+        "player_name": "Pedro",
+        "tkl": "35",
+        "tklWon": "24",
+        "tkl_pct": "36.7",
+        "interception": "6",
+        "blocks": "18",
+        "errors": "1"
+      },
+      {
+        "player_name": "Matías Vecino",
+        "tkl": "47",
+        "tklWon": "27",
+        "tkl_pct": "47.9",
+        "interception": "16",
+        "blocks": "33",
+        "errors": "1"
+      },
+      {
+        "player_name": "Patric",
+        "tkl": "17",
+        "tklWon": "11",
+        "tkl_pct": "68.8",
+        "interception": "11",
+        "blocks": "17",
+        "errors": "1"
+      },
+      {
+        "player_name": "Marcos Antônio",
+        "tkl": "9",
+        "tklWon": "6",
+        "tkl_pct": "45.0",
+        "interception": "11",
+        "blocks": "7",
+        "errors": "0"
+      },
+      {
+        "player_name": "Toma Bašić",
+        "tkl": "6",
+        "tklWon": "4",
+        "tkl_pct": "37.5",
+        "interception": "7",
+        "blocks": "9",
+        "errors": "0"
+      },
+      {
+        "player_name": "Matteo Cancellieri",
+        "tkl": "10",
+        "tklWon": "4",
+        "tkl_pct": "55.6",
+        "interception": "1",
+        "blocks": "4",
+        "errors": "0"
+      },
+      {
+        "player_name": "Luca Pellegrini",
+        "tkl": "1",
+        "tklWon": "0",
+        "tkl_pct": "25.0",
+        "interception": "7",
+        "blocks": "3",
+        "errors": "0"
+      },
+      {
+        "player_name": "Luka Romero",
+        "tkl": "0",
+        "tklWon": "0",
+        "tkl_pct": "0.0",
+        "interception": "3",
+        "blocks": "4",
+        "errors": "0"
+      },
+      {
+        "player_name": "Luís Maximiano",
+        "tkl": "0",
+        "tklWon": "0",
+        "tkl_pct": "",
+        "interception": "0",
+        "blocks": "0",
+        "errors": "0"
+      },
+      {
+        "player_name": "Mario Gila",
+        "tkl": "3",
+        "tklWon": "1",
+        "tkl_pct": "0.0",
+        "interception": "3",
+        "blocks": "0",
+        "errors": "0"
+      },
+      {
+        "player_name": "Marco Bertini",
+        "tkl": "0",
+        "tklWon": "0",
+        "tkl_pct": "",
+        "interception": "0",
+        "blocks": "0",
+        "errors": "0"
+      },
+      {
+        "player_name": "Ștefan Radu",
+        "tkl": "0",
+        "tklWon": "0",
+        "tkl_pct": "",
+        "interception": "0",
+        "blocks": "0",
+        "errors": "0"
+      }
+    ]
+  },
+  {
+    "Inter": [
+      {
+        "player_name": "Nicolò Barella",
+        "tkl": "49",
+        "tklWon": "25",
+        "tkl_pct": "52.8",
+        "interception": "12",
+        "blocks": "29",
+        "errors": "0"
+      },
+      {
+        "player_name": "Hakan Çalhanoğlu",
+        "tkl": "48",
+        "tklWon": "27",
+        "tkl_pct": "37.2",
+        "interception": "25",
+        "blocks": "30",
+        "errors": "1"
+      },
+      {
+        "player_name": "Lautaro Martínez",
+        "tkl": "25",
+        "tklWon": "14",
+        "tkl_pct": "30.4",
+        "interception": "13",
+        "blocks": "31",
+        "errors": "1"
+      },
+      {
+        "player_name": "Alessandro Bastoni",
+        "tkl": "41",
+        "tklWon": "20",
+        "tkl_pct": "40.7",
+        "interception": "24",
+        "blocks": "27",
+        "errors": "0"
+      },
+      {
+        "player_name": "Federico Dimarco",
+        "tkl": "31",
+        "tklWon": "25",
+        "tkl_pct": "47.4",
+        "interception": "18",
+        "blocks": "15",
+        "errors": "0"
+      },
+      {
+        "player_name": "Francesco Acerbi",
+        "tkl": "33",
+        "tklWon": "19",
+        "tkl_pct": "74.1",
+        "interception": "41",
+        "blocks": "25",
+        "errors": "2"
+      },
+      {
+        "player_name": "Denzel Dumfries",
+        "tkl": "35",
+        "tklWon": "18",
+        "tkl_pct": "64.7",
+        "interception": "12",
+        "blocks": "33",
+        "errors": "0"
+      },
+      {
+        "player_name": "André Onana",
+        "tkl": "0",
+        "tklWon": "0",
+        "tkl_pct": "0.0",
+        "interception": "0",
+        "blocks": "0",
+        "errors": "0"
+      },
+      {
+        "player_name": "Matteo Darmian",
+        "tkl": "56",
+        "tklWon": "30",
+        "tkl_pct": "66.0",
+        "interception": "21",
+        "blocks": "33",
+        "errors": "0"
+      },
+      {
+        "player_name": "Henrikh Mkhitaryan",
+        "tkl": "41",
+        "tklWon": "26",
+        "tkl_pct": "34.1",
+        "interception": "21",
+        "blocks": "27",
+        "errors": "0"
+      },
+      {
+        "player_name": "Stefan de Vrij",
+        "tkl": "28",
+        "tklWon": "18",
+        "tkl_pct": "57.1",
+        "interception": "40",
+        "blocks": "18",
+        "errors": "0"
+      },
+      {
+        "player_name": "Milan Škriniar",
+        "tkl": "29",
+        "tklWon": "18",
+        "tkl_pct": "56.3",
+        "interception": "13",
+        "blocks": "18",
+        "errors": "3"
+      },
+      {
+        "player_name": "Marcelo Brozović",
+        "tkl": "37",
+        "tklWon": "22",
+        "tkl_pct": "29.7",
+        "interception": "22",
+        "blocks": "23",
+        "errors": "0"
+      },
+      {
+        "player_name": "Romelu Lukaku",
+        "tkl": "3",
+        "tklWon": "1",
+        "tkl_pct": "40.0",
+        "interception": "0",
+        "blocks": "3",
+        "errors": "0"
+      },
+      {
+        "player_name": "Edin Džeko",
+        "tkl": "3",
+        "tklWon": "2",
+        "tkl_pct": "0.0",
+        "interception": "3",
+        "blocks": "15",
+        "errors": "0"
+      },
+      {
+        "player_name": "Samir Handanović",
+        "tkl": "0",
+        "tklWon": "0",
+        "tkl_pct": "",
+        "interception": "0",
+        "blocks": "0",
+        "errors": "0"
+      },
+      {
+        "player_name": "Joaquín Correa",
+        "tkl": "12",
+        "tklWon": "7",
+        "tkl_pct": "26.7",
+        "interception": "3",
+        "blocks": "4",
+        "errors": "0"
+      },
+      {
+        "player_name": "Robin Gosens",
+        "tkl": "34",
+        "tklWon": "18",
+        "tkl_pct": "60.0",
+        "interception": "23",
+        "blocks": "16",
+        "errors": "0"
+      },
+      {
+        "player_name": "Danilo D'Ambrosio",
+        "tkl": "25",
+        "tklWon": "17",
+        "tkl_pct": "55.6",
+        "interception": "10",
+        "blocks": "12",
+        "errors": "0"
+      },
+      {
+        "player_name": "Roberto Gagliardini",
+        "tkl": "16",
+        "tklWon": "6",
+        "tkl_pct": "47.6",
+        "interception": "4",
+        "blocks": "14",
+        "errors": "0"
+      },
+      {
+        "player_name": "Kristjan Asllani",
+        "tkl": "11",
+        "tklWon": "5",
+        "tkl_pct": "70.0",
+        "interception": "6",
+        "blocks": "3",
+        "errors": "0"
+      },
+      {
+        "player_name": "Raoul Bellanova",
+        "tkl": "14",
+        "tklWon": "6",
+        "tkl_pct": "64.3",
+        "interception": "4",
+        "blocks": "6",
+        "errors": "0"
+      },
+      {
+        "player_name": "Mattia Zanotti",
+        "tkl": "0",
+        "tklWon": "0",
+        "tkl_pct": "0.0",
+        "interception": "0",
+        "blocks": "2",
+        "errors": "0"
+      },
+      {
+        "player_name": "Alex Cordaz",
+        "tkl": "0",
+        "tklWon": "0",
+        "tkl_pct": "",
+        "interception": "0",
+        "blocks": "0",
+        "errors": "0"
+      },
+      {
+        "player_name": "Valentin Carboni",
+        "tkl": "1",
+        "tklWon": "1",
+        "tkl_pct": "33.3",
+        "interception": "0",
+        "blocks": "1",
+        "errors": "0"
+      }
+    ]
+  },
+  {
+    "Milan": [
+      {
+        "player_name": "Theo Hernández",
+        "tkl": "43",
+        "tklWon": "24",
+        "tkl_pct": "57.9",
+        "interception": "21",
+        "blocks": "34",
+        "errors": "1"
+      },
+      {
+        "player_name": "Fikayo Tomori",
+        "tkl": "70",
+        "tklWon": "34",
+        "tkl_pct": "64.7",
+        "interception": "29",
+        "blocks": "46",
+        "errors": "1"
+      },
+      {
+        "player_name": "Sandro Tonali",
+        "tkl": "64",
+        "tklWon": "41",
+        "tkl_pct": "61.4",
+        "interception": "25",
+        "blocks": "34",
+        "errors": "1"
+      },
+      {
+        "player_name": "Rafael Leão",
+        "tkl": "8",
+        "tklWon": "7",
+        "tkl_pct": "42.9",
+        "interception": "15",
+        "blocks": "9",
+        "errors": "0"
+      },
+      {
+        "player_name": "Brahim Díaz",
+        "tkl": "32",
+        "tklWon": "15",
+        "tkl_pct": "33.3",
+        "interception": "7",
+        "blocks": "11",
+        "errors": "0"
+      },
+      {
+        "player_name": "Pierre Kalulu",
+        "tkl": "57",
+        "tklWon": "39",
+        "tkl_pct": "66.7",
+        "interception": "41",
+        "blocks": "41",
+        "errors": "1"
+      },
+      {
+        "player_name": "Olivier Giroud",
+        "tkl": "8",
+        "tklWon": "5",
+        "tkl_pct": "20.0",
+        "interception": "3",
+        "blocks": "11",
+        "errors": "0"
+      },
+      {
+        "player_name": "Ismaël Bennacer",
+        "tkl": "59",
+        "tklWon": "33",
+        "tkl_pct": "58.8",
+        "interception": "26",
+        "blocks": "25",
+        "errors": "1"
+      },
+      {
+        "player_name": "Mike Maignan",
+        "tkl": "1",
+        "tklWon": "0",
+        "tkl_pct": "100.0",
+        "interception": "1",
+        "blocks": "0",
+        "errors": "1"
+      },
+      {
+        "player_name": "Davide Calabria",
+        "tkl": "71",
+        "tklWon": "44",
+        "tkl_pct": "62.3",
+        "interception": "25",
+        "blocks": "22",
+        "errors": "0"
+      },
+      {
+        "player_name": "Junior Messias",
+        "tkl": "24",
+        "tklWon": "18",
+        "tkl_pct": "26.3",
+        "interception": "7",
+        "blocks": "20",
+        "errors": "0"
+      },
+      {
+        "player_name": "Rade Krunić",
+        "tkl": "40",
+        "tklWon": "28",
+        "tkl_pct": "32.0",
+        "interception": "16",
+        "blocks": "31",
+        "errors": "0"
+      },
+      {
+        "player_name": "Ciprian Tătărușanu",
+        "tkl": "0",
+        "tklWon": "0",
+        "tkl_pct": "",
+        "interception": "1",
+        "blocks": "0",
+        "errors": "0"
+      },
+      {
+        "player_name": "Malick Thiaw",
+        "tkl": "31",
+        "tklWon": "26",
+        "tkl_pct": "55.0",
+        "interception": "12",
+        "blocks": "11",
+        "errors": "1"
+      },
+      {
+        "player_name": "Alexis Saelemaekers",
+        "tkl": "31",
+        "tklWon": "20",
+        "tkl_pct": "46.3",
+        "interception": "19",
+        "blocks": "13",
+        "errors": "0"
+      },
+      {
+        "player_name": "Simon Kjær",
+        "tkl": "15",
+        "tklWon": "8",
+        "tkl_pct": "63.6",
+        "interception": "9",
+        "blocks": "14",
+        "errors": "1"
+      },
+      {
+        "player_name": "Divock Origi",
+        "tkl": "10",
+        "tklWon": "5",
+        "tkl_pct": "50.0",
+        "interception": "0",
+        "blocks": "6",
+        "errors": "0"
+      },
+      {
+        "player_name": "Ante Rebić",
+        "tkl": "10",
+        "tklWon": "8",
+        "tkl_pct": "27.3",
+        "interception": "1",
+        "blocks": "6",
+        "errors": "0"
+      },
+      {
+        "player_name": "Charles De Ketelaere",
+        "tkl": "26",
+        "tklWon": "12",
+        "tkl_pct": "43.3",
+        "interception": "4",
+        "blocks": "14",
+        "errors": "0"
+      },
+      {
+        "player_name": "Tommaso Pobega",
+        "tkl": "27",
+        "tklWon": "16",
+        "tkl_pct": "65.0",
+        "interception": "9",
+        "blocks": "12",
+        "errors": "0"
+      },
+      {
+        "player_name": "",
+        "tkl": "",
+        "tklWon": "",
+        "tkl_pct": "",
+        "interception": "",
+        "blocks": "",
+        "errors": ""
+      },
+      {
+        "player_name": "Player",
+        "tkl": "",
+        "tklWon": "",
+        "tkl_pct": "",
+        "interception": "",
+        "blocks": "",
+        "errors": ""
+      },
+      {
+        "player_name": "Matteo Gabbia",
+        "tkl": "17",
+        "tklWon": "10",
+        "tkl_pct": "75.0",
+        "interception": "5",
+        "blocks": "8",
+        "errors": "0"
+      },
+      {
+        "player_name": "Fodé Ballo-Touré",
+        "tkl": "14",
+        "tklWon": "9",
+        "tkl_pct": "70.0",
+        "interception": "2",
+        "blocks": "11",
+        "errors": "0"
+      },
+      {
+        "player_name": "Sergiño Dest",
+        "tkl": "12",
+        "tklWon": "6",
+        "tkl_pct": "75.0",
+        "interception": "4",
+        "blocks": "1",
+        "errors": "0"
+      },
+      {
+        "player_name": "Aster Vranckx",
+        "tkl": "3",
+        "tklWon": "2",
+        "tkl_pct": "28.6",
+        "interception": "2",
+        "blocks": "3",
+        "errors": "0"
+      },
+      {
+        "player_name": "Alessandro Florenzi",
+        "tkl": "6",
+        "tklWon": "4",
+        "tkl_pct": "57.1",
+        "interception": "4",
+        "blocks": "1",
+        "errors": "0"
+      },
+      {
+        "player_name": "Zlatan Ibrahimović",
+        "tkl": "0",
+        "tklWon": "0",
+        "tkl_pct": "",
+        "interception": "0",
+        "blocks": "1",
+        "errors": "0"
+      },
+      {
+        "player_name": "Yacine Adli",
+        "tkl": "6",
+        "tklWon": "3",
+        "tkl_pct": "100.0",
+        "interception": "1",
+        "blocks": "2",
+        "errors": "0"
+      },
+      {
+        "player_name": "Tiemoué Bakayoko",
+        "tkl": "5",
+        "tklWon": "5",
+        "tkl_pct": "100.0",
+        "interception": "0",
+        "blocks": "0",
+        "errors": "1"
+      },
+      {
+        "player_name": "Marko Lazetić",
+        "tkl": "0",
+        "tklWon": "0",
+        "tkl_pct": "",
+        "interception": "0",
+        "blocks": "0",
+        "errors": "0"
+      },
+      {
+        "player_name": "Antonio Mirante",
+        "tkl": "0",
+        "tklWon": "0",
+        "tkl_pct": "",
+        "interception": "0",
+        "blocks": "0",
+        "errors": "0"
+      }
+    ]
+  },
+  {
+    "Atalanta": [
+      {
+        "player_name": "Marten de Roon",
+        "tkl": "77",
+        "tklWon": "39",
+        "tkl_pct": "45.7",
+        "interception": "36",
+        "blocks": "37",
+        "errors": "0"
+      },
+      {
+        "player_name": "Teun Koopmeiners",
+        "tkl": "46",
+        "tklWon": "26",
+        "tkl_pct": "50.9",
+        "interception": "19",
+        "blocks": "41",
+        "errors": "2"
+      },
+      {
+        "player_name": "Rafael Tolói",
+        "tkl": "69",
+        "tklWon": "44",
+        "tkl_pct": "54.7",
+        "interception": "57",
+        "blocks": "42",
+        "errors": "1"
+      },
+      {
+        "player_name": "Giorgio Scalvini",
+        "tkl": "54",
+        "tklWon": "29",
+        "tkl_pct": "52.7",
+        "interception": "56",
+        "blocks": "36",
+        "errors": "2"
+      },
+      {
+        "player_name": "Éderson",
+        "tkl": "67",
+        "tklWon": "34",
+        "tkl_pct": "43.9",
+        "interception": "36",
+        "blocks": "56",
+        "errors": "0"
+      },
+      {
+        "player_name": "Joakim Mæhle",
+        "tkl": "32",
+        "tklWon": "18",
+        "tkl_pct": "56.4",
+        "interception": "24",
+        "blocks": "29",
+        "errors": "0"
+      },
+      {
+        "player_name": "Juan Musso",
+        "tkl": "1",
+        "tklWon": "1",
+        "tkl_pct": "100.0",
+        "interception": "0",
+        "blocks": "0",
+        "errors": "1"
+      },
+      {
+        "player_name": "Mario Pašalić",
+        "tkl": "22",
+        "tklWon": "10",
+        "tkl_pct": "26.1",
+        "interception": "21",
+        "blocks": "22",
+        "errors": "0"
+      },
+      {
+        "player_name": "Rasmus Højlund",
+        "tkl": "4",
+        "tklWon": "3",
+        "tkl_pct": "16.7",
+        "interception": "1",
+        "blocks": "9",
+        "errors": "0"
+      },
+      {
+        "player_name": "Berat Djimsiti",
+        "tkl": "34",
+        "tklWon": "19",
+        "tkl_pct": "68.0",
+        "interception": "36",
+        "blocks": "17",
+        "errors": "1"
+      },
+      {
+        "player_name": "Ademola Lookman",
+        "tkl": "13",
+        "tklWon": "5",
+        "tkl_pct": "20.0",
+        "interception": "4",
+        "blocks": "18",
+        "errors": "0"
+      },
+      {
+        "player_name": "Davide Zappacosta",
+        "tkl": "34",
+        "tklWon": "18",
+        "tkl_pct": "68.2",
+        "interception": "9",
+        "blocks": "23",
+        "errors": "0"
+      },
+      {
+        "player_name": "Hans Hateboer",
+        "tkl": "21",
+        "tklWon": "13",
+        "tkl_pct": "40.7",
+        "interception": "12",
+        "blocks": "23",
+        "errors": "0"
+      },
+      {
+        "player_name": "Duván Zapata",
+        "tkl": "8",
+        "tklWon": "4",
+        "tkl_pct": "60.0",
+        "interception": "4",
+        "blocks": "6",
+        "errors": "1"
+      },
+      {
+        "player_name": "Merih Demiral",
+        "tkl": "41",
+        "tklWon": "29",
+        "tkl_pct": "72.2",
+        "interception": "24",
+        "blocks": "24",
+        "errors": "1"
+      },
+      {
+        "player_name": "Marco Sportiello",
+        "tkl": "1",
+        "tklWon": "0",
+        "tkl_pct": "33.3",
+        "interception": "0",
+        "blocks": "0",
+        "errors": "0"
+      },
+      {
+        "player_name": "Luis Muriel",
+        "tkl": "9",
+        "tklWon": "6",
+        "tkl_pct": "31.3",
+        "interception": "2",
+        "blocks": "9",
+        "errors": "0"
+      },
+      {
+        "player_name": "Caleb Okoli",
+        "tkl": "21",
+        "tklWon": "17",
+        "tkl_pct": "40.0",
+        "interception": "30",
+        "blocks": "10",
+        "errors": "3"
+      },
+      {
+        "player_name": "Matteo Ruggeri",
+        "tkl": "17",
+        "tklWon": "12",
+        "tkl_pct": "50.0",
+        "interception": "12",
+        "blocks": "14",
+        "errors": "0"
+      },
+      {
+        "player_name": "José Luis Palomino",
+        "tkl": "23",
+        "tklWon": "14",
+        "tkl_pct": "57.9",
+        "interception": "28",
+        "blocks": "11",
+        "errors": "0"
+      },
+      {
+        "player_name": "Brandon Soppy",
+        "tkl": "8",
+        "tklWon": "5",
+        "tkl_pct": "33.3",
+        "interception": "3",
+        "blocks": "10",
+        "errors": "0"
+      },
+      {
+        "player_name": "Jeremie Boga",
+        "tkl": "9",
+        "tklWon": "5",
+        "tkl_pct": "40.0",
+        "interception": "1",
+        "blocks": "6",
+        "errors": "0"
+      },
+      {
+        "player_name": "Ruslan Malinovskyi",
+        "tkl": "14",
+        "tklWon": "8",
+        "tkl_pct": "35.3",
+        "interception": "5",
+        "blocks": "8",
+        "errors": "0"
+      },
+      {
+        "player_name": "Nadir Zortea",
+        "tkl": "10",
+        "tklWon": "5",
+        "tkl_pct": "75.0",
+        "interception": "0",
+        "blocks": "4",
+        "errors": "0"
+      },
+      {
+        "player_name": "Lukáš Vorlický",
+        "tkl": "0",
+        "tklWon": "0",
+        "tkl_pct": "",
+        "interception": "1",
+        "blocks": "0",
+        "errors": "0"
+      },
+      {
+        "player_name": "Tommaso De Nipoti",
+        "tkl": "1",
+        "tklWon": "0",
+        "tkl_pct": "",
+        "interception": "0",
+        "blocks": "0",
+        "errors": "0"
+      },
+      {
+        "player_name": "Francesco Rossi",
+        "tkl": "0",
+        "tklWon": "0",
+        "tkl_pct": "",
+        "interception": "0",
+        "blocks": "0",
+        "errors": "0"
+      }
+    ]
+  },
+  {
+    "Roma": [
+      {
+        "player_name": "Rui Patrício",
+        "tkl": "1",
+        "tklWon": "1",
+        "tkl_pct": "100.0",
+        "interception": "2",
+        "blocks": "0",
+        "errors": "3"
+      },
+      {
+        "player_name": "Bryan Cristante",
+        "tkl": "113",
+        "tklWon": "62",
+        "tkl_pct": "61.1",
+        "interception": "18",
+        "blocks": "39",
+        "errors": "0"
+      },
+      {
+        "player_name": "Gianluca Mancini",
+        "tkl": "37",
+        "tklWon": "19",
+        "tkl_pct": "52.9",
+        "interception": "46",
+        "blocks": "38",
+        "errors": "0"
+      },
+      {
+        "player_name": "Roger Ibanez",
+        "tkl": "67",
+        "tklWon": "33",
+        "tkl_pct": "66.7",
+        "interception": "66",
+        "blocks": "30",
+        "errors": "2"
+      },
+      {
+        "player_name": "Chris Smalling",
+        "tkl": "26",
+        "tklWon": "15",
+        "tkl_pct": "61.9",
+        "interception": "43",
+        "blocks": "51",
+        "errors": "0"
+      },
+      {
+        "player_name": "Lorenzo Pellegrini",
+        "tkl": "52",
+        "tklWon": "29",
+        "tkl_pct": "45.8",
+        "interception": "26",
+        "blocks": "27",
+        "errors": "0"
+      },
+      {
+        "player_name": "Nicola Zalewski",
+        "tkl": "45",
+        "tklWon": "26",
+        "tkl_pct": "31.0",
+        "interception": "31",
+        "blocks": "27",
+        "errors": "0"
+      },
+      {
+        "player_name": "Tammy Abraham",
+        "tkl": "17",
+        "tklWon": "10",
+        "tkl_pct": "18.8",
+        "interception": "3",
+        "blocks": "10",
+        "errors": "0"
+      },
+      {
+        "player_name": "Paulo Dybala",
+        "tkl": "14",
+        "tklWon": "4",
+        "tkl_pct": "30.8",
+        "interception": "8",
+        "blocks": "12",
+        "errors": "0"
+      },
+      {
+        "player_name": "Leonardo Spinazzola",
+        "tkl": "15",
+        "tklWon": "8",
+        "tkl_pct": "34.8",
+        "interception": "9",
+        "blocks": "13",
+        "errors": "0"
+      },
+      {
+        "player_name": "Nemanja Matić",
+        "tkl": "47",
+        "tklWon": "27",
+        "tkl_pct": "57.6",
+        "interception": "25",
+        "blocks": "27",
+        "errors": "1"
+      },
+      {
+        "player_name": "Zeki Çelik",
+        "tkl": "42",
+        "tklWon": "21",
+        "tkl_pct": "58.5",
+        "interception": "14",
+        "blocks": "33",
+        "errors": "2"
+      },
+      {
+        "player_name": "Stephan El Shaarawy",
+        "tkl": "21",
+        "tklWon": "9",
+        "tkl_pct": "27.3",
+        "interception": "15",
+        "blocks": "11",
+        "errors": "0"
+      },
+      {
+        "player_name": "Nicolò Zaniolo",
+        "tkl": "7",
+        "tklWon": "5",
+        "tkl_pct": "28.6",
+        "interception": "2",
+        "blocks": "11",
+        "errors": "0"
+      },
+      {
+        "player_name": "Andrea Belotti",
+        "tkl": "12",
+        "tklWon": "5",
+        "tkl_pct": "45.5",
+        "interception": "3",
+        "blocks": "11",
+        "errors": "0"
+      },
+      {
+        "player_name": "Edoardo Bove",
+        "tkl": "35",
+        "tklWon": "18",
+        "tkl_pct": "41.0",
+        "interception": "10",
+        "blocks": "15",
+        "errors": "0"
+      },
+      {
+        "player_name": "Georginio Wijnaldum",
+        "tkl": "4",
+        "tklWon": "3",
+        "tkl_pct": "0.0",
+        "interception": "2",
+        "blocks": "7",
+        "errors": "0"
+      },
+      {
+        "player_name": "Rick Karsdorp",
+        "tkl": "21",
+        "tklWon": "13",
+        "tkl_pct": "59.1",
+        "interception": "7",
+        "blocks": "0",
+        "errors": "1"
+      },
+      {
+        "player_name": "Mohamed Camara",
+        "tkl": "13",
+        "tklWon": "10",
+        "tkl_pct": "33.3",
+        "interception": "10",
+        "blocks": "5",
+        "errors": "0"
+      },
+      {
+        "player_name": "Ola Solbakken",
+        "tkl": "2",
+        "tklWon": "2",
+        "tkl_pct": "28.6",
+        "interception": "2",
+        "blocks": "2",
+        "errors": "0"
+      },
+      {
+        "player_name": "",
+        "tkl": "",
+        "tklWon": "",
+        "tkl_pct": "",
+        "interception": "",
+        "blocks": "",
+        "errors": ""
+      },
+      {
+        "player_name": "Player",
+        "tkl": "",
+        "tklWon": "",
+        "tkl_pct": "",
+        "interception": "",
+        "blocks": "",
+        "errors": ""
+      },
+      {
+        "player_name": "Diego Llorente",
+        "tkl": "10",
+        "tklWon": "5",
+        "tkl_pct": "41.7",
+        "interception": "11",
+        "blocks": "4",
+        "errors": "0"
+      },
+      {
+        "player_name": "Marash Kumbulla",
+        "tkl": "4",
+        "tklWon": "4",
+        "tkl_pct": "66.7",
+        "interception": "4",
+        "blocks": "2",
+        "errors": "0"
+      },
+      {
+        "player_name": "Benjamin Tahirovic",
+        "tkl": "8",
+        "tklWon": "5",
+        "tkl_pct": "33.3",
+        "interception": "3",
+        "blocks": "9",
+        "errors": "0"
+      },
+      {
+        "player_name": "Mile Svilar",
+        "tkl": "0",
+        "tklWon": "0",
+        "tkl_pct": "",
+        "interception": "0",
+        "blocks": "0",
+        "errors": "0"
+      },
+      {
+        "player_name": "Cristian Volpato",
+        "tkl": "3",
+        "tklWon": "2",
+        "tkl_pct": "0.0",
+        "interception": "2",
+        "blocks": "2",
+        "errors": "0"
+      },
+      {
+        "player_name": "Filippo Missori",
+        "tkl": "4",
+        "tklWon": "3",
+        "tkl_pct": "50.0",
+        "interception": "3",
+        "blocks": "0",
+        "errors": "0"
+      },
+      {
+        "player_name": "Eldor Shomurodov",
+        "tkl": "1",
+        "tklWon": "0",
+        "tkl_pct": "0.0",
+        "interception": "1",
+        "blocks": "1",
+        "errors": "0"
+      },
+      {
+        "player_name": "Matías Viña",
+        "tkl": "3",
+        "tklWon": "1",
+        "tkl_pct": "33.3",
+        "interception": "2",
+        "blocks": "5",
+        "errors": "0"
+      },
+      {
+        "player_name": "Jordan Majchrzak",
+        "tkl": "0",
+        "tklWon": "0",
+        "tkl_pct": "",
+        "interception": "0",
+        "blocks": "0",
+        "errors": "0"
+      },
+      {
+        "player_name": "Niccolò Pisilli",
+        "tkl": "0",
+        "tklWon": "0",
+        "tkl_pct": "",
+        "interception": "0",
+        "blocks": "0",
+        "errors": "0"
+      }
+    ]
+  },
+  {
+    "Juventus": [
+      {
+        "player_name": "Danilo",
+        "tkl": "92",
+        "tklWon": "62",
+        "tkl_pct": "71.2",
+        "interception": "47",
+        "blocks": "39",
+        "errors": "1"
+      },
+      {
+        "player_name": "Filip Kostić",
+        "tkl": "41",
+        "tklWon": "26",
+        "tkl_pct": "44.7",
+        "interception": "16",
+        "blocks": "30",
+        "errors": "0"
+      },
+      {
+        "player_name": "Adrien Rabiot",
+        "tkl": "65",
+        "tklWon": "35",
+        "tkl_pct": "52.6",
+        "interception": "26",
+        "blocks": "37",
+        "errors": "1"
+      },
+      {
+        "player_name": "Gleison Bremer",
+        "tkl": "29",
+        "tklWon": "20",
+        "tkl_pct": "73.1",
+        "interception": "42",
+        "blocks": "44",
+        "errors": "2"
+      },
+      {
+        "player_name": "Manuel Locatelli",
+        "tkl": "59",
+        "tklWon": "33",
+        "tkl_pct": "56.6",
+        "interception": "27",
+        "blocks": "50",
+        "errors": "0"
+      },
+      {
+        "player_name": "Wojciech Szczęsny",
+        "tkl": "1",
+        "tklWon": "0",
+        "tkl_pct": "0.0",
+        "interception": "0",
+        "blocks": "0",
+        "errors": "0"
+      },
+      {
+        "player_name": "Juan Cuadrado",
+        "tkl": "50",
+        "tklWon": "34",
+        "tkl_pct": "41.5",
+        "interception": "24",
+        "blocks": "15",
+        "errors": "0"
+      },
+      {
+        "player_name": "Dušan Vlahović",
+        "tkl": "11",
+        "tklWon": "6",
+        "tkl_pct": "40.0",
+        "interception": "3",
+        "blocks": "10",
+        "errors": "1"
+      },
+      {
+        "player_name": "Alex Sandro",
+        "tkl": "35",
+        "tklWon": "20",
+        "tkl_pct": "68.2",
+        "interception": "15",
+        "blocks": "27",
+        "errors": "1"
+      },
+      {
+        "player_name": "Arkadiusz Milik",
+        "tkl": "12",
+        "tklWon": "8",
+        "tkl_pct": "25.0",
+        "interception": "1",
+        "blocks": "10",
+        "errors": "0"
+      },
+      {
+        "player_name": "Nicolò Fagioli",
+        "tkl": "29",
+        "tklWon": "19",
+        "tkl_pct": "29.6",
+        "interception": "8",
+        "blocks": "16",
+        "errors": "1"
+      },
+      {
+        "player_name": "Federico Gatti",
+        "tkl": "15",
+        "tklWon": "11",
+        "tkl_pct": "60.0",
+        "interception": "21",
+        "blocks": "20",
+        "errors": "2"
+      },
+      {
+        "player_name": "Ángel Di María",
+        "tkl": "10",
+        "tklWon": "5",
+        "tkl_pct": "15.8",
+        "interception": "7",
+        "blocks": "15",
+        "errors": "0"
+      },
+      {
+        "player_name": "Fabio Miretti",
+        "tkl": "24",
+        "tklWon": "11",
+        "tkl_pct": "41.4",
+        "interception": "4",
+        "blocks": "20",
+        "errors": "0"
+      },
+      {
+        "player_name": "Weston McKennie",
+        "tkl": "14",
+        "tklWon": "5",
+        "tkl_pct": "62.5",
+        "interception": "11",
+        "blocks": "15",
+        "errors": "1"
+      },
+      {
+        "player_name": "Mattia De Sciglio",
+        "tkl": "14",
+        "tklWon": "7",
+        "tkl_pct": "64.3",
+        "interception": "4",
+        "blocks": "9",
+        "errors": "0"
+      },
+      {
+        "player_name": "Moise Kean",
+        "tkl": "8",
+        "tklWon": "6",
+        "tkl_pct": "42.9",
+        "interception": "5",
+        "blocks": "4",
+        "errors": "0"
+      },
+      {
+        "player_name": "Mattia Perin",
+        "tkl": "0",
+        "tklWon": "0",
+        "tkl_pct": "",
+        "interception": "0",
+        "blocks": "0",
+        "errors": "0"
+      },
+      {
+        "player_name": "Leonardo Bonucci",
+        "tkl": "5",
+        "tklWon": "4",
+        "tkl_pct": "50.0",
+        "interception": "13",
+        "blocks": "12",
+        "errors": "0"
+      },
+      {
+        "player_name": "Leandro Paredes",
+        "tkl": "19",
+        "tklWon": "13",
+        "tkl_pct": "45.5",
+        "interception": "17",
+        "blocks": "8",
+        "errors": "0"
+      },
+      {
+        "player_name": "Federico Chiesa",
+        "tkl": "22",
+        "tklWon": "11",
+        "tkl_pct": "35.7",
+        "interception": "0",
+        "blocks": "13",
+        "errors": "0"
+      },
+      {
+        "player_name": "Daniele Rugani",
+        "tkl": "7",
+        "tklWon": "0",
+        "tkl_pct": "100.0",
+        "interception": "7",
+        "blocks": "7",
+        "errors": "0"
+      },
+      {
+        "player_name": "Matìas Soulé",
+        "tkl": "7",
+        "tklWon": "4",
+        "tkl_pct": "71.4",
+        "interception": "3",
+        "blocks": "7",
+        "errors": "0"
+      },
+      {
+        "player_name": "Enzo Barrenechea",
+        "tkl": "8",
+        "tklWon": "3",
+        "tkl_pct": "60.0",
+        "interception": "2",
+        "blocks": "3",
+        "errors": "0"
+      },
+      {
+        "player_name": "Tommaso Barbieri",
+        "tkl": "3",
+        "tklWon": "3",
+        "tkl_pct": "37.5",
+        "interception": "0",
+        "blocks": "3",
+        "errors": "0"
+      },
+      {
+        "player_name": "Samuel Iling-Junior",
+        "tkl": "7",
+        "tklWon": "2",
+        "tkl_pct": "44.4",
+        "interception": "2",
+        "blocks": "5",
+        "errors": "0"
+      },
+      {
+        "player_name": "Denis Zakaria",
+        "tkl": "6",
+        "tklWon": "3",
+        "tkl_pct": "100.0",
+        "interception": "2",
+        "blocks": "2",
+        "errors": "0"
+      },
+      {
+        "player_name": "Paul Pogba",
+        "tkl": "0",
+        "tklWon": "0",
+        "tkl_pct": "0.0",
+        "interception": "0",
+        "blocks": "0",
+        "errors": "0"
+      },
+      {
+        "player_name": "Nicolò Rovella",
+        "tkl": "1",
+        "tklWon": "1",
+        "tkl_pct": "100.0",
+        "interception": "0",
+        "blocks": "0",
+        "errors": "0"
+      }
+    ]
+  },
+  {
+    "Fiorentina": [
+      {
+        "player_name": "Cristiano Biraghi",
+        "tkl": "65",
+        "tklWon": "38",
+        "tkl_pct": "49.2",
+        "interception": "14",
+        "blocks": "32",
+        "errors": "1"
+      },
+      {
+        "player_name": "Pietro Terracciano",
+        "tkl": "2",
+        "tklWon": "1",
+        "tkl_pct": "66.7",
+        "interception": "1",
+        "blocks": "0",
+        "errors": "0"
+      },
+      {
+        "player_name": "Dodô",
+        "tkl": "40",
+        "tklWon": "22",
+        "tkl_pct": "47.8",
+        "interception": "25",
+        "blocks": "26",
+        "errors": "0"
+      },
+      {
+        "player_name": "Lucas Martínez Quarta",
+        "tkl": "80",
+        "tklWon": "48",
+        "tkl_pct": "68.9",
+        "interception": "48",
+        "blocks": "41",
+        "errors": "1"
+      },
+      {
+        "player_name": "Jonathan Ikone",
+        "tkl": "16",
+        "tklWon": "8",
+        "tkl_pct": "35.7",
+        "interception": "4",
+        "blocks": "18",
+        "errors": "0"
+      },
+      {
+        "player_name": "Sofyan Amrabat",
+        "tkl": "39",
+        "tklWon": "24",
+        "tkl_pct": "55.2",
+        "interception": "21",
+        "blocks": "23",
+        "errors": "2"
+      },
+      {
+        "player_name": "Nikola Milenković",
+        "tkl": "40",
+        "tklWon": "25",
+        "tkl_pct": "66.7",
+        "interception": "22",
+        "blocks": "27",
+        "errors": "0"
+      },
+      {
+        "player_name": "Igor",
+        "tkl": "43",
+        "tklWon": "29",
+        "tkl_pct": "74.1",
+        "interception": "25",
+        "blocks": "33",
+        "errors": "2"
+      },
+      {
+        "player_name": "Rolando Mandragora",
+        "tkl": "42",
+        "tklWon": "24",
+        "tkl_pct": "44.2",
+        "interception": "16",
+        "blocks": "25",
+        "errors": "0"
+      },
+      {
+        "player_name": "Christian Kouamé",
+        "tkl": "27",
+        "tklWon": "18",
+        "tkl_pct": "50.0",
+        "interception": "12",
+        "blocks": "15",
+        "errors": "0"
+      },
+      {
+        "player_name": "Giacomo Bonaventura",
+        "tkl": "35",
+        "tklWon": "23",
+        "tkl_pct": "64.9",
+        "interception": "16",
+        "blocks": "14",
+        "errors": "1"
+      },
+      {
+        "player_name": "Antonín Barák",
+        "tkl": "21",
+        "tklWon": "9",
+        "tkl_pct": "37.5",
+        "interception": "3",
+        "blocks": "16",
+        "errors": "0"
+      },
+      {
+        "player_name": "Luka Jović",
+        "tkl": "6",
+        "tklWon": "3",
+        "tkl_pct": "25.0",
+        "interception": "2",
+        "blocks": "7",
+        "errors": "0"
+      },
+      {
+        "player_name": "Arthur Cabral",
+        "tkl": "9",
+        "tklWon": "2",
+        "tkl_pct": "50.0",
+        "interception": "1",
+        "blocks": "10",
+        "errors": "0"
+      },
+      {
+        "player_name": "Riccardo Saponara",
+        "tkl": "10",
+        "tklWon": "5",
+        "tkl_pct": "55.6",
+        "interception": "5",
+        "blocks": "7",
+        "errors": "1"
+      },
+      {
+        "player_name": "Nicolás González",
+        "tkl": "17",
+        "tklWon": "10",
+        "tkl_pct": "31.3",
+        "interception": "4",
+        "blocks": "14",
+        "errors": "0"
+      },
+      {
+        "player_name": "Alfred Duncan",
+        "tkl": "18",
+        "tklWon": "10",
+        "tkl_pct": "47.6",
+        "interception": "8",
+        "blocks": "9",
+        "errors": "0"
+      },
+      {
+        "player_name": "Lorenzo Venuti",
+        "tkl": "18",
+        "tklWon": "7",
+        "tkl_pct": "61.1",
+        "interception": "5",
+        "blocks": "7",
+        "errors": "2"
+      },
+      {
+        "player_name": "Riccardo Sottil",
+        "tkl": "4",
+        "tklWon": "3",
+        "tkl_pct": "40.0",
+        "interception": "0",
+        "blocks": "2",
+        "errors": "0"
+      },
+      {
+        "player_name": "Aleksa Terzić",
+        "tkl": "16",
+        "tklWon": "9",
+        "tkl_pct": "52.4",
+        "interception": "5",
+        "blocks": "13",
+        "errors": "0"
+      },
+      {
+        "player_name": "",
+        "tkl": "",
+        "tklWon": "",
+        "tkl_pct": "",
+        "interception": "",
+        "blocks": "",
+        "errors": ""
+      },
+      {
+        "player_name": "Player",
+        "tkl": "",
+        "tklWon": "",
+        "tkl_pct": "",
+        "interception": "",
+        "blocks": "",
+        "errors": ""
+      },
+      {
+        "player_name": "Gaetano Castrovilli",
+        "tkl": "10",
+        "tklWon": "8",
+        "tkl_pct": "22.2",
+        "interception": "8",
+        "blocks": "5",
+        "errors": "0"
+      },
+      {
+        "player_name": "Luca Ranieri",
+        "tkl": "9",
+        "tklWon": "4",
+        "tkl_pct": "66.7",
+        "interception": "11",
+        "blocks": "5",
+        "errors": "1"
+      },
+      {
+        "player_name": "Michele Cerofolini",
+        "tkl": "0",
+        "tklWon": "0",
+        "tkl_pct": "",
+        "interception": "1",
+        "blocks": "0",
+        "errors": "0"
+      },
+      {
+        "player_name": "Youssef Maleh",
+        "tkl": "3",
+        "tklWon": "1",
+        "tkl_pct": "0.0",
+        "interception": "1",
+        "blocks": "5",
+        "errors": "0"
+      },
+      {
+        "player_name": "Pierluigi Gollini",
+        "tkl": "1",
+        "tklWon": "0",
+        "tkl_pct": "100.0",
+        "interception": "0",
+        "blocks": "0",
+        "errors": "0"
+      },
+      {
+        "player_name": "Alessandro Bianco",
+        "tkl": "5",
+        "tklWon": "2",
+        "tkl_pct": "66.7",
+        "interception": "0",
+        "blocks": "1",
+        "errors": "0"
+      },
+      {
+        "player_name": "Josip Brekalo",
+        "tkl": "2",
+        "tklWon": "1",
+        "tkl_pct": "25.0",
+        "interception": "1",
+        "blocks": "1",
+        "errors": "0"
+      },
+      {
+        "player_name": "Marco Benassi",
+        "tkl": "3",
+        "tklWon": "3",
+        "tkl_pct": "75.0",
+        "interception": "1",
+        "blocks": "0",
+        "errors": "0"
+      },
+      {
+        "player_name": "Salvatore Sirigu",
+        "tkl": "0",
+        "tklWon": "0",
+        "tkl_pct": "",
+        "interception": "0",
+        "blocks": "0",
+        "errors": "0"
+      },
+      {
+        "player_name": "Szymon Żurkowski",
+        "tkl": "0",
+        "tklWon": "0",
+        "tkl_pct": "",
+        "interception": "0",
+        "blocks": "0",
+        "errors": "0"
+      }
+    ]
+  },
+  {
+    "Bologna": [
+      {
+        "player_name": "Łukasz Skorupski",
+        "tkl": "2",
+        "tklWon": "1",
+        "tkl_pct": "50.0",
+        "interception": "0",
+        "blocks": "0",
+        "errors": "2"
+      },
+      {
+        "player_name": "Jhon Lucumí",
+        "tkl": "53",
+        "tklWon": "37",
+        "tkl_pct": "55.8",
+        "interception": "35",
+        "blocks": "43",
+        "errors": "1"
+      },
+      {
+        "player_name": "Stefan Posch",
+        "tkl": "81",
+        "tklWon": "43",
+        "tkl_pct": "58.7",
+        "interception": "35",
+        "blocks": "44",
+        "errors": "0"
+      },
+      {
+        "player_name": "Jerdy Schouten",
+        "tkl": "63",
+        "tklWon": "38",
+        "tkl_pct": "55.1",
+        "interception": "40",
+        "blocks": "40",
+        "errors": "1"
+      },
+      {
+        "player_name": "Lewis Ferguson",
+        "tkl": "44",
+        "tklWon": "25",
+        "tkl_pct": "50.0",
+        "interception": "19",
+        "blocks": "22",
+        "errors": "0"
+      },
+      {
+        "player_name": "Nicolás Domínguez",
+        "tkl": "79",
+        "tklWon": "49",
+        "tkl_pct": "51.3",
+        "interception": "21",
+        "blocks": "29",
+        "errors": "1"
+      },
+      {
+        "player_name": "Musa Barrow",
+        "tkl": "21",
+        "tklWon": "4",
+        "tkl_pct": "57.1",
+        "interception": "1",
+        "blocks": "25",
+        "errors": "0"
+      },
+      {
+        "player_name": "Andrea Cambiaso",
+        "tkl": "57",
+        "tklWon": "34",
+        "tkl_pct": "43.1",
+        "interception": "26",
+        "blocks": "26",
+        "errors": "1"
+      },
+      {
+        "player_name": "Riccardo Orsolini",
+        "tkl": "30",
+        "tklWon": "19",
+        "tkl_pct": "41.5",
+        "interception": "8",
+        "blocks": "29",
+        "errors": "0"
+      },
+      {
+        "player_name": "Adama Soumaoro",
+        "tkl": "25",
+        "tklWon": "17",
+        "tkl_pct": "71.4",
+        "interception": "15",
+        "blocks": "18",
+        "errors": "1"
+      },
+      {
+        "player_name": "Michel Aebischer",
+        "tkl": "12",
+        "tklWon": "6",
+        "tkl_pct": "11.1",
+        "interception": "7",
+        "blocks": "14",
+        "errors": "0"
+      },
+      {
+        "player_name": "Marko Arnautović",
+        "tkl": "9",
+        "tklWon": "6",
+        "tkl_pct": "16.7",
+        "interception": "2",
+        "blocks": "11",
+        "errors": "0"
+      },
+      {
+        "player_name": "Gary Medel",
+        "tkl": "25",
+        "tklWon": "15",
+        "tkl_pct": "56.3",
+        "interception": "28",
+        "blocks": "17",
+        "errors": "0"
+      },
+      {
+        "player_name": "Roberto Soriano",
+        "tkl": "31",
+        "tklWon": "16",
+        "tkl_pct": "52.0",
+        "interception": "6",
+        "blocks": "23",
+        "errors": "0"
+      },
+      {
+        "player_name": "Nikola Moro",
+        "tkl": "32",
+        "tklWon": "21",
+        "tkl_pct": "38.9",
+        "interception": "8",
+        "blocks": "15",
+        "errors": "0"
+      },
+      {
+        "player_name": "Charalambos Lykogiannis",
+        "tkl": "16",
+        "tklWon": "8",
+        "tkl_pct": "38.5",
+        "interception": "15",
+        "blocks": "9",
+        "errors": "0"
+      },
+      {
+        "player_name": "Kevin Bonifazi",
+        "tkl": "13",
+        "tklWon": "8",
+        "tkl_pct": "50.0",
+        "interception": "12",
+        "blocks": "11",
+        "errors": "0"
+      },
+      {
+        "player_name": "Nicola Sansone",
+        "tkl": "12",
+        "tklWon": "4",
+        "tkl_pct": "50.0",
+        "interception": "0",
+        "blocks": "0",
+        "errors": "0"
+      },
+      {
+        "player_name": "Giorgos Kyriakopoulos",
+        "tkl": "13",
+        "tklWon": "6",
+        "tkl_pct": "43.5",
+        "interception": "4",
+        "blocks": "14",
+        "errors": "0"
+      },
+      {
+        "player_name": "Joaquin Sosa",
+        "tkl": "6",
+        "tklWon": "2",
+        "tkl_pct": "22.2",
+        "interception": "6",
+        "blocks": "5",
+        "errors": "0"
+      },
+      {
+        "player_name": "Lorenzo De Silvestri",
+        "tkl": "3",
+        "tklWon": "2",
+        "tkl_pct": "42.9",
+        "interception": "3",
+        "blocks": "6",
+        "errors": "0"
+      },
+      {
+        "player_name": "Joshua Zirkzee",
+        "tkl": "4",
+        "tklWon": "2",
+        "tkl_pct": "28.6",
+        "interception": "4",
+        "blocks": "4",
+        "errors": "0"
+      },
+      {
+        "player_name": "Denso Kasius",
+        "tkl": "12",
+        "tklWon": "6",
+        "tkl_pct": "80.0",
+        "interception": "3",
+        "blocks": "6",
+        "errors": "0"
+      },
+      {
+        "player_name": "Emanuel Vignato",
+        "tkl": "4",
+        "tklWon": "4",
+        "tkl_pct": "50.0",
+        "interception": "3",
+        "blocks": "2",
+        "errors": "0"
+      },
+      {
+        "player_name": "Francesco Bardi",
+        "tkl": "0",
+        "tklWon": "0",
+        "tkl_pct": "",
+        "interception": "0",
+        "blocks": "0",
+        "errors": "0"
+      },
+      {
+        "player_name": "Niklas Pyyhtiä",
+        "tkl": "1",
+        "tklWon": "0",
+        "tkl_pct": "0.0",
+        "interception": "1",
+        "blocks": "1",
+        "errors": "0"
+      },
+      {
+        "player_name": "Antonio Raimondo",
+        "tkl": "0",
+        "tklWon": "0",
+        "tkl_pct": "",
+        "interception": "0",
+        "blocks": "0",
+        "errors": "0"
+      }
+    ]
+  },
+  {
+    "Torino": [
+      {
+        "player_name": "Vanja Milinković-Savić",
+        "tkl": "2",
+        "tklWon": "1",
+        "tkl_pct": "100.0",
+        "interception": "1",
+        "blocks": "0",
+        "errors": "1"
+      },
+      {
+        "player_name": "Alessandro Buongiorno",
+        "tkl": "38",
+        "tklWon": "25",
+        "tkl_pct": "51.6",
+        "interception": "60",
+        "blocks": "38",
+        "errors": "2"
+      },
+      {
+        "player_name": "Ricardo Rodríguez",
+        "tkl": "54",
+        "tklWon": "33",
+        "tkl_pct": "66.7",
+        "interception": "38",
+        "blocks": "30",
+        "errors": "0"
+      },
+      {
+        "player_name": "Nikola Vlašić",
+        "tkl": "32",
+        "tklWon": "21",
+        "tkl_pct": "44.1",
+        "interception": "10",
+        "blocks": "25",
+        "errors": "0"
+      },
+      {
+        "player_name": "Antonio Sanabria",
+        "tkl": "11",
+        "tklWon": "5",
+        "tkl_pct": "14.3",
+        "interception": "4",
+        "blocks": "9",
+        "errors": "0"
+      },
+      {
+        "player_name": "Perr Schuurs",
+        "tkl": "51",
+        "tklWon": "25",
+        "tkl_pct": "53.8",
+        "interception": "28",
+        "blocks": "28",
+        "errors": "0"
+      },
+      {
+        "player_name": "Koffi Djidji",
+        "tkl": "50",
+        "tklWon": "25",
+        "tkl_pct": "56.3",
+        "interception": "34",
+        "blocks": "29",
+        "errors": "0"
+      },
+      {
+        "player_name": "Aleksei Miranchuk",
+        "tkl": "11",
+        "tklWon": "5",
+        "tkl_pct": "27.3",
+        "interception": "2",
+        "blocks": "11",
+        "errors": "0"
+      },
+      {
+        "player_name": "Wilfried Singo",
+        "tkl": "27",
+        "tklWon": "17",
+        "tkl_pct": "63.2",
+        "interception": "12",
+        "blocks": "15",
+        "errors": "1"
+      },
+      {
+        "player_name": "Samuele Ricci",
+        "tkl": "32",
+        "tklWon": "21",
+        "tkl_pct": "78.3",
+        "interception": "17",
+        "blocks": "20",
+        "errors": "1"
+      },
+      {
+        "player_name": "Karol Linetty",
+        "tkl": "32",
+        "tklWon": "17",
+        "tkl_pct": "52.0",
+        "interception": "19",
+        "blocks": "28",
+        "errors": "0"
+      },
+      {
+        "player_name": "Mërgim Vojvoda",
+        "tkl": "22",
+        "tklWon": "12",
+        "tkl_pct": "50.0",
+        "interception": "10",
+        "blocks": "14",
+        "errors": "1"
+      },
+      {
+        "player_name": "Nemanja Radonjić",
+        "tkl": "2",
+        "tklWon": "1",
+        "tkl_pct": "0.0",
+        "interception": "2",
+        "blocks": "3",
+        "errors": "0"
+      },
+      {
+        "player_name": "Valentino Lazaro",
+        "tkl": "10",
+        "tklWon": "5",
+        "tkl_pct": "42.9",
+        "interception": "3",
+        "blocks": "16",
+        "errors": "0"
+      },
+      {
+        "player_name": "Saša Lukić",
+        "tkl": "21",
+        "tklWon": "14",
+        "tkl_pct": "60.0",
+        "interception": "13",
+        "blocks": "17",
+        "errors": "0"
+      },
+      {
+        "player_name": "Ivan Ilić",
+        "tkl": "18",
+        "tklWon": "7",
+        "tkl_pct": "50.0",
+        "interception": "5",
+        "blocks": "12",
+        "errors": "0"
+      },
+      {
+        "player_name": "Ola Aina",
+        "tkl": "17",
+        "tklWon": "13",
+        "tkl_pct": "60.0",
+        "interception": "11",
+        "blocks": "12",
+        "errors": "0"
+      },
+      {
+        "player_name": "Yann Karamoh",
+        "tkl": "5",
+        "tklWon": "2",
+        "tkl_pct": "20.0",
+        "interception": "0",
+        "blocks": "5",
+        "errors": "1"
+      },
+      {
+        "player_name": "Demba Seck",
+        "tkl": "5",
+        "tklWon": "2",
+        "tkl_pct": "66.7",
+        "interception": "1",
+        "blocks": "3",
+        "errors": "0"
+      },
+      {
+        "player_name": "Pietro Pellegri",
+        "tkl": "6",
+        "tklWon": "2",
+        "tkl_pct": "66.7",
+        "interception": "0",
+        "blocks": "5",
+        "errors": "0"
+      },
+      {
+        "player_name": "David Zima",
+        "tkl": "9",
+        "tklWon": "5",
+        "tkl_pct": "75.0",
+        "interception": "9",
+        "blocks": "7",
+        "errors": "2"
+      },
+      {
+        "player_name": "Andrew Gravillon",
+        "tkl": "3",
+        "tklWon": "3",
+        "tkl_pct": "",
+        "interception": "9",
+        "blocks": "4",
+        "errors": "0"
+      },
+      {
+        "player_name": "Michel Ndary Adopo",
+        "tkl": "7",
+        "tklWon": "2",
+        "tkl_pct": "33.3",
+        "interception": "1",
+        "blocks": "2",
+        "errors": "0"
+      },
+      {
+        "player_name": "Gvidas Gineitis",
+        "tkl": "3",
+        "tklWon": "1",
+        "tkl_pct": "50.0",
+        "interception": "0",
+        "blocks": "0",
+        "errors": "0"
+      },
+      {
+        "player_name": "Emirhan İlkhan",
+        "tkl": "1",
+        "tklWon": "1",
+        "tkl_pct": "100.0",
+        "interception": "2",
+        "blocks": "3",
+        "errors": "0"
+      },
+      {
+        "player_name": "Brian Bayeye",
+        "tkl": "3",
+        "tklWon": "0",
+        "tkl_pct": "100.0",
+        "interception": "1",
+        "blocks": "1",
+        "errors": "0"
+      },
+      {
+        "player_name": "Jacopo Segre",
+        "tkl": "0",
+        "tklWon": "0",
+        "tkl_pct": "",
+        "interception": "0",
+        "blocks": "0",
+        "errors": "0"
+      },
+      {
+        "player_name": "Ronaldo Vieira",
+        "tkl": "1",
+        "tklWon": "0",
+        "tkl_pct": "100.0",
+        "interception": "0",
+        "blocks": "0",
+        "errors": "0"
+      }
+    ]
+  },
+  {
+    "Monza": [
+      {
+        "player_name": "Michele Di Gregorio",
+        "tkl": "0",
+        "tklWon": "0",
+        "tkl_pct": "0.0",
+        "interception": "4",
+        "blocks": "1",
+        "errors": "3"
+      },
+      {
+        "player_name": "Carlos Augusto",
+        "tkl": "73",
+        "tklWon": "38",
+        "tkl_pct": "61.1",
+        "interception": "24",
+        "blocks": "24",
+        "errors": "1"
+      },
+      {
+        "player_name": "Matteo Pessina",
+        "tkl": "57",
+        "tklWon": "36",
+        "tkl_pct": "41.9",
+        "interception": "37",
+        "blocks": "50",
+        "errors": "1"
+      },
+      {
+        "player_name": "Gianluca Caprari",
+        "tkl": "16",
+        "tklWon": "6",
+        "tkl_pct": "30.8",
+        "interception": "8",
+        "blocks": "22",
+        "errors": "0"
+      },
+      {
+        "player_name": "Patrick Ciurria",
+        "tkl": "31",
+        "tklWon": "18",
+        "tkl_pct": "51.5",
+        "interception": "7",
+        "blocks": "24",
+        "errors": "0"
+      },
+      {
+        "player_name": "Armando Izzo",
+        "tkl": "73",
+        "tklWon": "50",
+        "tkl_pct": "64.4",
+        "interception": "50",
+        "blocks": "29",
+        "errors": "1"
+      },
+      {
+        "player_name": "Pablo Marí",
+        "tkl": "37",
+        "tklWon": "19",
+        "tkl_pct": "65.4",
+        "interception": "31",
+        "blocks": "22",
+        "errors": "3"
+      },
+      {
+        "player_name": "Luca Caldirola",
+        "tkl": "26",
+        "tklWon": "14",
+        "tkl_pct": "50.0",
+        "interception": "25",
+        "blocks": "32",
+        "errors": "1"
+      },
+      {
+        "player_name": "Dany Mota",
+        "tkl": "8",
+        "tklWon": "7",
+        "tkl_pct": "20.0",
+        "interception": "6",
+        "blocks": "5",
+        "errors": "0"
+      },
+      {
+        "player_name": "Nicolò Rovella",
+        "tkl": "45",
+        "tklWon": "29",
+        "tkl_pct": "36.1",
+        "interception": "40",
+        "blocks": "20",
+        "errors": "0"
+      },
+      {
+        "player_name": "Stefano Sensi",
+        "tkl": "41",
+        "tklWon": "26",
+        "tkl_pct": "37.5",
+        "interception": "20",
+        "blocks": "13",
+        "errors": "0"
+      },
+      {
+        "player_name": "Andrea Petagna",
+        "tkl": "7",
+        "tklWon": "5",
+        "tkl_pct": "50.0",
+        "interception": "3",
+        "blocks": "16",
+        "errors": "0"
+      },
+      {
+        "player_name": "Marlon",
+        "tkl": "35",
+        "tklWon": "21",
+        "tkl_pct": "51.7",
+        "interception": "18",
+        "blocks": "13",
+        "errors": "0"
+      },
+      {
+        "player_name": "Samuele Birindelli",
+        "tkl": "35",
+        "tklWon": "19",
+        "tkl_pct": "62.1",
+        "interception": "16",
+        "blocks": "28",
+        "errors": "0"
+      },
+      {
+        "player_name": "Pepín",
+        "tkl": "28",
+        "tklWon": "19",
+        "tkl_pct": "33.3",
+        "interception": "13",
+        "blocks": "14",
+        "errors": "0"
+      },
+      {
+        "player_name": "Andrea Colpani",
+        "tkl": "14",
+        "tklWon": "9",
+        "tkl_pct": "66.7",
+        "interception": "3",
+        "blocks": "14",
+        "errors": "0"
+      },
+      {
+        "player_name": "Filippo Ranocchia",
+        "tkl": "11",
+        "tklWon": "6",
+        "tkl_pct": "33.3",
+        "interception": "4",
+        "blocks": "5",
+        "errors": "0"
+      },
+      {
+        "player_name": "Mattia Valoti",
+        "tkl": "17",
+        "tklWon": "10",
+        "tkl_pct": "31.3",
+        "interception": "3",
+        "blocks": "13",
+        "errors": "0"
+      },
+      {
+        "player_name": "Giulio Donati",
+        "tkl": "4",
+        "tklWon": "1",
+        "tkl_pct": "50.0",
+        "interception": "4",
+        "blocks": "3",
+        "errors": "0"
+      },
+      {
+        "player_name": "Christian Gytkjær",
+        "tkl": "6",
+        "tklWon": "2",
+        "tkl_pct": "40.0",
+        "interception": "0",
+        "blocks": "6",
+        "errors": "0"
+      },
+      {
+        "player_name": "",
+        "tkl": "",
+        "tklWon": "",
+        "tkl_pct": "",
+        "interception": "",
+        "blocks": "",
+        "errors": ""
+      },
+      {
+        "player_name": "Player",
+        "tkl": "",
+        "tklWon": "",
+        "tkl_pct": "",
+        "interception": "",
+        "blocks": "",
+        "errors": ""
+      },
+      {
+        "player_name": "Andrea Barberis",
+        "tkl": "7",
+        "tklWon": "2",
+        "tkl_pct": "45.5",
+        "interception": "8",
+        "blocks": "0",
+        "errors": "0"
+      },
+      {
+        "player_name": "Marco D'Alessandro",
+        "tkl": "4",
+        "tklWon": "4",
+        "tkl_pct": "40.0",
+        "interception": "1",
+        "blocks": "2",
+        "errors": "0"
+      },
+      {
+        "player_name": "Valentin Antov",
+        "tkl": "6",
+        "tklWon": "5",
+        "tkl_pct": "20.0",
+        "interception": "4",
+        "blocks": "5",
+        "errors": "1"
+      },
+      {
+        "player_name": "Luca Marrone",
+        "tkl": "0",
+        "tklWon": "0",
+        "tkl_pct": "0.0",
+        "interception": "0",
+        "blocks": "2",
+        "errors": "1"
+      },
+      {
+        "player_name": "Salvatore Molina",
+        "tkl": "6",
+        "tklWon": "5",
+        "tkl_pct": "80.0",
+        "interception": "1",
+        "blocks": "4",
+        "errors": "0"
+      },
+      {
+        "player_name": "Andrea Carboni",
+        "tkl": "3",
+        "tklWon": "2",
+        "tkl_pct": "40.0",
+        "interception": "3",
+        "blocks": "3",
+        "errors": "1"
+      },
+      {
+        "player_name": "Alessio Cragno",
+        "tkl": "0",
+        "tklWon": "0",
+        "tkl_pct": "0.0",
+        "interception": "0",
+        "blocks": "0",
+        "errors": "0"
+      },
+      {
+        "player_name": "Andrea Ranocchia",
+        "tkl": "3",
+        "tklWon": "1",
+        "tkl_pct": "75.0",
+        "interception": "0",
+        "blocks": "5",
+        "errors": "0"
+      },
+      {
+        "player_name": "Franco Carboni",
+        "tkl": "1",
+        "tklWon": "1",
+        "tkl_pct": "0.0",
+        "interception": "1",
+        "blocks": "3",
+        "errors": "0"
+      },
+      {
+        "player_name": "Samuele Vignato",
+        "tkl": "0",
+        "tklWon": "0",
+        "tkl_pct": "",
+        "interception": "0",
+        "blocks": "1",
+        "errors": "0"
+      },
+      {
+        "player_name": "Warren Bondo",
+        "tkl": "1",
+        "tklWon": "0",
+        "tkl_pct": "",
+        "interception": "0",
+        "blocks": "1",
+        "errors": "0"
+      }
+    ]
+  },
+  {
+    "Udinese": [
+      {
+        "player_name": "Marco Silvestri",
+        "tkl": "2",
+        "tklWon": "1",
+        "tkl_pct": "66.7",
+        "interception": "1",
+        "blocks": "0",
+        "errors": "1"
+      },
+      {
+        "player_name": "Walace",
+        "tkl": "82",
+        "tklWon": "39",
+        "tkl_pct": "45.6",
+        "interception": "51",
+        "blocks": "47",
+        "errors": "1"
+      },
+      {
+        "player_name": "Roberto Pereyra",
+        "tkl": "36",
+        "tklWon": "20",
+        "tkl_pct": "36.4",
+        "interception": "16",
+        "blocks": "20",
+        "errors": "0"
+      },
+      {
+        "player_name": "Nehuén Pérez",
+        "tkl": "77",
+        "tklWon": "40",
+        "tkl_pct": "70.9",
+        "interception": "35",
+        "blocks": "53",
+        "errors": "1"
+      },
+      {
+        "player_name": "Jaka Bijol",
+        "tkl": "39",
+        "tklWon": "23",
+        "tkl_pct": "59.3",
+        "interception": "29",
+        "blocks": "41",
+        "errors": "0"
+      },
+      {
+        "player_name": "Destiny Udogie",
+        "tkl": "71",
+        "tklWon": "45",
+        "tkl_pct": "57.6",
+        "interception": "36",
+        "blocks": "34",
+        "errors": "0"
+      },
+      {
+        "player_name": "Rodrigo Becão",
+        "tkl": "70",
+        "tklWon": "36",
+        "tkl_pct": "75.5",
+        "interception": "26",
+        "blocks": "44",
+        "errors": "2"
+      },
+      {
+        "player_name": "Sandi Lovrić",
+        "tkl": "40",
+        "tklWon": "18",
+        "tkl_pct": "58.1",
+        "interception": "26",
+        "blocks": "25",
+        "errors": "0"
+      },
+      {
+        "player_name": "Beto",
+        "tkl": "16",
+        "tklWon": "9",
+        "tkl_pct": "23.5",
+        "interception": "6",
+        "blocks": "18",
+        "errors": "0"
+      },
+      {
+        "player_name": "Isaac Success",
+        "tkl": "8",
+        "tklWon": "4",
+        "tkl_pct": "37.5",
+        "interception": "4",
+        "blocks": "13",
+        "errors": "0"
+      },
+      {
+        "player_name": "Lazar Samardzic",
+        "tkl": "33",
+        "tklWon": "16",
+        "tkl_pct": "39.5",
+        "interception": "11",
+        "blocks": "13",
+        "errors": "0"
+      },
+      {
+        "player_name": "Kingsley Ehizibue",
+        "tkl": "47",
+        "tklWon": "31",
+        "tkl_pct": "64.4",
+        "interception": "10",
+        "blocks": "21",
+        "errors": "1"
+      },
+      {
+        "player_name": "Gerard Deulofeu",
+        "tkl": "8",
+        "tklWon": "5",
+        "tkl_pct": "33.3",
+        "interception": "2",
+        "blocks": "8",
+        "errors": "0"
+      },
+      {
+        "player_name": "Tolgay Arslan",
+        "tkl": "29",
+        "tklWon": "18",
+        "tkl_pct": "35.9",
+        "interception": "12",
+        "blocks": "19",
+        "errors": "1"
+      },
+      {
+        "player_name": "Jean-Victor Makengo",
+        "tkl": "16",
+        "tklWon": "13",
+        "tkl_pct": "55.6",
+        "interception": "9",
+        "blocks": "8",
+        "errors": "0"
+      },
+      {
+        "player_name": "Enzo Ebosse",
+        "tkl": "15",
+        "tklWon": "9",
+        "tkl_pct": "69.2",
+        "interception": "11",
+        "blocks": "27",
+        "errors": "0"
+      },
+      {
+        "player_name": "Adam Masina",
+        "tkl": "10",
+        "tklWon": "7",
+        "tkl_pct": "40.0",
+        "interception": "10",
+        "blocks": "11",
+        "errors": "1"
+      },
+      {
+        "player_name": "Ilija Nestorovski",
+        "tkl": "7",
+        "tklWon": "3",
+        "tkl_pct": "45.5",
+        "interception": "2",
+        "blocks": "6",
+        "errors": "0"
+      },
+      {
+        "player_name": "Florian Thauvin",
+        "tkl": "2",
+        "tklWon": "1",
+        "tkl_pct": "15.4",
+        "interception": "2",
+        "blocks": "5",
+        "errors": "0"
+      },
+      {
+        "player_name": "Festy Ebosele",
+        "tkl": "15",
+        "tklWon": "10",
+        "tkl_pct": "40.0",
+        "interception": "2",
+        "blocks": "5",
+        "errors": "0"
+      },
+      {
+        "player_name": "",
+        "tkl": "",
+        "tklWon": "",
+        "tkl_pct": "",
+        "interception": "",
+        "blocks": "",
+        "errors": ""
+      },
+      {
+        "player_name": "Player",
+        "tkl": "",
+        "tklWon": "",
+        "tkl_pct": "",
+        "interception": "",
+        "blocks": "",
+        "errors": ""
+      },
+      {
+        "player_name": "Marvin Zeegelaar",
+        "tkl": "8",
+        "tklWon": "4",
+        "tkl_pct": "75.0",
+        "interception": "3",
+        "blocks": "2",
+        "errors": "0"
+      },
+      {
+        "player_name": "Bram Nuytinck",
+        "tkl": "7",
+        "tklWon": "4",
+        "tkl_pct": "50.0",
+        "interception": "5",
+        "blocks": "6",
+        "errors": "0"
+      },
+      {
+        "player_name": "Brandon Soppy",
+        "tkl": "1",
+        "tklWon": "1",
+        "tkl_pct": "",
+        "interception": "1",
+        "blocks": "4",
+        "errors": "0"
+      },
+      {
+        "player_name": "Axel Guessand",
+        "tkl": "2",
+        "tklWon": "1",
+        "tkl_pct": "50.0",
+        "interception": "2",
+        "blocks": "1",
+        "errors": "0"
+      },
+      {
+        "player_name": "James Abankwah",
+        "tkl": "1",
+        "tklWon": "1",
+        "tkl_pct": "",
+        "interception": "0",
+        "blocks": "4",
+        "errors": "0"
+      },
+      {
+        "player_name": "Simone Pafundi",
+        "tkl": "8",
+        "tklWon": "5",
+        "tkl_pct": "50.0",
+        "interception": "1",
+        "blocks": "0",
+        "errors": "0"
+      },
+      {
+        "player_name": "Mato Jajalo",
+        "tkl": "0",
+        "tklWon": "0",
+        "tkl_pct": "0.0",
+        "interception": "0",
+        "blocks": "0",
+        "errors": "0"
+      },
+      {
+        "player_name": "Vivaldo Semedo",
+        "tkl": "0",
+        "tklWon": "0",
+        "tkl_pct": "",
+        "interception": "0",
+        "blocks": "1",
+        "errors": "0"
+      },
+      {
+        "player_name": "Nicolò Cocetta",
+        "tkl": "0",
+        "tklWon": "0",
+        "tkl_pct": "0.0",
+        "interception": "1",
+        "blocks": "1",
+        "errors": "0"
+      },
+      {
+        "player_name": "Leonardo Buta",
+        "tkl": "1",
+        "tklWon": "1",
+        "tkl_pct": "",
+        "interception": "0",
+        "blocks": "0",
+        "errors": "0"
+      }
+    ]
+  },
+  {
+    "Sassuolo": [
+      {
+        "player_name": "Andrea Consigli",
+        "tkl": "1",
+        "tklWon": "0",
+        "tkl_pct": "0.0",
+        "interception": "0",
+        "blocks": "0",
+        "errors": "3"
+      },
+      {
+        "player_name": "Davide Frattesi",
+        "tkl": "63",
+        "tklWon": "36",
+        "tkl_pct": "56.8",
+        "interception": "16",
+        "blocks": "27",
+        "errors": "0"
+      },
+      {
+        "player_name": "Rogério",
+        "tkl": "37",
+        "tklWon": "21",
+        "tkl_pct": "48.6",
+        "interception": "37",
+        "blocks": "32",
+        "errors": "0"
+      },
+      {
+        "player_name": "Jeremy Toljan",
+        "tkl": "36",
+        "tklWon": "23",
+        "tkl_pct": "66.7",
+        "interception": "18",
+        "blocks": "31",
+        "errors": "1"
+      },
+      {
+        "player_name": "Armand Lauriente",
+        "tkl": "21",
+        "tklWon": "15",
+        "tkl_pct": "38.1",
+        "interception": "12",
+        "blocks": "20",
+        "errors": "0"
+      },
+      {
+        "player_name": "Martin Erlic",
+        "tkl": "27",
+        "tklWon": "16",
+        "tkl_pct": "43.5",
+        "interception": "31",
+        "blocks": "36",
+        "errors": "1"
+      },
+      {
+        "player_name": "Maxime Lopez",
+        "tkl": "42",
+        "tklWon": "18",
+        "tkl_pct": "28.6",
+        "interception": "22",
+        "blocks": "24",
+        "errors": "0"
+      },
+      {
+        "player_name": "Andrea Pinamonti",
+        "tkl": "10",
+        "tklWon": "7",
+        "tkl_pct": "42.9",
+        "interception": "2",
+        "blocks": "19",
+        "errors": "0"
+      },
+      {
+        "player_name": "Gian Marco Ferrari",
+        "tkl": "23",
+        "tklWon": "16",
+        "tkl_pct": "58.8",
+        "interception": "23",
+        "blocks": "29",
+        "errors": "4"
+      },
+      {
+        "player_name": "Domenico Berardi",
+        "tkl": "23",
+        "tklWon": "14",
+        "tkl_pct": "22.5",
+        "interception": "19",
+        "blocks": "13",
+        "errors": "0"
+      },
+      {
+        "player_name": "Matheus Henrique",
+        "tkl": "26",
+        "tklWon": "12",
+        "tkl_pct": "50.0",
+        "interception": "12",
+        "blocks": "15",
+        "errors": "0"
+      },
+      {
+        "player_name": "Ruan",
+        "tkl": "38",
+        "tklWon": "26",
+        "tkl_pct": "65.5",
+        "interception": "24",
+        "blocks": "29",
+        "errors": "3"
+      },
+      {
+        "player_name": "Grégoire Defrel",
+        "tkl": "9",
+        "tklWon": "7",
+        "tkl_pct": "30.8",
+        "interception": "2",
+        "blocks": "11",
+        "errors": "0"
+      },
+      {
+        "player_name": "Kristian Thorstvedt",
+        "tkl": "16",
+        "tklWon": "7",
+        "tkl_pct": "35.3",
+        "interception": "14",
+        "blocks": "19",
+        "errors": "0"
+      },
+      {
+        "player_name": "Pedro Obiang",
+        "tkl": "26",
+        "tklWon": "17",
+        "tkl_pct": "55.6",
+        "interception": "8",
+        "blocks": "12",
+        "errors": "0"
+      },
+      {
+        "player_name": "Giorgos Kyriakopoulos",
+        "tkl": "21",
+        "tklWon": "8",
+        "tkl_pct": "71.4",
+        "interception": "11",
+        "blocks": "7",
+        "errors": "1"
+      },
+      {
+        "player_name": "Nedim Bajrami",
+        "tkl": "12",
+        "tklWon": "7",
+        "tkl_pct": "45.5",
+        "interception": "7",
+        "blocks": "9",
+        "errors": "0"
+      },
+      {
+        "player_name": "Nadir Zortea",
+        "tkl": "15",
+        "tklWon": "8",
+        "tkl_pct": "64.3",
+        "interception": "4",
+        "blocks": "10",
+        "errors": "0"
+      },
+      {
+        "player_name": "Hamed Junior Traorè",
+        "tkl": "11",
+        "tklWon": "6",
+        "tkl_pct": "36.4",
+        "interception": "2",
+        "blocks": "4",
+        "errors": "1"
+      },
+      {
+        "player_name": "Abdou Harroui",
+        "tkl": "17",
+        "tklWon": "6",
+        "tkl_pct": "28.6",
+        "interception": "2",
+        "blocks": "6",
+        "errors": "0"
+      },
+      {
+        "player_name": "",
+        "tkl": "",
+        "tklWon": "",
+        "tkl_pct": "",
+        "interception": "",
+        "blocks": "",
+        "errors": ""
+      },
+      {
+        "player_name": "Player",
+        "tkl": "",
+        "tklWon": "",
+        "tkl_pct": "",
+        "interception": "",
+        "blocks": "",
+        "errors": ""
+      },
+      {
+        "player_name": "Kaan Ayhan",
+        "tkl": "10",
+        "tklWon": "4",
+        "tkl_pct": "100.0",
+        "interception": "5",
+        "blocks": "5",
+        "errors": "1"
+      },
+      {
+        "player_name": "Emil Ceide",
+        "tkl": "5",
+        "tklWon": "2",
+        "tkl_pct": "60.0",
+        "interception": "1",
+        "blocks": "3",
+        "errors": "0"
+      },
+      {
+        "player_name": "Luca D'Andrea",
+        "tkl": "4",
+        "tklWon": "0",
+        "tkl_pct": "25.0",
+        "interception": "1",
+        "blocks": "2",
+        "errors": "0"
+      },
+      {
+        "player_name": "Riccardo Marchizza",
+        "tkl": "2",
+        "tklWon": "2",
+        "tkl_pct": "50.0",
+        "interception": "2",
+        "blocks": "2",
+        "errors": "0"
+      },
+      {
+        "player_name": "Gianluca Pegolo",
+        "tkl": "0",
+        "tklWon": "0",
+        "tkl_pct": "0.0",
+        "interception": "0",
+        "blocks": "0",
+        "errors": "0"
+      },
+      {
+        "player_name": "Agustín Álvarez Martínez",
+        "tkl": "6",
+        "tklWon": "3",
+        "tkl_pct": "25.0",
+        "interception": "3",
+        "blocks": "5",
+        "errors": "0"
+      },
+      {
+        "player_name": "Alessandro Russo",
+        "tkl": "0",
+        "tklWon": "0",
+        "tkl_pct": "",
+        "interception": "0",
+        "blocks": "0",
+        "errors": "1"
+      },
+      {
+        "player_name": "Mert Müldür",
+        "tkl": "0",
+        "tklWon": "0",
+        "tkl_pct": "",
+        "interception": "0",
+        "blocks": "0",
+        "errors": "0"
+      },
+      {
+        "player_name": "Janis Antiste",
+        "tkl": "1",
+        "tklWon": "0",
+        "tkl_pct": "100.0",
+        "interception": "0",
+        "blocks": "0",
+        "errors": "0"
+      },
+      {
+        "player_name": "Filippo Romagna",
+        "tkl": "0",
+        "tklWon": "0",
+        "tkl_pct": "",
+        "interception": "0",
+        "blocks": "1",
+        "errors": "0"
+      },
+      {
+        "player_name": "Giacomo Raspadori",
+        "tkl": "0",
+        "tklWon": "0",
+        "tkl_pct": "",
+        "interception": "0",
+        "blocks": "0",
+        "errors": "0"
+      }
+    ]
+  },
+  {
+    "Empoli": [
+      {
+        "player_name": "Sebastiano Luperto",
+        "tkl": "33",
+        "tklWon": "18",
+        "tkl_pct": "45.0",
+        "interception": "43",
+        "blocks": "54",
+        "errors": "1"
+      },
+      {
+        "player_name": "Fabiano Parisi",
+        "tkl": "65",
+        "tklWon": "35",
+        "tkl_pct": "41.7",
+        "interception": "41",
+        "blocks": "51",
+        "errors": "0"
+      },
+      {
+        "player_name": "Guglielmo Vicario",
+        "tkl": "1",
+        "tklWon": "1",
+        "tkl_pct": "50.0",
+        "interception": "0",
+        "blocks": "0",
+        "errors": "2"
+      },
+      {
+        "player_name": "Răzvan Marin",
+        "tkl": "44",
+        "tklWon": "22",
+        "tkl_pct": "47.5",
+        "interception": "14",
+        "blocks": "29",
+        "errors": "0"
+      },
+      {
+        "player_name": "Filippo Bandinelli",
+        "tkl": "55",
+        "tklWon": "34",
+        "tkl_pct": "37.8",
+        "interception": "18",
+        "blocks": "20",
+        "errors": "0"
+      },
+      {
+        "player_name": "Tommaso Baldanzi",
+        "tkl": "25",
+        "tklWon": "12",
+        "tkl_pct": "21.9",
+        "interception": "2",
+        "blocks": "21",
+        "errors": "0"
+      },
+      {
+        "player_name": "Ardian Ismajli",
+        "tkl": "40",
+        "tklWon": "32",
+        "tkl_pct": "75.0",
+        "interception": "27",
+        "blocks": "47",
+        "errors": "0"
+      },
+      {
+        "player_name": "Tyronne Ebuehi",
+        "tkl": "22",
+        "tklWon": "14",
+        "tkl_pct": "69.2",
+        "interception": "12",
+        "blocks": "23",
+        "errors": "1"
+      },
+      {
+        "player_name": "Francesco Caputo",
+        "tkl": "2",
+        "tklWon": "2",
+        "tkl_pct": "0.0",
+        "interception": "2",
+        "blocks": "7",
+        "errors": "0"
+      },
+      {
+        "player_name": "Martin Satriano",
+        "tkl": "13",
+        "tklWon": "8",
+        "tkl_pct": "42.9",
+        "interception": "3",
+        "blocks": "5",
+        "errors": "0"
+      },
+      {
+        "player_name": "Petar Stojanović",
+        "tkl": "42",
+        "tklWon": "22",
+        "tkl_pct": "60.5",
+        "interception": "11",
+        "blocks": "17",
+        "errors": "0"
+      },
+      {
+        "player_name": "Jean-Daniel Akpa-Akpro",
+        "tkl": "53",
+        "tklWon": "37",
+        "tkl_pct": "54.8",
+        "interception": "13",
+        "blocks": "35",
+        "errors": "0"
+      },
+      {
+        "player_name": "Alberto Grassi",
+        "tkl": "26",
+        "tklWon": "21",
+        "tkl_pct": "62.5",
+        "interception": "27",
+        "blocks": "23",
+        "errors": "0"
+      },
+      {
+        "player_name": "Nicolò Cambiaghi",
+        "tkl": "30",
+        "tklWon": "22",
+        "tkl_pct": "29.6",
+        "interception": "9",
+        "blocks": "19",
+        "errors": "0"
+      },
+      {
+        "player_name": "Nicolas Haas",
+        "tkl": "27",
+        "tklWon": "13",
+        "tkl_pct": "50.0",
+        "interception": "8",
+        "blocks": "16",
+        "errors": "0"
+      },
+      {
+        "player_name": "Koni De Winter",
+        "tkl": "14",
+        "tklWon": "9",
+        "tkl_pct": "38.5",
+        "interception": "6",
+        "blocks": "14",
+        "errors": "0"
+      },
+      {
+        "player_name": "Liam Henderson",
+        "tkl": "13",
+        "tklWon": "10",
+        "tkl_pct": "19.0",
+        "interception": "10",
+        "blocks": "10",
+        "errors": "0"
+      },
+      {
+        "player_name": "Sam Lammers",
+        "tkl": "20",
+        "tklWon": "10",
+        "tkl_pct": "63.6",
+        "interception": "3",
+        "blocks": "4",
+        "errors": "0"
+      },
+      {
+        "player_name": "Nedim Bajrami",
+        "tkl": "8",
+        "tklWon": "4",
+        "tkl_pct": "66.7",
+        "interception": "7",
+        "blocks": "5",
+        "errors": "0"
+      },
+      {
+        "player_name": "Jacopo Fazzini",
+        "tkl": "31",
+        "tklWon": "17",
+        "tkl_pct": "52.9",
+        "interception": "7",
+        "blocks": "15",
+        "errors": "0"
+      },
+      {
+        "player_name": "",
+        "tkl": "",
+        "tklWon": "",
+        "tkl_pct": "",
+        "interception": "",
+        "blocks": "",
+        "errors": ""
+      },
+      {
+        "player_name": "Player",
+        "tkl": "",
+        "tklWon": "",
+        "tkl_pct": "",
+        "interception": "",
+        "blocks": "",
+        "errors": ""
+      },
+      {
+        "player_name": "Samuele Perisan",
+        "tkl": "0",
+        "tklWon": "0",
+        "tkl_pct": "",
+        "interception": "0",
+        "blocks": "0",
+        "errors": "0"
+      },
+      {
+        "player_name": "Sebastian Walukiewicz",
+        "tkl": "9",
+        "tklWon": "6",
+        "tkl_pct": "66.7",
+        "interception": "7",
+        "blocks": "10",
+        "errors": "0"
+      },
+      {
+        "player_name": "Mattia Destro",
+        "tkl": "1",
+        "tklWon": "1",
+        "tkl_pct": "",
+        "interception": "1",
+        "blocks": "2",
+        "errors": "0"
+      },
+      {
+        "player_name": "Roberto Piccoli",
+        "tkl": "1",
+        "tklWon": "1",
+        "tkl_pct": "0.0",
+        "interception": "1",
+        "blocks": "4",
+        "errors": "0"
+      },
+      {
+        "player_name": "Liberato Cacace",
+        "tkl": "25",
+        "tklWon": "10",
+        "tkl_pct": "60.0",
+        "interception": "4",
+        "blocks": "15",
+        "errors": "0"
+      },
+      {
+        "player_name": "Marko Pjaca",
+        "tkl": "4",
+        "tklWon": "3",
+        "tkl_pct": "60.0",
+        "interception": "3",
+        "blocks": "3",
+        "errors": "0"
+      },
+      {
+        "player_name": "Emanuel Vignato",
+        "tkl": "2",
+        "tklWon": "0",
+        "tkl_pct": "",
+        "interception": "0",
+        "blocks": "0",
+        "errors": "0"
+      },
+      {
+        "player_name": "Emmanuel Ekong",
+        "tkl": "0",
+        "tklWon": "0",
+        "tkl_pct": "",
+        "interception": "0",
+        "blocks": "0",
+        "errors": "0"
+      },
+      {
+        "player_name": "Lorenzo Tonelli",
+        "tkl": "0",
+        "tklWon": "0",
+        "tkl_pct": "0.0",
+        "interception": "0",
+        "blocks": "0",
+        "errors": "0"
+      },
+      {
+        "player_name": "Samir Ujkani",
+        "tkl": "0",
+        "tklWon": "0",
+        "tkl_pct": "",
+        "interception": "0",
+        "blocks": "0",
+        "errors": "0"
+      },
+      {
+        "player_name": "Duccio Degl'Innocenti",
+        "tkl": "0",
+        "tklWon": "0",
+        "tkl_pct": "",
+        "interception": "1",
+        "blocks": "0",
+        "errors": "0"
+      },
+      {
+        "player_name": "Herculano Nabian",
+        "tkl": "0",
+        "tklWon": "0",
+        "tkl_pct": "",
+        "interception": "0",
+        "blocks": "0",
+        "errors": "0"
+      }
+    ]
+  },
+  {
+    "Salernitana": [
+      {
+        "player_name": "Lassana Coulibaly",
+        "tkl": "84",
+        "tklWon": "50",
+        "tkl_pct": "41.1",
+        "interception": "25",
+        "blocks": "35",
+        "errors": "2"
+      },
+      {
+        "player_name": "Antonio Candreva",
+        "tkl": "17",
+        "tklWon": "7",
+        "tkl_pct": "28.9",
+        "interception": "17",
+        "blocks": "7",
+        "errors": "0"
+      },
+      {
+        "player_name": "Boulaye Dia",
+        "tkl": "12",
+        "tklWon": "5",
+        "tkl_pct": "28.6",
+        "interception": "7",
+        "blocks": "10",
+        "errors": "1"
+      },
+      {
+        "player_name": "Tonny Vilhena",
+        "tkl": "44",
+        "tklWon": "22",
+        "tkl_pct": "40.0",
+        "interception": "18",
+        "blocks": "17",
+        "errors": "0"
+      },
+      {
+        "player_name": "Domagoj Bradarić",
+        "tkl": "26",
+        "tklWon": "19",
+        "tkl_pct": "43.8",
+        "interception": "21",
+        "blocks": "20",
+        "errors": "0"
+      },
+      {
+        "player_name": "Flavius Daniliuc",
+        "tkl": "57",
+        "tklWon": "29",
+        "tkl_pct": "55.3",
+        "interception": "29",
+        "blocks": "30",
+        "errors": "0"
+      },
+      {
+        "player_name": "Krzysztof Piątek",
+        "tkl": "18",
+        "tklWon": "11",
+        "tkl_pct": "23.8",
+        "interception": "2",
+        "blocks": "17",
+        "errors": "0"
+      },
+      {
+        "player_name": "Pasquale Mazzocchi",
+        "tkl": "32",
+        "tklWon": "18",
+        "tkl_pct": "45.9",
+        "interception": "10",
+        "blocks": "10",
+        "errors": "2"
+      },
+      {
+        "player_name": "Lorenzo Pirola",
+        "tkl": "33",
+        "tklWon": "29",
+        "tkl_pct": "70.4",
+        "interception": "30",
+        "blocks": "50",
+        "errors": "1"
+      },
+      {
+        "player_name": "Norbert Gyömbér",
+        "tkl": "32",
+        "tklWon": "23",
+        "tkl_pct": "66.7",
+        "interception": "35",
+        "blocks": "33",
+        "errors": "0"
+      },
+      {
+        "player_name": "Guillermo Ochoa",
+        "tkl": "0",
+        "tklWon": "0",
+        "tkl_pct": "0.0",
+        "interception": "0",
+        "blocks": "0",
+        "errors": "1"
+      },
+      {
+        "player_name": "Dylan Bronn",
+        "tkl": "34",
+        "tklWon": "18",
+        "tkl_pct": "66.7",
+        "interception": "20",
+        "blocks": "32",
+        "errors": "1"
+      },
+      {
+        "player_name": "Luigi Sepe",
+        "tkl": "0",
+        "tklWon": "0",
+        "tkl_pct": "0.0",
+        "interception": "0",
+        "blocks": "0",
+        "errors": "0"
+      },
+      {
+        "player_name": "Grigoris Kastanos",
+        "tkl": "39",
+        "tklWon": "23",
+        "tkl_pct": "40.0",
+        "interception": "8",
+        "blocks": "20",
+        "errors": "0"
+      },
+      {
+        "player_name": "Federico Bonazzoli",
+        "tkl": "5",
+        "tklWon": "3",
+        "tkl_pct": "0.0",
+        "interception": "3",
+        "blocks": "9",
+        "errors": "0"
+      },
+      {
+        "player_name": "Federico Fazio",
+        "tkl": "15",
+        "tklWon": "12",
+        "tkl_pct": "36.4",
+        "interception": "28",
+        "blocks": "9",
+        "errors": "0"
+      },
+      {
+        "player_name": "Giulio Maggiore",
+        "tkl": "20",
+        "tklWon": "8",
+        "tkl_pct": "47.6",
+        "interception": "8",
+        "blocks": "19",
+        "errors": "0"
+      },
+      {
+        "player_name": "Erik Botheim",
+        "tkl": "11",
+        "tklWon": "7",
+        "tkl_pct": "46.2",
+        "interception": "0",
+        "blocks": "3",
+        "errors": "0"
+      },
+      {
+        "player_name": "Emil Bohinen",
+        "tkl": "25",
+        "tklWon": "13",
+        "tkl_pct": "52.2",
+        "interception": "17",
+        "blocks": "25",
+        "errors": "0"
+      },
+      {
+        "player_name": "Matteo Lovato",
+        "tkl": "17",
+        "tklWon": "14",
+        "tkl_pct": "40.0",
+        "interception": "13",
+        "blocks": "8",
+        "errors": "2"
+      },
+      {
+        "player_name": "",
+        "tkl": "",
+        "tklWon": "",
+        "tkl_pct": "",
+        "interception": "",
+        "blocks": "",
+        "errors": ""
+      },
+      {
+        "player_name": "Player",
+        "tkl": "",
+        "tklWon": "",
+        "tkl_pct": "",
+        "interception": "",
+        "blocks": "",
+        "errors": ""
+      },
+      {
+        "player_name": "Junior Sambia",
+        "tkl": "12",
+        "tklWon": "5",
+        "tkl_pct": "60.0",
+        "interception": "8",
+        "blocks": "9",
+        "errors": "1"
+      },
+      {
+        "player_name": "Ivan Radovanović",
+        "tkl": "12",
+        "tklWon": "4",
+        "tkl_pct": "40.0",
+        "interception": "7",
+        "blocks": "9",
+        "errors": "1"
+      },
+      {
+        "player_name": "Hans Nicolussi Caviglia",
+        "tkl": "15",
+        "tklWon": "6",
+        "tkl_pct": "60.0",
+        "interception": "7",
+        "blocks": "9",
+        "errors": "1"
+      },
+      {
+        "player_name": "William Troost-Ekong",
+        "tkl": "11",
+        "tklWon": "3",
+        "tkl_pct": "85.7",
+        "interception": "6",
+        "blocks": "7",
+        "errors": "0"
+      },
+      {
+        "player_name": "Domen Črnigoj",
+        "tkl": "8",
+        "tklWon": "3",
+        "tkl_pct": "50.0",
+        "interception": "9",
+        "blocks": "9",
+        "errors": "0"
+      },
+      {
+        "player_name": "Vincenzo Fiorillo",
+        "tkl": "0",
+        "tklWon": "0",
+        "tkl_pct": "",
+        "interception": "0",
+        "blocks": "0",
+        "errors": "0"
+      },
+      {
+        "player_name": "Diego Valencia",
+        "tkl": "8",
+        "tklWon": "5",
+        "tkl_pct": "22.2",
+        "interception": "1",
+        "blocks": "10",
+        "errors": "0"
+      },
+      {
+        "player_name": "Franck Ribéry",
+        "tkl": "0",
+        "tklWon": "0",
+        "tkl_pct": "",
+        "interception": "0",
+        "blocks": "1",
+        "errors": "0"
+      },
+      {
+        "player_name": "Julian Kristoffersen",
+        "tkl": "0",
+        "tklWon": "0",
+        "tkl_pct": "",
+        "interception": "0",
+        "blocks": "1",
+        "errors": "0"
+      },
+      {
+        "player_name": "Antonio Iervolino",
+        "tkl": "0",
+        "tklWon": "0",
+        "tkl_pct": "0.0",
+        "interception": "0",
+        "blocks": "0",
+        "errors": "0"
+      }
+    ]
+  },
+  {
+    "Lecce": [
+      {
+        "player_name": "Wladimiro Falcone",
+        "tkl": "2",
+        "tklWon": "0",
+        "tkl_pct": "100.0",
+        "interception": "2",
+        "blocks": "0",
+        "errors": "3"
+      },
+      {
+        "player_name": "Federico Baschirotto",
+        "tkl": "40",
+        "tklWon": "30",
+        "tkl_pct": "61.1",
+        "interception": "36",
+        "blocks": "45",
+        "errors": "0"
+      },
+      {
+        "player_name": "Valentin Gendrey",
+        "tkl": "88",
+        "tklWon": "57",
+        "tkl_pct": "56.3",
+        "interception": "37",
+        "blocks": "45",
+        "errors": "0"
+      },
+      {
+        "player_name": "Morten Hjulmand",
+        "tkl": "90",
+        "tklWon": "52",
+        "tkl_pct": "55.2",
+        "interception": "72",
+        "blocks": "43",
+        "errors": "0"
+      },
+      {
+        "player_name": "Gabriel Strefezza",
+        "tkl": "50",
+        "tklWon": "24",
+        "tkl_pct": "50.9",
+        "interception": "16",
+        "blocks": "36",
+        "errors": "0"
+      },
+      {
+        "player_name": "Antonino Gallo",
+        "tkl": "56",
+        "tklWon": "36",
+        "tkl_pct": "66.7",
+        "interception": "13",
+        "blocks": "37",
+        "errors": "0"
+      },
+      {
+        "player_name": "Alexis Blin",
+        "tkl": "69",
+        "tklWon": "39",
+        "tkl_pct": "52.1",
+        "interception": "34",
+        "blocks": "55",
+        "errors": "0"
+      },
+      {
+        "player_name": "Joan Gonzàlez",
+        "tkl": "48",
+        "tklWon": "28",
+        "tkl_pct": "33.3",
+        "interception": "16",
+        "blocks": "37",
+        "errors": "0"
+      },
+      {
+        "player_name": "Samuel Umtiti",
+        "tkl": "52",
+        "tklWon": "34",
+        "tkl_pct": "69.2",
+        "interception": "26",
+        "blocks": "26",
+        "errors": "0"
+      },
+      {
+        "player_name": "Federico Di Francesco",
+        "tkl": "28",
+        "tklWon": "16",
+        "tkl_pct": "47.4",
+        "interception": "8",
+        "blocks": "16",
+        "errors": "0"
+      },
+      {
+        "player_name": "Assan Ceesay",
+        "tkl": "23",
+        "tklWon": "18",
+        "tkl_pct": "52.9",
+        "interception": "3",
+        "blocks": "15",
+        "errors": "0"
+      },
+      {
+        "player_name": "Lameck Banda",
+        "tkl": "30",
+        "tklWon": "20",
+        "tkl_pct": "36.6",
+        "interception": "8",
+        "blocks": "24",
+        "errors": "0"
+      },
+      {
+        "player_name": "Lorenzo Colombo",
+        "tkl": "17",
+        "tklWon": "9",
+        "tkl_pct": "42.9",
+        "interception": "2",
+        "blocks": "22",
+        "errors": "0"
+      },
+      {
+        "player_name": "Remi Oudin",
+        "tkl": "25",
+        "tklWon": "13",
+        "tkl_pct": "43.5",
+        "interception": "29",
+        "blocks": "16",
+        "errors": "0"
+      },
+      {
+        "player_name": "Giuseppe Pezzella",
+        "tkl": "21",
+        "tklWon": "9",
+        "tkl_pct": "56.3",
+        "interception": "8",
+        "blocks": "11",
+        "errors": "1"
+      },
+      {
+        "player_name": "Marin Pongračić",
+        "tkl": "16",
+        "tklWon": "14",
+        "tkl_pct": "71.4",
+        "interception": "16",
+        "blocks": "4",
+        "errors": "0"
+      },
+      {
+        "player_name": "Kristoffer Askildsen",
+        "tkl": "7",
+        "tklWon": "3",
+        "tkl_pct": "40.0",
+        "interception": "11",
+        "blocks": "15",
+        "errors": "0"
+      },
+      {
+        "player_name": "Youssef Maleh",
+        "tkl": "17",
+        "tklWon": "8",
+        "tkl_pct": "42.9",
+        "interception": "5",
+        "blocks": "20",
+        "errors": "0"
+      },
+      {
+        "player_name": "Alessandro Tuia",
+        "tkl": "10",
+        "tklWon": "6",
+        "tkl_pct": "33.3",
+        "interception": "15",
+        "blocks": "3",
+        "errors": "0"
+      },
+      {
+        "player_name": "Kristijan Bistrović",
+        "tkl": "3",
+        "tklWon": "1",
+        "tkl_pct": "0.0",
+        "interception": "0",
+        "blocks": "3",
+        "errors": "0"
+      },
+      {
+        "player_name": "Þórir Jóhann Helgason",
+        "tkl": "2",
+        "tklWon": "2",
+        "tkl_pct": "66.7",
+        "interception": "3",
+        "blocks": "3",
+        "errors": "0"
+      },
+      {
+        "player_name": "Simone Romagnoli",
+        "tkl": "6",
+        "tklWon": "5",
+        "tkl_pct": "100.0",
+        "interception": "1",
+        "blocks": "4",
+        "errors": "0"
+      },
+      {
+        "player_name": "Yıldırım Mert Çetin",
+        "tkl": "1",
+        "tklWon": "0",
+        "tkl_pct": "",
+        "interception": "1",
+        "blocks": "0",
+        "errors": "0"
+      },
+      {
+        "player_name": "Joel Voelkerling Persson",
+        "tkl": "1",
+        "tklWon": "1",
+        "tkl_pct": "0.0",
+        "interception": "0",
+        "blocks": "1",
+        "errors": "0"
+      },
+      {
+        "player_name": "Marcin Listkowski",
+        "tkl": "0",
+        "tklWon": "0",
+        "tkl_pct": "",
+        "interception": "3",
+        "blocks": "0",
+        "errors": "0"
+      },
+      {
+        "player_name": "Pablo Rodríguez",
+        "tkl": "2",
+        "tklWon": "1",
+        "tkl_pct": "0.0",
+        "interception": "0",
+        "blocks": "3",
+        "errors": "0"
+      },
+      {
+        "player_name": "Pietro Ceccaroni",
+        "tkl": "0",
+        "tklWon": "0",
+        "tkl_pct": "",
+        "interception": "3",
+        "blocks": "1",
+        "errors": "0"
+      },
+      {
+        "player_name": "Kastriot Dermaku",
+        "tkl": "0",
+        "tklWon": "0",
+        "tkl_pct": "",
+        "interception": "0",
+        "blocks": "0",
+        "errors": "0"
+      },
+      {
+        "player_name": "Tommaso Cassandro",
+        "tkl": "1",
+        "tklWon": "1",
+        "tkl_pct": "",
+        "interception": "0",
+        "blocks": "1",
+        "errors": "0"
+      }
+    ]
+  },
+  {
+    "Spezia": [
+      {
+        "player_name": "Mehdi Bourabia",
+        "tkl": "41",
+        "tklWon": "20",
+        "tkl_pct": "46.3",
+        "interception": "32",
+        "blocks": "39",
+        "errors": "0"
+      },
+      {
+        "player_name": "Emmanuel Gyasi",
+        "tkl": "24",
+        "tklWon": "15",
+        "tkl_pct": "25.0",
+        "interception": "8",
+        "blocks": "24",
+        "errors": "0"
+      },
+      {
+        "player_name": "Dimitris Nikolaou",
+        "tkl": "45",
+        "tklWon": "32",
+        "tkl_pct": "67.6",
+        "interception": "27",
+        "blocks": "41",
+        "errors": "0"
+      },
+      {
+        "player_name": "Bartłomiej Drągowski",
+        "tkl": "1",
+        "tklWon": "0",
+        "tkl_pct": "20.0",
+        "interception": "1",
+        "blocks": "0",
+        "errors": "3"
+      },
+      {
+        "player_name": "Ethan Ampadu",
+        "tkl": "66",
+        "tklWon": "37",
+        "tkl_pct": "41.5",
+        "interception": "36",
+        "blocks": "48",
+        "errors": "0"
+      },
+      {
+        "player_name": "M'Bala Nzola",
+        "tkl": "12",
+        "tklWon": "5",
+        "tkl_pct": "33.3",
+        "interception": "7",
+        "blocks": "20",
+        "errors": "0"
+      },
+      {
+        "player_name": "Kelvin Amian",
+        "tkl": "54",
+        "tklWon": "32",
+        "tkl_pct": "77.4",
+        "interception": "22",
+        "blocks": "34",
+        "errors": "1"
+      },
+      {
+        "player_name": "Arkadiusz Reca",
+        "tkl": "44",
+        "tklWon": "28",
+        "tkl_pct": "59.4",
+        "interception": "24",
+        "blocks": "21",
+        "errors": "0"
+      },
+      {
+        "player_name": "Kevin Agudelo",
+        "tkl": "71",
+        "tklWon": "38",
+        "tkl_pct": "42.4",
+        "interception": "10",
+        "blocks": "39",
+        "errors": "0"
+      },
+      {
+        "player_name": "Albin Ekdal",
+        "tkl": "37",
+        "tklWon": "20",
+        "tkl_pct": "42.2",
+        "interception": "26",
+        "blocks": "24",
+        "errors": "0"
+      },
+      {
+        "player_name": "Jakub Kiwior",
+        "tkl": "22",
+        "tklWon": "17",
+        "tkl_pct": "25.0",
+        "interception": "24",
+        "blocks": "26",
+        "errors": "1"
+      },
+      {
+        "player_name": "Emil Holm",
+        "tkl": "26",
+        "tklWon": "15",
+        "tkl_pct": "51.6",
+        "interception": "9",
+        "blocks": "21",
+        "errors": "0"
+      },
+      {
+        "player_name": "Simone Bastoni",
+        "tkl": "47",
+        "tklWon": "24",
+        "tkl_pct": "45.5",
+        "interception": "8",
+        "blocks": "20",
+        "errors": "0"
+      },
+      {
+        "player_name": "Mattia Caldara",
+        "tkl": "23",
+        "tklWon": "14",
+        "tkl_pct": "45.0",
+        "interception": "17",
+        "blocks": "23",
+        "errors": "2"
+      },
+      {
+        "player_name": "Przemysław Wiśniewski",
+        "tkl": "13",
+        "tklWon": "6",
+        "tkl_pct": "33.3",
+        "interception": "11",
+        "blocks": "16",
+        "errors": "0"
+      },
+      {
+        "player_name": "Daniele Verde",
+        "tkl": "4",
+        "tklWon": "4",
+        "tkl_pct": "42.9",
+        "interception": "8",
+        "blocks": "6",
+        "errors": "0"
+      },
+      {
+        "player_name": "Salvatore Esposito",
+        "tkl": "15",
+        "tklWon": "12",
+        "tkl_pct": "23.8",
+        "interception": "11",
+        "blocks": "9",
+        "errors": "0"
+      },
+      {
+        "player_name": "Eldor Shomurodov",
+        "tkl": "5",
+        "tklWon": "5",
+        "tkl_pct": "18.2",
+        "interception": "3",
+        "blocks": "5",
+        "errors": "0"
+      },
+      {
+        "player_name": "Viktor Kovalenko",
+        "tkl": "9",
+        "tklWon": "5",
+        "tkl_pct": "62.5",
+        "interception": "4",
+        "blocks": "11",
+        "errors": "0"
+      },
+      {
+        "player_name": "Daniel Maldini",
+        "tkl": "12",
+        "tklWon": "5",
+        "tkl_pct": "36.4",
+        "interception": "1",
+        "blocks": "9",
+        "errors": "0"
+      },
+      {
+        "player_name": "",
+        "tkl": "",
+        "tklWon": "",
+        "tkl_pct": "",
+        "interception": "",
+        "blocks": "",
+        "errors": ""
+      },
+      {
+        "player_name": "Player",
+        "tkl": "",
+        "tklWon": "",
+        "tkl_pct": "",
+        "interception": "",
+        "blocks": "",
+        "errors": ""
+      },
+      {
+        "player_name": "Petko Hristov",
+        "tkl": "6",
+        "tklWon": "4",
+        "tkl_pct": "62.5",
+        "interception": "4",
+        "blocks": "4",
+        "errors": "0"
+      },
+      {
+        "player_name": "Jeroen Zoet",
+        "tkl": "1",
+        "tklWon": "1",
+        "tkl_pct": "100.0",
+        "interception": "0",
+        "blocks": "0",
+        "errors": "0"
+      },
+      {
+        "player_name": "Szymon Żurkowski",
+        "tkl": "9",
+        "tklWon": "3",
+        "tkl_pct": "13.3",
+        "interception": "4",
+        "blocks": "9",
+        "errors": "0"
+      },
+      {
+        "player_name": "Mikael Ellertsson",
+        "tkl": "4",
+        "tklWon": "2",
+        "tkl_pct": "0.0",
+        "interception": "2",
+        "blocks": "2",
+        "errors": "0"
+      },
+      {
+        "player_name": "Dávid Strelec",
+        "tkl": "2",
+        "tklWon": "2",
+        "tkl_pct": "100.0",
+        "interception": "0",
+        "blocks": "0",
+        "errors": "0"
+      },
+      {
+        "player_name": "Jacopo Sala",
+        "tkl": "1",
+        "tklWon": "0",
+        "tkl_pct": "0.0",
+        "interception": "1",
+        "blocks": "2",
+        "errors": "0"
+      },
+      {
+        "player_name": "Tio Cipot",
+        "tkl": "12",
+        "tklWon": "7",
+        "tkl_pct": "75.0",
+        "interception": "0",
+        "blocks": "0",
+        "errors": "0"
+      },
+      {
+        "player_name": "Salvador Ferrer",
+        "tkl": "4",
+        "tklWon": "2",
+        "tkl_pct": "33.3",
+        "interception": "1",
+        "blocks": "3",
+        "errors": "0"
+      },
+      {
+        "player_name": "Petar Zovko",
+        "tkl": "1",
+        "tklWon": "0",
+        "tkl_pct": "100.0",
+        "interception": "0",
+        "blocks": "0",
+        "errors": "0"
+      },
+      {
+        "player_name": "Federico Marchetti",
+        "tkl": "0",
+        "tklWon": "0",
+        "tkl_pct": "",
+        "interception": "0",
+        "blocks": "0",
+        "errors": "0"
+      },
+      {
+        "player_name": "João Moutinho",
+        "tkl": "7",
+        "tklWon": "1",
+        "tkl_pct": "75.0",
+        "interception": "0",
+        "blocks": "1",
+        "errors": "0"
+      },
+      {
+        "player_name": "Raimonds Krollis",
+        "tkl": "1",
+        "tklWon": "1",
+        "tkl_pct": "0.0",
+        "interception": "0",
+        "blocks": "0",
+        "errors": "0"
+      },
+      {
+        "player_name": "Leandro Sanca",
+        "tkl": "1",
+        "tklWon": "1",
+        "tkl_pct": "100.0",
+        "interception": "0",
+        "blocks": "0",
+        "errors": "0"
+      },
+      {
+        "player_name": "Julius Beck",
+        "tkl": "2",
+        "tklWon": "1",
+        "tkl_pct": "",
+        "interception": "0",
+        "blocks": "0",
+        "errors": "0"
+      }
+    ]
+  },
+  {
+    "Hellas Verona": [
+      {
+        "player_name": "Lorenzo Montipò",
+        "tkl": "1",
+        "tklWon": "0",
+        "tkl_pct": "0.0",
+        "interception": "0",
+        "blocks": "1",
+        "errors": "3"
+      },
+      {
+        "player_name": "Adrien Tameze",
+        "tkl": "51",
+        "tklWon": "30",
+        "tkl_pct": "44.4",
+        "interception": "37",
+        "blocks": "51",
+        "errors": "2"
+      },
+      {
+        "player_name": "Isak Hien",
+        "tkl": "73",
+        "tklWon": "36",
+        "tkl_pct": "62.3",
+        "interception": "31",
+        "blocks": "40",
+        "errors": "1"
+      },
+      {
+        "player_name": "Darko Lazović",
+        "tkl": "24",
+        "tklWon": "13",
+        "tkl_pct": "44.8",
+        "interception": "16",
+        "blocks": "14",
+        "errors": "0"
+      },
+      {
+        "player_name": "Fabio Depaoli",
+        "tkl": "48",
+        "tklWon": "28",
+        "tkl_pct": "56.8",
+        "interception": "18",
+        "blocks": "32",
+        "errors": "3"
+      },
+      {
+        "player_name": "Paweł Dawidowicz",
+        "tkl": "48",
+        "tklWon": "31",
+        "tkl_pct": "71.0",
+        "interception": "23",
+        "blocks": "14",
+        "errors": "0"
+      },
+      {
+        "player_name": "Giangiacomo Magnani",
+        "tkl": "33",
+        "tklWon": "22",
+        "tkl_pct": "76.0",
+        "interception": "21",
+        "blocks": "20",
+        "errors": "0"
+      },
+      {
+        "player_name": "Davide Faraoni",
+        "tkl": "34",
+        "tklWon": "24",
+        "tkl_pct": "39.0",
+        "interception": "15",
+        "blocks": "30",
+        "errors": "0"
+      },
+      {
+        "player_name": "Federico Ceccherini",
+        "tkl": "25",
+        "tklWon": "19",
+        "tkl_pct": "56.5",
+        "interception": "19",
+        "blocks": "17",
+        "errors": "0"
+      },
+      {
+        "player_name": "Kevin Lasagna",
+        "tkl": "12",
+        "tklWon": "6",
+        "tkl_pct": "42.9",
+        "interception": "5",
+        "blocks": "17",
+        "errors": "0"
+      },
+      {
+        "player_name": "Josh Doig",
+        "tkl": "19",
+        "tklWon": "8",
+        "tkl_pct": "37.5",
+        "interception": "11",
+        "blocks": "25",
+        "errors": "1"
+      },
+      {
+        "player_name": "Milan Đurić",
+        "tkl": "2",
+        "tklWon": "1",
+        "tkl_pct": "33.3",
+        "interception": "1",
+        "blocks": "7",
+        "errors": "0"
+      },
+      {
+        "player_name": "Miguel Veloso",
+        "tkl": "33",
+        "tklWon": "10",
+        "tkl_pct": "61.5",
+        "interception": "6",
+        "blocks": "26",
+        "errors": "0"
+      },
+      {
+        "player_name": "Thomas Henry",
+        "tkl": "5",
+        "tklWon": "3",
+        "tkl_pct": "20.0",
+        "interception": "0",
+        "blocks": "6",
+        "errors": "0"
+      },
+      {
+        "player_name": "Simone Verdi",
+        "tkl": "15",
+        "tklWon": "10",
+        "tkl_pct": "35.3",
+        "interception": "0",
+        "blocks": "8",
+        "errors": "0"
+      },
+      {
+        "player_name": "Diego Coppola",
+        "tkl": "25",
+        "tklWon": "17",
+        "tkl_pct": "45.8",
+        "interception": "14",
+        "blocks": "20",
+        "errors": "0"
+      },
+      {
+        "player_name": "Ondrej Duda",
+        "tkl": "22",
+        "tklWon": "14",
+        "tkl_pct": "56.3",
+        "interception": "13",
+        "blocks": "11",
+        "errors": "0"
+      },
+      {
+        "player_name": "Koray Günter",
+        "tkl": "10",
+        "tklWon": "6",
+        "tkl_pct": "57.1",
+        "interception": "30",
+        "blocks": "24",
+        "errors": "0"
+      },
+      {
+        "player_name": "Ivan Ilić",
+        "tkl": "16",
+        "tklWon": "10",
+        "tkl_pct": "54.5",
+        "interception": "8",
+        "blocks": "10",
+        "errors": "0"
+      },
+      {
+        "player_name": "Cyril Ngonge",
+        "tkl": "7",
+        "tklWon": "3",
+        "tkl_pct": "27.3",
+        "interception": "6",
+        "blocks": "7",
+        "errors": "0"
+      },
+      {
+        "player_name": "",
+        "tkl": "",
+        "tklWon": "",
+        "tkl_pct": "",
+        "interception": "",
+        "blocks": "",
+        "errors": ""
+      },
+      {
+        "player_name": "Player",
+        "tkl": "",
+        "tklWon": "",
+        "tkl_pct": "",
+        "interception": "",
+        "blocks": "",
+        "errors": ""
+      },
+      {
+        "player_name": "Yayah Kallon",
+        "tkl": "14",
+        "tklWon": "10",
+        "tkl_pct": "58.3",
+        "interception": "8",
+        "blocks": "10",
+        "errors": "0"
+      },
+      {
+        "player_name": "Adolfo Gaich",
+        "tkl": "5",
+        "tklWon": "3",
+        "tkl_pct": "16.7",
+        "interception": "3",
+        "blocks": "7",
+        "errors": "1"
+      },
+      {
+        "player_name": "Filippo Terracciano",
+        "tkl": "20",
+        "tklWon": "13",
+        "tkl_pct": "75.0",
+        "interception": "10",
+        "blocks": "7",
+        "errors": "0"
+      },
+      {
+        "player_name": "Ibrahim Sulemana",
+        "tkl": "19",
+        "tklWon": "13",
+        "tkl_pct": "50.0",
+        "interception": "14",
+        "blocks": "8",
+        "errors": "0"
+      },
+      {
+        "player_name": "Oliver Abildgaard",
+        "tkl": "10",
+        "tklWon": "6",
+        "tkl_pct": "43.8",
+        "interception": "5",
+        "blocks": "7",
+        "errors": "0"
+      },
+      {
+        "player_name": "Martin Hongla",
+        "tkl": "8",
+        "tklWon": "5",
+        "tkl_pct": "100.0",
+        "interception": "6",
+        "blocks": "7",
+        "errors": "0"
+      },
+      {
+        "player_name": "Juan David Cabal",
+        "tkl": "10",
+        "tklWon": "6",
+        "tkl_pct": "58.3",
+        "interception": "13",
+        "blocks": "8",
+        "errors": "0"
+      },
+      {
+        "player_name": "Ajdin Hrustic",
+        "tkl": "2",
+        "tklWon": "1",
+        "tkl_pct": "50.0",
+        "interception": "0",
+        "blocks": "2",
+        "errors": "1"
+      },
+      {
+        "player_name": "Jayden Braaf",
+        "tkl": "5",
+        "tklWon": "3",
+        "tkl_pct": "",
+        "interception": "2",
+        "blocks": "1",
+        "errors": "0"
+      },
+      {
+        "player_name": "Roberto Piccoli",
+        "tkl": "1",
+        "tklWon": "0",
+        "tkl_pct": "0.0",
+        "interception": "0",
+        "blocks": "2",
+        "errors": "0"
+      },
+      {
+        "player_name": "Panagiotis Retsos",
+        "tkl": "5",
+        "tklWon": "4",
+        "tkl_pct": "100.0",
+        "interception": "2",
+        "blocks": "4",
+        "errors": "0"
+      },
+      {
+        "player_name": "Simone Perilli",
+        "tkl": "0",
+        "tklWon": "0",
+        "tkl_pct": "",
+        "interception": "0",
+        "blocks": "0",
+        "errors": "0"
+      },
+      {
+        "player_name": "Bruno Amione",
+        "tkl": "1",
+        "tklWon": "1",
+        "tkl_pct": "50.0",
+        "interception": "0",
+        "blocks": "1",
+        "errors": "0"
+      },
+      {
+        "player_name": "Antonín Barák",
+        "tkl": "0",
+        "tklWon": "0",
+        "tkl_pct": "",
+        "interception": "0",
+        "blocks": "0",
+        "errors": "0"
+      },
+      {
+        "player_name": "Deyovaisio Zeefuik",
+        "tkl": "1",
+        "tklWon": "1",
+        "tkl_pct": "",
+        "interception": "0",
+        "blocks": "0",
+        "errors": "0"
+      },
+      {
+        "player_name": "Alessandro Cortinovis",
+        "tkl": "1",
+        "tklWon": "0",
+        "tkl_pct": "",
+        "interception": "0",
+        "blocks": "1",
+        "errors": "0"
+      }
+    ]
+  },
+  {
+    "Cremonese": [
+      {
+        "player_name": "Emanuele Valeri",
+        "tkl": "54",
+        "tklWon": "27",
+        "tkl_pct": "42.0",
+        "interception": "22",
+        "blocks": "17",
+        "errors": "1"
+      },
+      {
+        "player_name": "Charles Pickel",
+        "tkl": "55",
+        "tklWon": "23",
+        "tkl_pct": "56.1",
+        "interception": "24",
+        "blocks": "37",
+        "errors": "1"
+      },
+      {
+        "player_name": "Soualiho Meïté",
+        "tkl": "47",
+        "tklWon": "31",
+        "tkl_pct": "47.8",
+        "interception": "27",
+        "blocks": "27",
+        "errors": "0"
+      },
+      {
+        "player_name": "Marco Carnesecchi",
+        "tkl": "1",
+        "tklWon": "1",
+        "tkl_pct": "50.0",
+        "interception": "0",
+        "blocks": "0",
+        "errors": "2"
+      },
+      {
+        "player_name": "Leonardo Sernicola",
+        "tkl": "45",
+        "tklWon": "33",
+        "tkl_pct": "67.4",
+        "interception": "38",
+        "blocks": "23",
+        "errors": "0"
+      },
+      {
+        "player_name": "David Okereke",
+        "tkl": "12",
+        "tklWon": "8",
+        "tkl_pct": "18.8",
+        "interception": "10",
+        "blocks": "23",
+        "errors": "0"
+      },
+      {
+        "player_name": "Matteo Bianchetti",
+        "tkl": "32",
+        "tklWon": "19",
+        "tkl_pct": "62.5",
+        "interception": "20",
+        "blocks": "31",
+        "errors": "0"
+      },
+      {
+        "player_name": "Luka Lochoshvili",
+        "tkl": "45",
+        "tklWon": "19",
+        "tkl_pct": "71.0",
+        "interception": "22",
+        "blocks": "31",
+        "errors": "0"
+      },
+      {
+        "player_name": "Johan Vásquez",
+        "tkl": "41",
+        "tklWon": "26",
+        "tkl_pct": "46.2",
+        "interception": "45",
+        "blocks": "27",
+        "errors": "1"
+      },
+      {
+        "player_name": "Cyriel Dessers",
+        "tkl": "11",
+        "tklWon": "4",
+        "tkl_pct": "33.3",
+        "interception": "3",
+        "blocks": "14",
+        "errors": "0"
+      },
+      {
+        "player_name": "Emanuel Aiwum",
+        "tkl": "55",
+        "tklWon": "34",
+        "tkl_pct": "70.2",
+        "interception": "25",
+        "blocks": "28",
+        "errors": "3"
+      },
+      {
+        "player_name": "Michele Castagnetti",
+        "tkl": "46",
+        "tklWon": "21",
+        "tkl_pct": "33.3",
+        "interception": "15",
+        "blocks": "14",
+        "errors": "0"
+      },
+      {
+        "player_name": "Frank Tsadjout",
+        "tkl": "10",
+        "tklWon": "8",
+        "tkl_pct": "33.3",
+        "interception": "8",
+        "blocks": "7",
+        "errors": "0"
+      },
+      {
+        "player_name": "Vlad Chiricheș",
+        "tkl": "35",
+        "tklWon": "20",
+        "tkl_pct": "66.7",
+        "interception": "22",
+        "blocks": "36",
+        "errors": "0"
+      },
+      {
+        "player_name": "Alex Ferrari",
+        "tkl": "40",
+        "tklWon": "23",
+        "tkl_pct": "66.7",
+        "interception": "25",
+        "blocks": "19",
+        "errors": "1"
+      },
+      {
+        "player_name": "Marco Benassi",
+        "tkl": "26",
+        "tklWon": "15",
+        "tkl_pct": "62.5",
+        "interception": "12",
+        "blocks": "13",
+        "errors": "0"
+      },
+      {
+        "player_name": "Daniel Ciofani",
+        "tkl": "6",
+        "tklWon": "3",
+        "tkl_pct": "57.1",
+        "interception": "2",
+        "blocks": "7",
+        "errors": "0"
+      },
+      {
+        "player_name": "Pablo Galdames Millán",
+        "tkl": "14",
+        "tklWon": "10",
+        "tkl_pct": "15.2",
+        "interception": "10",
+        "blocks": "13",
+        "errors": "0"
+      },
+      {
+        "player_name": "Ionuț Radu",
+        "tkl": "0",
+        "tklWon": "0",
+        "tkl_pct": "",
+        "interception": "0",
+        "blocks": "0",
+        "errors": "3"
+      },
+      {
+        "player_name": "Luca Zanimacchia",
+        "tkl": "21",
+        "tklWon": "13",
+        "tkl_pct": "38.1",
+        "interception": "9",
+        "blocks": "9",
+        "errors": "0"
+      },
+      {
+        "player_name": "",
+        "tkl": "",
+        "tklWon": "",
+        "tkl_pct": "",
+        "interception": "",
+        "blocks": "",
+        "errors": ""
+      },
+      {
+        "player_name": "Player",
+        "tkl": "",
+        "tklWon": "",
+        "tkl_pct": "",
+        "interception": "",
+        "blocks": "",
+        "errors": ""
+      },
+      {
+        "player_name": "Paolo Ghiglione",
+        "tkl": "16",
+        "tklWon": "11",
+        "tkl_pct": "43.5",
+        "interception": "4",
+        "blocks": "9",
+        "errors": "0"
+      },
+      {
+        "player_name": "Cristian Buonaiuto",
+        "tkl": "25",
+        "tklWon": "16",
+        "tkl_pct": "46.2",
+        "interception": "14",
+        "blocks": "11",
+        "errors": "0"
+      },
+      {
+        "player_name": "Felix Afena-Gyan",
+        "tkl": "7",
+        "tklWon": "3",
+        "tkl_pct": "20.0",
+        "interception": "1",
+        "blocks": "5",
+        "errors": "0"
+      },
+      {
+        "player_name": "Santiago Ascacíbar",
+        "tkl": "29",
+        "tklWon": "14",
+        "tkl_pct": "40.0",
+        "interception": "13",
+        "blocks": "14",
+        "errors": "0"
+      },
+      {
+        "player_name": "Gonzalo Escalante",
+        "tkl": "16",
+        "tklWon": "8",
+        "tkl_pct": "76.9",
+        "interception": "10",
+        "blocks": "7",
+        "errors": "0"
+      },
+      {
+        "player_name": "Giacomo Quagliata",
+        "tkl": "10",
+        "tklWon": "8",
+        "tkl_pct": "45.5",
+        "interception": "11",
+        "blocks": "7",
+        "errors": "0"
+      },
+      {
+        "player_name": "Jack Hendry",
+        "tkl": "0",
+        "tklWon": "0",
+        "tkl_pct": "0.0",
+        "interception": "1",
+        "blocks": "2",
+        "errors": "0"
+      },
+      {
+        "player_name": "Mouhamadou Sarr",
+        "tkl": "0",
+        "tklWon": "0",
+        "tkl_pct": "",
+        "interception": "0",
+        "blocks": "0",
+        "errors": "0"
+      },
+      {
+        "player_name": "Jaime Báez",
+        "tkl": "4",
+        "tklWon": "2",
+        "tkl_pct": "50.0",
+        "interception": "0",
+        "blocks": "0",
+        "errors": "1"
+      },
+      {
+        "player_name": "Samuel Di Carmine",
+        "tkl": "0",
+        "tklWon": "0",
+        "tkl_pct": "",
+        "interception": "0",
+        "blocks": "0",
+        "errors": "0"
+      },
+      {
+        "player_name": "Tommaso Milanese",
+        "tkl": "0",
+        "tklWon": "0",
+        "tkl_pct": "",
+        "interception": "0",
+        "blocks": "1",
+        "errors": "0"
+      },
+      {
+        "player_name": "Alberto Basso",
+        "tkl": "0",
+        "tklWon": "0",
+        "tkl_pct": "",
+        "interception": "0",
+        "blocks": "0",
+        "errors": "0"
+      },
+      {
+        "player_name": "Christian Acella",
+        "tkl": "1",
+        "tklWon": "0",
+        "tkl_pct": "0.0",
+        "interception": "0",
+        "blocks": "0",
+        "errors": "0"
+      }
+    ]
+  },
+  {
+    "Sampdoria": [
+      {
+        "player_name": "Tommaso Augello",
+        "tkl": "17",
+        "tklWon": "14",
+        "tkl_pct": "45.0",
+        "interception": "17",
+        "blocks": "23",
+        "errors": "1"
+      },
+      {
+        "player_name": "Tomás Rincón",
+        "tkl": "56",
+        "tklWon": "27",
+        "tkl_pct": "47.5",
+        "interception": "30",
+        "blocks": "37",
+        "errors": "0"
+      },
+      {
+        "player_name": "Mehdi Léris",
+        "tkl": "63",
+        "tklWon": "46",
+        "tkl_pct": "41.8",
+        "interception": "27",
+        "blocks": "38",
+        "errors": "0"
+      },
+      {
+        "player_name": "Manolo Gabbiadini",
+        "tkl": "23",
+        "tklWon": "15",
+        "tkl_pct": "39.1",
+        "interception": "6",
+        "blocks": "16",
+        "errors": "0"
+      },
+      {
+        "player_name": "Filip Đuričić",
+        "tkl": "43",
+        "tklWon": "22",
+        "tkl_pct": "43.8",
+        "interception": "7",
+        "blocks": "19",
+        "errors": "0"
+      },
+      {
+        "player_name": "Emil Audero",
+        "tkl": "0",
+        "tklWon": "0",
+        "tkl_pct": "0.0",
+        "interception": "0",
+        "blocks": "0",
+        "errors": "1"
+      },
+      {
+        "player_name": "Bruno Amione",
+        "tkl": "50",
+        "tklWon": "33",
+        "tkl_pct": "44.2",
+        "interception": "25",
+        "blocks": "26",
+        "errors": "1"
+      },
+      {
+        "player_name": "Harry Winks",
+        "tkl": "27",
+        "tklWon": "12",
+        "tkl_pct": "32.6",
+        "interception": "24",
+        "blocks": "14",
+        "errors": "0"
+      },
+      {
+        "player_name": "Bram Nuytinck",
+        "tkl": "54",
+        "tklWon": "38",
+        "tkl_pct": "67.6",
+        "interception": "23",
+        "blocks": "36",
+        "errors": "0"
+      },
+      {
+        "player_name": "Alessandro Zanoli",
+        "tkl": "22",
+        "tklWon": "14",
+        "tkl_pct": "47.1",
+        "interception": "12",
+        "blocks": "19",
+        "errors": "0"
+      },
+      {
+        "player_name": "Omar Colley",
+        "tkl": "17",
+        "tklWon": "10",
+        "tkl_pct": "75.0",
+        "interception": "22",
+        "blocks": "9",
+        "errors": "1"
+      },
+      {
+        "player_name": "Bartosz Bereszyński",
+        "tkl": "28",
+        "tklWon": "18",
+        "tkl_pct": "65.4",
+        "interception": "21",
+        "blocks": "18",
+        "errors": "0"
+      },
+      {
+        "player_name": "Sam Lammers",
+        "tkl": "12",
+        "tklWon": "5",
+        "tkl_pct": "40.0",
+        "interception": "6",
+        "blocks": "10",
+        "errors": "0"
+      },
+      {
+        "player_name": "Francesco Caputo",
+        "tkl": "3",
+        "tklWon": "1",
+        "tkl_pct": "0.0",
+        "interception": "1",
+        "blocks": "0",
+        "errors": "0"
+      },
+      {
+        "player_name": "Abdelhamid Sabiri",
+        "tkl": "18",
+        "tklWon": "7",
+        "tkl_pct": "30.8",
+        "interception": "2",
+        "blocks": "18",
+        "errors": "0"
+      },
+      {
+        "player_name": "Jeison Murillo",
+        "tkl": "22",
+        "tklWon": "11",
+        "tkl_pct": "65.4",
+        "interception": "8",
+        "blocks": "22",
+        "errors": "0"
+      },
+      {
+        "player_name": "Alex Ferrari",
+        "tkl": "9",
+        "tklWon": "5",
+        "tkl_pct": "50.0",
+        "interception": "19",
+        "blocks": "21",
+        "errors": "0"
+      },
+      {
+        "player_name": "Nicola Ravaglia",
+        "tkl": "0",
+        "tklWon": "0",
+        "tkl_pct": "0.0",
+        "interception": "0",
+        "blocks": "0",
+        "errors": "0"
+      },
+      {
+        "player_name": "Mickaël Cuisance",
+        "tkl": "13",
+        "tklWon": "10",
+        "tkl_pct": "21.7",
+        "interception": "5",
+        "blocks": "10",
+        "errors": "0"
+      },
+      {
+        "player_name": "Ronaldo Vieira",
+        "tkl": "18",
+        "tklWon": "10",
+        "tkl_pct": "76.9",
+        "interception": "13",
+        "blocks": "15",
+        "errors": "2"
+      },
+      {
+        "player_name": "",
+        "tkl": "",
+        "tklWon": "",
+        "tkl_pct": "",
+        "interception": "",
+        "blocks": "",
+        "errors": ""
+      },
+      {
+        "player_name": "Player",
+        "tkl": "",
+        "tklWon": "",
+        "tkl_pct": "",
+        "interception": "",
+        "blocks": "",
+        "errors": ""
+      },
+      {
+        "player_name": "Koray Günter",
+        "tkl": "10",
+        "tklWon": "8",
+        "tkl_pct": "66.7",
+        "interception": "11",
+        "blocks": "10",
+        "errors": "0"
+      },
+      {
+        "player_name": "Gonzalo Villar",
+        "tkl": "13",
+        "tklWon": "7",
+        "tkl_pct": "46.7",
+        "interception": "4",
+        "blocks": "11",
+        "errors": "1"
+      },
+      {
+        "player_name": "Fabio Quagliarella",
+        "tkl": "2",
+        "tklWon": "1",
+        "tkl_pct": "14.3",
+        "interception": "0",
+        "blocks": "5",
+        "errors": "0"
+      },
+      {
+        "player_name": "Valerio Verre",
+        "tkl": "14",
+        "tklWon": "7",
+        "tkl_pct": "47.1",
+        "interception": "9",
+        "blocks": "9",
+        "errors": "0"
+      },
+      {
+        "player_name": "Nicola Murru",
+        "tkl": "24",
+        "tklWon": "14",
+        "tkl_pct": "53.8",
+        "interception": "10",
+        "blocks": "17",
+        "errors": "0"
+      },
+      {
+        "player_name": "Martin Turk",
+        "tkl": "0",
+        "tklWon": "0",
+        "tkl_pct": "",
+        "interception": "0",
+        "blocks": "0",
+        "errors": "0"
+      },
+      {
+        "player_name": "Daniele Montevago",
+        "tkl": "1",
+        "tklWon": "0",
+        "tkl_pct": "0.0",
+        "interception": "0",
+        "blocks": "2",
+        "errors": "0"
+      },
+      {
+        "player_name": "Marios Oikonomou",
+        "tkl": "3",
+        "tklWon": "2",
+        "tkl_pct": "33.3",
+        "interception": "4",
+        "blocks": "5",
+        "errors": "0"
+      },
+      {
+        "player_name": "Gerard Yepes",
+        "tkl": "5",
+        "tklWon": "3",
+        "tkl_pct": "33.3",
+        "interception": "4",
+        "blocks": "3",
+        "errors": "0"
+      },
+      {
+        "player_name": "Flavio Paoletti",
+        "tkl": "2",
+        "tklWon": "2",
+        "tkl_pct": "20.0",
+        "interception": "5",
+        "blocks": "1",
+        "errors": "0"
+      },
+      {
+        "player_name": "Jesé",
+        "tkl": "2",
+        "tklWon": "0",
+        "tkl_pct": "0.0",
+        "interception": "1",
+        "blocks": "3",
+        "errors": "0"
+      },
+      {
+        "player_name": "Ignacio Pussetto",
+        "tkl": "6",
+        "tklWon": "3",
+        "tkl_pct": "75.0",
+        "interception": "0",
+        "blocks": "4",
+        "errors": "0"
+      },
+      {
+        "player_name": "Fabio Depaoli",
+        "tkl": "5",
+        "tklWon": "3",
+        "tkl_pct": "75.0",
+        "interception": "1",
+        "blocks": "1",
+        "errors": "0"
+      },
+      {
+        "player_name": "Emirhan İlkhan",
+        "tkl": "6",
+        "tklWon": "3",
+        "tkl_pct": "66.7",
+        "interception": "0",
+        "blocks": "5",
+        "errors": "0"
+      },
+      {
+        "player_name": "Lorenzo Malagrida",
+        "tkl": "1",
+        "tklWon": "0",
+        "tkl_pct": "33.3",
+        "interception": "0",
+        "blocks": "1",
+        "errors": "0"
+      },
+      {
+        "player_name": "Manuel De Luca",
+        "tkl": "0",
+        "tklWon": "0",
+        "tkl_pct": "",
+        "interception": "0",
+        "blocks": "0",
+        "errors": "0"
+      },
+      {
+        "player_name": "Andrea Conti",
+        "tkl": "0",
+        "tklWon": "0",
+        "tkl_pct": "",
+        "interception": "0",
+        "blocks": "0",
+        "errors": "0"
+      },
+      {
+        "player_name": "Mihailo Ivanović",
+        "tkl": "0",
+        "tklWon": "0",
+        "tkl_pct": "",
+        "interception": "0",
+        "blocks": "0",
+        "errors": "0"
+      },
+      {
+        "player_name": "Samuel Ntanda",
+        "tkl": "0",
+        "tklWon": "0",
+        "tkl_pct": "",
+        "interception": "0",
+        "blocks": "0",
+        "errors": "0"
+      },
+      {
+        "player_name": "Telasco Segovia",
+        "tkl": "0",
+        "tklWon": "0",
+        "tkl_pct": "",
+        "interception": "0",
+        "blocks": "0",
+        "errors": "0"
+      }
+    ]
+  }
+]

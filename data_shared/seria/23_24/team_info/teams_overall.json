@@ -1,0 +1,122 @@
+[
+    {
+        "team_name": "Inter",
+        "rank": "1",
+        "point": "94",
+        "manager": "Unknown"
+    },
+    {
+        "team_name": "Milan",
+        "rank": "2",
+        "point": "75",
+        "manager": "Unknown"
+    },
+    {
+        "team_name": "Juventus",
+        "rank": "3",
+        "point": "71",
+        "manager": "Unknown"
+    },
+    {
+        "team_name": "Atalanta",
+        "rank": "4",
+        "point": "69",
+        "manager": "Unknown"
+    },
+    {
+        "team_name": "Bologna",
+        "rank": "5",
+        "point": "68",
+        "manager": "Unknown"
+    },
+    {
+        "team_name": "Roma",
+        "rank": "6",
+        "point": "63",
+        "manager": "Unknown"
+    },
+    {
+        "team_name": "Lazio",
+        "rank": "7",
+        "point": "61",
+        "manager": "Unknown"
+    },
+    {
+        "team_name": "Fiorentina",
+        "rank": "8",
+        "point": "60",
+        "manager": "Unknown"
+    },
+    {
+        "team_name": "Torino",
+        "rank": "9",
+        "point": "53",
+        "manager": "Unknown"
+    },
+    {
+        "team_name": "Napoli",
+        "rank": "10",
+        "point": "53",
+        "manager": "Unknown"
+    },
+    {
+        "team_name": "Genoa",
+        "rank": "11",
+        "point": "49",
+        "manager": "Unknown"
+    },
+    {
+        "team_name": "Monza",
+        "rank": "12",
+        "point": "45",
+        "manager": "Unknown"
+    },
+    {
+        "team_name": "Hellas Verona",
+        "rank": "13",
+        "point": "38",
+        "manager": "Unknown"
+    },
+    {
+        "team_name": "Lecce",
+        "rank": "14",
+        "point": "38",
+        "manager": "Unknown"
+    },
+    {
+        "team_name": "Udinese",
+        "rank": "15",
+        "point": "37",
+        "manager": "Unknown"
+    },
+    {
+        "team_name": "Cagliari",
+        "rank": "16",
+        "point": "36",
+        "manager": "Unknown"
+    },
+    {
+        "team_name": "Empoli",
+        "rank": "17",
+        "point": "36",
+        "manager": "Unknown"
+    },
+    {
+        "team_name": "Frosinone",
+        "rank": "18",
+        "point": "35",
+        "manager": "Unknown"
+    },
+    {
+        "team_name": "Sassuolo",
+        "rank": "19",
+        "point": "30",
+        "manager": "Unknown"
+    },
+    {
+        "team_name": "Salernitana",
+        "rank": "20",
+        "point": "17",
+        "manager": "Unknown"
+    }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "team": "Atalanta",
+    "incomes": "€ 115,750,000",
+    "expense": "€ 104,300,000",
+    "balance": "€ 11,450,000"
+  },
+  {
+    "team": "Juventus",
+    "incomes": "€ 105,900,000",
+    "expense": "€ 193,300,000",
+    "balance": "€ -87,400,000"
+  },
+  {
+    "team": "Bologna",
+    "incomes": "€ 103,550,000",
+    "expense": "€ 51,880,000",
+    "balance": "€ 51,670,000"
+  },
+  {
+    "team": "Napoli",
+    "incomes": "€ 82,500,000",
+    "expense": "€ 151,500,000",
+    "balance": "€ -69,000,000"
+  },
+  {
+    "team": "Torino",
+    "incomes": "€ 60,200,000",
+    "expense": "€ 38,300,000",
+    "balance": "€ 21,900,000"
+  },
+  {
+    "team": "Lecce",
+    "incomes": "€ 59,000,000",
+    "expense": "€ 13,500,000",
+    "balance": "€ 45,500,000"
+  },
+  {
+    "team": "AC Milan",
+    "incomes": "€ 50,800,000",
+    "expense": "€ 121,700,000",
+    "balance": "€ -70,900,000"
+  },
+  {
+    "team": "Genoa",
+    "incomes": "€ 45,540,000",
+    "expense": "€ 40,500,000",
+    "balance": "€ 5,040,000"
+  },
+  {
+    "team": "Monza",
+    "incomes": "€ 45,050,000",
+    "expense": "€ 10,300,000",
+    "balance": "€ 34,750,000"
+  },
+  {
+    "team": "Hellas Verona",
+    "incomes": "€ 39,620,000",
+    "expense": "€ 14,500,000",
+    "balance": "€ 25,120,000"
+  },
+  {
+    "team": "Fiorentina",
+    "incomes": "€ 37,600,000",
+    "expense": "€ 69,570,000",
+    "balance": "€ -31,970,000"
+  },
+  {
+    "team": "Roma",
+    "incomes": "€ 30,500,000",
+    "expense": "€ 107,400,000",
+    "balance": "€ -76,900,000"
+  },
+  {
+    "team": "Lazio",
+    "incomes": "€ 25,950,000",
+    "expense": "€ 51,500,000",
+    "balance": "€ -25,550,000"
+  },
+  {
+    "team": "Udinese",
+    "incomes": "€ 23,680,000",
+    "expense": "€ 23,950,000",
+    "balance": "€ -270,000"
+  },
+  {
+    "team": "Venezia",
+    "incomes": "€ 17,550,000",
+    "expense": "€ 21,050,000",
+    "balance": "€ -3,500,000"
+  },
+  {
+    "team": "Cagliari",
+    "incomes": "€ 17,100,000",
+    "expense": "€ 11,300,000",
+    "balance": "€ 5,800,000"
+  },
+  {
+    "team": "Inter Milan",
+    "incomes": "€ 14,240,000",
+    "expense": "€ 90,150,000",
+    "balance": "€ -75,910,000"
+  },
+  {
+    "team": "Empoli",
+    "incomes": "€ 11,050,000",
+    "expense": "€ 0",
+    "balance": "€ 11,050,000"
+  },
+  {
+    "team": "Parma",
+    "incomes": "€ 9,650,000",
+    "expense": "€ 50,000,000",
+    "balance": "€ -40,350,000"
+  },
+  {
+    "team": "Como",
+    "incomes": "€ 3,700,000",
+    "expense": "€ 96,700,000",
+    "balance": "€ -93,000,000"
+  }
+]

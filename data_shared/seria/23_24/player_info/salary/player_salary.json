@@ -1,0 +1,5933 @@
+[
+  {
+    "player_name": "Dusan Vlahovic",
+    "team": "Juventus",
+    "gross/w": "€ 249,231",
+    "gross/y": "€ 12,960,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Victor Osimhen",
+    "team": "Napoli",
+    "gross/w": "€ 246,538",
+    "gross/y": "€ 12,820,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Wojciech Szczesny",
+    "team": "Juventus",
+    "gross/w": "€ 231,538",
+    "gross/y": "€ 12,040,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Nicolò Barella",
+    "team": "Inter Milan",
+    "gross/w": "€ 231,538",
+    "gross/y": "€ 12,040,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Lautaro Martínez",
+    "team": "Inter Milan",
+    "gross/w": "€ 213,654",
+    "gross/y": "€ 11,110,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Alex Sandro",
+    "team": "Juventus",
+    "gross/w": "€ 213,654",
+    "gross/y": "€ 11,110,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Hakan Çalhanoğlu",
+    "team": "Inter Milan",
+    "gross/w": "€ 213,654",
+    "gross/y": "€ 11,110,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Alessandro Bastoni",
+    "team": "Inter Milan",
+    "gross/w": "€ 195,962",
+    "gross/y": "€ 10,190,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Bremer",
+    "team": "Juventus",
+    "gross/w": "€ 178,077",
+    "gross/y": "€ 9,260,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Federico Chiesa",
+    "team": "Juventus",
+    "gross/w": "€ 178,077",
+    "gross/y": "€ 9,260,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Adrien Rabiot",
+    "team": "Juventus",
+    "gross/w": "€ 172,500",
+    "gross/y": "€ 8,970,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Romelu Lukaku",
+    "team": "Roma",
+    "gross/w": "€ 172,500",
+    "gross/y": "€ 8,970,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Marcus Thuram",
+    "team": "Inter Milan",
+    "gross/w": "€ 147,885",
+    "gross/y": "€ 7,690,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Ciro Immobile",
+    "team": "Lazio",
+    "gross/w": "€ 142,500",
+    "gross/y": "€ 7,410,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Luis Alberto",
+    "team": "Lazio",
+    "gross/w": "€ 142,500",
+    "gross/y": "€ 7,410,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Ismaël Bennacer",
+    "team": "AC Milan",
+    "gross/w": "€ 135,385",
+    "gross/y": "€ 7,040,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Stefan de Vrij",
+    "team": "Inter Milan",
+    "gross/w": "€ 135,385",
+    "gross/y": "€ 7,040,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Paulo Dybala",
+    "team": "Roma",
+    "gross/w": "€ 135,385",
+    "gross/y": "€ 7,040,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Federico Dimarco",
+    "team": "Inter Milan",
+    "gross/w": "€ 124,615",
+    "gross/y": "€ 6,480,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Piotr Zieliński",
+    "team": "Napoli",
+    "gross/w": "€ 124,615",
+    "gross/y": "€ 6,480,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Gianluca Mancini",
+    "team": "Roma",
+    "gross/w": "€ 124,615",
+    "gross/y": "€ 6,480,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Lorenzo Pellegrini",
+    "team": "Roma",
+    "gross/w": "€ 124,615",
+    "gross/y": "€ 6,480,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Rafael Leão",
+    "team": "AC Milan",
+    "gross/w": "€ 123,269",
+    "gross/y": "€ 6,410,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Benjamin Pavard",
+    "team": "Inter Milan",
+    "gross/w": "€ 123,269",
+    "gross/y": "€ 6,410,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Manuel Locatelli",
+    "team": "Juventus",
+    "gross/w": "€ 117,500",
+    "gross/y": "€ 6,110,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Gianluca Scamacca",
+    "team": "Atalanta",
+    "gross/w": "€ 114,038",
+    "gross/y": "€ 5,930,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Matteo Politano",
+    "team": "Napoli",
+    "gross/w": "€ 114,038",
+    "gross/y": "€ 5,930,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Leandro Paredes",
+    "team": "Roma",
+    "gross/w": "€ 110,962",
+    "gross/y": "€ 5,770,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Tammy Abraham",
+    "team": "Roma",
+    "gross/w": "€ 110,962",
+    "gross/y": "€ 5,770,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Leander Dendoncker",
+    "team": "Napoli",
+    "gross/w": "€ 106,923",
+    "gross/y": "€ 5,560,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Nikola Milenkovic",
+    "team": "Fiorentina",
+    "gross/w": "€ 106,923",
+    "gross/y": "€ 5,560,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Domenico Berardi",
+    "team": "Sassuolo",
+    "gross/w": "€ 106,923",
+    "gross/y": "€ 5,560,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Alessandro Florenzi",
+    "team": "AC Milan",
+    "gross/w": "€ 106,923",
+    "gross/y": "€ 5,560,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Leonardo Spinazzola",
+    "team": "Roma",
+    "gross/w": "€ 106,923",
+    "gross/y": "€ 5,560,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Giovanni Di Lorenzo",
+    "team": "Napoli",
+    "gross/w": "€ 106,923",
+    "gross/y": "€ 5,560,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Bryan Cristante",
+    "team": "Roma",
+    "gross/w": "€ 99,808",
+    "gross/y": "€ 5,190,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Davide Frattesi",
+    "team": "Inter Milan",
+    "gross/w": "€ 99,808",
+    "gross/y": "€ 5,190,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Alessio Romagnoli",
+    "team": "Lazio",
+    "gross/w": "€ 99,808",
+    "gross/y": "€ 5,190,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Christian Pulisic",
+    "team": "AC Milan",
+    "gross/w": "€ 98,654",
+    "gross/y": "€ 5,130,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Danilo",
+    "team": "Juventus",
+    "gross/w": "€ 98,654",
+    "gross/y": "€ 5,130,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Ruben Loftus-Cheek",
+    "team": "AC Milan",
+    "gross/w": "€ 98,654",
+    "gross/y": "€ 5,130,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Theo Hernández",
+    "team": "AC Milan",
+    "gross/w": "€ 98,654",
+    "gross/y": "€ 5,130,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Samuel Chukwueze",
+    "team": "AC Milan",
+    "gross/w": "€ 98,654",
+    "gross/y": "€ 5,130,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Evan N'Dicka",
+    "team": "Roma",
+    "gross/w": "€ 98,654",
+    "gross/y": "€ 5,130,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Henrikh Mkhitaryan",
+    "team": "Inter Milan",
+    "gross/w": "€ 93,654",
+    "gross/y": "€ 4,870,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Alexis Sánchez",
+    "team": "Inter Milan",
+    "gross/w": "€ 89,038",
+    "gross/y": "€ 4,630,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Giacomo Raspadori",
+    "team": "Napoli",
+    "gross/w": "€ 89,038",
+    "gross/y": "€ 4,630,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Federico Fazio",
+    "team": "Salernitana",
+    "gross/w": "€ 89,038",
+    "gross/y": "€ 4,630,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Duván Zapata",
+    "team": "Torino",
+    "gross/w": "€ 89,038",
+    "gross/y": "€ 4,630,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Stephan El Shaarawy",
+    "team": "Roma",
+    "gross/w": "€ 89,038",
+    "gross/y": "€ 4,630,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Juan Cuadrado",
+    "team": "Inter Milan",
+    "gross/w": "€ 89,038",
+    "gross/y": "€ 4,630,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Renato Sanches",
+    "team": "Roma",
+    "gross/w": "€ 88,846",
+    "gross/y": "€ 4,620,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Olivier Giroud",
+    "team": "AC Milan",
+    "gross/w": "€ 86,346",
+    "gross/y": "€ 4,490,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Chris Smalling",
+    "team": "Roma",
+    "gross/w": "€ 86,346",
+    "gross/y": "€ 4,490,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Fikayo Tomori",
+    "team": "AC Milan",
+    "gross/w": "€ 86,346",
+    "gross/y": "€ 4,490,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Arkadiusz Milik",
+    "team": "Juventus",
+    "gross/w": "€ 86,346",
+    "gross/y": "€ 4,490,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Andrea Pinamonti",
+    "team": "Sassuolo",
+    "gross/w": "€ 85,385",
+    "gross/y": "€ 4,440,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Andrea Cambiaso",
+    "team": "Juventus",
+    "gross/w": "€ 85,385",
+    "gross/y": "€ 4,440,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Elseid Hysaj",
+    "team": "Lazio",
+    "gross/w": "€ 78,269",
+    "gross/y": "€ 4,070,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Rick Karsdorp",
+    "team": "Roma",
+    "gross/w": "€ 78,269",
+    "gross/y": "€ 4,070,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Adam Marusic",
+    "team": "Lazio",
+    "gross/w": "€ 78,269",
+    "gross/y": "€ 4,070,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Mattia Caldara",
+    "team": "AC Milan",
+    "gross/w": "€ 78,269",
+    "gross/y": "€ 4,070,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Andrea Petagna",
+    "team": "Cagliari",
+    "gross/w": "€ 78,269",
+    "gross/y": "€ 4,070,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Rui Patrício",
+    "team": "Roma",
+    "gross/w": "€ 74,038",
+    "gross/y": "€ 3,850,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Moise Kean",
+    "team": "Juventus",
+    "gross/w": "€ 74,038",
+    "gross/y": "€ 3,850,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Daichi Kamada",
+    "team": "Lazio",
+    "gross/w": "€ 74,038",
+    "gross/y": "€ 3,850,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Marko Arnautovic",
+    "team": "Inter Milan",
+    "gross/w": "€ 74,038",
+    "gross/y": "€ 3,850,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Nicolás González",
+    "team": "Fiorentina",
+    "gross/w": "€ 74,038",
+    "gross/y": "€ 3,850,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Daniele Rugani",
+    "team": "Juventus",
+    "gross/w": "€ 71,154",
+    "gross/y": "€ 3,700,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Davide Calabria",
+    "team": "AC Milan",
+    "gross/w": "€ 71,154",
+    "gross/y": "€ 3,700,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Tiago Djaló",
+    "team": "Juventus",
+    "gross/w": "€ 71,154",
+    "gross/y": "€ 3,700,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Riccardo Orsolini",
+    "team": "Bologna",
+    "gross/w": "€ 71,154",
+    "gross/y": "€ 3,700,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Alex Meret",
+    "team": "Napoli",
+    "gross/w": "€ 71,154",
+    "gross/y": "€ 3,700,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Junior Messias",
+    "team": "Genoa",
+    "gross/w": "€ 71,154",
+    "gross/y": "€ 3,700,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Nicolò Rovella",
+    "team": "Lazio",
+    "gross/w": "€ 71,154",
+    "gross/y": "€ 3,700,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Stefano Sensi",
+    "team": "Inter Milan",
+    "gross/w": "€ 71,154",
+    "gross/y": "€ 3,700,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Stanislav Lobotka",
+    "team": "Napoli",
+    "gross/w": "€ 69,038",
+    "gross/y": "€ 3,590,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Houssem Aouar",
+    "team": "Roma",
+    "gross/w": "€ 69,038",
+    "gross/y": "€ 3,590,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Mike Maignan",
+    "team": "AC Milan",
+    "gross/w": "€ 69,038",
+    "gross/y": "€ 3,590,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Mattia Zaccagni",
+    "team": "Lazio",
+    "gross/w": "€ 67,692",
+    "gross/y": "€ 3,520,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Leonardo Bonucci",
+    "team": "Juventus",
+    "gross/w": "€ 67,308",
+    "gross/y": "€ 3,500,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Diego Llorente",
+    "team": "Roma",
+    "gross/w": "€ 66,538",
+    "gross/y": "€ 3,460,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "André Zambo Anguissa",
+    "team": "Napoli",
+    "gross/w": "€ 66,538",
+    "gross/y": "€ 3,460,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Mário Rui",
+    "team": "Napoli",
+    "gross/w": "€ 64,038",
+    "gross/y": "€ 3,330,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Giovanni Simeone",
+    "team": "Napoli",
+    "gross/w": "€ 64,038",
+    "gross/y": "€ 3,330,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Marash Kumbulla",
+    "team": "Sassuolo",
+    "gross/w": "€ 64,038",
+    "gross/y": "€ 3,330,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Matías Vecino",
+    "team": "Lazio",
+    "gross/w": "€ 64,038",
+    "gross/y": "€ 3,330,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Marash Kumbulla",
+    "team": "Roma",
+    "gross/w": "€ 64,038",
+    "gross/y": "€ 3,330,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Arthur",
+    "team": "Juventus",
+    "gross/w": "€ 61,731",
+    "gross/y": "€ 3,210,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Weston McKennie",
+    "team": "Juventus",
+    "gross/w": "€ 61,731",
+    "gross/y": "€ 3,210,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Arthur",
+    "team": "Fiorentina",
+    "gross/w": "€ 61,731",
+    "gross/y": "€ 3,210,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Filip Kostic",
+    "team": "Juventus",
+    "gross/w": "€ 61,731",
+    "gross/y": "€ 3,210,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Charles De Ketelaere",
+    "team": "Atalanta",
+    "gross/w": "€ 61,731",
+    "gross/y": "€ 3,210,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Diego Demme",
+    "team": "Napoli",
+    "gross/w": "€ 61,731",
+    "gross/y": "€ 3,210,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Luka Jovic",
+    "team": "AC Milan",
+    "gross/w": "€ 61,731",
+    "gross/y": "€ 3,210,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Matteo Darmian",
+    "team": "Inter Milan",
+    "gross/w": "€ 61,731",
+    "gross/y": "€ 3,210,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Denzel Dumfries",
+    "team": "Inter Milan",
+    "gross/w": "€ 61,731",
+    "gross/y": "€ 3,210,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Amir Rrahmani",
+    "team": "Napoli",
+    "gross/w": "€ 61,731",
+    "gross/y": "€ 3,210,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Mattéo Guendouzi",
+    "team": "Lazio",
+    "gross/w": "€ 61,731",
+    "gross/y": "€ 3,210,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Yann Sommer",
+    "team": "Inter Milan",
+    "gross/w": "€ 61,731",
+    "gross/y": "€ 3,210,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Cristiano Biraghi",
+    "team": "Fiorentina",
+    "gross/w": "€ 60,577",
+    "gross/y": "€ 3,150,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Armando Izzo",
+    "team": "Monza",
+    "gross/w": "€ 60,577",
+    "gross/y": "€ 3,150,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Manuel Lazzari",
+    "team": "Lazio",
+    "gross/w": "€ 60,577",
+    "gross/y": "€ 3,150,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Vitinha",
+    "team": "Genoa",
+    "gross/w": "€ 57,692",
+    "gross/y": "€ 3,000,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Rolando Mandragora",
+    "team": "Fiorentina",
+    "gross/w": "€ 56,923",
+    "gross/y": "€ 2,960,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Juan Musso",
+    "team": "Atalanta",
+    "gross/w": "€ 56,923",
+    "gross/y": "€ 2,960,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Antonio Sanabria",
+    "team": "Torino",
+    "gross/w": "€ 56,923",
+    "gross/y": "€ 2,960,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Jesper Lindstrøm",
+    "team": "Napoli",
+    "gross/w": "€ 56,731",
+    "gross/y": "€ 2,950,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Felipe Anderson",
+    "team": "Lazio",
+    "gross/w": "€ 54,231",
+    "gross/y": "€ 2,820,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Mitchel Bakker",
+    "team": "Atalanta",
+    "gross/w": "€ 54,231",
+    "gross/y": "€ 2,820,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Pedro",
+    "team": "Lazio",
+    "gross/w": "€ 54,231",
+    "gross/y": "€ 2,820,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Carlos Augusto",
+    "team": "Inter Milan",
+    "gross/w": "€ 54,231",
+    "gross/y": "€ 2,820,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Ricardo Rodríguez",
+    "team": "Torino",
+    "gross/w": "€ 53,462",
+    "gross/y": "€ 2,780,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Roberto Gagliardini",
+    "team": "Monza",
+    "gross/w": "€ 53,462",
+    "gross/y": "€ 2,780,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Rade Krunic",
+    "team": "AC Milan",
+    "gross/w": "€ 53,462",
+    "gross/y": "€ 2,780,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "M'Bala Nzola",
+    "team": "Fiorentina",
+    "gross/w": "€ 53,462",
+    "gross/y": "€ 2,780,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Danilo Cataldi",
+    "team": "Lazio",
+    "gross/w": "€ 53,462",
+    "gross/y": "€ 2,780,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Antonin Barak",
+    "team": "Fiorentina",
+    "gross/w": "€ 53,462",
+    "gross/y": "€ 2,780,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Giacomo Bonaventura",
+    "team": "Fiorentina",
+    "gross/w": "€ 53,462",
+    "gross/y": "€ 2,780,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Nicolò Fagioli",
+    "team": "Juventus",
+    "gross/w": "€ 53,462",
+    "gross/y": "€ 2,780,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Francesco Acerbi",
+    "team": "Inter Milan",
+    "gross/w": "€ 53,462",
+    "gross/y": "€ 2,780,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Mattia Perin",
+    "team": "Juventus",
+    "gross/w": "€ 53,462",
+    "gross/y": "€ 2,780,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Fabiano Parisi",
+    "team": "Fiorentina",
+    "gross/w": "€ 53,462",
+    "gross/y": "€ 2,780,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Mattia De Sciglio",
+    "team": "Juventus",
+    "gross/w": "€ 53,462",
+    "gross/y": "€ 2,780,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Tajon Buchanan",
+    "team": "Inter Milan",
+    "gross/w": "€ 53,462",
+    "gross/y": "€ 2,780,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Aleksey Miranchuk",
+    "team": "Atalanta",
+    "gross/w": "€ 53,462",
+    "gross/y": "€ 2,780,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Eljif Elmas",
+    "team": "Napoli",
+    "gross/w": "€ 53,462",
+    "gross/y": "€ 2,780,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Federico Gatti",
+    "team": "Juventus",
+    "gross/w": "€ 49,808",
+    "gross/y": "€ 2,590,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Karol Linetty",
+    "team": "Torino",
+    "gross/w": "€ 49,808",
+    "gross/y": "€ 2,590,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Andrea Belotti",
+    "team": "Roma",
+    "gross/w": "€ 49,808",
+    "gross/y": "€ 2,590,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Luca Mazzitelli",
+    "team": "Frosinone",
+    "gross/w": "€ 49,808",
+    "gross/y": "€ 2,590,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Gaetano Castrovilli",
+    "team": "Fiorentina",
+    "gross/w": "€ 49,808",
+    "gross/y": "€ 2,590,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Rasmus Kristensen",
+    "team": "Roma",
+    "gross/w": "€ 49,231",
+    "gross/y": "€ 2,560,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Yunus Musah",
+    "team": "AC Milan",
+    "gross/w": "€ 49,231",
+    "gross/y": "€ 2,560,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Boulaye Dia",
+    "team": "Salernitana",
+    "gross/w": "€ 49,231",
+    "gross/y": "€ 2,560,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Sead Kolasinac",
+    "team": "Atalanta",
+    "gross/w": "€ 49,231",
+    "gross/y": "€ 2,560,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Zeki Çelik",
+    "team": "Roma",
+    "gross/w": "€ 49,231",
+    "gross/y": "€ 2,560,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Nikola Vlašić",
+    "team": "Torino",
+    "gross/w": "€ 49,231",
+    "gross/y": "€ 2,560,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Éderson",
+    "team": "Atalanta",
+    "gross/w": "€ 49,231",
+    "gross/y": "€ 2,560,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Noah Okafor",
+    "team": "AC Milan",
+    "gross/w": "€ 49,231",
+    "gross/y": "€ 2,560,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Timothy Weah",
+    "team": "Juventus",
+    "gross/w": "€ 49,231",
+    "gross/y": "€ 2,560,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Pierre Kalulu",
+    "team": "AC Milan",
+    "gross/w": "€ 49,231",
+    "gross/y": "€ 2,560,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Kevin Strootman",
+    "team": "Genoa",
+    "gross/w": "€ 49,231",
+    "gross/y": "€ 2,560,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Marin Pongracic",
+    "team": "Lecce",
+    "gross/w": "€ 48,077",
+    "gross/y": "€ 2,500,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Alfred Duncan",
+    "team": "Fiorentina",
+    "gross/w": "€ 46,346",
+    "gross/y": "€ 2,410,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Karol Świderski",
+    "team": "Hellas Verona",
+    "gross/w": "€ 46,346",
+    "gross/y": "€ 2,410,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Luca Pellegrini",
+    "team": "Lazio",
+    "gross/w": "€ 46,346",
+    "gross/y": "€ 2,410,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Antonio Candreva",
+    "team": "Salernitana",
+    "gross/w": "€ 46,346",
+    "gross/y": "€ 2,410,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Lucas Beltrán",
+    "team": "Fiorentina",
+    "gross/w": "€ 44,423",
+    "gross/y": "€ 2,310,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Ademola Lookman",
+    "team": "Atalanta",
+    "gross/w": "€ 44,423",
+    "gross/y": "€ 2,310,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Luis Muriel",
+    "team": "Atalanta",
+    "gross/w": "€ 44,423",
+    "gross/y": "€ 2,310,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Valentín Castellanos",
+    "team": "Lazio",
+    "gross/w": "€ 44,423",
+    "gross/y": "€ 2,310,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Florian Thauvin",
+    "team": "Udinese",
+    "gross/w": "€ 44,423",
+    "gross/y": "€ 2,310,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Mateo Retegui",
+    "team": "Genoa",
+    "gross/w": "€ 44,423",
+    "gross/y": "€ 2,310,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Federico Bonazzoli",
+    "team": "Hellas Verona",
+    "gross/w": "€ 42,692",
+    "gross/y": "€ 2,220,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Raoul Bellanova",
+    "team": "Torino",
+    "gross/w": "€ 42,692",
+    "gross/y": "€ 2,220,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Christian Kouamé",
+    "team": "Fiorentina",
+    "gross/w": "€ 42,692",
+    "gross/y": "€ 2,220,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Patric",
+    "team": "Lazio",
+    "gross/w": "€ 42,692",
+    "gross/y": "€ 2,220,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Jonathan Ikoné",
+    "team": "Fiorentina",
+    "gross/w": "€ 41,923",
+    "gross/y": "€ 2,180,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Aleksandr Kokorin",
+    "team": "Fiorentina",
+    "gross/w": "€ 41,923",
+    "gross/y": "€ 2,180,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Sardar Azmoun",
+    "team": "Roma",
+    "gross/w": "€ 41,923",
+    "gross/y": "€ 2,180,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Tijjani Reijnders",
+    "team": "AC Milan",
+    "gross/w": "€ 41,923",
+    "gross/y": "€ 2,180,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Toma Basic",
+    "team": "Salernitana",
+    "gross/w": "€ 39,423",
+    "gross/y": "€ 2,050,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Josip Brekalo",
+    "team": "Fiorentina",
+    "gross/w": "€ 39,423",
+    "gross/y": "€ 2,050,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Nahitan Nández",
+    "team": "Cagliari",
+    "gross/w": "€ 39,423",
+    "gross/y": "€ 2,050,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Khvicha Kvaratskhelia",
+    "team": "Napoli",
+    "gross/w": "€ 39,423",
+    "gross/y": "€ 2,050,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Suat Serdar",
+    "team": "Hellas Verona",
+    "gross/w": "€ 39,423",
+    "gross/y": "€ 2,050,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Toma Basic",
+    "team": "Lazio",
+    "gross/w": "€ 39,423",
+    "gross/y": "€ 2,050,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Pablo Marí",
+    "team": "Monza",
+    "gross/w": "€ 39,423",
+    "gross/y": "€ 2,050,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Gianluca Lapadula",
+    "team": "Cagliari",
+    "gross/w": "€ 39,231",
+    "gross/y": "€ 2,040,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Angeliño",
+    "team": "Roma",
+    "gross/w": "€ 38,462",
+    "gross/y": "€ 2,000,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Tommaso Baldanzi",
+    "team": "Roma",
+    "gross/w": "€ 38,462",
+    "gross/y": "€ 2,000,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Mathías Olivera",
+    "team": "Napoli",
+    "gross/w": "€ 36,923",
+    "gross/y": "€ 1,920,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Simon Kjaer",
+    "team": "AC Milan",
+    "gross/w": "€ 36,923",
+    "gross/y": "€ 1,920,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Yerry Mina",
+    "team": "Fiorentina",
+    "gross/w": "€ 36,923",
+    "gross/y": "€ 1,920,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Junior Sambia",
+    "team": "Salernitana",
+    "gross/w": "€ 36,923",
+    "gross/y": "€ 1,920,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Valentino Lazaro",
+    "team": "Torino",
+    "gross/w": "€ 36,923",
+    "gross/y": "€ 1,920,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Gustav Isaksen",
+    "team": "Lazio",
+    "gross/w": "€ 36,923",
+    "gross/y": "€ 1,920,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Lucas Martínez Quarta",
+    "team": "Fiorentina",
+    "gross/w": "€ 36,923",
+    "gross/y": "€ 1,920,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Teun Koopmeiners",
+    "team": "Atalanta",
+    "gross/w": "€ 36,923",
+    "gross/y": "€ 1,920,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Eldor Shomurodov",
+    "team": "Cagliari",
+    "gross/w": "€ 36,923",
+    "gross/y": "€ 1,920,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Davy Klaassen",
+    "team": "Inter Milan",
+    "gross/w": "€ 36,923",
+    "gross/y": "€ 1,920,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Gerard Deulofeu",
+    "team": "Udinese",
+    "gross/w": "€ 36,923",
+    "gross/y": "€ 1,920,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Yerry Mina",
+    "team": "Cagliari",
+    "gross/w": "€ 36,923",
+    "gross/y": "€ 1,920,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "El Bilal Touré",
+    "team": "Atalanta",
+    "gross/w": "€ 36,923",
+    "gross/y": "€ 1,920,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Papu Gómez",
+    "team": "Monza",
+    "gross/w": "€ 36,923",
+    "gross/y": "€ 1,920,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Dodô",
+    "team": "Fiorentina",
+    "gross/w": "€ 36,923",
+    "gross/y": "€ 1,920,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Nicolò Casale",
+    "team": "Lazio",
+    "gross/w": "€ 35,577",
+    "gross/y": "€ 1,850,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Andrea Consigli",
+    "team": "Sassuolo",
+    "gross/w": "€ 35,577",
+    "gross/y": "€ 1,850,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Tommaso Pobega",
+    "team": "AC Milan",
+    "gross/w": "€ 35,577",
+    "gross/y": "€ 1,850,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Marco Silvestri",
+    "team": "Udinese",
+    "gross/w": "€ 35,577",
+    "gross/y": "€ 1,850,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Michael Kayode",
+    "team": "Fiorentina",
+    "gross/w": "€ 35,577",
+    "gross/y": "€ 1,850,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Pasquale Mazzocchi",
+    "team": "Napoli",
+    "gross/w": "€ 35,577",
+    "gross/y": "€ 1,850,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Riccardo Saponara",
+    "team": "Hellas Verona",
+    "gross/w": "€ 35,577",
+    "gross/y": "€ 1,850,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Yann Karamoh",
+    "team": "Torino",
+    "gross/w": "€ 35,577",
+    "gross/y": "€ 1,850,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Giulio Maggiore",
+    "team": "Salernitana",
+    "gross/w": "€ 35,577",
+    "gross/y": "€ 1,850,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Mario Pasalic",
+    "team": "Atalanta",
+    "gross/w": "€ 35,577",
+    "gross/y": "€ 1,850,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Fabio Miretti",
+    "team": "Juventus",
+    "gross/w": "€ 35,577",
+    "gross/y": "€ 1,850,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Juan Jesus",
+    "team": "Napoli",
+    "gross/w": "€ 35,577",
+    "gross/y": "€ 1,850,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Marten de Roon",
+    "team": "Atalanta",
+    "gross/w": "€ 35,577",
+    "gross/y": "€ 1,850,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Andrea Belotti",
+    "team": "Fiorentina",
+    "gross/w": "€ 35,577",
+    "gross/y": "€ 1,850,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Hamed Junior Traorè",
+    "team": "Napoli",
+    "gross/w": "€ 35,577",
+    "gross/y": "€ 1,850,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Simy",
+    "team": "Salernitana",
+    "gross/w": "€ 35,577",
+    "gross/y": "€ 1,850,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Samuele Ricci",
+    "team": "Torino",
+    "gross/w": "€ 35,577",
+    "gross/y": "€ 1,850,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Rafael Tolói",
+    "team": "Atalanta",
+    "gross/w": "€ 35,577",
+    "gross/y": "€ 1,850,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Edoardo Bove",
+    "team": "Roma",
+    "gross/w": "€ 35,577",
+    "gross/y": "€ 1,850,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Sebastiano Luperto",
+    "team": "Empoli",
+    "gross/w": "€ 35,577",
+    "gross/y": "€ 1,850,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Jakub Jankto",
+    "team": "Cagliari",
+    "gross/w": "€ 35,577",
+    "gross/y": "€ 1,850,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Kevin Bonifazi",
+    "team": "Frosinone",
+    "gross/w": "€ 35,577",
+    "gross/y": "€ 1,850,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Kevin Bonifazi",
+    "team": "Bologna",
+    "gross/w": "€ 35,577",
+    "gross/y": "€ 1,850,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Remo Freuler",
+    "team": "Bologna",
+    "gross/w": "€ 35,577",
+    "gross/y": "€ 1,850,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Ivan Provedel",
+    "team": "Lazio",
+    "gross/w": "€ 35,577",
+    "gross/y": "€ 1,850,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Danilo D'Ambrosio",
+    "team": "Monza",
+    "gross/w": "€ 35,577",
+    "gross/y": "€ 1,850,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Alessio Cragno",
+    "team": "Sassuolo",
+    "gross/w": "€ 35,577",
+    "gross/y": "€ 1,850,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Milan Badelj",
+    "team": "Genoa",
+    "gross/w": "€ 34,423",
+    "gross/y": "€ 1,790,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Gastón Pereiro",
+    "team": "Cagliari",
+    "gross/w": "€ 34,423",
+    "gross/y": "€ 1,790,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Perr Schuurs",
+    "team": "Torino",
+    "gross/w": "€ 34,423",
+    "gross/y": "€ 1,790,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Jean-Daniel Akpa Akpro",
+    "team": "Monza",
+    "gross/w": "€ 32,115",
+    "gross/y": "€ 1,670,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Gianluca Caprari",
+    "team": "Monza",
+    "gross/w": "€ 32,115",
+    "gross/y": "€ 1,670,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Christian Kabasele",
+    "team": "Udinese",
+    "gross/w": "€ 32,115",
+    "gross/y": "€ 1,670,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Lukasz Skorupski",
+    "team": "Bologna",
+    "gross/w": "€ 32,115",
+    "gross/y": "€ 1,670,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Luca Ranieri",
+    "team": "Fiorentina",
+    "gross/w": "€ 32,115",
+    "gross/y": "€ 1,670,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Davide Zappacosta",
+    "team": "Atalanta",
+    "gross/w": "€ 32,115",
+    "gross/y": "€ 1,670,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Isak Hien",
+    "team": "Atalanta",
+    "gross/w": "€ 32,115",
+    "gross/y": "€ 1,670,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Lorenzo De Silvestri",
+    "team": "Bologna",
+    "gross/w": "€ 32,115",
+    "gross/y": "€ 1,670,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Grégoire Defrel",
+    "team": "Sassuolo",
+    "gross/w": "€ 30,192",
+    "gross/y": "€ 1,570,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Jens Cajuste",
+    "team": "Napoli",
+    "gross/w": "€ 29,615",
+    "gross/y": "€ 1,540,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Leo Østigård",
+    "team": "Napoli",
+    "gross/w": "€ 29,615",
+    "gross/y": "€ 1,540,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Cyril Ngonge",
+    "team": "Napoli",
+    "gross/w": "€ 29,615",
+    "gross/y": "€ 1,540,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Kaio Jorge",
+    "team": "Frosinone",
+    "gross/w": "€ 29,615",
+    "gross/y": "€ 1,540,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Albert Gudmundsson",
+    "team": "Genoa",
+    "gross/w": "€ 29,615",
+    "gross/y": "€ 1,540,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Josh Doig",
+    "team": "Sassuolo",
+    "gross/w": "€ 29,615",
+    "gross/y": "€ 1,540,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Matías Viña",
+    "team": "Sassuolo",
+    "gross/w": "€ 29,615",
+    "gross/y": "€ 1,540,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Nedim Bajrami",
+    "team": "Sassuolo",
+    "gross/w": "€ 29,615",
+    "gross/y": "€ 1,540,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Samu Castillejo",
+    "team": "Sassuolo",
+    "gross/w": "€ 29,615",
+    "gross/y": "€ 1,540,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Ivan Ilic",
+    "team": "Torino",
+    "gross/w": "€ 29,615",
+    "gross/y": "€ 1,540,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Victor Kristiansen",
+    "team": "Bologna",
+    "gross/w": "€ 28,846",
+    "gross/y": "€ 1,500,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Marco Mancosu",
+    "team": "Cagliari",
+    "gross/w": "€ 28,846",
+    "gross/y": "€ 1,500,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Matteo Cancellieri",
+    "team": "Empoli",
+    "gross/w": "€ 28,462",
+    "gross/y": "€ 1,480,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Matteo Gabbia",
+    "team": "AC Milan",
+    "gross/w": "€ 28,462",
+    "gross/y": "€ 1,480,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Pierluigi Gollini",
+    "team": "Napoli",
+    "gross/w": "€ 28,462",
+    "gross/y": "€ 1,480,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Berat Djimsiti",
+    "team": "Atalanta",
+    "gross/w": "€ 28,462",
+    "gross/y": "€ 1,480,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Rúben Vinagre",
+    "team": "Hellas Verona",
+    "gross/w": "€ 28,462",
+    "gross/y": "€ 1,480,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Pietro Terracciano",
+    "team": "Fiorentina",
+    "gross/w": "€ 28,462",
+    "gross/y": "€ 1,480,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Hans Hateboer",
+    "team": "Atalanta",
+    "gross/w": "€ 28,462",
+    "gross/y": "€ 1,480,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "José Luis Palomino",
+    "team": "Atalanta",
+    "gross/w": "€ 28,462",
+    "gross/y": "€ 1,480,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Guillermo Ochoa",
+    "team": "Salernitana",
+    "gross/w": "€ 28,462",
+    "gross/y": "€ 1,480,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Matteo Pessina",
+    "team": "Monza",
+    "gross/w": "€ 28,462",
+    "gross/y": "€ 1,480,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Kristjan Asllani",
+    "team": "Inter Milan",
+    "gross/w": "€ 28,462",
+    "gross/y": "€ 1,480,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Emil Audero",
+    "team": "Inter Milan",
+    "gross/w": "€ 28,462",
+    "gross/y": "€ 1,480,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Filippo Terracciano",
+    "team": "AC Milan",
+    "gross/w": "€ 28,462",
+    "gross/y": "€ 1,480,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Valentín Carboni",
+    "team": "Monza",
+    "gross/w": "€ 28,462",
+    "gross/y": "€ 1,480,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Patrick Ciurria",
+    "team": "Monza",
+    "gross/w": "€ 28,462",
+    "gross/y": "€ 1,480,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Musa Barrow",
+    "team": "Bologna",
+    "gross/w": "€ 28,462",
+    "gross/y": "€ 1,480,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Alessandro Buongiorno",
+    "team": "Torino",
+    "gross/w": "€ 28,462",
+    "gross/y": "€ 1,480,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Natan",
+    "team": "Napoli",
+    "gross/w": "€ 27,115",
+    "gross/y": "€ 1,410,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Lorenzo Tonelli",
+    "team": "Empoli",
+    "gross/w": "€ 26,731",
+    "gross/y": "€ 1,390,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Adama Soumaoro",
+    "team": "Bologna",
+    "gross/w": "€ 26,731",
+    "gross/y": "€ 1,390,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Nicolas Viola",
+    "team": "Cagliari",
+    "gross/w": "€ 26,731",
+    "gross/y": "€ 1,390,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Lautaro Giannetti",
+    "team": "Udinese",
+    "gross/w": "€ 26,731",
+    "gross/y": "€ 1,390,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Francesco Caputo",
+    "team": "Empoli",
+    "gross/w": "€ 26,731",
+    "gross/y": "€ 1,390,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Michele Di Gregorio",
+    "team": "Monza",
+    "gross/w": "€ 25,000",
+    "gross/y": "€ 1,300,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Cristian Volpato",
+    "team": "Sassuolo",
+    "gross/w": "€ 25,000",
+    "gross/y": "€ 1,300,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Leonardo Pavoletti",
+    "team": "Cagliari",
+    "gross/w": "€ 25,000",
+    "gross/y": "€ 1,300,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Mehdi Bourabia",
+    "team": "Frosinone",
+    "gross/w": "€ 25,000",
+    "gross/y": "€ 1,300,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Alberto Grassi",
+    "team": "Empoli",
+    "gross/w": "€ 25,000",
+    "gross/y": "€ 1,300,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Antonio Mirante",
+    "team": "AC Milan",
+    "gross/w": "€ 25,000",
+    "gross/y": "€ 1,300,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Vanja Milinkovic-Savic",
+    "team": "Torino",
+    "gross/w": "€ 25,000",
+    "gross/y": "€ 1,300,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Mattia Bani",
+    "team": "Genoa",
+    "gross/w": "€ 25,000",
+    "gross/y": "€ 1,300,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Norbert Gyomber",
+    "team": "Salernitana",
+    "gross/w": "€ 25,000",
+    "gross/y": "€ 1,300,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Marko Rog",
+    "team": "Cagliari",
+    "gross/w": "€ 25,000",
+    "gross/y": "€ 1,300,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Riccardo Marchizza",
+    "team": "Frosinone",
+    "gross/w": "€ 25,000",
+    "gross/y": "€ 1,300,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Adrien Tamèze",
+    "team": "Torino",
+    "gross/w": "€ 24,615",
+    "gross/y": "€ 1,280,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Agustín Álvarez",
+    "team": "Sassuolo",
+    "gross/w": "€ 24,615",
+    "gross/y": "€ 1,280,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Pietro Pellegri",
+    "team": "Torino",
+    "gross/w": "€ 24,615",
+    "gross/y": "€ 1,280,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Alexis Saelemaekers",
+    "team": "Bologna",
+    "gross/w": "€ 24,615",
+    "gross/y": "€ 1,280,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Răzvan Marin",
+    "team": "Empoli",
+    "gross/w": "€ 24,615",
+    "gross/y": "€ 1,280,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Domagoj Bradaric",
+    "team": "Salernitana",
+    "gross/w": "€ 24,615",
+    "gross/y": "€ 1,280,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Mario Gila",
+    "team": "Lazio",
+    "gross/w": "€ 24,615",
+    "gross/y": "€ 1,280,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Aarón Martín",
+    "team": "Genoa",
+    "gross/w": "€ 24,615",
+    "gross/y": "€ 1,280,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Mile Svilar",
+    "team": "Roma",
+    "gross/w": "€ 24,615",
+    "gross/y": "€ 1,280,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Ruslan Malinovskyi",
+    "team": "Genoa",
+    "gross/w": "€ 24,615",
+    "gross/y": "€ 1,280,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Luca Caldirola",
+    "team": "Monza",
+    "gross/w": "€ 24,231",
+    "gross/y": "€ 1,260,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Nikola Moro",
+    "team": "Bologna",
+    "gross/w": "€ 23,846",
+    "gross/y": "€ 1,240,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Joshua Zirkzee",
+    "team": "Bologna",
+    "gross/w": "€ 22,115",
+    "gross/y": "€ 1,150,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Adam Masina",
+    "team": "Torino",
+    "gross/w": "€ 22,115",
+    "gross/y": "€ 1,150,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Hassane Kamara",
+    "team": "Udinese",
+    "gross/w": "€ 22,115",
+    "gross/y": "€ 1,150,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Koffi Djidji",
+    "team": "Torino",
+    "gross/w": "€ 22,115",
+    "gross/y": "€ 1,150,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Adam Masina",
+    "team": "Udinese",
+    "gross/w": "€ 22,115",
+    "gross/y": "€ 1,150,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "George Puscas",
+    "team": "Genoa",
+    "gross/w": "€ 22,115",
+    "gross/y": "€ 1,150,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Armand Laurienté",
+    "team": "Sassuolo",
+    "gross/w": "€ 22,115",
+    "gross/y": "€ 1,150,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Gian Marco Ferrari",
+    "team": "Sassuolo",
+    "gross/w": "€ 21,346",
+    "gross/y": "€ 1,110,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Daniel Boloca",
+    "team": "Sassuolo",
+    "gross/w": "€ 21,346",
+    "gross/y": "€ 1,110,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Emmanuel Gyasi",
+    "team": "Empoli",
+    "gross/w": "€ 21,346",
+    "gross/y": "€ 1,110,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Wladimiro Falcone",
+    "team": "Lecce",
+    "gross/w": "€ 21,346",
+    "gross/y": "€ 1,110,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Edoardo Goldaniga",
+    "team": "Cagliari",
+    "gross/w": "€ 21,346",
+    "gross/y": "€ 1,110,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Filip Jagiello",
+    "team": "Genoa",
+    "gross/w": "€ 21,346",
+    "gross/y": "€ 1,110,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Darko Lazović",
+    "team": "Hellas Verona",
+    "gross/w": "€ 21,346",
+    "gross/y": "€ 1,110,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Koray Günter",
+    "team": "Hellas Verona",
+    "gross/w": "€ 21,346",
+    "gross/y": "€ 1,110,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Riccardo Sottil",
+    "team": "Fiorentina",
+    "gross/w": "€ 21,346",
+    "gross/y": "€ 1,110,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Gvidas Gineitis",
+    "team": "Torino",
+    "gross/w": "€ 21,346",
+    "gross/y": "€ 1,110,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Federico Baschirotto",
+    "team": "Lecce",
+    "gross/w": "€ 21,346",
+    "gross/y": "€ 1,110,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Dany Mota",
+    "team": "Monza",
+    "gross/w": "€ 21,346",
+    "gross/y": "€ 1,110,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Zito Luvumbo",
+    "team": "Cagliari",
+    "gross/w": "€ 21,346",
+    "gross/y": "€ 1,110,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Luigi Sepe",
+    "team": "Lazio",
+    "gross/w": "€ 21,346",
+    "gross/y": "€ 1,110,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Giangiacomo Magnani",
+    "team": "Hellas Verona",
+    "gross/w": "€ 21,346",
+    "gross/y": "€ 1,110,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Youssef Maleh",
+    "team": "Empoli",
+    "gross/w": "€ 21,346",
+    "gross/y": "€ 1,110,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Ondrej Duda",
+    "team": "Hellas Verona",
+    "gross/w": "€ 21,154",
+    "gross/y": "€ 1,100,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Isaac Success",
+    "team": "Udinese",
+    "gross/w": "€ 20,962",
+    "gross/y": "€ 1,090,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Pedro Obiang",
+    "team": "Sassuolo",
+    "gross/w": "€ 20,962",
+    "gross/y": "€ 1,090,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Caleb Okoli",
+    "team": "Frosinone",
+    "gross/w": "€ 20,000",
+    "gross/y": "€ 1,040,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Morten Thorsby",
+    "team": "Genoa",
+    "gross/w": "€ 20,000",
+    "gross/y": "€ 1,040,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Walace",
+    "team": "Udinese",
+    "gross/w": "€ 19,808",
+    "gross/y": "€ 1,030,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Luka Romero",
+    "team": "AC Milan",
+    "gross/w": "€ 19,808",
+    "gross/y": "€ 1,030,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Malick Thiaw",
+    "team": "AC Milan",
+    "gross/w": "€ 19,808",
+    "gross/y": "€ 1,030,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Yacine Adli",
+    "team": "AC Milan",
+    "gross/w": "€ 19,808",
+    "gross/y": "€ 1,030,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Dan Ndoye",
+    "team": "Bologna",
+    "gross/w": "€ 19,808",
+    "gross/y": "€ 1,030,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Jesper Karlsson",
+    "team": "Bologna",
+    "gross/w": "€ 19,808",
+    "gross/y": "€ 1,030,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Johan Vásquez",
+    "team": "Genoa",
+    "gross/w": "€ 19,808",
+    "gross/y": "€ 1,030,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Morten Frendrup",
+    "team": "Genoa",
+    "gross/w": "€ 19,808",
+    "gross/y": "€ 1,030,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Silvan Hefti",
+    "team": "Genoa",
+    "gross/w": "€ 19,808",
+    "gross/y": "€ 1,030,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Thomas Henry",
+    "team": "Hellas Verona",
+    "gross/w": "€ 19,808",
+    "gross/y": "€ 1,030,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Yann Aurel Bisseck",
+    "team": "Inter Milan",
+    "gross/w": "€ 19,808",
+    "gross/y": "€ 1,030,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Nemanja Radonjic",
+    "team": "Torino",
+    "gross/w": "€ 19,808",
+    "gross/y": "€ 1,030,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Enzo Ebosse",
+    "team": "Udinese",
+    "gross/w": "€ 19,808",
+    "gross/y": "€ 1,030,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Jaka Bijol",
+    "team": "Udinese",
+    "gross/w": "€ 19,808",
+    "gross/y": "€ 1,030,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Roberto Pereyra",
+    "team": "Udinese",
+    "gross/w": "€ 19,808",
+    "gross/y": "€ 1,030,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Alberto Cerri",
+    "team": "Empoli",
+    "gross/w": "€ 19,615",
+    "gross/y": "€ 1,020,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Pol Lirola",
+    "team": "Frosinone",
+    "gross/w": "€ 19,231",
+    "gross/y": "€ 1,000,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Nicola Sansone",
+    "team": "Lecce",
+    "gross/w": "€ 19,231",
+    "gross/y": "€ 1,000,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Emil Bohinen",
+    "team": "Salernitana",
+    "gross/w": "€ 19,231",
+    "gross/y": "€ 1,000,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Emil Bohinen",
+    "team": "Genoa",
+    "gross/w": "€ 19,231",
+    "gross/y": "€ 1,000,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Stefan Posch",
+    "team": "Bologna",
+    "gross/w": "€ 19,231",
+    "gross/y": "€ 1,000,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Antonino Gallo",
+    "team": "Lecce",
+    "gross/w": "€ 18,462",
+    "gross/y": "€ 960,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Jhon Lucumí",
+    "team": "Bologna",
+    "gross/w": "€ 18,462",
+    "gross/y": "€ 960,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Pantelis Chatzidiakos",
+    "team": "Cagliari",
+    "gross/w": "€ 18,462",
+    "gross/y": "€ 960,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Brenner",
+    "team": "Udinese",
+    "gross/w": "€ 18,462",
+    "gross/y": "€ 960,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Fabien Centonze",
+    "team": "Hellas Verona",
+    "gross/w": "€ 18,462",
+    "gross/y": "€ 960,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Antoine Makoumbou",
+    "team": "Cagliari",
+    "gross/w": "€ 18,077",
+    "gross/y": "€ 940,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Matteo Lovato",
+    "team": "Torino",
+    "gross/w": "€ 17,885",
+    "gross/y": "€ 930,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Josep Martínez",
+    "team": "Genoa",
+    "gross/w": "€ 17,885",
+    "gross/y": "€ 930,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Nicolò Cambiaghi",
+    "team": "Empoli",
+    "gross/w": "€ 17,885",
+    "gross/y": "€ 930,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Santiago Castro",
+    "team": "Bologna",
+    "gross/w": "€ 17,885",
+    "gross/y": "€ 930,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Davide Faraoni",
+    "team": "Fiorentina",
+    "gross/w": "€ 17,885",
+    "gross/y": "€ 930,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Tommaso Augello",
+    "team": "Cagliari",
+    "gross/w": "€ 17,885",
+    "gross/y": "€ 930,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Marco Sportiello",
+    "team": "AC Milan",
+    "gross/w": "€ 17,885",
+    "gross/y": "€ 930,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Paulo Azzi",
+    "team": "Cagliari",
+    "gross/w": "€ 17,885",
+    "gross/y": "€ 930,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Matteo Ruggeri",
+    "team": "Atalanta",
+    "gross/w": "€ 17,885",
+    "gross/y": "€ 930,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Konstantinos Manolas",
+    "team": "Salernitana",
+    "gross/w": "€ 17,885",
+    "gross/y": "€ 930,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Mattia Destro",
+    "team": "Empoli",
+    "gross/w": "€ 17,885",
+    "gross/y": "€ 930,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Charalampos Lykogiannis",
+    "team": "Bologna",
+    "gross/w": "€ 17,885",
+    "gross/y": "€ 930,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Matteo Lovato",
+    "team": "Salernitana",
+    "gross/w": "€ 17,885",
+    "gross/y": "€ 930,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Simone Romagnoli",
+    "team": "Frosinone",
+    "gross/w": "€ 17,885",
+    "gross/y": "€ 930,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Andrea Colpani",
+    "team": "Monza",
+    "gross/w": "€ 17,885",
+    "gross/y": "€ 930,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Davide Faraoni",
+    "team": "Hellas Verona",
+    "gross/w": "€ 17,885",
+    "gross/y": "€ 930,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Andrea Carboni",
+    "team": "Monza",
+    "gross/w": "€ 17,885",
+    "gross/y": "€ 930,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "André Anderson",
+    "team": "Lazio",
+    "gross/w": "€ 17,885",
+    "gross/y": "€ 930,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Gianluca Pegolo",
+    "team": "Sassuolo",
+    "gross/w": "€ 17,885",
+    "gross/y": "€ 930,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Radu Dragusin",
+    "team": "Genoa",
+    "gross/w": "€ 17,885",
+    "gross/y": "€ 930,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Jeremy Toljan",
+    "team": "Sassuolo",
+    "gross/w": "€ 17,308",
+    "gross/y": "€ 900,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Szymon Zurkowski",
+    "team": "Empoli",
+    "gross/w": "€ 17,308",
+    "gross/y": "€ 900,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Ardian Ismajli",
+    "team": "Empoli",
+    "gross/w": "€ 17,308",
+    "gross/y": "€ 900,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Milan Djuric",
+    "team": "Hellas Verona",
+    "gross/w": "€ 17,308",
+    "gross/y": "€ 900,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Milan Djuric",
+    "team": "Monza",
+    "gross/w": "€ 17,308",
+    "gross/y": "€ 900,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Mërgim Vojvoda",
+    "team": "Torino",
+    "gross/w": "€ 17,308",
+    "gross/y": "€ 900,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Martín Payero",
+    "team": "Udinese",
+    "gross/w": "€ 17,308",
+    "gross/y": "€ 900,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Keinan Davis",
+    "team": "Udinese",
+    "gross/w": "€ 17,308",
+    "gross/y": "€ 900,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Sam Beukema",
+    "team": "Bologna",
+    "gross/w": "€ 17,308",
+    "gross/y": "€ 900,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Kingsley Ehizibue",
+    "team": "Udinese",
+    "gross/w": "€ 17,308",
+    "gross/y": "€ 900,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Sandi Lovric",
+    "team": "Udinese",
+    "gross/w": "€ 17,308",
+    "gross/y": "€ 900,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Boris Radunović",
+    "team": "Cagliari",
+    "gross/w": "€ 16,731",
+    "gross/y": "€ 870,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Stefano Turati",
+    "team": "Frosinone",
+    "gross/w": "€ 16,346",
+    "gross/y": "€ 850,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Samuele Birindelli",
+    "team": "Monza",
+    "gross/w": "€ 15,962",
+    "gross/y": "€ 830,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Samuele Mulattieri",
+    "team": "Sassuolo",
+    "gross/w": "€ 15,962",
+    "gross/y": "€ 830,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Bartosz Bereszynski",
+    "team": "Empoli",
+    "gross/w": "€ 15,962",
+    "gross/y": "€ 830,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Benoît Costil",
+    "team": "Salernitana",
+    "gross/w": "€ 15,962",
+    "gross/y": "€ 830,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Martin Hongla",
+    "team": "Hellas Verona",
+    "gross/w": "€ 15,962",
+    "gross/y": "€ 830,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Nehuén Pérez",
+    "team": "Udinese",
+    "gross/w": "€ 15,962",
+    "gross/y": "€ 830,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Giuseppe Pezzella",
+    "team": "Empoli",
+    "gross/w": "€ 15,962",
+    "gross/y": "€ 830,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Abdou Harroui",
+    "team": "Frosinone",
+    "gross/w": "€ 14,808",
+    "gross/y": "€ 770,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Maxime López",
+    "team": "Fiorentina",
+    "gross/w": "€ 14,808",
+    "gross/y": "€ 770,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Viktor Kovalenko",
+    "team": "Empoli",
+    "gross/w": "€ 14,808",
+    "gross/y": "€ 770,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Isak Hien",
+    "team": "Hellas Verona",
+    "gross/w": "€ 14,808",
+    "gross/y": "€ 770,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Cyril Ngonge",
+    "team": "Hellas Verona",
+    "gross/w": "€ 14,808",
+    "gross/y": "€ 770,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Lewis Ferguson",
+    "team": "Bologna",
+    "gross/w": "€ 14,808",
+    "gross/y": "€ 770,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Ridgeciano Haps",
+    "team": "Genoa",
+    "gross/w": "€ 14,808",
+    "gross/y": "€ 770,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "David Okereke",
+    "team": "Torino",
+    "gross/w": "€ 14,808",
+    "gross/y": "€ 770,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Brandon Soppy",
+    "team": "Torino",
+    "gross/w": "€ 14,808",
+    "gross/y": "€ 770,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Caleb Ekuban",
+    "team": "Genoa",
+    "gross/w": "€ 14,808",
+    "gross/y": "€ 770,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Kristian Thorstvedt",
+    "team": "Sassuolo",
+    "gross/w": "€ 14,808",
+    "gross/y": "€ 770,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Pontus Almqvist",
+    "team": "Lecce",
+    "gross/w": "€ 14,808",
+    "gross/y": "€ 770,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Jaime Báez",
+    "team": "Frosinone",
+    "gross/w": "€ 14,615",
+    "gross/y": "€ 760,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Jérôme Boateng",
+    "team": "Salernitana",
+    "gross/w": "€ 14,231",
+    "gross/y": "€ 740,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Emanuel Vignato",
+    "team": "Salernitana",
+    "gross/w": "€ 14,231",
+    "gross/y": "€ 740,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Giovanni Fabbian",
+    "team": "Bologna",
+    "gross/w": "€ 14,231",
+    "gross/y": "€ 740,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Koni De Winter",
+    "team": "Genoa",
+    "gross/w": "€ 14,231",
+    "gross/y": "€ 740,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Cristiano Lombardi",
+    "team": "Lazio",
+    "gross/w": "€ 14,231",
+    "gross/y": "€ 740,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Etrit Berisha",
+    "team": "Empoli",
+    "gross/w": "€ 14,231",
+    "gross/y": "€ 740,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Riccardo Calafiori",
+    "team": "Bologna",
+    "gross/w": "€ 14,231",
+    "gross/y": "€ 740,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Alessandro Deiola",
+    "team": "Cagliari",
+    "gross/w": "€ 14,231",
+    "gross/y": "€ 740,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Alberto Dossena",
+    "team": "Cagliari",
+    "gross/w": "€ 14,231",
+    "gross/y": "€ 740,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Demba Seck",
+    "team": "Frosinone",
+    "gross/w": "€ 14,231",
+    "gross/y": "€ 740,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Tijjani Noslin",
+    "team": "Hellas Verona",
+    "gross/w": "€ 14,231",
+    "gross/y": "€ 740,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Alessandro Zanoli",
+    "team": "Salernitana",
+    "gross/w": "€ 14,231",
+    "gross/y": "€ 740,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Michael Folorunsho",
+    "team": "Hellas Verona",
+    "gross/w": "€ 14,231",
+    "gross/y": "€ 740,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Alessandro Zanoli",
+    "team": "Napoli",
+    "gross/w": "€ 14,231",
+    "gross/y": "€ 740,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Dean Huijsen",
+    "team": "Roma",
+    "gross/w": "€ 14,231",
+    "gross/y": "€ 740,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Lorenzo Venuti",
+    "team": "Lecce",
+    "gross/w": "€ 14,231",
+    "gross/y": "€ 740,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Adam Obert",
+    "team": "Cagliari",
+    "gross/w": "€ 14,231",
+    "gross/y": "€ 740,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Demba Seck",
+    "team": "Torino",
+    "gross/w": "€ 14,231",
+    "gross/y": "€ 740,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Francesco Gelli",
+    "team": "Frosinone",
+    "gross/w": "€ 13,846",
+    "gross/y": "€ 720,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Soufiane Bidaoui",
+    "team": "Frosinone",
+    "gross/w": "€ 13,654",
+    "gross/y": "€ 710,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Luca Garritano",
+    "team": "Frosinone",
+    "gross/w": "€ 12,885",
+    "gross/y": "€ 670,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Juan Cabal",
+    "team": "Hellas Verona",
+    "gross/w": "€ 12,500",
+    "gross/y": "€ 650,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Michel Ndary Adopo",
+    "team": "Atalanta",
+    "gross/w": "€ 12,500",
+    "gross/y": "€ 650,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Daniel Silva",
+    "team": "Hellas Verona",
+    "gross/w": "€ 12,500",
+    "gross/y": "€ 650,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Mihajlo Ilic",
+    "team": "Bologna",
+    "gross/w": "€ 12,500",
+    "gross/y": "€ 650,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "David Ankeye",
+    "team": "Genoa",
+    "gross/w": "€ 12,500",
+    "gross/y": "€ 650,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Rémi Oudin",
+    "team": "Lecce",
+    "gross/w": "€ 12,308",
+    "gross/y": "€ 640,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Joan González",
+    "team": "Lecce",
+    "gross/w": "€ 12,308",
+    "gross/y": "€ 640,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Flavius Daniliuc",
+    "team": "Salernitana",
+    "gross/w": "€ 12,308",
+    "gross/y": "€ 640,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Uros Racic",
+    "team": "Sassuolo",
+    "gross/w": "€ 12,308",
+    "gross/y": "€ 640,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Maduka Okoye",
+    "team": "Udinese",
+    "gross/w": "€ 12,308",
+    "gross/y": "€ 640,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Josh Doig",
+    "team": "Hellas Verona",
+    "gross/w": "€ 12,308",
+    "gross/y": "€ 640,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Lameck Banda",
+    "team": "Lecce",
+    "gross/w": "€ 12,308",
+    "gross/y": "€ 640,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Michel Aebischer",
+    "team": "Bologna",
+    "gross/w": "€ 12,308",
+    "gross/y": "€ 640,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Alexis Blin",
+    "team": "Lecce",
+    "gross/w": "€ 12,308",
+    "gross/y": "€ 640,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Valentin Gendrey",
+    "team": "Lecce",
+    "gross/w": "€ 12,308",
+    "gross/y": "€ 640,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Elia Caprile",
+    "team": "Empoli",
+    "gross/w": "€ 12,308",
+    "gross/y": "€ 640,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "M'Baye Niang",
+    "team": "Empoli",
+    "gross/w": "€ 12,308",
+    "gross/y": "€ 640,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Mateusz Wieteska",
+    "team": "Cagliari",
+    "gross/w": "€ 12,308",
+    "gross/y": "€ 640,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Samuel Iling-Junior",
+    "team": "Juventus",
+    "gross/w": "€ 12,308",
+    "gross/y": "€ 640,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "David Zima",
+    "team": "Torino",
+    "gross/w": "€ 12,308",
+    "gross/y": "€ 640,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Tyronne Ebuehi",
+    "team": "Empoli",
+    "gross/w": "€ 12,308",
+    "gross/y": "€ 640,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Saba Sazonov",
+    "team": "Torino",
+    "gross/w": "€ 12,308",
+    "gross/y": "€ 640,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Oliver Christensen",
+    "team": "Fiorentina",
+    "gross/w": "€ 12,308",
+    "gross/y": "€ 640,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Reinier",
+    "team": "Frosinone",
+    "gross/w": "€ 11,538",
+    "gross/y": "€ 600,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Michele Cerofolini",
+    "team": "Frosinone",
+    "gross/w": "€ 11,346",
+    "gross/y": "€ 590,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Mattia Viti",
+    "team": "Sassuolo",
+    "gross/w": "€ 11,346",
+    "gross/y": "€ 590,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Dylan Bronn",
+    "team": "Salernitana",
+    "gross/w": "€ 11,154",
+    "gross/y": "€ 580,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Ylber Ramadani",
+    "team": "Lecce",
+    "gross/w": "€ 11,154",
+    "gross/y": "€ 580,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Oussama El Azzouzi",
+    "team": "Bologna",
+    "gross/w": "€ 11,154",
+    "gross/y": "€ 580,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Elio Capradossi",
+    "team": "Cagliari",
+    "gross/w": "€ 10,962",
+    "gross/y": "€ 570,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Matheus Henrique",
+    "team": "Sassuolo",
+    "gross/w": "€ 10,962",
+    "gross/y": "€ 570,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Daniel Maldini",
+    "team": "Empoli",
+    "gross/w": "€ 10,769",
+    "gross/y": "€ 560,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Kastriot Dermaku",
+    "team": "Lecce",
+    "gross/w": "€ 10,769",
+    "gross/y": "€ 560,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Carlo Pinsoglio",
+    "team": "Juventus",
+    "gross/w": "€ 10,769",
+    "gross/y": "€ 560,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Roberto Piccoli",
+    "team": "Lecce",
+    "gross/w": "€ 10,769",
+    "gross/y": "€ 560,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Santiago Pierotti",
+    "team": "Lecce",
+    "gross/w": "€ 10,769",
+    "gross/y": "€ 560,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Gabriele Zappa",
+    "team": "Cagliari",
+    "gross/w": "€ 10,769",
+    "gross/y": "€ 560,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Daniel Maldini",
+    "team": "Monza",
+    "gross/w": "€ 10,769",
+    "gross/y": "€ 560,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Stefan Mitrovic",
+    "team": "Hellas Verona",
+    "gross/w": "€ 10,769",
+    "gross/y": "€ 560,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Marco Pellegrino",
+    "team": "Salernitana",
+    "gross/w": "€ 10,769",
+    "gross/y": "€ 560,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Lorenzo Pirola",
+    "team": "Salernitana",
+    "gross/w": "€ 10,769",
+    "gross/y": "€ 560,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Lorenzo Colombo",
+    "team": "Monza",
+    "gross/w": "€ 10,769",
+    "gross/y": "€ 560,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Giorgio Scalvini",
+    "team": "Atalanta",
+    "gross/w": "€ 10,769",
+    "gross/y": "€ 560,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Kenan Yıldız",
+    "team": "Juventus",
+    "gross/w": "€ 10,769",
+    "gross/y": "€ 560,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Marco Pellegrino",
+    "team": "AC Milan",
+    "gross/w": "€ 10,769",
+    "gross/y": "€ 560,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Matías Soulé",
+    "team": "Frosinone",
+    "gross/w": "€ 10,769",
+    "gross/y": "€ 560,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Tommaso Baldanzi",
+    "team": "Empoli",
+    "gross/w": "€ 10,769",
+    "gross/y": "€ 560,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Farès Ghedjemis",
+    "team": "Frosinone",
+    "gross/w": "€ 10,769",
+    "gross/y": "€ 560,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Nikita Contini",
+    "team": "Napoli",
+    "gross/w": "€ 10,769",
+    "gross/y": "€ 560,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Nicola Zalewski",
+    "team": "Roma",
+    "gross/w": "€ 10,769",
+    "gross/y": "€ 560,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Mirko Maric",
+    "team": "Monza",
+    "gross/w": "€ 10,192",
+    "gross/y": "€ 530,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Ibrahim Sulemana",
+    "team": "Cagliari",
+    "gross/w": "€ 10,000",
+    "gross/y": "€ 520,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Georgios Kyriakopoulos",
+    "team": "Monza",
+    "gross/w": "€ 9,808",
+    "gross/y": "€ 510,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Sydney van Hooijdonk",
+    "team": "Bologna",
+    "gross/w": "€ 9,808",
+    "gross/y": "€ 510,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Mikael",
+    "team": "Salernitana",
+    "gross/w": "€ 9,808",
+    "gross/y": "€ 510,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Alan Matturro",
+    "team": "Genoa",
+    "gross/w": "€ 9,808",
+    "gross/y": "€ 510,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Lassana Coulibaly",
+    "team": "Salernitana",
+    "gross/w": "€ 9,808",
+    "gross/y": "€ 510,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Lazar Samardžić",
+    "team": "Udinese",
+    "gross/w": "€ 9,808",
+    "gross/y": "€ 510,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Jordan Zemura",
+    "team": "Udinese",
+    "gross/w": "€ 9,808",
+    "gross/y": "€ 510,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Erik Botheim",
+    "team": "Salernitana",
+    "gross/w": "€ 9,808",
+    "gross/y": "€ 510,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Tomas Suslov",
+    "team": "Hellas Verona",
+    "gross/w": "€ 9,808",
+    "gross/y": "€ 510,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Vincenzo Fiorillo",
+    "team": "Salernitana",
+    "gross/w": "€ 9,615",
+    "gross/y": "€ 500,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Berkan Kutlu",
+    "team": "Genoa",
+    "gross/w": "€ 9,615",
+    "gross/y": "€ 500,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Stefano Sabelli",
+    "team": "Genoa",
+    "gross/w": "€ 9,615",
+    "gross/y": "€ 500,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Lorenzo Montipò",
+    "team": "Hellas Verona",
+    "gross/w": "€ 9,615",
+    "gross/y": "€ 500,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Ruan",
+    "team": "Sassuolo",
+    "gross/w": "€ 9,423",
+    "gross/y": "€ 490,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Alessandro Berardi",
+    "team": "Hellas Verona",
+    "gross/w": "€ 8,846",
+    "gross/y": "€ 460,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Simone Perilli",
+    "team": "Hellas Verona",
+    "gross/w": "€ 8,846",
+    "gross/y": "€ 460,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Elayis Tavsan",
+    "team": "Hellas Verona",
+    "gross/w": "€ 8,846",
+    "gross/y": "€ 460,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Diego Coppola",
+    "team": "Hellas Verona",
+    "gross/w": "€ 8,846",
+    "gross/y": "€ 460,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Nicola Leali",
+    "team": "Genoa",
+    "gross/w": "€ 8,846",
+    "gross/y": "€ 460,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Daniel Samek",
+    "team": "Lecce",
+    "gross/w": "€ 8,846",
+    "gross/y": "€ 460,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Gabriel Strefezza",
+    "team": "Lecce",
+    "gross/w": "€ 8,846",
+    "gross/y": "€ 460,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Stefano Gori",
+    "team": "Monza",
+    "gross/w": "€ 8,846",
+    "gross/y": "€ 460,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Marco Brescianini",
+    "team": "Frosinone",
+    "gross/w": "€ 8,846",
+    "gross/y": "€ 460,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Tommaso Martinelli",
+    "team": "Fiorentina",
+    "gross/w": "€ 8,846",
+    "gross/y": "€ 460,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Simone Bastoni",
+    "team": "Empoli",
+    "gross/w": "€ 8,846",
+    "gross/y": "€ 460,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Filippo Ranocchia",
+    "team": "Empoli",
+    "gross/w": "€ 8,846",
+    "gross/y": "€ 460,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Simone Pafundi",
+    "team": "Udinese",
+    "gross/w": "€ 8,846",
+    "gross/y": "€ 460,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Lapo Nava",
+    "team": "AC Milan",
+    "gross/w": "€ 8,846",
+    "gross/y": "€ 460,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Lorenzo Lucca",
+    "team": "Udinese",
+    "gross/w": "€ 8,846",
+    "gross/y": "€ 460,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Chaka Traorè",
+    "team": "AC Milan",
+    "gross/w": "€ 8,846",
+    "gross/y": "€ 460,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Yayah Kallon",
+    "team": "Hellas Verona",
+    "gross/w": "€ 8,846",
+    "gross/y": "€ 460,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Nikola Krstovic",
+    "team": "Lecce",
+    "gross/w": "€ 8,654",
+    "gross/y": "€ 450,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Gino Infantino",
+    "team": "Fiorentina",
+    "gross/w": "€ 8,654",
+    "gross/y": "€ 450,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Oier Zarraga",
+    "team": "Udinese",
+    "gross/w": "€ 8,654",
+    "gross/y": "€ 450,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Jordi Mboula",
+    "team": "Hellas Verona",
+    "gross/w": "€ 8,654",
+    "gross/y": "€ 450,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Pablo Galdames",
+    "team": "Genoa",
+    "gross/w": "€ 8,654",
+    "gross/y": "€ 450,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Lucien Agoume",
+    "team": "Inter Milan",
+    "gross/w": "€ 8,654",
+    "gross/y": "€ 450,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Jackson Tchatchoua",
+    "team": "Hellas Verona",
+    "gross/w": "€ 8,654",
+    "gross/y": "€ 450,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Jovane Cabral",
+    "team": "Salernitana",
+    "gross/w": "€ 8,654",
+    "gross/y": "€ 450,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Matteo Prati",
+    "team": "Cagliari",
+    "gross/w": "€ 8,462",
+    "gross/y": "€ 440,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Hamza Rafia",
+    "team": "Lecce",
+    "gross/w": "€ 7,885",
+    "gross/y": "€ 410,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Kevin Zeroli",
+    "team": "AC Milan",
+    "gross/w": "€ 7,885",
+    "gross/y": "€ 410,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Mihai Popa",
+    "team": "Torino",
+    "gross/w": "€ 7,885",
+    "gross/y": "€ 410,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Triantafyllos Pasalidis",
+    "team": "Salernitana",
+    "gross/w": "€ 7,885",
+    "gross/y": "€ 410,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Giorgio Cittadini",
+    "team": "Genoa",
+    "gross/w": "€ 7,500",
+    "gross/y": "€ 390,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Giorgio Cittadini",
+    "team": "Monza",
+    "gross/w": "€ 7,500",
+    "gross/y": "€ 390,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Loum Tchaouna",
+    "team": "Salernitana",
+    "gross/w": "€ 7,308",
+    "gross/y": "€ 380,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Sebastian Walukiewicz",
+    "team": "Empoli",
+    "gross/w": "€ 7,308",
+    "gross/y": "€ 380,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Warren Bondo",
+    "team": "Monza",
+    "gross/w": "€ 7,308",
+    "gross/y": "€ 380,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Joaquín Sosa",
+    "team": "Bologna",
+    "gross/w": "€ 7,308",
+    "gross/y": "€ 380,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Pedro Pereira",
+    "team": "Monza",
+    "gross/w": "€ 7,308",
+    "gross/y": "€ 380,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Simone Scuffet",
+    "team": "Cagliari",
+    "gross/w": "€ 7,308",
+    "gross/y": "€ 380,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Domingos Quina",
+    "team": "Udinese",
+    "gross/w": "€ 7,308",
+    "gross/y": "€ 380,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Kevin Rüegg",
+    "team": "Hellas Verona",
+    "gross/w": "€ 7,308",
+    "gross/y": "€ 380,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Pawel Dawidowicz",
+    "team": "Hellas Verona",
+    "gross/w": "€ 7,308",
+    "gross/y": "€ 380,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Mateusz Legowski",
+    "team": "Salernitana",
+    "gross/w": "€ 7,308",
+    "gross/y": "€ 380,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Ajdin Hrustic",
+    "team": "Hellas Verona",
+    "gross/w": "€ 7,308",
+    "gross/y": "€ 380,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Juan Manuel Cruz",
+    "team": "Hellas Verona",
+    "gross/w": "€ 7,115",
+    "gross/y": "€ 370,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Daniele Padelli",
+    "team": "Udinese",
+    "gross/w": "€ 7,115",
+    "gross/y": "€ 370,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Pietro Boer",
+    "team": "Roma",
+    "gross/w": "€ 7,115",
+    "gross/y": "€ 370,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Emanuele Valeri",
+    "team": "Frosinone",
+    "gross/w": "€ 7,115",
+    "gross/y": "€ 370,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Sergio Kalaj",
+    "team": "Frosinone",
+    "gross/w": "€ 7,115",
+    "gross/y": "€ 370,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Pietro Comuzzo",
+    "team": "Fiorentina",
+    "gross/w": "€ 7,115",
+    "gross/y": "€ 370,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "José Machín",
+    "team": "Monza",
+    "gross/w": "€ 7,115",
+    "gross/y": "€ 370,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Hans Nicolussi Caviglia",
+    "team": "Juventus",
+    "gross/w": "€ 7,115",
+    "gross/y": "€ 370,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Davide Bettella",
+    "team": "Monza",
+    "gross/w": "€ 6,731",
+    "gross/y": "€ 350,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Anthony Oyono",
+    "team": "Frosinone",
+    "gross/w": "€ 6,731",
+    "gross/y": "€ 350,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Agustín Martegani",
+    "team": "Salernitana",
+    "gross/w": "€ 6,731",
+    "gross/y": "€ 350,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Nadir Zortea",
+    "team": "Atalanta",
+    "gross/w": "€ 6,346",
+    "gross/y": "€ 330,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Giulio Donati",
+    "team": "Monza",
+    "gross/w": "€ 6,346",
+    "gross/y": "€ 330,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Alessio Zerbin",
+    "team": "Monza",
+    "gross/w": "€ 6,346",
+    "gross/y": "€ 330,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Ilario Monterisi",
+    "team": "Frosinone",
+    "gross/w": "€ 6,346",
+    "gross/y": "€ 330,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Alessio Zerbin",
+    "team": "Napoli",
+    "gross/w": "€ 6,346",
+    "gross/y": "€ 330,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Samuele Perisan",
+    "team": "Empoli",
+    "gross/w": "€ 6,346",
+    "gross/y": "€ 330,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Nadir Zortea",
+    "team": "Frosinone",
+    "gross/w": "€ 6,346",
+    "gross/y": "€ 330,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Mohamed Kaba",
+    "team": "Lecce",
+    "gross/w": "€ 6,154",
+    "gross/y": "€ 320,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Diego Valencia",
+    "team": "Salernitana",
+    "gross/w": "€ 6,154",
+    "gross/y": "€ 320,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Thomas Kristensen",
+    "team": "Udinese",
+    "gross/w": "€ 6,154",
+    "gross/y": "€ 320,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Liberato Cacace",
+    "team": "Empoli",
+    "gross/w": "€ 6,154",
+    "gross/y": "€ 320,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Jayden Braaf",
+    "team": "Hellas Verona",
+    "gross/w": "€ 6,154",
+    "gross/y": "€ 320,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Marcus Holmgren Pedersen",
+    "team": "Sassuolo",
+    "gross/w": "€ 5,962",
+    "gross/y": "€ 310,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Karlo Lulic",
+    "team": "Frosinone",
+    "gross/w": "€ 5,962",
+    "gross/y": "€ 310,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Franz Stolz",
+    "team": "Genoa",
+    "gross/w": "€ 5,769",
+    "gross/y": "€ 300,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Pasquale Mazzocchi",
+    "team": "Salernitana",
+    "gross/w": "€ 5,769",
+    "gross/y": "€ 300,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Giacomo Faticanti",
+    "team": "Lecce",
+    "gross/w": "€ 5,769",
+    "gross/y": "€ 300,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Matija Popovic",
+    "team": "Monza",
+    "gross/w": "€ 5,769",
+    "gross/y": "€ 300,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "David Pejičić",
+    "team": "Udinese",
+    "gross/w": "€ 5,385",
+    "gross/y": "€ 280,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Simone Aresti",
+    "team": "Cagliari",
+    "gross/w": "€ 5,385",
+    "gross/y": "€ 280,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Iron Gomis",
+    "team": "Salernitana",
+    "gross/w": "€ 5,385",
+    "gross/y": "€ 280,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Pierluigi Frattali",
+    "team": "Frosinone",
+    "gross/w": "€ 5,385",
+    "gross/y": "€ 280,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Tommaso Vannucchi",
+    "team": "Fiorentina",
+    "gross/w": "€ 5,385",
+    "gross/y": "€ 280,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Eugenio Lamanna",
+    "team": "Monza",
+    "gross/w": "€ 5,385",
+    "gross/y": "€ 280,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Shon Weissman",
+    "team": "Salernitana",
+    "gross/w": "€ 5,385",
+    "gross/y": "€ 280,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Reda Belahyane",
+    "team": "Hellas Verona",
+    "gross/w": "€ 5,385",
+    "gross/y": "€ 280,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Etienne Camara",
+    "team": "Udinese",
+    "gross/w": "€ 5,385",
+    "gross/y": "€ 280,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Raffaele Di Gennaro",
+    "team": "Inter Milan",
+    "gross/w": "€ 5,385",
+    "gross/y": "€ 280,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Armando Anastasio",
+    "team": "Monza",
+    "gross/w": "€ 5,385",
+    "gross/y": "€ 280,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Mattia Chiesa",
+    "team": "Hellas Verona",
+    "gross/w": "€ 5,385",
+    "gross/y": "€ 280,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Gaetano Oristanio",
+    "team": "Cagliari",
+    "gross/w": "€ 5,385",
+    "gross/y": "€ 280,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Alessandro Di Pardo",
+    "team": "Cagliari",
+    "gross/w": "€ 5,385",
+    "gross/y": "€ 280,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Kacper Urbanski",
+    "team": "Bologna",
+    "gross/w": "€ 5,385",
+    "gross/y": "€ 280,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Walid Cheddira",
+    "team": "Frosinone",
+    "gross/w": "€ 5,385",
+    "gross/y": "€ 280,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Uros Kabic",
+    "team": "Torino",
+    "gross/w": "€ 5,385",
+    "gross/y": "€ 280,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Martin Erlic",
+    "team": "Sassuolo",
+    "gross/w": "€ 5,385",
+    "gross/y": "€ 280,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Jens Odgaard",
+    "team": "Bologna",
+    "gross/w": "€ 5,385",
+    "gross/y": "€ 280,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Ahmed Touba",
+    "team": "Lecce",
+    "gross/w": "€ 5,385",
+    "gross/y": "€ 280,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Emil Holm",
+    "team": "Atalanta",
+    "gross/w": "€ 5,000",
+    "gross/y": "€ 260,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Marvin Cuni",
+    "team": "Frosinone",
+    "gross/w": "€ 5,000",
+    "gross/y": "€ 260,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Saná Fernandes",
+    "team": "Lazio",
+    "gross/w": "€ 5,000",
+    "gross/y": "€ 260,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Enzo Barrenechea",
+    "team": "Frosinone",
+    "gross/w": "€ 5,000",
+    "gross/y": "€ 260,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Daniele Sommariva",
+    "team": "Genoa",
+    "gross/w": "€ 5,000",
+    "gross/y": "€ 260,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Franco Carboni",
+    "team": "Monza",
+    "gross/w": "€ 4,615",
+    "gross/y": "€ 240,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "João Ferreira",
+    "team": "Udinese",
+    "gross/w": "€ 4,423",
+    "gross/y": "€ 230,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Festy Ebosele",
+    "team": "Udinese",
+    "gross/w": "€ 4,423",
+    "gross/y": "€ 230,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Medon Berisha",
+    "team": "Lecce",
+    "gross/w": "€ 4,231",
+    "gross/y": "€ 220,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Patrick Dorgu",
+    "team": "Lecce",
+    "gross/w": "€ 4,231",
+    "gross/y": "€ 220,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Marcin Listkowski",
+    "team": "Lecce",
+    "gross/w": "€ 4,231",
+    "gross/y": "€ 220,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Giuseppe Caso",
+    "team": "Frosinone",
+    "gross/w": "€ 3,846",
+    "gross/y": "€ 200,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Stiven Shpendi",
+    "team": "Empoli",
+    "gross/w": "€ 3,654",
+    "gross/y": "€ 190,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Arijon Ibrahimovic",
+    "team": "Frosinone",
+    "gross/w": "€ 3,654",
+    "gross/y": "€ 190,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Luca Belardinelli",
+    "team": "Empoli",
+    "gross/w": "€ 3,654",
+    "gross/y": "€ 190,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Emmanuel Ekong",
+    "team": "Empoli",
+    "gross/w": "€ 3,654",
+    "gross/y": "€ 190,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Gianluca Gaetano",
+    "team": "Napoli",
+    "gross/w": "€ 3,654",
+    "gross/y": "€ 190,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Giorgi Kvernadze",
+    "team": "Frosinone",
+    "gross/w": "€ 3,654",
+    "gross/y": "€ 190,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Andres Sfait",
+    "team": "Salernitana",
+    "gross/w": "€ 3,654",
+    "gross/y": "€ 190,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "İsak Vural",
+    "team": "Frosinone",
+    "gross/w": "€ 3,654",
+    "gross/y": "€ 190,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Chukwubuikem Ikwuemesi",
+    "team": "Salernitana",
+    "gross/w": "€ 3,654",
+    "gross/y": "€ 190,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Grigoris Kastanos",
+    "team": "Salernitana",
+    "gross/w": "€ 3,654",
+    "gross/y": "€ 190,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Gianluca Gaetano",
+    "team": "Cagliari",
+    "gross/w": "€ 3,654",
+    "gross/y": "€ 190,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Alessandro Vogliacco",
+    "team": "Genoa",
+    "gross/w": "€ 3,654",
+    "gross/y": "€ 190,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Marco Carnesecchi",
+    "team": "Atalanta",
+    "gross/w": "€ 3,654",
+    "gross/y": "€ 190,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Antonio Tikvic",
+    "team": "Udinese",
+    "gross/w": "€ 3,654",
+    "gross/y": "€ 190,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Francesco Rossi",
+    "team": "Atalanta",
+    "gross/w": "€ 3,654",
+    "gross/y": "€ 190,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Vivaldo Semedo",
+    "team": "Udinese",
+    "gross/w": "€ 3,654",
+    "gross/y": "€ 190,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Marley Aké",
+    "team": "Udinese",
+    "gross/w": "€ 3,654",
+    "gross/y": "€ 190,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Matjaz Kamensek-Pahic",
+    "team": "Frosinone",
+    "gross/w": "€ 3,269",
+    "gross/y": "€ 170,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Marco Ballarini",
+    "team": "Udinese",
+    "gross/w": "€ 3,269",
+    "gross/y": "€ 170,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Riccardo Pagano",
+    "team": "Roma",
+    "gross/w": "€ 3,269",
+    "gross/y": "€ 170,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Federico Brancolini",
+    "team": "Lecce",
+    "gross/w": "€ 3,269",
+    "gross/y": "€ 170,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Luca Lipani",
+    "team": "Sassuolo",
+    "gross/w": "€ 3,269",
+    "gross/y": "€ 170,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Luca Gemello",
+    "team": "Torino",
+    "gross/w": "€ 3,269",
+    "gross/y": "€ 170,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Lorenzo Amatucci",
+    "team": "Fiorentina",
+    "gross/w": "€ 3,269",
+    "gross/y": "€ 170,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Giovanni Bonfanti",
+    "team": "Atalanta",
+    "gross/w": "€ 3,269",
+    "gross/y": "€ 170,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Filippo Missori",
+    "team": "Sassuolo",
+    "gross/w": "€ 3,269",
+    "gross/y": "€ 170,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Niccolò Pierozzi",
+    "team": "Fiorentina",
+    "gross/w": "€ 3,269",
+    "gross/y": "€ 170,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Rareș Burnete",
+    "team": "Lecce",
+    "gross/w": "€ 3,269",
+    "gross/y": "€ 170,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Alessandro Sorrentino",
+    "team": "Monza",
+    "gross/w": "€ 3,269",
+    "gross/y": "€ 170,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Jacopo Desogus",
+    "team": "Cagliari",
+    "gross/w": "€ 3,269",
+    "gross/y": "€ 170,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Niccolò Pierozzi",
+    "team": "Salernitana",
+    "gross/w": "€ 3,269",
+    "gross/y": "€ 170,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Joselito",
+    "team": "Hellas Verona",
+    "gross/w": "€ 3,269",
+    "gross/y": "€ 170,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Hubert Idasiak",
+    "team": "Napoli",
+    "gross/w": "€ 3,269",
+    "gross/y": "€ 170,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Samuele Vignato",
+    "team": "Monza",
+    "gross/w": "€ 3,269",
+    "gross/y": "€ 170,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Gabriele Guarino",
+    "team": "Empoli",
+    "gross/w": "€ 3,269",
+    "gross/y": "€ 170,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Nicola Bagnolini",
+    "team": "Bologna",
+    "gross/w": "€ 3,269",
+    "gross/y": "€ 170,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Pietro Passador",
+    "team": "Torino",
+    "gross/w": "€ 3,269",
+    "gross/y": "€ 170,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Federico Ravaglia",
+    "team": "Bologna",
+    "gross/w": "€ 3,269",
+    "gross/y": "€ 170,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Christian Dalle Mura",
+    "team": "Fiorentina",
+    "gross/w": "€ 3,269",
+    "gross/y": "€ 170,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Tommaso Corazza",
+    "team": "Bologna",
+    "gross/w": "€ 3,269",
+    "gross/y": "€ 170,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Filippo Terracciano",
+    "team": "Hellas Verona",
+    "gross/w": "€ 3,269",
+    "gross/y": "€ 170,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Mateus Lusuardi",
+    "team": "Frosinone",
+    "gross/w": "€ 2,885",
+    "gross/y": "€ 150,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Alexandru Borbei",
+    "team": "Lecce",
+    "gross/w": "€ 2,885",
+    "gross/y": "€ 150,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Axel Guessand",
+    "team": "Udinese",
+    "gross/w": "€ 2,885",
+    "gross/y": "€ 150,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Saba Goglichidze",
+    "team": "Empoli",
+    "gross/w": "€ 2,885",
+    "gross/y": "€ 150,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Jacopo Fazzini",
+    "team": "Empoli",
+    "gross/w": "€ 2,885",
+    "gross/y": "€ 150,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Ange Caumenan N'Guessan",
+    "team": "Torino",
+    "gross/w": "€ 2,692",
+    "gross/y": "€ 140,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Pasquale Allocca",
+    "team": "Salernitana",
+    "gross/w": "€ 2,500",
+    "gross/y": "€ 130,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Sekou Diawara",
+    "team": "Udinese",
+    "gross/w": "€ 2,500",
+    "gross/y": "€ 130,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Simone Calvani",
+    "team": "Genoa",
+    "gross/w": "€ 2,500",
+    "gross/y": "€ 130,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Christos Mandas",
+    "team": "Lazio",
+    "gross/w": "€ 2,500",
+    "gross/y": "€ 130,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Trivante Stewart",
+    "team": "Salernitana",
+    "gross/w": "€ 2,308",
+    "gross/y": "€ 120,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Bruno Amione",
+    "team": "Hellas Verona",
+    "gross/w": "€ 2,308",
+    "gross/y": "€ 120,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Jasper Samooja",
+    "team": "Lecce",
+    "gross/w": "€ 2,308",
+    "gross/y": "€ 120,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Charlys",
+    "team": "Hellas Verona",
+    "gross/w": "€ 2,308",
+    "gross/y": "€ 120,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Jeppe Corfitzen",
+    "team": "Lecce",
+    "gross/w": "€ 2,308",
+    "gross/y": "€ 120,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Emil Konradsen Ceide",
+    "team": "Sassuolo",
+    "gross/w": "€ 2,308",
+    "gross/y": "€ 120,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Zinedin Smajlovic",
+    "team": "Lecce",
+    "gross/w": "€ 2,308",
+    "gross/y": "€ 120,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Diego González",
+    "team": "Lazio",
+    "gross/w": "€ 2,308",
+    "gross/y": "€ 120,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "James Abankwah",
+    "team": "Udinese",
+    "gross/w": "€ 2,308",
+    "gross/y": "€ 120,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Lovro Stubljar",
+    "team": "Empoli",
+    "gross/w": "€ 2,308",
+    "gross/y": "€ 120,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Daniel Macej",
+    "team": "Frosinone",
+    "gross/w": "€ 2,308",
+    "gross/y": "€ 120,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Léandre Kuavita",
+    "team": "Genoa",
+    "gross/w": "€ 2,308",
+    "gross/y": "€ 120,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Paul Pogba",
+    "team": "Juventus",
+    "gross/w": "€ 808",
+    "gross/y": "€ 42,000",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Kaio Jorge",
+    "team": "Juventus",
+    "gross/w": "€ 0",
+    "gross/y": "€ 0",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Eldor Shomurodov",
+    "team": "Roma",
+    "gross/w": "€ 0",
+    "gross/y": "€ 0",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Matías Soulé",
+    "team": "Juventus",
+    "gross/w": "€ 0",
+    "gross/y": "€ 0",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Djed Spence",
+    "team": "Genoa",
+    "gross/w": "€ 0",
+    "gross/y": "€ 0",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Matías Viña",
+    "team": "Roma",
+    "gross/w": "€ 0",
+    "gross/y": "€ 0",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Mohamed Fares",
+    "team": "Lazio",
+    "gross/w": "€ 0",
+    "gross/y": "€ 0",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Riccardo Ciervo",
+    "team": "Sassuolo",
+    "gross/w": "€ 0",
+    "gross/y": "€ 0",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Dimitrije Kamenović",
+    "team": "Lazio",
+    "gross/w": "€ 0",
+    "gross/y": "€ 0",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Facundo González",
+    "team": "Juventus",
+    "gross/w": "€ 0",
+    "gross/y": "€ 0",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Alexis Saelemaekers",
+    "team": "AC Milan",
+    "gross/w": "€ 0",
+    "gross/y": "€ 0",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Joaquín Correa",
+    "team": "Inter Milan",
+    "gross/w": "€ 0",
+    "gross/y": "€ 0",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  },
+  {
+    "player_name": "Carlos Alcaraz",
+    "team": "Juventus",
+    "gross/w": "€ 0",
+    "gross/y": "€ 0",
+    "expiration": "None",
+    "gross_remaining": "None",
+    "release_clause": "None"
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "team": "Chelsea",
+    "incomes": "£ 240,300,000",
+    "expense": "£ 415,890,000",
+    "balance": "£ -175,590,000"
+  },
+  {
+    "team": "Brighton",
+    "incomes": "£ 171,180,000",
+    "expense": "£ 99,315,000",
+    "balance": "£ 71,865,000"
+  },
+  {
+    "team": "West Ham",
+    "incomes": "£ 154,854,000",
+    "expense": "£ 123,804,000",
+    "balance": "£ 31,050,000"
+  },
+  {
+    "team": "Wolverhampton",
+    "incomes": "£ 152,280,000",
+    "expense": "£ 84,600,000",
+    "balance": "£ 67,680,000"
+  },
+  {
+    "team": "Tottenham",
+    "incomes": "£ 109,980,000",
+    "expense": "£ 246,240,000",
+    "balance": "£ -136,260,000"
+  },
+  {
+    "team": "Manchester City",
+    "incomes": "£ 106,920,000",
+    "expense": "£ 230,040,000",
+    "balance": "£ -123,120,000"
+  },
+  {
+    "team": "Everton",
+    "incomes": "£ 74,520,000",
+    "expense": "£ 36,450,000",
+    "balance": "£ 38,070,000"
+  },
+  {
+    "team": "Nottingham Forest",
+    "incomes": "£ 73,458,000",
+    "expense": "£ 117,945,000",
+    "balance": "£ -44,487,000"
+  },
+  {
+    "team": "Arsenal",
+    "incomes": "£ 61,110,000",
+    "expense": "£ 211,446,000",
+    "balance": "£ -150,336,000"
+  },
+  {
+    "team": "Liverpool",
+    "incomes": "£ 54,630,000",
+    "expense": "£ 154,800,000",
+    "balance": "£ -100,170,000"
+  },
+  {
+    "team": "Manchester United",
+    "incomes": "£ 49,806,000",
+    "expense": "£ 186,030,000",
+    "balance": "£ -136,224,000"
+  },
+  {
+    "team": "Fulham",
+    "incomes": "£ 47,880,000",
+    "expense": "£ 61,623,000",
+    "balance": "£ -13,743,000"
+  },
+  {
+    "team": "Newcastle",
+    "incomes": "£ 40,140,000",
+    "expense": "£ 137,880,000",
+    "balance": "£ -97,740,000"
+  },
+  {
+    "team": "Aston Villa",
+    "incomes": "£ 29,295,000",
+    "expense": "£ 100,260,000",
+    "balance": "£ -70,965,000"
+  },
+  {
+    "team": "Sheffield United",
+    "incomes": "£ 27,810,000",
+    "expense": "£ 60,255,000",
+    "balance": "£ -32,445,000"
+  },
+  {
+    "team": "Brentford",
+    "incomes": "£ 9,081,000",
+    "expense": "£ 65,115,000",
+    "balance": "£ -56,034,000"
+  },
+  {
+    "team": "Burnley",
+    "incomes": "£ 3,420,000",
+    "expense": "£ 99,945,000",
+    "balance": "£ -96,525,000"
+  },
+  {
+    "team": "Bournemouth",
+    "incomes": "£ 1,350,000",
+    "expense": "£ 114,921,000",
+    "balance": "£ -113,571,000"
+  },
+  {
+    "team": "Crystal Palace",
+    "incomes": "£ 0",
+    "expense": "£ 61,020,000",
+    "balance": "£ -61,020,000"
+  },
+  {
+    "team": "Luton Town",
+    "incomes": "£ 0",
+    "expense": "£ 23,328,000",
+    "balance": "£ -23,328,000"
+  }
+]
