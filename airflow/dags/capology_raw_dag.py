@@ -46,6 +46,9 @@ def capology_to_raw_dag():
         print(result.stdout)
         print("===== STDERR =====")
         print(result.stderr)
+        if result.returncode != 0:
+            raise Exception("Loading job failed")
+        logging.info("Crawling completed!")
 
     @task
     def clear_from_shared():
@@ -55,7 +58,27 @@ def capology_to_raw_dag():
             for attribute in attribute_folder:
                 os.system(f"rm -f /opt/shared/{league}/24_25/{attribute}")
         print("Deleted shared data")
+    
+    @task
+    def transform_load():
+        command = [
+    "docker", "exec",
+    "-e", "PYTHONPATH=/opt/spark_jobs",
+    "football_pipeline_2025-spark-master-1",
+    "spark-submit", "--master", "spark://spark-master:7077",
+    "/opt/spark_jobs/transforming/capology_transforming.py"
+]
+        result = subprocess.run(command, capture_output=True, text=True)
 
-    write_finance_to_shared() >> spark_submit_to_raw() >> clear_from_shared()
+        print("===== STDOUT =====")
+        print(result.stdout)
+        print("===== STDERR =====")
+        print(result.stderr)
+
+        if result.returncode != 0:
+            raise Exception("Spark job failed")
+        logging.info("completed capology load to Trusted!")
+
+    write_finance_to_shared() >> spark_submit_to_raw() >> clear_from_shared() >> transform_load()
 
 capology_to_raw_dag()

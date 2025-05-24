@@ -2130,23 +2130,13 @@
     "release_clause": ""
   },
   {
-    "player_name": "Danny Welbeck",
-    "team": "Brighton",
+    "player_name": "Nick Pope",
+    "team": "Newcastle",
     "gross/w": "£ 60,000",
     "gross/y": "£ 3,120,000",
-    "signed": "May 14, 2024",
+    "signed": "Jul 1, 2022",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "£ 6,240,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Lewis Cook",
-    "team": "Bournemouth",
-    "gross/w": "£ 60,000",
-    "gross/y": "£ 3,120,000",
-    "signed": "Jul 4, 2024",
-    "expiration": "Jun 30, 2028",
-    "gross_remaining": "£ 12,480,000",
     "release_clause": ""
   },
   {
@@ -2160,6 +2150,36 @@
     "release_clause": ""
   },
   {
+    "player_name": "Will Hughes",
+    "team": "Crystal Palace",
+    "gross/w": "£ 60,000",
+    "gross/y": "£ 3,120,000",
+    "signed": "Apr 15, 2025",
+    "expiration": "Jun 30, 2027",
+    "gross_remaining": "£ 9,360,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "James Milner",
+    "team": "Brighton",
+    "gross/w": "£ 60,000",
+    "gross/y": "£ 3,120,000",
+    "signed": "May 14, 2024",
+    "expiration": "Jun 30, 2025",
+    "gross_remaining": "£ 3,120,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Mats Wieffer",
+    "team": "Brighton",
+    "gross/w": "£ 60,000",
+    "gross/y": "£ 3,120,000",
+    "signed": "Jul 5, 2024",
+    "expiration": "Jun 30, 2029",
+    "gross_remaining": "£ 15,600,000",
+    "release_clause": ""
+  },
+  {
     "player_name": "Nico González",
     "team": "Manchester City",
     "gross/w": "£ 60,000",
@@ -2170,11 +2190,11 @@
     "release_clause": ""
   },
   {
-    "player_name": "Fabian Schär",
-    "team": "Newcastle",
+    "player_name": "Ross Barkley",
+    "team": "Aston Villa",
     "gross/w": "£ 60,000",
     "gross/y": "£ 3,120,000",
-    "signed": "Apr 3, 2025",
+    "signed": "Jul 1, 2024",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "£ 6,240,000",
     "release_clause": ""
@@ -2200,51 +2220,31 @@
     "release_clause": ""
   },
   {
-    "player_name": "Giorgi Mamardashvili",
-    "team": "Liverpool",
+    "player_name": "Danny Welbeck",
+    "team": "Brighton",
     "gross/w": "£ 60,000",
     "gross/y": "£ 3,120,000",
-    "signed": "Aug 27, 2024",
-    "expiration": "Jun 30, 2025",
-    "gross_remaining": "£ 3,120,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Ross Barkley",
-    "team": "Aston Villa",
-    "gross/w": "£ 60,000",
-    "gross/y": "£ 3,120,000",
-    "signed": "Jul 1, 2024",
+    "signed": "May 14, 2024",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "£ 6,240,000",
     "release_clause": ""
   },
   {
-    "player_name": "Mats Wieffer",
-    "team": "Brighton",
+    "player_name": "Emile Smith Rowe",
+    "team": "Fulham",
     "gross/w": "£ 60,000",
     "gross/y": "£ 3,120,000",
-    "signed": "Jul 5, 2024",
+    "signed": "Aug 2, 2024",
     "expiration": "Jun 30, 2029",
     "gross_remaining": "£ 15,600,000",
     "release_clause": ""
   },
   {
-    "player_name": "Will Hughes",
-    "team": "Crystal Palace",
-    "gross/w": "£ 60,000",
-    "gross/y": "£ 3,120,000",
-    "signed": "Apr 15, 2025",
-    "expiration": "Jun 30, 2027",
-    "gross_remaining": "£ 9,360,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Nick Pope",
+    "player_name": "Fabian Schär",
     "team": "Newcastle",
     "gross/w": "£ 60,000",
     "gross/y": "£ 3,120,000",
-    "signed": "Jul 1, 2022",
+    "signed": "Apr 3, 2025",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "£ 6,240,000",
     "release_clause": ""
@@ -2260,13 +2260,13 @@
     "release_clause": ""
   },
   {
-    "player_name": "Emile Smith Rowe",
-    "team": "Fulham",
+    "player_name": "Giorgi Mamardashvili",
+    "team": "Liverpool",
     "gross/w": "£ 60,000",
     "gross/y": "£ 3,120,000",
-    "signed": "Aug 2, 2024",
-    "expiration": "Jun 30, 2029",
-    "gross_remaining": "£ 15,600,000",
+    "signed": "Aug 27, 2024",
+    "expiration": "Jun 30, 2025",
+    "gross_remaining": "£ 3,120,000",
     "release_clause": ""
   },
   {
@@ -2280,13 +2280,13 @@
     "release_clause": ""
   },
   {
-    "player_name": "James Milner",
-    "team": "Brighton",
+    "player_name": "Lewis Cook",
+    "team": "Bournemouth",
     "gross/w": "£ 60,000",
     "gross/y": "£ 3,120,000",
-    "signed": "May 14, 2024",
-    "expiration": "Jun 30, 2025",
-    "gross_remaining": "£ 3,120,000",
+    "signed": "Jul 4, 2024",
+    "expiration": "Jun 30, 2028",
+    "gross_remaining": "£ 12,480,000",
     "release_clause": ""
   },
   {
@@ -2310,21 +2310,11 @@
     "release_clause": ""
   },
   {
-    "player_name": "Boubacar Traoré",
-    "team": "Wolverhampton",
+    "player_name": "Yves Bissouma",
+    "team": "Tottenham",
     "gross/w": "£ 55,000",
     "gross/y": "£ 2,860,000",
-    "signed": "Jul 1, 2023",
-    "expiration": "Jun 30, 2027",
-    "gross_remaining": "£ 8,580,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Dan Burn",
-    "team": "Newcastle",
-    "gross/w": "£ 55,000",
-    "gross/y": "£ 2,860,000",
-    "signed": "Oct 13, 2023",
+    "signed": "Jul 1, 2022",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "£ 5,720,000",
     "release_clause": ""
@@ -2340,33 +2330,13 @@
     "release_clause": ""
   },
   {
-    "player_name": "Yves Bissouma",
-    "team": "Tottenham",
+    "player_name": "Dan Burn",
+    "team": "Newcastle",
     "gross/w": "£ 55,000",
     "gross/y": "£ 2,860,000",
-    "signed": "Jul 1, 2022",
+    "signed": "Oct 13, 2023",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "£ 5,720,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Adam Webster",
-    "team": "Brighton",
-    "gross/w": "£ 55,000",
-    "gross/y": "£ 2,860,000",
-    "signed": "Aug 2, 2021",
-    "expiration": "Jun 30, 2026",
-    "gross_remaining": "£ 5,720,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Luis Díaz",
-    "team": "Liverpool",
-    "gross/w": "£ 55,000",
-    "gross/y": "£ 2,860,000",
-    "signed": "Jan 30, 2022",
-    "expiration": "Jun 30, 2027",
-    "gross_remaining": "£ 8,580,000",
     "release_clause": ""
   },
   {
@@ -2380,6 +2350,16 @@
     "release_clause": ""
   },
   {
+    "player_name": "Adam Webster",
+    "team": "Brighton",
+    "gross/w": "£ 55,000",
+    "gross/y": "£ 2,860,000",
+    "signed": "Aug 2, 2021",
+    "expiration": "Jun 30, 2026",
+    "gross_remaining": "£ 5,720,000",
+    "release_clause": ""
+  },
+  {
     "player_name": "Séamus Coleman",
     "team": "Everton",
     "gross/w": "£ 55,000",
@@ -2390,13 +2370,23 @@
     "release_clause": ""
   },
   {
-    "player_name": "Sander Berge",
-    "team": "Fulham",
+    "player_name": "Boubacar Traoré",
+    "team": "Wolverhampton",
     "gross/w": "£ 55,000",
     "gross/y": "£ 2,860,000",
-    "signed": "Aug 22, 2024",
-    "expiration": "Jun 30, 2029",
-    "gross_remaining": "£ 14,300,000",
+    "signed": "Jul 1, 2023",
+    "expiration": "Jun 30, 2027",
+    "gross_remaining": "£ 8,580,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Luis Díaz",
+    "team": "Liverpool",
+    "gross/w": "£ 55,000",
+    "gross/y": "£ 2,860,000",
+    "signed": "Jan 30, 2022",
+    "expiration": "Jun 30, 2027",
+    "gross_remaining": "£ 8,580,000",
     "release_clause": ""
   },
   {
@@ -2410,6 +2400,16 @@
     "release_clause": ""
   },
   {
+    "player_name": "Sander Berge",
+    "team": "Fulham",
+    "gross/w": "£ 55,000",
+    "gross/y": "£ 2,860,000",
+    "signed": "Aug 22, 2024",
+    "expiration": "Jun 30, 2029",
+    "gross_remaining": "£ 14,300,000",
+    "release_clause": ""
+  },
+  {
     "player_name": "Sergio Reguilón",
     "team": "Tottenham",
     "gross/w": "£ 53,000",
@@ -2420,13 +2420,123 @@
     "release_clause": ""
   },
   {
-    "player_name": "Harrison Reed",
-    "team": "Fulham",
+    "player_name": "João Pedro",
+    "team": "Brighton",
     "gross/w": "£ 50,000",
     "gross/y": "£ 2,600,000",
-    "signed": "Sep 14, 2023",
-    "expiration": "Jun 30, 2027",
-    "gross_remaining": "£ 7,800,000",
+    "signed": "Jul 1, 2023",
+    "expiration": "Jun 30, 2028",
+    "gross_remaining": "£ 10,400,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Solly March",
+    "team": "Brighton",
+    "gross/w": "£ 50,000",
+    "gross/y": "£ 2,600,000",
+    "signed": "Mar 17, 2023",
+    "expiration": "Jun 30, 2026",
+    "gross_remaining": "£ 5,200,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Konstantinos Mavropanos",
+    "team": "West Ham",
+    "gross/w": "£ 50,000",
+    "gross/y": "£ 2,600,000",
+    "signed": "Aug 22, 2023",
+    "expiration": "Jun 30, 2028",
+    "gross_remaining": "£ 10,400,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Micky van de Ven",
+    "team": "Tottenham",
+    "gross/w": "£ 50,000",
+    "gross/y": "£ 2,600,000",
+    "signed": "Aug 8, 2023",
+    "expiration": "Jun 30, 2029",
+    "gross_remaining": "£ 13,000,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Orel Mangala",
+    "team": "Everton",
+    "gross/w": "£ 50,000",
+    "gross/y": "£ 2,600,000",
+    "signed": "Aug 30, 2024",
+    "expiration": "Jun 30, 2025",
+    "gross_remaining": "£ 2,600,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Oscar Bobb",
+    "team": "Manchester City",
+    "gross/w": "£ 50,000",
+    "gross/y": "£ 2,600,000",
+    "signed": "Feb 26, 2024",
+    "expiration": "Jun 30, 2029",
+    "gross_remaining": "£ 13,000,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Jesper Lindstrøm",
+    "team": "Everton",
+    "gross/w": "£ 50,000",
+    "gross/y": "£ 2,600,000",
+    "signed": "Jul 26, 2024",
+    "expiration": "Jun 30, 2025",
+    "gross_remaining": "£ 2,600,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Aaron Cresswell",
+    "team": "West Ham",
+    "gross/w": "£ 50,000",
+    "gross/y": "£ 2,600,000",
+    "signed": "Jun 5, 2024",
+    "expiration": "Jun 30, 2025",
+    "gross_remaining": "£ 2,600,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "David Brooks",
+    "team": "Bournemouth",
+    "gross/w": "£ 50,000",
+    "gross/y": "£ 2,600,000",
+    "signed": "Aug 22, 2022",
+    "expiration": "Jun 30, 2026",
+    "gross_remaining": "£ 5,200,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Antoine Semenyo",
+    "team": "Bournemouth",
+    "gross/w": "£ 50,000",
+    "gross/y": "£ 2,600,000",
+    "signed": "Jul 8, 2024",
+    "expiration": "Jun 30, 2029",
+    "gross_remaining": "£ 13,000,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Maxence Lacroix",
+    "team": "Crystal Palace",
+    "gross/w": "£ 50,000",
+    "gross/y": "£ 2,600,000",
+    "signed": "Aug 30, 2024",
+    "expiration": "Jun 30, 2029",
+    "gross_remaining": "£ 13,000,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Jérémy Doku",
+    "team": "Manchester City",
+    "gross/w": "£ 50,000",
+    "gross/y": "£ 2,600,000",
+    "signed": "Aug 24, 2023",
+    "expiration": "Jun 30, 2028",
+    "gross_remaining": "£ 10,400,000",
     "release_clause": ""
   },
   {
@@ -2440,11 +2550,11 @@
     "release_clause": ""
   },
   {
-    "player_name": "Wataru Endo",
-    "team": "Liverpool",
+    "player_name": "Harrison Reed",
+    "team": "Fulham",
     "gross/w": "£ 50,000",
     "gross/y": "£ 2,600,000",
-    "signed": "Aug 18, 2023",
+    "signed": "Sep 14, 2023",
     "expiration": "Jun 30, 2027",
     "gross_remaining": "£ 7,800,000",
     "release_clause": ""
@@ -2460,6 +2570,26 @@
     "release_clause": ""
   },
   {
+    "player_name": "Noni Madueke",
+    "team": "Chelsea",
+    "gross/w": "£ 50,000",
+    "gross/y": "£ 2,600,000",
+    "signed": "Jan 20, 2023",
+    "expiration": "Jun 30, 2030",
+    "gross_remaining": "£ 15,600,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Wataru Endo",
+    "team": "Liverpool",
+    "gross/w": "£ 50,000",
+    "gross/y": "£ 2,600,000",
+    "signed": "Aug 18, 2023",
+    "expiration": "Jun 30, 2027",
+    "gross_remaining": "£ 7,800,000",
+    "release_clause": ""
+  },
+  {
     "player_name": "Jean-Philippe Mateta",
     "team": "Crystal Palace",
     "gross/w": "£ 50,000",
@@ -2470,16 +2600,6 @@
     "release_clause": ""
   },
   {
-    "player_name": "Matt O'Riley",
-    "team": "Brighton",
-    "gross/w": "£ 50,000",
-    "gross/y": "£ 2,600,000",
-    "signed": "Aug 26, 2024",
-    "expiration": "Jun 30, 2029",
-    "gross_remaining": "£ 13,000,000",
-    "release_clause": ""
-  },
-  {
     "player_name": "Kenny Tete",
     "team": "Fulham",
     "gross/w": "£ 50,000",
@@ -2487,6 +2607,16 @@
     "signed": "May 17, 2024",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "£ 2,600,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Matt O'Riley",
+    "team": "Brighton",
+    "gross/w": "£ 50,000",
+    "gross/y": "£ 2,600,000",
+    "signed": "Aug 26, 2024",
+    "expiration": "Jun 30, 2029",
+    "gross_remaining": "£ 13,000,000",
     "release_clause": ""
   },
   {
@@ -2510,6 +2640,26 @@
     "release_clause": ""
   },
   {
+    "player_name": "Taiwo Awoniyi",
+    "team": "Nottingham Forest",
+    "gross/w": "£ 50,000",
+    "gross/y": "£ 2,600,000",
+    "signed": "Jul 1, 2022",
+    "expiration": "Jun 30, 2027",
+    "gross_remaining": "£ 7,800,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Neco Williams",
+    "team": "Nottingham Forest",
+    "gross/w": "£ 50,000",
+    "gross/y": "£ 2,600,000",
+    "signed": "Jul 10, 2022",
+    "expiration": "Jun 30, 2026",
+    "gross_remaining": "£ 5,200,000",
+    "release_clause": ""
+  },
+  {
     "player_name": "Matt Doherty",
     "team": "Wolverhampton",
     "gross/w": "£ 50,000",
@@ -2530,16 +2680,6 @@
     "release_clause": ""
   },
   {
-    "player_name": "Pervis Estupiñán",
-    "team": "Brighton",
-    "gross/w": "£ 50,000",
-    "gross/y": "£ 2,600,000",
-    "signed": "Aug 16, 2022",
-    "expiration": "Jun 30, 2027",
-    "gross_remaining": "£ 7,800,000",
-    "release_clause": ""
-  },
-  {
     "player_name": "Marc Guéhi",
     "team": "Crystal Palace",
     "gross/w": "£ 50,000",
@@ -2547,6 +2687,16 @@
     "signed": "Jul 18, 2021",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "£ 5,200,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Pervis Estupiñán",
+    "team": "Brighton",
+    "gross/w": "£ 50,000",
+    "gross/y": "£ 2,600,000",
+    "signed": "Aug 16, 2022",
+    "expiration": "Jun 30, 2027",
+    "gross_remaining": "£ 7,800,000",
     "release_clause": ""
   },
   {
@@ -2560,6 +2710,26 @@
     "release_clause": "£ 40,000,000"
   },
   {
+    "player_name": "Marshall Munetsi",
+    "team": "Wolverhampton",
+    "gross/w": "£ 50,000",
+    "gross/y": "£ 2,600,000",
+    "signed": "Feb 3, 2025",
+    "expiration": "Jun 30, 2028",
+    "gross_remaining": "£ 10,400,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Neto",
+    "team": "Arsenal",
+    "gross/w": "£ 50,000",
+    "gross/y": "£ 2,600,000",
+    "signed": "Aug 30, 2024",
+    "expiration": "Jun 30, 2025",
+    "gross_remaining": "£ 2,600,000",
+    "release_clause": ""
+  },
+  {
     "player_name": "Igor Thiago",
     "team": "Brentford",
     "gross/w": "£ 50,000",
@@ -2567,6 +2737,16 @@
     "signed": "Jul 1, 2024",
     "expiration": "Jun 30, 2029",
     "gross_remaining": "£ 13,000,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Tino Livramento",
+    "team": "Newcastle",
+    "gross/w": "£ 50,000",
+    "gross/y": "£ 2,600,000",
+    "signed": "Aug 8, 2023",
+    "expiration": "Jun 30, 2028",
+    "gross_remaining": "£ 10,400,000",
     "release_clause": ""
   },
   {
@@ -2630,116 +2810,6 @@
     "release_clause": ""
   },
   {
-    "player_name": "Tino Livramento",
-    "team": "Newcastle",
-    "gross/w": "£ 50,000",
-    "gross/y": "£ 2,600,000",
-    "signed": "Aug 8, 2023",
-    "expiration": "Jun 30, 2028",
-    "gross_remaining": "£ 10,400,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Neto",
-    "team": "Arsenal",
-    "gross/w": "£ 50,000",
-    "gross/y": "£ 2,600,000",
-    "signed": "Aug 30, 2024",
-    "expiration": "Jun 30, 2025",
-    "gross_remaining": "£ 2,600,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Marshall Munetsi",
-    "team": "Wolverhampton",
-    "gross/w": "£ 50,000",
-    "gross/y": "£ 2,600,000",
-    "signed": "Feb 3, 2025",
-    "expiration": "Jun 30, 2028",
-    "gross_remaining": "£ 10,400,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Neco Williams",
-    "team": "Nottingham Forest",
-    "gross/w": "£ 50,000",
-    "gross/y": "£ 2,600,000",
-    "signed": "Jul 10, 2022",
-    "expiration": "Jun 30, 2026",
-    "gross_remaining": "£ 5,200,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Taiwo Awoniyi",
-    "team": "Nottingham Forest",
-    "gross/w": "£ 50,000",
-    "gross/y": "£ 2,600,000",
-    "signed": "Jul 1, 2022",
-    "expiration": "Jun 30, 2027",
-    "gross_remaining": "£ 7,800,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Noni Madueke",
-    "team": "Chelsea",
-    "gross/w": "£ 50,000",
-    "gross/y": "£ 2,600,000",
-    "signed": "Jan 20, 2023",
-    "expiration": "Jun 30, 2030",
-    "gross_remaining": "£ 15,600,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Antoine Semenyo",
-    "team": "Bournemouth",
-    "gross/w": "£ 50,000",
-    "gross/y": "£ 2,600,000",
-    "signed": "Jul 8, 2024",
-    "expiration": "Jun 30, 2029",
-    "gross_remaining": "£ 13,000,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Nathaniel Clyne",
-    "team": "Crystal Palace",
-    "gross/w": "£ 50,000",
-    "gross/y": "£ 2,600,000",
-    "signed": "Jun 5, 2024",
-    "expiration": "Jun 30, 2025",
-    "gross_remaining": "£ 2,600,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Odysseas Vlachodimos",
-    "team": "Newcastle",
-    "gross/w": "£ 50,000",
-    "gross/y": "£ 2,600,000",
-    "signed": "Jul 1, 2024",
-    "expiration": "Jun 30, 2025",
-    "gross_remaining": "£ 2,600,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Beto",
-    "team": "Everton",
-    "gross/w": "£ 50,000",
-    "gross/y": "£ 2,600,000",
-    "signed": "Aug 29, 2023",
-    "expiration": "Jun 30, 2027",
-    "gross_remaining": "£ 7,800,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Sean Longstaff",
-    "team": "Newcastle",
-    "gross/w": "£ 50,000",
-    "gross/y": "£ 2,600,000",
-    "signed": "May 25, 2022",
-    "expiration": "Jun 30, 2026",
-    "gross_remaining": "£ 5,200,000",
-    "release_clause": ""
-  },
-  {
     "player_name": "Filip Jørgensen",
     "team": "Chelsea",
     "gross/w": "£ 50,000",
@@ -2790,6 +2860,16 @@
     "release_clause": ""
   },
   {
+    "player_name": "Beto",
+    "team": "Everton",
+    "gross/w": "£ 50,000",
+    "gross/y": "£ 2,600,000",
+    "signed": "Aug 29, 2023",
+    "expiration": "Jun 30, 2027",
+    "gross_remaining": "£ 7,800,000",
+    "release_clause": ""
+  },
+  {
     "player_name": "Andreas Pereira",
     "team": "Fulham",
     "gross/w": "£ 50,000",
@@ -2800,123 +2880,13 @@
     "release_clause": ""
   },
   {
-    "player_name": "Djed Spence",
-    "team": "Tottenham",
+    "player_name": "Odysseas Vlachodimos",
+    "team": "Newcastle",
     "gross/w": "£ 50,000",
     "gross/y": "£ 2,600,000",
-    "signed": "Oct 17, 2024",
-    "expiration": "Jun 30, 2028",
-    "gross_remaining": "£ 10,400,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "João Pedro",
-    "team": "Brighton",
-    "gross/w": "£ 50,000",
-    "gross/y": "£ 2,600,000",
-    "signed": "Jul 1, 2023",
-    "expiration": "Jun 30, 2028",
-    "gross_remaining": "£ 10,400,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Solly March",
-    "team": "Brighton",
-    "gross/w": "£ 50,000",
-    "gross/y": "£ 2,600,000",
-    "signed": "Mar 17, 2023",
-    "expiration": "Jun 30, 2026",
-    "gross_remaining": "£ 5,200,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Micky van de Ven",
-    "team": "Tottenham",
-    "gross/w": "£ 50,000",
-    "gross/y": "£ 2,600,000",
-    "signed": "Aug 8, 2023",
-    "expiration": "Jun 30, 2029",
-    "gross_remaining": "£ 13,000,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Orel Mangala",
-    "team": "Everton",
-    "gross/w": "£ 50,000",
-    "gross/y": "£ 2,600,000",
-    "signed": "Aug 30, 2024",
+    "signed": "Jul 1, 2024",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "£ 2,600,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Oscar Bobb",
-    "team": "Manchester City",
-    "gross/w": "£ 50,000",
-    "gross/y": "£ 2,600,000",
-    "signed": "Feb 26, 2024",
-    "expiration": "Jun 30, 2029",
-    "gross_remaining": "£ 13,000,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Konstantinos Mavropanos",
-    "team": "West Ham",
-    "gross/w": "£ 50,000",
-    "gross/y": "£ 2,600,000",
-    "signed": "Aug 22, 2023",
-    "expiration": "Jun 30, 2028",
-    "gross_remaining": "£ 10,400,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Jesper Lindstrøm",
-    "team": "Everton",
-    "gross/w": "£ 50,000",
-    "gross/y": "£ 2,600,000",
-    "signed": "Jul 26, 2024",
-    "expiration": "Jun 30, 2025",
-    "gross_remaining": "£ 2,600,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Aaron Cresswell",
-    "team": "West Ham",
-    "gross/w": "£ 50,000",
-    "gross/y": "£ 2,600,000",
-    "signed": "Jun 5, 2024",
-    "expiration": "Jun 30, 2025",
-    "gross_remaining": "£ 2,600,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "David Brooks",
-    "team": "Bournemouth",
-    "gross/w": "£ 50,000",
-    "gross/y": "£ 2,600,000",
-    "signed": "Aug 22, 2022",
-    "expiration": "Jun 30, 2026",
-    "gross_remaining": "£ 5,200,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Maxence Lacroix",
-    "team": "Crystal Palace",
-    "gross/w": "£ 50,000",
-    "gross/y": "£ 2,600,000",
-    "signed": "Aug 30, 2024",
-    "expiration": "Jun 30, 2029",
-    "gross_remaining": "£ 13,000,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Jérémy Doku",
-    "team": "Manchester City",
-    "gross/w": "£ 50,000",
-    "gross/y": "£ 2,600,000",
-    "signed": "Aug 24, 2023",
-    "expiration": "Jun 30, 2028",
-    "gross_remaining": "£ 10,400,000",
     "release_clause": ""
   },
   {
@@ -2925,6 +2895,26 @@
     "gross/w": "£ 50,000",
     "gross/y": "£ 2,600,000",
     "signed": "Aug 8, 2022",
+    "expiration": "Jun 30, 2026",
+    "gross_remaining": "£ 5,200,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Nathaniel Clyne",
+    "team": "Crystal Palace",
+    "gross/w": "£ 50,000",
+    "gross/y": "£ 2,600,000",
+    "signed": "Jun 5, 2024",
+    "expiration": "Jun 30, 2025",
+    "gross_remaining": "£ 2,600,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Sean Longstaff",
+    "team": "Newcastle",
+    "gross/w": "£ 50,000",
+    "gross/y": "£ 2,600,000",
+    "signed": "May 25, 2022",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "£ 5,200,000",
     "release_clause": ""
@@ -3100,13 +3090,13 @@
     "release_clause": ""
   },
   {
-    "player_name": "Alex McCarthy",
-    "team": "Southampton",
+    "player_name": "Alex Scott",
+    "team": "Bournemouth",
     "gross/w": "£ 40,000",
     "gross/y": "£ 2,080,000",
-    "signed": "Jun 28, 2024",
-    "expiration": "Jun 30, 2026",
-    "gross_remaining": "£ 4,160,000",
+    "signed": "Aug 10, 2023",
+    "expiration": "Jun 30, 2028",
+    "gross_remaining": "£ 8,320,000",
     "release_clause": ""
   },
   {
@@ -3125,16 +3115,6 @@
     "gross/w": "£ 40,000",
     "gross/y": "£ 2,080,000",
     "signed": "Aug 16, 2024",
-    "expiration": "Jun 30, 2028",
-    "gross_remaining": "£ 8,320,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Alex Scott",
-    "team": "Bournemouth",
-    "gross/w": "£ 40,000",
-    "gross/y": "£ 2,080,000",
-    "signed": "Aug 10, 2023",
     "expiration": "Jun 30, 2028",
     "gross_remaining": "£ 8,320,000",
     "release_clause": ""
@@ -3160,13 +3140,13 @@
     "release_clause": ""
   },
   {
-    "player_name": "Patrick Dorgu",
-    "team": "Manchester United",
+    "player_name": "Ashley Young",
+    "team": "Everton",
     "gross/w": "£ 40,000",
     "gross/y": "£ 2,080,000",
-    "signed": "Feb 2, 2025",
-    "expiration": "Jun 30, 2030",
-    "gross_remaining": "£ 12,480,000",
+    "signed": "Jun 25, 2024",
+    "expiration": "Jun 30, 2025",
+    "gross_remaining": "£ 2,080,000",
     "release_clause": ""
   },
   {
@@ -3180,13 +3160,23 @@
     "release_clause": ""
   },
   {
-    "player_name": "Ashley Young",
-    "team": "Everton",
+    "player_name": "Willy Boly",
+    "team": "Nottingham Forest",
     "gross/w": "£ 40,000",
     "gross/y": "£ 2,080,000",
-    "signed": "Jun 25, 2024",
+    "signed": "May 21, 2024",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "£ 2,080,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Harvey Elliott",
+    "team": "Liverpool",
+    "gross/w": "£ 40,000",
+    "gross/y": "£ 2,080,000",
+    "signed": "Aug 11, 2022",
+    "expiration": "Jun 30, 2027",
+    "gross_remaining": "£ 6,240,000",
     "release_clause": ""
   },
   {
@@ -3200,13 +3190,13 @@
     "release_clause": ""
   },
   {
-    "player_name": "Harvey Elliott",
-    "team": "Liverpool",
+    "player_name": "Djed Spence",
+    "team": "Tottenham",
     "gross/w": "£ 40,000",
     "gross/y": "£ 2,080,000",
-    "signed": "Aug 11, 2022",
-    "expiration": "Jun 30, 2027",
-    "gross_remaining": "£ 6,240,000",
+    "signed": "Oct 17, 2024",
+    "expiration": "Jun 30, 2028",
+    "gross_remaining": "£ 8,320,000",
     "release_clause": ""
   },
   {
@@ -3240,13 +3230,13 @@
     "release_clause": ""
   },
   {
-    "player_name": "Jamaal Lascelles",
-    "team": "Newcastle",
+    "player_name": "Alex McCarthy",
+    "team": "Southampton",
     "gross/w": "£ 40,000",
     "gross/y": "£ 2,080,000",
-    "signed": "Mar 8, 2023",
-    "expiration": "Jun 30, 2025",
-    "gross_remaining": "£ 2,080,000",
+    "signed": "Jun 28, 2024",
+    "expiration": "Jun 30, 2026",
+    "gross_remaining": "£ 4,160,000",
     "release_clause": ""
   },
   {
@@ -3280,6 +3270,16 @@
     "release_clause": ""
   },
   {
+    "player_name": "Jamaal Lascelles",
+    "team": "Newcastle",
+    "gross/w": "£ 40,000",
+    "gross/y": "£ 2,080,000",
+    "signed": "Mar 8, 2023",
+    "expiration": "Jun 30, 2025",
+    "gross_remaining": "£ 2,080,000",
+    "release_clause": ""
+  },
+  {
     "player_name": "Adam Smith",
     "team": "Bournemouth",
     "gross/w": "£ 40,000",
@@ -3300,13 +3300,13 @@
     "release_clause": ""
   },
   {
-    "player_name": "Elliot Anderson",
-    "team": "Nottingham Forest",
+    "player_name": "Christian Nørgaard",
+    "team": "Brentford",
     "gross/w": "£ 40,000",
     "gross/y": "£ 2,080,000",
-    "signed": "Jul 1, 2024",
-    "expiration": "Jun 30, 2029",
-    "gross_remaining": "£ 10,400,000",
+    "signed": "Mar 29, 2025",
+    "expiration": "Jun 30, 2027",
+    "gross_remaining": "£ 6,240,000",
     "release_clause": ""
   },
   {
@@ -3320,13 +3320,13 @@
     "release_clause": ""
   },
   {
-    "player_name": "Christian Nørgaard",
-    "team": "Brentford",
+    "player_name": "Elliot Anderson",
+    "team": "Nottingham Forest",
     "gross/w": "£ 40,000",
     "gross/y": "£ 2,080,000",
-    "signed": "Mar 29, 2025",
-    "expiration": "Jun 30, 2027",
-    "gross_remaining": "£ 6,240,000",
+    "signed": "Jul 1, 2024",
+    "expiration": "Jun 30, 2029",
+    "gross_remaining": "£ 10,400,000",
     "release_clause": ""
   },
   {
@@ -3340,13 +3340,13 @@
     "release_clause": ""
   },
   {
-    "player_name": "Fábio Carvalho",
-    "team": "Brentford",
+    "player_name": "Harry Souttar",
+    "team": "Leicester",
     "gross/w": "£ 40,000",
     "gross/y": "£ 2,080,000",
-    "signed": "Aug 12, 2024",
-    "expiration": "Jun 30, 2029",
-    "gross_remaining": "£ 10,400,000",
+    "signed": "Jan 31, 2023",
+    "expiration": "Jun 30, 2028",
+    "gross_remaining": "£ 8,320,000",
     "release_clause": ""
   },
   {
@@ -3390,13 +3390,13 @@
     "release_clause": ""
   },
   {
-    "player_name": "Harry Souttar",
-    "team": "Leicester",
+    "player_name": "Matt Turner",
+    "team": "Crystal Palace",
     "gross/w": "£ 40,000",
     "gross/y": "£ 2,080,000",
-    "signed": "Jan 31, 2023",
-    "expiration": "Jun 30, 2028",
-    "gross_remaining": "£ 8,320,000",
+    "signed": "Aug 30, 2024",
+    "expiration": "Jun 30, 2025",
+    "gross_remaining": "£ 2,080,000",
     "release_clause": ""
   },
   {
@@ -3410,26 +3410,6 @@
     "release_clause": ""
   },
   {
-    "player_name": "Matt Turner",
-    "team": "Crystal Palace",
-    "gross/w": "£ 40,000",
-    "gross/y": "£ 2,080,000",
-    "signed": "Aug 30, 2024",
-    "expiration": "Jun 30, 2025",
-    "gross_remaining": "£ 2,080,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Willy Boly",
-    "team": "Nottingham Forest",
-    "gross/w": "£ 40,000",
-    "gross/y": "£ 2,080,000",
-    "signed": "May 21, 2024",
-    "expiration": "Jun 30, 2025",
-    "gross_remaining": "£ 2,080,000",
-    "release_clause": ""
-  },
-  {
     "player_name": "Axel Disasi",
     "team": "Aston Villa",
     "gross/w": "£ 40,000",
@@ -3437,6 +3417,26 @@
     "signed": "Feb 3, 2025",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "£ 2,080,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Fábio Carvalho",
+    "team": "Brentford",
+    "gross/w": "£ 40,000",
+    "gross/y": "£ 2,080,000",
+    "signed": "Aug 12, 2024",
+    "expiration": "Jun 30, 2029",
+    "gross_remaining": "£ 10,400,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Patrick Dorgu",
+    "team": "Manchester United",
+    "gross/w": "£ 40,000",
+    "gross/y": "£ 2,080,000",
+    "signed": "Feb 2, 2025",
+    "expiration": "Jun 30, 2030",
+    "gross_remaining": "£ 12,480,000",
     "release_clause": ""
   },
   {
@@ -3460,13 +3460,13 @@
     "release_clause": ""
   },
   {
-    "player_name": "Jake O'Brien",
-    "team": "Everton",
+    "player_name": "Dara O'Shea",
+    "team": "Ipswich Town",
     "gross/w": "£ 35,000",
     "gross/y": "£ 1,820,000",
-    "signed": "Jul 30, 2024",
-    "expiration": "Jun 30, 2028",
-    "gross_remaining": "£ 7,280,000",
+    "signed": "Aug 25, 2024",
+    "expiration": "Jun 30, 2029",
+    "gross_remaining": "£ 9,100,000",
     "release_clause": ""
   },
   {
@@ -3520,16 +3520,6 @@
     "release_clause": ""
   },
   {
-    "player_name": "Jarrad Branthwaite",
-    "team": "Everton",
-    "gross/w": "£ 35,000",
-    "gross/y": "£ 1,820,000",
-    "signed": "Oct 6, 2023",
-    "expiration": "Jun 30, 2027",
-    "gross_remaining": "£ 5,460,000",
-    "release_clause": ""
-  },
-  {
     "player_name": "Harry Wilson",
     "team": "Fulham",
     "gross/w": "£ 35,000",
@@ -3540,13 +3530,13 @@
     "release_clause": ""
   },
   {
-    "player_name": "Tariq Lamptey",
-    "team": "Brighton",
+    "player_name": "Jarrad Branthwaite",
+    "team": "Everton",
     "gross/w": "£ 35,000",
     "gross/y": "£ 1,820,000",
-    "signed": "Jan 17, 2021",
-    "expiration": "Jun 30, 2025",
-    "gross_remaining": "£ 1,820,000",
+    "signed": "Oct 6, 2023",
+    "expiration": "Jun 30, 2027",
+    "gross_remaining": "£ 5,460,000",
     "release_clause": ""
   },
   {
@@ -3555,6 +3545,16 @@
     "gross/w": "£ 35,000",
     "gross/y": "£ 1,820,000",
     "signed": "Jan 1, 2024",
+    "expiration": "Jun 30, 2025",
+    "gross_remaining": "£ 1,820,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Tariq Lamptey",
+    "team": "Brighton",
+    "gross/w": "£ 35,000",
+    "gross/y": "£ 1,820,000",
+    "signed": "Jan 17, 2021",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "£ 1,820,000",
     "release_clause": ""
@@ -3580,13 +3580,13 @@
     "release_clause": ""
   },
   {
-    "player_name": "Dara O'Shea",
-    "team": "Ipswich Town",
+    "player_name": "Jake O'Brien",
+    "team": "Everton",
     "gross/w": "£ 35,000",
     "gross/y": "£ 1,820,000",
-    "signed": "Aug 25, 2024",
-    "expiration": "Jun 30, 2029",
-    "gross_remaining": "£ 9,100,000",
+    "signed": "Jul 30, 2024",
+    "expiration": "Jun 30, 2028",
+    "gross_remaining": "£ 7,280,000",
     "release_clause": ""
   },
   {
@@ -3620,16 +3620,6 @@
     "release_clause": ""
   },
   {
-    "player_name": "Leander Dendoncker",
-    "team": "Aston Villa",
-    "gross/w": "£ 35,000",
-    "gross/y": "£ 1,820,000",
-    "signed": "Sep 1, 2022",
-    "expiration": "Jun 30, 2026",
-    "gross_remaining": "£ 3,640,000",
-    "release_clause": ""
-  },
-  {
     "player_name": "Altay Bayındır",
     "team": "Manchester United",
     "gross/w": "£ 35,000",
@@ -3637,6 +3627,16 @@
     "signed": "Sep 1, 2023",
     "expiration": "Jun 30, 2027",
     "gross_remaining": "£ 5,460,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Leander Dendoncker",
+    "team": "Aston Villa",
+    "gross/w": "£ 35,000",
+    "gross/y": "£ 1,820,000",
+    "signed": "Sep 1, 2022",
+    "expiration": "Jun 30, 2026",
+    "gross_remaining": "£ 3,640,000",
     "release_clause": ""
   },
   {
@@ -3720,6 +3720,16 @@
     "release_clause": ""
   },
   {
+    "player_name": "Bart Verbruggen",
+    "team": "Brighton",
+    "gross/w": "£ 35,000",
+    "gross/y": "£ 1,820,000",
+    "signed": "Jul 3, 2023",
+    "expiration": "Jun 30, 2028",
+    "gross_remaining": "£ 7,280,000",
+    "release_clause": ""
+  },
+  {
     "player_name": "Rico Henry",
     "team": "Brentford",
     "gross/w": "£ 35,000",
@@ -3735,16 +3745,6 @@
     "gross/w": "£ 35,000",
     "gross/y": "£ 1,820,000",
     "signed": "Jun 16, 2023",
-    "expiration": "Jun 30, 2028",
-    "gross_remaining": "£ 7,280,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Bart Verbruggen",
-    "team": "Brighton",
-    "gross/w": "£ 35,000",
-    "gross/y": "£ 1,820,000",
-    "signed": "Jul 3, 2023",
     "expiration": "Jun 30, 2028",
     "gross_remaining": "£ 7,280,000",
     "release_clause": ""
@@ -6497,6 +6497,996 @@
     "signed": "Feb 2, 2023",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "£ 104,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Kamari Doyle",
+    "team": "Brighton",
+    "gross/w": "£ 2,000",
+    "gross/y": "£ 104,000",
+    "signed": "Jan 26, 2024",
+    "expiration": "Jun 30, 2025",
+    "gross_remaining": "£ 104,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Caleb Wiley",
+    "team": "Chelsea",
+    "gross/w": "£ 2,000",
+    "gross/y": "£ 104,000",
+    "signed": "Jul 22, 2024",
+    "expiration": "Jun 30, 2030",
+    "gross_remaining": "£ 624,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Joe White",
+    "team": "Newcastle",
+    "gross/w": "£ 2,000",
+    "gross/y": "£ 104,000",
+    "signed": "Jul 1, 2019",
+    "expiration": "Jun 30, 2025",
+    "gross_remaining": "£ 104,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Max Kinsey",
+    "team": "Bournemouth",
+    "gross/w": "£ 2,000",
+    "gross/y": "£ 104,000",
+    "signed": "Aug 14, 2024",
+    "expiration": "Jun 30, 2025",
+    "gross_remaining": "£ 104,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Silko Thomas",
+    "team": "Leicester",
+    "gross/w": "£ 2,000",
+    "gross/y": "£ 104,000",
+    "signed": "Sep 1, 2023",
+    "expiration": "Jun 30, 2025",
+    "gross_remaining": "£ 104,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Dylan Williams",
+    "team": "Chelsea",
+    "gross/w": "£ 2,000",
+    "gross/y": "£ 104,000",
+    "signed": "Jan 22, 2022",
+    "expiration": "Jun 30, 2025",
+    "gross_remaining": "£ 104,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Josh King",
+    "team": "Fulham",
+    "gross/w": "£ 2,000",
+    "gross/y": "£ 104,000",
+    "signed": "Jan 16, 2024",
+    "expiration": "Jun 30, 2025",
+    "gross_remaining": "£ 104,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Odeluga Offiah",
+    "team": "Brighton",
+    "gross/w": "£ 2,000",
+    "gross/y": "£ 104,000",
+    "signed": "Sep 13, 2017",
+    "expiration": "Jun 30, 2025",
+    "gross_remaining": "£ 104,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Jadel Katongo",
+    "team": "Manchester City",
+    "gross/w": "£ 2,000",
+    "gross/y": "£ 104,000",
+    "signed": "Jan 1, 2021",
+    "expiration": "Jun 30, 2025",
+    "gross_remaining": "£ 104,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Will Dickson",
+    "team": "Manchester City",
+    "gross/w": "£ 1,800",
+    "gross/y": "£ 93,600",
+    "signed": "Jul 1, 2021",
+    "expiration": "Jun 30, 2027",
+    "gross_remaining": "£ 280,800",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Alex Murphy",
+    "team": "Newcastle",
+    "gross/w": "£ 1,800",
+    "gross/y": "£ 93,600",
+    "signed": "Jul 9, 2022",
+    "expiration": "Jun 30, 2025",
+    "gross_remaining": "£ 93,600",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Rhys Bennett",
+    "team": "Manchester United",
+    "gross/w": "£ 1,750",
+    "gross/y": "£ 91,000",
+    "signed": "Jul 1, 2020",
+    "expiration": "Jun 30, 2025",
+    "gross_remaining": "£ 91,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Francis Okoronkwo",
+    "team": "Everton",
+    "gross/w": "£ 1,500",
+    "gross/y": "£ 78,000",
+    "signed": "Sep 20, 2021",
+    "expiration": "Jun 30, 2026",
+    "gross_remaining": "£ 156,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Travis Patterson",
+    "team": "Aston Villa",
+    "gross/w": "£ 1,500",
+    "gross/y": "£ 78,000",
+    "signed": "Jul 1, 2021",
+    "expiration": "Jun 30, 2025",
+    "gross_remaining": "£ 78,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Mohamadou Kanté",
+    "team": "West Ham",
+    "gross/w": "£ 1,500",
+    "gross/y": "£ 78,000",
+    "signed": "Aug 22, 2024",
+    "expiration": "Jun 30, 2029",
+    "gross_remaining": "£ 390,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Owen Goodman",
+    "team": "Crystal Palace",
+    "gross/w": "£ 1,500",
+    "gross/y": "£ 78,000",
+    "signed": "Jul 1, 2022",
+    "expiration": "Jun 30, 2025",
+    "gross_remaining": "£ 78,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Freddie Potts",
+    "team": "West Ham",
+    "gross/w": "£ 1,500",
+    "gross/y": "£ 78,000",
+    "signed": "Jul 1, 2020",
+    "expiration": "Jun 30, 2029",
+    "gross_remaining": "£ 390,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Dale Taylor",
+    "team": "Nottingham Forest",
+    "gross/w": "£ 1,500",
+    "gross/y": "£ 78,000",
+    "signed": "Aug 3, 2020",
+    "expiration": "Jun 30, 2027",
+    "gross_remaining": "£ 234,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Sam Mather",
+    "team": "Manchester United",
+    "gross/w": "£ 1,000",
+    "gross/y": "£ 52,000",
+    "signed": "Jul 1, 2021",
+    "expiration": "Jun 30, 2025",
+    "gross_remaining": "£ 52,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Patrick Kelly",
+    "team": "West Ham",
+    "gross/w": "£ 1,000",
+    "gross/y": "£ 52,000",
+    "signed": "Jul 1, 2022",
+    "expiration": "Jun 30, 2026",
+    "gross_remaining": "£ 104,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Max Thompson",
+    "team": "Newcastle",
+    "gross/w": "£ 1,000",
+    "gross/y": "£ 52,000",
+    "signed": "Jul 1, 2020",
+    "expiration": "Jun 30, 2025",
+    "gross_remaining": "£ 52,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Charlie McArthur",
+    "team": "Newcastle",
+    "gross/w": "£ 1,000",
+    "gross/y": "£ 52,000",
+    "signed": "Jul 6, 2022",
+    "expiration": "Jun 30, 2025",
+    "gross_remaining": "£ 52,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "George Abbott",
+    "team": "Tottenham",
+    "gross/w": "£ 750",
+    "gross/y": "£ 39,000",
+    "signed": "Jul 1, 2023",
+    "expiration": "Jun 30, 2027",
+    "gross_remaining": "£ 117,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Rico Richards",
+    "team": "Aston Villa",
+    "gross/w": "£ 750",
+    "gross/y": "£ 39,000",
+    "signed": "Jul 3, 2023",
+    "expiration": "Jun 30, 2025",
+    "gross_remaining": "£ 39,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Kobei Moore",
+    "team": "Aston Villa",
+    "gross/w": "£ 600",
+    "gross/y": "£ 31,200",
+    "signed": "Jul 1, 2021",
+    "expiration": "Jun 30, 2025",
+    "gross_remaining": "£ 31,200",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Luca Stephenson",
+    "team": "Liverpool",
+    "gross/w": "£ 400",
+    "gross/y": "£ 20,800",
+    "signed": "Sep 1, 2018",
+    "expiration": "Jun 30, 2025",
+    "gross_remaining": "£ 20,800",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Detlef Esapa Osong",
+    "team": "Nottingham Forest",
+    "gross/w": "",
+    "gross/y": "",
+    "signed": "Jul 1, 2023",
+    "expiration": "Jun 30, 2026",
+    "gross_remaining": "",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Tony Yogane",
+    "team": "Brentford",
+    "gross/w": "",
+    "gross/y": "",
+    "signed": "Aug 10, 2022",
+    "expiration": "Jun 30, 2027",
+    "gross_remaining": "",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Asher Agbinone",
+    "team": "Crystal Palace",
+    "gross/w": "",
+    "gross/y": "",
+    "signed": "Jul 1, 2022",
+    "expiration": "Jun 30, 2025",
+    "gross_remaining": "",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Lewis Koumas",
+    "team": "Liverpool",
+    "gross/w": "",
+    "gross/y": "",
+    "signed": "Jul 1, 2022",
+    "expiration": "Jun 30, 2025",
+    "gross_remaining": "",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Albert Sambi Lokonga",
+    "team": "Arsenal",
+    "gross/w": "",
+    "gross/y": "",
+    "signed": "Jul 19, 2021",
+    "expiration": "Jun 30, 2026",
+    "gross_remaining": "",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Joe Gardner",
+    "team": "Nottingham Forest",
+    "gross/w": "",
+    "gross/y": "",
+    "signed": "Jul 1, 2023",
+    "expiration": "Jun 30, 2027",
+    "gross_remaining": "",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Oliver Sanderson",
+    "team": "Fulham",
+    "gross/w": "",
+    "gross/y": "",
+    "signed": "Jul 1, 2020",
+    "expiration": "Jun 30, 2026",
+    "gross_remaining": "",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Kalvin Phillips",
+    "team": "Manchester City",
+    "gross/w": "",
+    "gross/y": "",
+    "signed": "Jul 4, 2022",
+    "expiration": "Jun 30, 2028",
+    "gross_remaining": "",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Joe O'Brien-Whitmarsh",
+    "team": "Southampton",
+    "gross/w": "",
+    "gross/y": "",
+    "signed": "Jan 12, 2024",
+    "expiration": "Jun 30, 2027",
+    "gross_remaining": "",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Andrew Moran",
+    "team": "Brighton",
+    "gross/w": "",
+    "gross/y": "",
+    "signed": "Aug 16, 2024",
+    "expiration": "Jun 30, 2028",
+    "gross_remaining": "",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Nuno Tavares",
+    "team": "Arsenal",
+    "gross/w": "",
+    "gross/y": "",
+    "signed": "Jul 10, 2021",
+    "expiration": "Jun 30, 2025",
+    "gross_remaining": "",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Finn Ashworth",
+    "team": "Wolverhampton",
+    "gross/w": "",
+    "gross/y": "",
+    "signed": "Jul 1, 2022",
+    "expiration": "Jun 30, 2025",
+    "gross_remaining": "",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Abdallah Sima",
+    "team": "Brighton",
+    "gross/w": "",
+    "gross/y": "",
+    "signed": "Aug 31, 2021",
+    "expiration": "Jun 30, 2026",
+    "gross_remaining": "",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Elkan Baggott",
+    "team": "Ipswich Town",
+    "gross/w": "",
+    "gross/y": "",
+    "signed": "Jul 1, 2019",
+    "expiration": "Jun 30, 2025",
+    "gross_remaining": "",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Myles Peart-Harris",
+    "team": "Brentford",
+    "gross/w": "",
+    "gross/y": "",
+    "signed": "Aug 30, 2024",
+    "expiration": "Jun 30, 2026",
+    "gross_remaining": "",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Josh Wilson-Esbrand",
+    "team": "Manchester City",
+    "gross/w": "",
+    "gross/y": "",
+    "signed": "Jul 26, 2019",
+    "expiration": "Jun 30, 2027",
+    "gross_remaining": "",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Kyle Walker",
+    "team": "Manchester City",
+    "gross/w": "",
+    "gross/y": "",
+    "signed": "Sep 14, 2023",
+    "expiration": "Jun 30, 2026",
+    "gross_remaining": "",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Frank Onyeka",
+    "team": "Brentford",
+    "gross/w": "",
+    "gross/y": "",
+    "signed": "Aug 30, 2024",
+    "expiration": "Jun 30, 2027",
+    "gross_remaining": "",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Alfie Dorrington",
+    "team": "Tottenham",
+    "gross/w": "",
+    "gross/y": "",
+    "signed": "Jul 1, 2021",
+    "expiration": "Jun 30, 2029",
+    "gross_remaining": "",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Alfie Devine",
+    "team": "Tottenham",
+    "gross/w": "",
+    "gross/y": "",
+    "signed": "Jul 20, 2020",
+    "expiration": "Jun 30, 2027",
+    "gross_remaining": "",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Will Alves",
+    "team": "Leicester",
+    "gross/w": "",
+    "gross/y": "",
+    "signed": "Jul 1, 2021",
+    "expiration": "Jun 30, 2028",
+    "gross_remaining": "",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Neal Maupay",
+    "team": "Everton",
+    "gross/w": "",
+    "gross/y": "",
+    "signed": "Aug 26, 2022",
+    "expiration": "Jun 30, 2026",
+    "gross_remaining": "",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Nico Lawrence",
+    "team": "Southampton",
+    "gross/w": "",
+    "gross/y": "",
+    "signed": "Feb 11, 2022",
+    "expiration": "Jun 30, 2025",
+    "gross_remaining": "",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Álex Moreno",
+    "team": "Aston Villa",
+    "gross/w": "",
+    "gross/y": "",
+    "signed": "Jan 11, 2023",
+    "expiration": "Jun 30, 2026",
+    "gross_remaining": "",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Chiquinho",
+    "team": "Wolverhampton",
+    "gross/w": "",
+    "gross/y": "",
+    "signed": "Jan 17, 2022",
+    "expiration": "Jun 30, 2026",
+    "gross_remaining": "",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Matthew Craig",
+    "team": "Tottenham",
+    "gross/w": "",
+    "gross/y": "",
+    "signed": "Jul 1, 2019",
+    "expiration": "Jun 30, 2026",
+    "gross_remaining": "",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Harvey Araujo",
+    "team": "Fulham",
+    "gross/w": "",
+    "gross/y": "",
+    "signed": "Jul 1, 2020",
+    "expiration": "Jun 30, 2027",
+    "gross_remaining": "",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Hugo Bueno",
+    "team": "Wolverhampton",
+    "gross/w": "",
+    "gross/y": "",
+    "signed": "Jul 1, 2019",
+    "expiration": "Jun 30, 2028",
+    "gross_remaining": "",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Issa Kabore",
+    "team": "Manchester City",
+    "gross/w": "",
+    "gross/y": "",
+    "signed": "Jul 29, 2020",
+    "expiration": "Jun 30, 2027",
+    "gross_remaining": "",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Chris Popov",
+    "team": "Leicester",
+    "gross/w": "",
+    "gross/y": "",
+    "signed": "Jul 1, 2021",
+    "expiration": "Jun 30, 2025",
+    "gross_remaining": "",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Romain Faivre",
+    "team": "Bournemouth",
+    "gross/w": "",
+    "gross/y": "",
+    "signed": "Jul 13, 2023",
+    "expiration": "Jun 30, 2028",
+    "gross_remaining": "",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Caylan Vickers",
+    "team": "Brighton",
+    "gross/w": "",
+    "gross/y": "",
+    "signed": "Feb 1, 2024",
+    "expiration": "Jun 30, 2027",
+    "gross_remaining": "",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Marvin Kaleta",
+    "team": "Wolverhampton",
+    "gross/w": "",
+    "gross/y": "",
+    "signed": "Jul 1, 2020",
+    "expiration": "Jun 30, 2025",
+    "gross_remaining": "",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Harry Tyrer",
+    "team": "Everton",
+    "gross/w": "",
+    "gross/y": "",
+    "signed": "Jul 1, 2018",
+    "expiration": "Jun 30, 2026",
+    "gross_remaining": "",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Elijah Campbell",
+    "team": "Everton",
+    "gross/w": "",
+    "gross/y": "",
+    "signed": "Jul 1, 2020",
+    "expiration": "Jun 30, 2025",
+    "gross_remaining": "",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Mark O'Mahony",
+    "team": "Brighton",
+    "gross/w": "",
+    "gross/y": "",
+    "signed": "Jan 26, 2023",
+    "expiration": "Jun 30, 2027",
+    "gross_remaining": "",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Alejo Veliz",
+    "team": "Tottenham",
+    "gross/w": "",
+    "gross/y": "",
+    "signed": "Aug 8, 2023",
+    "expiration": "Jun 30, 2029",
+    "gross_remaining": "",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Renato Veiga",
+    "team": "Chelsea",
+    "gross/w": "",
+    "gross/y": "",
+    "signed": "Jul 12, 2024",
+    "expiration": "Jun 30, 2031",
+    "gross_remaining": "",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Ethan Williams",
+    "team": "Manchester United",
+    "gross/w": "",
+    "gross/y": "",
+    "signed": "Nov 14, 2019",
+    "expiration": "Jun 30, 2025",
+    "gross_remaining": "",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Josh Keeley",
+    "team": "Tottenham",
+    "gross/w": "",
+    "gross/y": "",
+    "signed": "Jul 1, 2022",
+    "expiration": "Jun 30, 2027",
+    "gross_remaining": "",
+    "release_clause": ""
+  },
+  {
+    "player_name": "James Beadle",
+    "team": "Brighton",
+    "gross/w": "",
+    "gross/y": "",
+    "signed": "Jan 13, 2022",
+    "expiration": "Jun 30, 2028",
+    "gross_remaining": "",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Kadan Young",
+    "team": "Aston Villa",
+    "gross/w": "",
+    "gross/y": "",
+    "signed": "Jul 1, 2021",
+    "expiration": "Jun 30, 2025",
+    "gross_remaining": "",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Samuel Edozie",
+    "team": "Southampton",
+    "gross/w": "",
+    "gross/y": "",
+    "signed": "Sep 1, 2022",
+    "expiration": "Jun 30, 2027",
+    "gross_remaining": "",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Karl Hein",
+    "team": "Arsenal",
+    "gross/w": "",
+    "gross/y": "",
+    "signed": "Jun 24, 2024",
+    "expiration": "Jun 30, 2026",
+    "gross_remaining": "",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Juma Bah",
+    "team": "Manchester City",
+    "gross/w": "",
+    "gross/y": "",
+    "signed": "Jan 27, 2025",
+    "expiration": "Jun 30, 2025",
+    "gross_remaining": "",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Jamie McDonnell",
+    "team": "Nottingham Forest",
+    "gross/w": "",
+    "gross/y": "",
+    "signed": "Jul 22, 2020",
+    "expiration": "Jun 30, 2026",
+    "gross_remaining": "",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Harrison Armstrong",
+    "team": "Everton",
+    "gross/w": "",
+    "gross/y": "",
+    "signed": "Jul 1, 2023",
+    "expiration": "Jun 30, 2028",
+    "gross_remaining": "",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Calum Scanlon",
+    "team": "Liverpool",
+    "gross/w": "",
+    "gross/y": "",
+    "signed": "Feb 1, 2021",
+    "expiration": "Jun 30, 2025",
+    "gross_remaining": "",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Zak Sturge",
+    "team": "Chelsea",
+    "gross/w": "",
+    "gross/y": "",
+    "signed": "Aug 4, 2022",
+    "expiration": "Jun 30, 2025",
+    "gross_remaining": "",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Máximo Perrone",
+    "team": "Manchester City",
+    "gross/w": "",
+    "gross/y": "",
+    "signed": "Jan 23, 2023",
+    "expiration": "Jun 30, 2028",
+    "gross_remaining": "",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Maldini Kacurri",
+    "team": "Arsenal",
+    "gross/w": "",
+    "gross/y": "",
+    "signed": "Jul 1, 2022",
+    "expiration": "Jun 30, 2025",
+    "gross_remaining": "",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Bryan Gil",
+    "team": "Tottenham",
+    "gross/w": "",
+    "gross/y": "",
+    "signed": "Jul 26, 2021",
+    "expiration": "Jun 30, 2026",
+    "gross_remaining": "",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Pierre-Emile Højbjerg",
+    "team": "Tottenham",
+    "gross/w": "",
+    "gross/y": "",
+    "signed": "Aug 11, 2020",
+    "expiration": "Jun 30, 2025",
+    "gross_remaining": "",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Sil Swinkels",
+    "team": "Aston Villa",
+    "gross/w": "",
+    "gross/y": "",
+    "signed": "Aug 3, 2020",
+    "expiration": "Jun 30, 2025",
+    "gross_remaining": "",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Philip Billing",
+    "team": "Bournemouth",
+    "gross/w": "",
+    "gross/y": "",
+    "signed": "Aug 21, 2023",
+    "expiration": "Jun 30, 2027",
+    "gross_remaining": "",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Brandon Cover",
+    "team": "Leicester",
+    "gross/w": "",
+    "gross/y": "",
+    "signed": "Jul 1, 2022",
+    "expiration": "Jun 30, 2025",
+    "gross_remaining": "",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Sonny Aljofree",
+    "team": "Manchester United",
+    "gross/w": "",
+    "gross/y": "",
+    "signed": "Jul 1, 2021",
+    "expiration": "Jun 30, 2025",
+    "gross_remaining": "",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Luke Chambers",
+    "team": "Liverpool",
+    "gross/w": "",
+    "gross/y": "",
+    "signed": "Jul 1, 2020",
+    "expiration": "Jun 30, 2025",
+    "gross_remaining": "",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Jemiah Umolu",
+    "team": "Crystal Palace",
+    "gross/w": "",
+    "gross/y": "",
+    "signed": "Jul 2, 2024",
+    "expiration": "Jun 30, 2025",
+    "gross_remaining": "",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Ethan Ennis",
+    "team": "Manchester United",
+    "gross/w": "",
+    "gross/y": "",
+    "signed": "Jul 28, 2021",
+    "expiration": "Jun 30, 2025",
+    "gross_remaining": "",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Jenson Metcalfe",
+    "team": "Everton",
+    "gross/w": "",
+    "gross/y": "",
+    "signed": "Jul 1, 2021",
+    "expiration": "Jun 30, 2026",
+    "gross_remaining": "",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Gideon Kodua",
+    "team": "West Ham",
+    "gross/w": "",
+    "gross/y": "",
+    "signed": "Jul 1, 2021",
+    "expiration": "Jun 30, 2026",
+    "gross_remaining": "",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Ben Perry",
+    "team": "Nottingham Forest",
+    "gross/w": "",
+    "gross/y": "",
+    "signed": "Jul 1, 2023",
+    "expiration": "Jun 30, 2026",
+    "gross_remaining": "",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Tawanda Chirewa",
+    "team": "Wolverhampton",
+    "gross/w": "",
+    "gross/y": "",
+    "signed": "Sep 18, 2023",
+    "expiration": "Jun 30, 2027",
+    "gross_remaining": "",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Juan",
+    "team": "Southampton",
+    "gross/w": "",
+    "gross/y": "",
+    "signed": "Aug 16, 2024",
+    "expiration": "Jun 30, 2025",
+    "gross_remaining": "",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Daniel Gore",
+    "team": "Manchester United",
+    "gross/w": "",
+    "gross/y": "",
+    "signed": "Jul 1, 2018",
+    "expiration": "Jun 30, 2026",
+    "gross_remaining": "",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Ben Brereton",
+    "team": "Southampton",
+    "gross/w": "",
+    "gross/y": "",
+    "signed": "Jul 30, 2024",
+    "expiration": "Jun 30, 2028",
+    "gross_remaining": "",
+    "release_clause": ""
+  },
+  {
+    "player_name": "George Earthy",
+    "team": "West Ham",
+    "gross/w": "",
+    "gross/y": "",
+    "signed": "Jul 1, 2023",
+    "expiration": "Jun 30, 2026",
+    "gross_remaining": "",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Danny Imray",
+    "team": "Crystal Palace",
+    "gross/w": "",
+    "gross/y": "",
+    "signed": "Feb 3, 2021",
+    "expiration": "Jun 30, 2025",
+    "gross_remaining": "",
+    "release_clause": ""
+  },
+  {
+    "player_name": "David Ozoh",
+    "team": "Crystal Palace",
+    "gross/w": "",
+    "gross/y": "",
+    "signed": "Jul 1, 2021",
+    "expiration": "Jun 30, 2025",
+    "gross_remaining": "",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Ashley Hay",
+    "team": "Brentford",
+    "gross/w": "",
+    "gross/y": "",
+    "signed": "Sep 1, 2023",
+    "expiration": "Jun 30, 2025",
+    "gross_remaining": "",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Louis Jackson",
+    "team": "Manchester United",
+    "gross/w": "",
+    "gross/y": "",
+    "signed": "Jul 1, 2022",
+    "expiration": "Jun 30, 2025",
+    "gross_remaining": "",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Fábio Vieira",
+    "team": "Arsenal",
+    "gross/w": "",
+    "gross/y": "",
+    "signed": "Jul 1, 2022",
+    "expiration": "Jun 30, 2027",
+    "gross_remaining": "",
     "release_clause": ""
   }
 ]

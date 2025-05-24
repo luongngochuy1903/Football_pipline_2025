@@ -121,6 +121,7 @@ class Scraping:
                     if code == leagues:
                         with open(f"/app/output/{address}","w",encoding='utf-8') as f:
                             json.dump(club_info_list,f,indent=2, ensure_ascii=False) 
+                        print(f"đã lưu vào {address}")
                         break
             time.sleep(2)  
         driver.quit() 
@@ -143,7 +144,7 @@ class Scraping:
                 now_url = f"https://fbref.com/en/comps/{id}/{item}/{item}-{leagues}"
                 print(now_url)
                 driver.get(now_url)
-                time.sleep(10)
+                time.sleep(7)
                 
                 soup = BeautifulSoup(driver.page_source, 'html.parser')
                 time.sleep(3)
@@ -180,7 +181,7 @@ class Scraping:
                     except Exception as e:
                         print(f"Lỗi khi tải trang chi tiết đội: {e}")
                         continue
-                    time.sleep(12)
+                    time.sleep(6)
                     soup2 = BeautifulSoup(driver.page_source, 'html.parser')
                     player_info = soup2.find('table', class_="stats_table sortable min_width now_sortable sticky_table eq1 re1 le1")
                     player_info2 = player_info.find('tbody')

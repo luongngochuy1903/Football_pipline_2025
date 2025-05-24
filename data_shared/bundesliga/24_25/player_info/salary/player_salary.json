@@ -4,6 +4,7 @@
     "team": "Bayern Munich",
     "gross/w": "€ 480,769",
     "gross/y": "€ 25,000,000",
+    "signed": "Aug 12, 2023",
     "expiration": "Jun 30, 2027",
     "gross_remaining": "€ 75,000,000",
     "release_clause": "€ 65,000,000"
@@ -13,6 +14,7 @@
     "team": "Bayern Munich",
     "gross/w": "€ 403,846",
     "gross/y": "€ 21,000,000",
+    "signed": "Feb 3, 2025",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 42,000,000",
     "release_clause": ""
@@ -22,6 +24,7 @@
     "team": "Bayern Munich",
     "gross/w": "€ 384,615",
     "gross/y": "€ 20,000,000",
+    "signed": "Mar 13, 2025",
     "expiration": "Jun 30, 2029",
     "gross_remaining": "€ 100,000,000",
     "release_clause": ""
@@ -31,6 +34,7 @@
     "team": "Bayern Munich",
     "gross/w": "€ 362,885",
     "gross/y": "€ 18,870,000",
+    "signed": "Jul 16, 2022",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 37,740,000",
     "release_clause": ""
@@ -40,6 +44,7 @@
     "team": "Bayern Munich",
     "gross/w": "€ 362,885",
     "gross/y": "€ 18,870,000",
+    "signed": "Feb 14, 2025",
     "expiration": "Jun 30, 2030",
     "gross_remaining": "€ 113,220,000",
     "release_clause": "€ 175,000,000"
@@ -49,6 +54,7 @@
     "team": "Bayern Munich",
     "gross/w": "€ 326,923",
     "gross/y": "€ 17,000,000",
+    "signed": "Jan 12, 2022",
     "expiration": "Jun 30, 2027",
     "gross_remaining": "€ 51,000,000",
     "release_clause": ""
@@ -58,6 +64,7 @@
     "team": "Bayern Munich",
     "gross/w": "€ 288,462",
     "gross/y": "€ 15,000,000",
+    "signed": "Jul 15, 2020",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 15,000,000",
     "release_clause": ""
@@ -67,6 +74,7 @@
     "team": "Bayern Munich",
     "gross/w": "€ 288,462",
     "gross/y": "€ 15,000,000",
+    "signed": "Dec 19, 2023",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 15,000,000",
     "release_clause": ""
@@ -76,6 +84,7 @@
     "team": "Bayern Munich",
     "gross/w": "€ 288,462",
     "gross/y": "€ 15,000,000",
+    "signed": "Feb 4, 2025",
     "expiration": "Jun 30, 2030",
     "gross_remaining": "€ 90,000,000",
     "release_clause": ""
@@ -85,6 +94,7 @@
     "team": "Bayern Munich",
     "gross/w": "€ 259,615",
     "gross/y": "€ 13,500,000",
+    "signed": "Jul 7, 2024",
     "expiration": "Jun 30, 2029",
     "gross_remaining": "€ 67,500,000",
     "release_clause": ""
@@ -94,6 +104,7 @@
     "team": "Bayern Munich",
     "gross/w": "€ 250,000",
     "gross/y": "€ 13,000,000",
+    "signed": "Sep 16, 2021",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 26,000,000",
     "release_clause": ""
@@ -103,6 +114,7 @@
     "team": "Bayern Munich",
     "gross/w": "€ 230,769",
     "gross/y": "€ 12,000,000",
+    "signed": "Jul 18, 2023",
     "expiration": "Jun 30, 2028",
     "gross_remaining": "€ 48,000,000",
     "release_clause": "€ 110,000,000"
@@ -112,6 +124,7 @@
     "team": "Bayern Munich",
     "gross/w": "€ 192,308",
     "gross/y": "€ 10,000,000",
+    "signed": "Jul 5, 2021",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 20,000,000",
     "release_clause": "€ 120,000,000"
@@ -121,6 +134,7 @@
     "team": "Borussia Dortmund",
     "gross/w": "€ 192,308",
     "gross/y": "€ 10,000,000",
+    "signed": "Jul 1, 2022",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 20,000,000",
     "release_clause": ""
@@ -130,6 +144,7 @@
     "team": "Bayern Munich",
     "gross/w": "€ 192,308",
     "gross/y": "€ 10,000,000",
+    "signed": "Jul 11, 2024",
     "expiration": "Jun 30, 2028",
     "gross_remaining": "€ 40,000,000",
     "release_clause": ""
@@ -139,15 +154,17 @@
     "team": "Borussia Dortmund",
     "gross/w": "€ 181,346",
     "gross/y": "€ 9,430,000",
+    "signed": "Jul 18, 2024",
     "expiration": "Jun 30, 2028",
     "gross_remaining": "€ 37,720,000",
-    "release_clause": ""
+    "release_clause": "€ 70,000,000"
   },
   {
     "player_name": "Gregor Kobel",
     "team": "Borussia Dortmund",
     "gross/w": "€ 173,077",
     "gross/y": "€ 9,000,000",
+    "signed": "Oct 5, 2023",
     "expiration": "Jun 30, 2028",
     "gross_remaining": "€ 36,000,000",
     "release_clause": ""
@@ -157,6 +174,7 @@
     "team": "Bayern Munich",
     "gross/w": "€ 173,077",
     "gross/y": "€ 9,000,000",
+    "signed": "Jul 1, 2023",
     "expiration": "Jun 30, 2027",
     "gross_remaining": "€ 27,000,000",
     "release_clause": ""
@@ -166,6 +184,7 @@
     "team": "Borussia Dortmund",
     "gross/w": "€ 163,462",
     "gross/y": "€ 8,500,000",
+    "signed": "Jul 6, 2022",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 17,000,000",
     "release_clause": ""
@@ -175,6 +194,7 @@
     "team": "Bayer Leverkusen",
     "gross/w": "€ 161,538",
     "gross/y": "€ 8,400,000",
+    "signed": "Aug 28, 2024",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 8,400,000",
     "release_clause": ""
@@ -184,6 +204,7 @@
     "team": "Bayern Munich",
     "gross/w": "€ 153,846",
     "gross/y": "€ 8,000,000",
+    "signed": "Jul 1, 2023",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 16,000,000",
     "release_clause": ""
@@ -193,6 +214,7 @@
     "team": "Borussia Dortmund",
     "gross/w": "€ 153,846",
     "gross/y": "€ 8,000,000",
+    "signed": "Jul 22, 2023",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 16,000,000",
     "release_clause": ""
@@ -202,6 +224,7 @@
     "team": "Leipzig",
     "gross/w": "€ 145,192",
     "gross/y": "€ 7,550,000",
+    "signed": "May 17, 2024",
     "expiration": "Jun 30, 2028",
     "gross_remaining": "€ 30,200,000",
     "release_clause": ""
@@ -211,6 +234,7 @@
     "team": "Freiburg",
     "gross/w": "€ 145,192",
     "gross/y": "€ 7,550,000",
+    "signed": "Jul 1, 2022",
     "expiration": "Jun 30, 2027",
     "gross_remaining": "€ 22,650,000",
     "release_clause": ""
@@ -220,15 +244,17 @@
     "team": "Leipzig",
     "gross/w": "€ 145,192",
     "gross/y": "€ 7,550,000",
+    "signed": "Jul 31, 2022",
     "expiration": "Jun 30, 2027",
     "gross_remaining": "€ 22,650,000",
-    "release_clause": ""
+    "release_clause": "€ 50,000,000"
   },
   {
     "player_name": "Marcel Sabitzer",
     "team": "Borussia Dortmund",
     "gross/w": "€ 144,231",
     "gross/y": "€ 7,500,000",
+    "signed": "Jul 24, 2023",
     "expiration": "Jun 30, 2027",
     "gross_remaining": "€ 22,500,000",
     "release_clause": ""
@@ -238,6 +264,7 @@
     "team": "Borussia Dortmund",
     "gross/w": "€ 134,615",
     "gross/y": "€ 7,000,000",
+    "signed": "Apr 11, 2023",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 14,000,000",
     "release_clause": ""
@@ -247,6 +274,7 @@
     "team": "Leipzig",
     "gross/w": "€ 126,923",
     "gross/y": "€ 6,600,000",
+    "signed": "Oct 6, 2023",
     "expiration": "Jun 30, 2027",
     "gross_remaining": "€ 19,800,000",
     "release_clause": ""
@@ -256,6 +284,7 @@
     "team": "Bayern Munich",
     "gross/w": "€ 126,923",
     "gross/y": "€ 6,600,000",
+    "signed": "Jun 27, 2024",
     "expiration": "Jun 30, 2029",
     "gross_remaining": "€ 33,000,000",
     "release_clause": ""
@@ -265,6 +294,7 @@
     "team": "Leipzig",
     "gross/w": "€ 126,923",
     "gross/y": "€ 6,600,000",
+    "signed": "Jan 11, 2024",
     "expiration": "Jun 30, 2028",
     "gross_remaining": "€ 26,400,000",
     "release_clause": ""
@@ -274,6 +304,7 @@
     "team": "Leipzig",
     "gross/w": "€ 126,923",
     "gross/y": "€ 6,600,000",
+    "signed": "Oct 24, 2023",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 13,200,000",
     "release_clause": ""
@@ -283,6 +314,7 @@
     "team": "Bayern Munich",
     "gross/w": "€ 125,000",
     "gross/y": "€ 6,500,000",
+    "signed": "Apr 12, 2024",
     "expiration": "Jun 30, 2029",
     "gross_remaining": "€ 32,500,000",
     "release_clause": ""
@@ -292,6 +324,7 @@
     "team": "Leipzig",
     "gross/w": "€ 115,385",
     "gross/y": "€ 6,000,000",
+    "signed": "Jan 30, 2025",
     "expiration": "Jun 30, 2027",
     "gross_remaining": "€ 18,000,000",
     "release_clause": ""
@@ -301,6 +334,7 @@
     "team": "Bayer Leverkusen",
     "gross/w": "€ 115,385",
     "gross/y": "€ 6,000,000",
+    "signed": "May 26, 2022",
     "expiration": "Jun 30, 2027",
     "gross_remaining": "€ 18,000,000",
     "release_clause": ""
@@ -310,6 +344,7 @@
     "team": "Borussia Dortmund",
     "gross/w": "€ 115,385",
     "gross/y": "€ 6,000,000",
+    "signed": "Jul 3, 2023",
     "expiration": "Jun 30, 2028",
     "gross_remaining": "€ 24,000,000",
     "release_clause": ""
@@ -319,6 +354,7 @@
     "team": "Bayer Leverkusen",
     "gross/w": "€ 115,385",
     "gross/y": "€ 6,000,000",
+    "signed": "Jul 1, 2023",
     "expiration": "Jun 30, 2027",
     "gross_remaining": "€ 18,000,000",
     "release_clause": ""
@@ -328,6 +364,7 @@
     "team": "Leipzig",
     "gross/w": "€ 108,846",
     "gross/y": "€ 5,660,000",
+    "signed": "Jul 14, 2023",
     "expiration": "Jun 30, 2028",
     "gross_remaining": "€ 22,640,000",
     "release_clause": "€ 80,000,000"
@@ -337,15 +374,17 @@
     "team": "Leipzig",
     "gross/w": "€ 108,846",
     "gross/y": "€ 5,660,000",
+    "signed": "Jun 12, 2024",
     "expiration": "Jun 30, 2029",
     "gross_remaining": "€ 28,300,000",
-    "release_clause": "€ 70,000,000"
+    "release_clause": "€ 80,000,000"
   },
   {
     "player_name": "Péter Gulácsi",
     "team": "Leipzig",
     "gross/w": "€ 107,692",
     "gross/y": "€ 5,600,000",
+    "signed": "May 27, 2024",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 11,200,000",
     "release_clause": ""
@@ -355,6 +394,7 @@
     "team": "Wolfsburg",
     "gross/w": "€ 105,769",
     "gross/y": "€ 5,500,000",
+    "signed": "Feb 12, 2021",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 11,000,000",
     "release_clause": ""
@@ -364,6 +404,7 @@
     "team": "Bayer Leverkusen",
     "gross/w": "€ 96,154",
     "gross/y": "€ 5,000,000",
+    "signed": "Sep 4, 2023",
     "expiration": "Jun 30, 2028",
     "gross_remaining": "€ 20,000,000",
     "release_clause": "€ 100,000,000"
@@ -373,6 +414,7 @@
     "team": "Bayer Leverkusen",
     "gross/w": "€ 96,154",
     "gross/y": "€ 5,000,000",
+    "signed": "Sep 26, 2023",
     "expiration": "Jun 30, 2028",
     "gross_remaining": "€ 20,000,000",
     "release_clause": ""
@@ -382,6 +424,7 @@
     "team": "Leipzig",
     "gross/w": "€ 96,154",
     "gross/y": "€ 5,000,000",
+    "signed": "Oct 23, 2024",
     "expiration": "Jun 30, 2029",
     "gross_remaining": "€ 25,000,000",
     "release_clause": "€ 90,000,000"
@@ -391,6 +434,7 @@
     "team": "Borussia Dortmund",
     "gross/w": "€ 96,154",
     "gross/y": "€ 5,000,000",
+    "signed": "Jul 1, 2022",
     "expiration": "Jun 30, 2027",
     "gross_remaining": "€ 15,000,000",
     "release_clause": ""
@@ -400,6 +444,7 @@
     "team": "Bayern Munich",
     "gross/w": "€ 96,154",
     "gross/y": "€ 5,000,000",
+    "signed": "Jul 1, 2024",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 5,000,000",
     "release_clause": ""
@@ -409,6 +454,7 @@
     "team": "Borussia Dortmund",
     "gross/w": "€ 96,154",
     "gross/y": "€ 5,000,000",
+    "signed": "Oct 3, 2024",
     "expiration": "Jun 30, 2028",
     "gross_remaining": "€ 20,000,000",
     "release_clause": ""
@@ -418,6 +464,7 @@
     "team": "Wolfsburg",
     "gross/w": "€ 90,769",
     "gross/y": "€ 4,720,000",
+    "signed": "Aug 16, 2023",
     "expiration": "Jun 30, 2028",
     "gross_remaining": "€ 18,880,000",
     "release_clause": ""
@@ -427,6 +474,7 @@
     "team": "Monchengladbach",
     "gross/w": "€ 90,769",
     "gross/y": "€ 4,720,000",
+    "signed": "Nov 23, 2024",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 9,440,000",
     "release_clause": "€ 7,000,000"
@@ -436,6 +484,7 @@
     "team": "Bayer Leverkusen",
     "gross/w": "€ 90,769",
     "gross/y": "€ 4,720,000",
+    "signed": "Jul 1, 2024",
     "expiration": "Jun 30, 2029",
     "gross_remaining": "€ 23,600,000",
     "release_clause": ""
@@ -445,6 +494,7 @@
     "team": "Borussia Dortmund",
     "gross/w": "€ 90,769",
     "gross/y": "€ 4,720,000",
+    "signed": "Jul 1, 2022",
     "expiration": "Jun 30, 2027",
     "gross_remaining": "€ 14,160,000",
     "release_clause": ""
@@ -454,6 +504,7 @@
     "team": "Leipzig",
     "gross/w": "€ 90,769",
     "gross/y": "€ 4,720,000",
+    "signed": "Aug 30, 2024",
     "expiration": "Jun 30, 2029",
     "gross_remaining": "€ 23,600,000",
     "release_clause": ""
@@ -463,6 +514,7 @@
     "team": "Stuttgart",
     "gross/w": "€ 86,923",
     "gross/y": "€ 4,520,000",
+    "signed": "Aug 9, 2024",
     "expiration": "Jun 30, 2027",
     "gross_remaining": "€ 13,560,000",
     "release_clause": ""
@@ -472,15 +524,17 @@
     "team": "Stuttgart",
     "gross/w": "€ 86,923",
     "gross/y": "€ 4,520,000",
+    "signed": "Jan 28, 2025",
     "expiration": "Jun 30, 2028",
     "gross_remaining": "€ 18,080,000",
-    "release_clause": ""
+    "release_clause": "€ 40,000,000"
   },
   {
     "player_name": "Ramy Bensebaini",
     "team": "Borussia Dortmund",
     "gross/w": "€ 86,538",
     "gross/y": "€ 4,500,000",
+    "signed": "Jul 1, 2023",
     "expiration": "Jun 30, 2027",
     "gross_remaining": "€ 13,500,000",
     "release_clause": ""
@@ -490,6 +544,7 @@
     "team": "Bayer Leverkusen",
     "gross/w": "€ 86,538",
     "gross/y": "€ 4,500,000",
+    "signed": "Jun 23, 2022",
     "expiration": "Jun 30, 2027",
     "gross_remaining": "€ 13,500,000",
     "release_clause": ""
@@ -499,6 +554,7 @@
     "team": "Borussia Dortmund",
     "gross/w": "€ 80,000",
     "gross/y": "€ 4,160,000",
+    "signed": "Aug 1, 2024",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 8,320,000",
     "release_clause": ""
@@ -508,6 +564,7 @@
     "team": "Bayer Leverkusen",
     "gross/w": "€ 79,808",
     "gross/y": "€ 4,150,000",
+    "signed": "Jul 6, 2023",
     "expiration": "Jun 30, 2028",
     "gross_remaining": "€ 16,600,000",
     "release_clause": ""
@@ -517,6 +574,7 @@
     "team": "Leipzig",
     "gross/w": "€ 76,923",
     "gross/y": "€ 4,000,000",
+    "signed": "Jul 1, 2022",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 8,000,000",
     "release_clause": ""
@@ -526,6 +584,7 @@
     "team": "Monchengladbach",
     "gross/w": "€ 76,923",
     "gross/y": "€ 4,000,000",
+    "signed": "Jul 28, 2023",
     "expiration": "Jun 30, 2027",
     "gross_remaining": "€ 12,000,000",
     "release_clause": ""
@@ -535,6 +594,7 @@
     "team": "Hoffenheim",
     "gross/w": "€ 76,923",
     "gross/y": "€ 4,000,000",
+    "signed": "Mar 12, 2022",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 4,000,000",
     "release_clause": ""
@@ -544,6 +604,7 @@
     "team": "Bayer Leverkusen",
     "gross/w": "€ 76,923",
     "gross/y": "€ 4,000,000",
+    "signed": "Oct 3, 2023",
     "expiration": "Jun 30, 2028",
     "gross_remaining": "€ 16,000,000",
     "release_clause": "€ 40,000,000"
@@ -553,6 +614,7 @@
     "team": "Bayer Leverkusen",
     "gross/w": "€ 76,923",
     "gross/y": "€ 4,000,000",
+    "signed": "Jul 5, 2023",
     "expiration": "Jun 30, 2027",
     "gross_remaining": "€ 12,000,000",
     "release_clause": ""
@@ -562,6 +624,7 @@
     "team": "Borussia Dortmund",
     "gross/w": "€ 76,154",
     "gross/y": "€ 3,960,000",
+    "signed": "Jul 8, 2024",
     "expiration": "Jun 30, 2028",
     "gross_remaining": "€ 15,840,000",
     "release_clause": ""
@@ -571,6 +634,7 @@
     "team": "Hoffenheim",
     "gross/w": "€ 75,000",
     "gross/y": "€ 3,900,000",
+    "signed": "Sep 15, 2022",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 3,900,000",
     "release_clause": ""
@@ -580,6 +644,7 @@
     "team": "Leipzig",
     "gross/w": "€ 73,077",
     "gross/y": "€ 3,800,000",
+    "signed": "Mar 29, 2024",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 7,600,000",
     "release_clause": "€ 30,000,000"
@@ -589,6 +654,7 @@
     "team": "Borussia Dortmund",
     "gross/w": "€ 72,692",
     "gross/y": "€ 3,780,000",
+    "signed": "Jul 1, 2022",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 7,560,000",
     "release_clause": ""
@@ -598,15 +664,17 @@
     "team": "Bayer Leverkusen",
     "gross/w": "€ 72,692",
     "gross/y": "€ 3,780,000",
+    "signed": "Dec 21, 2024",
     "expiration": "Jun 30, 2029",
     "gross_remaining": "€ 18,900,000",
-    "release_clause": ""
+    "release_clause": "€ 60,000,000"
   },
   {
     "player_name": "Maximilian Beier",
     "team": "Borussia Dortmund",
     "gross/w": "€ 72,692",
     "gross/y": "€ 3,780,000",
+    "signed": "Aug 12, 2024",
     "expiration": "Jun 30, 2029",
     "gross_remaining": "€ 18,900,000",
     "release_clause": ""
@@ -616,6 +684,7 @@
     "team": "Bayern Munich",
     "gross/w": "€ 72,692",
     "gross/y": "€ 3,780,000",
+    "signed": "Jul 1, 2024",
     "expiration": "Jun 30, 2028",
     "gross_remaining": "€ 15,120,000",
     "release_clause": ""
@@ -625,6 +694,7 @@
     "team": "Wolfsburg",
     "gross/w": "€ 72,692",
     "gross/y": "€ 3,780,000",
+    "signed": "Sep 1, 2024",
     "expiration": "Jun 30, 2029",
     "gross_remaining": "€ 18,900,000",
     "release_clause": ""
@@ -634,6 +704,7 @@
     "team": "Wolfsburg",
     "gross/w": "€ 69,231",
     "gross/y": "€ 3,600,000",
+    "signed": "Mar 27, 2024",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 3,600,000",
     "release_clause": ""
@@ -643,6 +714,7 @@
     "team": "Hoffenheim",
     "gross/w": "€ 67,308",
     "gross/y": "€ 3,500,000",
+    "signed": "Nov 9, 2023",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 7,000,000",
     "release_clause": ""
@@ -652,6 +724,17 @@
     "team": "Eintracht Frankfurt",
     "gross/w": "€ 67,308",
     "gross/y": "€ 3,500,000",
+    "signed": "Jun 2, 2023",
+    "expiration": "Jun 30, 2026",
+    "gross_remaining": "€ 7,000,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "André Silva",
+    "team": "Leipzig",
+    "gross/w": "€ 67,308",
+    "gross/y": "€ 3,500,000",
+    "signed": "Jul 2, 2021",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 7,000,000",
     "release_clause": ""
@@ -661,17 +744,9 @@
     "team": "Augsburg",
     "gross/w": "€ 67,308",
     "gross/y": "€ 3,500,000",
+    "signed": "Jan 28, 2025",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 3,500,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "André Silva",
-    "team": "Leipzig",
-    "gross/w": "€ 67,308",
-    "gross/y": "€ 3,500,000",
-    "expiration": "Jun 30, 2026",
-    "gross_remaining": "€ 7,000,000",
     "release_clause": ""
   },
   {
@@ -679,6 +754,7 @@
     "team": "Eintracht Frankfurt",
     "gross/w": "€ 67,308",
     "gross/y": "€ 3,500,000",
+    "signed": "Jul 1, 2024",
     "expiration": "Jun 30, 2029",
     "gross_remaining": "€ 17,500,000",
     "release_clause": ""
@@ -688,6 +764,7 @@
     "team": "Stuttgart",
     "gross/w": "€ 67,308",
     "gross/y": "€ 3,500,000",
+    "signed": "Apr 12, 2024",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 7,000,000",
     "release_clause": ""
@@ -697,6 +774,7 @@
     "team": "Eintracht Frankfurt",
     "gross/w": "€ 67,308",
     "gross/y": "€ 3,500,000",
+    "signed": "Feb 3, 2023",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 7,000,000",
     "release_clause": ""
@@ -706,6 +784,7 @@
     "team": "Monchengladbach",
     "gross/w": "€ 67,308",
     "gross/y": "€ 3,500,000",
+    "signed": "Sep 21, 2023",
     "expiration": "Jun 30, 2027",
     "gross_remaining": "€ 10,500,000",
     "release_clause": "€ 10,000,000"
@@ -715,6 +794,7 @@
     "team": "Bayer Leverkusen",
     "gross/w": "€ 65,385",
     "gross/y": "€ 3,400,000",
+    "signed": "Jul 18, 2024",
     "expiration": "Jun 30, 2029",
     "gross_remaining": "€ 17,000,000",
     "release_clause": ""
@@ -724,6 +804,7 @@
     "team": "Eintracht Frankfurt",
     "gross/w": "€ 65,385",
     "gross/y": "€ 3,400,000",
+    "signed": "Jan 24, 2025",
     "expiration": "Jun 30, 2030",
     "gross_remaining": "€ 20,400,000",
     "release_clause": ""
@@ -733,6 +814,7 @@
     "team": "Wolfsburg",
     "gross/w": "€ 65,385",
     "gross/y": "€ 3,400,000",
+    "signed": "Jan 17, 2025",
     "expiration": "Jun 30, 2029",
     "gross_remaining": "€ 17,000,000",
     "release_clause": ""
@@ -742,6 +824,7 @@
     "team": "Bayer Leverkusen",
     "gross/w": "€ 65,385",
     "gross/y": "€ 3,400,000",
+    "signed": "Nov 8, 2024",
     "expiration": "Jun 30, 2028",
     "gross_remaining": "€ 13,600,000",
     "release_clause": ""
@@ -751,6 +834,7 @@
     "team": "Monchengladbach",
     "gross/w": "€ 65,385",
     "gross/y": "€ 3,400,000",
+    "signed": "Jul 1, 2023",
     "expiration": "Jun 30, 2028",
     "gross_remaining": "€ 13,600,000",
     "release_clause": ""
@@ -760,6 +844,7 @@
     "team": "Bayer Leverkusen",
     "gross/w": "€ 63,462",
     "gross/y": "€ 3,300,000",
+    "signed": "Jan 31, 2025",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 3,300,000",
     "release_clause": ""
@@ -769,6 +854,7 @@
     "team": "Bayer Leverkusen",
     "gross/w": "€ 61,538",
     "gross/y": "€ 3,200,000",
+    "signed": "Aug 16, 2024",
     "expiration": "Jun 30, 2028",
     "gross_remaining": "€ 12,800,000",
     "release_clause": ""
@@ -778,6 +864,7 @@
     "team": "Eintracht Frankfurt",
     "gross/w": "€ 61,538",
     "gross/y": "€ 3,200,000",
+    "signed": "Feb 2, 2025",
     "expiration": "Jun 30, 2029",
     "gross_remaining": "€ 16,000,000",
     "release_clause": ""
@@ -787,6 +874,7 @@
     "team": "Eintracht Frankfurt",
     "gross/w": "€ 61,538",
     "gross/y": "€ 3,200,000",
+    "signed": "Aug 30, 2024",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 6,400,000",
     "release_clause": ""
@@ -796,6 +884,7 @@
     "team": "Hoffenheim",
     "gross/w": "€ 60,577",
     "gross/y": "€ 3,150,000",
+    "signed": "Jul 23, 2022",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 6,300,000",
     "release_clause": ""
@@ -805,6 +894,7 @@
     "team": "Borussia Dortmund",
     "gross/w": "€ 59,808",
     "gross/y": "€ 3,110,000",
+    "signed": "Feb 3, 2025",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 3,110,000",
     "release_clause": ""
@@ -814,6 +904,7 @@
     "team": "Eintracht Frankfurt",
     "gross/w": "€ 58,077",
     "gross/y": "€ 3,020,000",
+    "signed": "Jul 19, 2024",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 3,020,000",
     "release_clause": ""
@@ -823,6 +914,7 @@
     "team": "Monchengladbach",
     "gross/w": "€ 57,692",
     "gross/y": "€ 3,000,000",
+    "signed": "Jan 19, 2023",
     "expiration": "Jun 30, 2027",
     "gross_remaining": "€ 9,000,000",
     "release_clause": ""
@@ -832,6 +924,7 @@
     "team": "Borussia Dortmund",
     "gross/w": "€ 57,692",
     "gross/y": "€ 3,000,000",
+    "signed": "Oct 2, 2023",
     "expiration": "Jun 30, 2028",
     "gross_remaining": "€ 12,000,000",
     "release_clause": ""
@@ -841,6 +934,7 @@
     "team": "Bayern Munich",
     "gross/w": "€ 57,692",
     "gross/y": "€ 3,000,000",
+    "signed": "Jan 28, 2024",
     "expiration": "Jun 30, 2028",
     "gross_remaining": "€ 12,000,000",
     "release_clause": ""
@@ -850,6 +944,7 @@
     "team": "Eintracht Frankfurt",
     "gross/w": "€ 54,423",
     "gross/y": "€ 2,830,000",
+    "signed": "Feb 3, 2025",
     "expiration": "Jun 30, 2027",
     "gross_remaining": "€ 8,490,000",
     "release_clause": ""
@@ -859,6 +954,7 @@
     "team": "Bayer Leverkusen",
     "gross/w": "€ 54,423",
     "gross/y": "€ 2,830,000",
+    "signed": "Sep 28, 2021",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 2,830,000",
     "release_clause": ""
@@ -868,6 +964,7 @@
     "team": "Stuttgart",
     "gross/w": "€ 54,423",
     "gross/y": "€ 2,830,000",
+    "signed": "Jul 16, 2024",
     "expiration": "Jun 30, 2028",
     "gross_remaining": "€ 11,320,000",
     "release_clause": ""
@@ -877,6 +974,7 @@
     "team": "Stuttgart",
     "gross/w": "€ 54,423",
     "gross/y": "€ 2,830,000",
+    "signed": "Sep 19, 2022",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 5,660,000",
     "release_clause": "€ 15,000,000"
@@ -886,6 +984,7 @@
     "team": "Hoffenheim",
     "gross/w": "€ 54,423",
     "gross/y": "€ 2,830,000",
+    "signed": "Aug 17, 2024",
     "expiration": "Jun 30, 2029",
     "gross_remaining": "€ 14,150,000",
     "release_clause": ""
@@ -895,6 +994,7 @@
     "team": "Leipzig",
     "gross/w": "€ 54,423",
     "gross/y": "€ 2,830,000",
+    "signed": "Jan 1, 2024",
     "expiration": "Jun 30, 2028",
     "gross_remaining": "€ 11,320,000",
     "release_clause": ""
@@ -904,6 +1004,7 @@
     "team": "Stuttgart",
     "gross/w": "€ 54,423",
     "gross/y": "€ 2,830,000",
+    "signed": "Aug 23, 2024",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 2,830,000",
     "release_clause": ""
@@ -913,6 +1014,7 @@
     "team": "Leipzig",
     "gross/w": "€ 54,423",
     "gross/y": "€ 2,830,000",
+    "signed": "Aug 26, 2024",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 2,830,000",
     "release_clause": ""
@@ -922,6 +1024,7 @@
     "team": "Wolfsburg",
     "gross/w": "€ 54,423",
     "gross/y": "€ 2,830,000",
+    "signed": "Jul 16, 2022",
     "expiration": "Jun 30, 2027",
     "gross_remaining": "€ 8,490,000",
     "release_clause": ""
@@ -931,6 +1034,7 @@
     "team": "Wolfsburg",
     "gross/w": "€ 54,231",
     "gross/y": "€ 2,820,000",
+    "signed": "Jul 16, 2021",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 5,640,000",
     "release_clause": ""
@@ -940,6 +1044,7 @@
     "team": "Eintracht Frankfurt",
     "gross/w": "€ 53,846",
     "gross/y": "€ 2,800,000",
+    "signed": "Jul 5, 2023",
     "expiration": "Jun 30, 2027",
     "gross_remaining": "€ 8,400,000",
     "release_clause": ""
@@ -949,6 +1054,7 @@
     "team": "Hoffenheim",
     "gross/w": "€ 51,923",
     "gross/y": "€ 2,700,000",
+    "signed": "Dec 17, 2021",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 5,400,000",
     "release_clause": ""
@@ -958,6 +1064,7 @@
     "team": "Augsburg",
     "gross/w": "€ 50,769",
     "gross/y": "€ 2,640,000",
+    "signed": "Jul 5, 2024",
     "expiration": "Jun 30, 2027",
     "gross_remaining": "€ 7,920,000",
     "release_clause": ""
@@ -967,6 +1074,7 @@
     "team": "Union Berlin",
     "gross/w": "€ 50,000",
     "gross/y": "€ 2,600,000",
+    "signed": "Jul 19, 2023",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 2,600,000",
     "release_clause": ""
@@ -976,6 +1084,7 @@
     "team": "Bayer Leverkusen",
     "gross/w": "€ 50,000",
     "gross/y": "€ 2,600,000",
+    "signed": "Aug 30, 2022",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 5,200,000",
     "release_clause": ""
@@ -985,6 +1094,7 @@
     "team": "Borussia Dortmund",
     "gross/w": "€ 48,077",
     "gross/y": "€ 2,500,000",
+    "signed": "Jan 31, 2024",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 5,000,000",
     "release_clause": ""
@@ -994,6 +1104,7 @@
     "team": "Stuttgart",
     "gross/w": "€ 48,077",
     "gross/y": "€ 2,500,000",
+    "signed": "Feb 1, 2024",
     "expiration": "Jun 30, 2028",
     "gross_remaining": "€ 10,000,000",
     "release_clause": "€ 26,000,000"
@@ -1003,6 +1114,7 @@
     "team": "Leipzig",
     "gross/w": "€ 48,077",
     "gross/y": "€ 2,500,000",
+    "signed": "Jul 1, 2023",
     "expiration": "Jun 30, 2028",
     "gross_remaining": "€ 10,000,000",
     "release_clause": ""
@@ -1012,6 +1124,7 @@
     "team": "Leipzig",
     "gross/w": "€ 48,077",
     "gross/y": "€ 2,500,000",
+    "signed": "Oct 19, 2023",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 5,000,000",
     "release_clause": ""
@@ -1021,6 +1134,7 @@
     "team": "Werder Bremen",
     "gross/w": "€ 48,077",
     "gross/y": "€ 2,500,000",
+    "signed": "Oct 26, 2022",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 2,500,000",
     "release_clause": ""
@@ -1030,6 +1144,7 @@
     "team": "Monchengladbach",
     "gross/w": "€ 48,077",
     "gross/y": "€ 2,500,000",
+    "signed": "Jun 18, 2024",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 5,000,000",
     "release_clause": ""
@@ -1039,6 +1154,7 @@
     "team": "Eintracht Frankfurt",
     "gross/w": "€ 47,308",
     "gross/y": "€ 2,460,000",
+    "signed": "Jul 1, 2024",
     "expiration": "Jun 30, 2027",
     "gross_remaining": "€ 7,380,000",
     "release_clause": "€ 19,000,000"
@@ -1048,6 +1164,7 @@
     "team": "Augsburg",
     "gross/w": "€ 47,115",
     "gross/y": "€ 2,450,000",
+    "signed": "Aug 30, 2024",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 2,450,000",
     "release_clause": ""
@@ -1057,6 +1174,7 @@
     "team": "Monchengladbach",
     "gross/w": "€ 47,115",
     "gross/y": "€ 2,450,000",
+    "signed": "Jul 1, 2024",
     "expiration": "Jun 30, 2028",
     "gross_remaining": "€ 9,800,000",
     "release_clause": "€ 7,000,000"
@@ -1066,6 +1184,7 @@
     "team": "Monchengladbach",
     "gross/w": "€ 46,154",
     "gross/y": "€ 2,400,000",
+    "signed": "Aug 6, 2021",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 4,800,000",
     "release_clause": ""
@@ -1075,6 +1194,7 @@
     "team": "Union Berlin",
     "gross/w": "€ 46,154",
     "gross/y": "€ 2,400,000",
+    "signed": "Aug 17, 2023",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 4,800,000",
     "release_clause": ""
@@ -1084,6 +1204,7 @@
     "team": "Bayer Leverkusen",
     "gross/w": "€ 45,385",
     "gross/y": "€ 2,360,000",
+    "signed": "Jan 29, 2025",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 2,360,000",
     "release_clause": ""
@@ -1093,6 +1214,7 @@
     "team": "Leipzig",
     "gross/w": "€ 43,654",
     "gross/y": "€ 2,270,000",
+    "signed": "Jan 10, 2025",
     "expiration": "Jun 30, 2027",
     "gross_remaining": "€ 6,810,000",
     "release_clause": ""
@@ -1102,6 +1224,7 @@
     "team": "Hoffenheim",
     "gross/w": "€ 43,462",
     "gross/y": "€ 2,260,000",
+    "signed": "Aug 27, 2024",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 2,260,000",
     "release_clause": ""
@@ -1111,6 +1234,7 @@
     "team": "Augsburg",
     "gross/w": "€ 43,462",
     "gross/y": "€ 2,260,000",
+    "signed": "Jul 1, 2024",
     "expiration": "Jun 30, 2028",
     "gross_remaining": "€ 9,040,000",
     "release_clause": ""
@@ -1120,6 +1244,7 @@
     "team": "Hoffenheim",
     "gross/w": "€ 43,462",
     "gross/y": "€ 2,260,000",
+    "signed": "Feb 3, 2025",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 2,260,000",
     "release_clause": ""
@@ -1129,6 +1254,7 @@
     "team": "Werder Bremen",
     "gross/w": "€ 43,462",
     "gross/y": "€ 2,260,000",
+    "signed": "Apr 13, 2025",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 4,520,000",
     "release_clause": "€ 7,000,000"
@@ -1138,6 +1264,7 @@
     "team": "Stuttgart",
     "gross/w": "€ 43,462",
     "gross/y": "€ 2,260,000",
+    "signed": "Jan 8, 2025",
     "expiration": "Jun 30, 2027",
     "gross_remaining": "€ 6,780,000",
     "release_clause": ""
@@ -1147,6 +1274,7 @@
     "team": "Leipzig",
     "gross/w": "€ 42,308",
     "gross/y": "€ 2,200,000",
+    "signed": "Jul 1, 2023",
     "expiration": "Jun 30, 2028",
     "gross_remaining": "€ 8,800,000",
     "release_clause": ""
@@ -1156,6 +1284,7 @@
     "team": "Hoffenheim",
     "gross/w": "€ 41,538",
     "gross/y": "€ 2,160,000",
+    "signed": "Apr 20, 2023",
     "expiration": "Jun 30, 2027",
     "gross_remaining": "€ 6,480,000",
     "release_clause": ""
@@ -1165,6 +1294,7 @@
     "team": "Hoffenheim",
     "gross/w": "€ 40,385",
     "gross/y": "€ 2,100,000",
+    "signed": "Jul 6, 2023",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 4,200,000",
     "release_clause": ""
@@ -1174,6 +1304,7 @@
     "team": "Freiburg",
     "gross/w": "€ 40,385",
     "gross/y": "€ 2,100,000",
+    "signed": "Jul 1, 2024",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 2,100,000",
     "release_clause": ""
@@ -1183,6 +1314,7 @@
     "team": "Augsburg",
     "gross/w": "€ 40,000",
     "gross/y": "€ 2,080,000",
+    "signed": "Aug 8, 2024",
     "expiration": "Jun 30, 2027",
     "gross_remaining": "€ 6,240,000",
     "release_clause": ""
@@ -1192,6 +1324,7 @@
     "team": "Hoffenheim",
     "gross/w": "€ 40,000",
     "gross/y": "€ 2,080,000",
+    "signed": "Aug 5, 2024",
     "expiration": "Jun 30, 2028",
     "gross_remaining": "€ 8,320,000",
     "release_clause": ""
@@ -1201,6 +1334,7 @@
     "team": "Hoffenheim",
     "gross/w": "€ 40,000",
     "gross/y": "€ 2,080,000",
+    "signed": "Jan 2, 2025",
     "expiration": "Jun 30, 2029",
     "gross_remaining": "€ 10,400,000",
     "release_clause": ""
@@ -1210,6 +1344,7 @@
     "team": "Wolfsburg",
     "gross/w": "€ 39,231",
     "gross/y": "€ 2,040,000",
+    "signed": "Jan 31, 2022",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 4,080,000",
     "release_clause": ""
@@ -1219,6 +1354,7 @@
     "team": "Bayer Leverkusen",
     "gross/w": "€ 38,462",
     "gross/y": "€ 2,000,000",
+    "signed": "Jul 22, 2023",
     "expiration": "Jun 30, 2028",
     "gross_remaining": "€ 8,000,000",
     "release_clause": ""
@@ -1228,6 +1364,7 @@
     "team": "Monchengladbach",
     "gross/w": "€ 38,462",
     "gross/y": "€ 2,000,000",
+    "signed": "Jan 11, 2022",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 4,000,000",
     "release_clause": ""
@@ -1237,6 +1374,7 @@
     "team": "Bayern Munich",
     "gross/w": "€ 38,462",
     "gross/y": "€ 2,000,000",
+    "signed": "Nov 28, 2023",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 2,000,000",
     "release_clause": ""
@@ -1246,6 +1384,7 @@
     "team": "Wolfsburg",
     "gross/w": "€ 38,462",
     "gross/y": "€ 2,000,000",
+    "signed": "Jul 1, 2022",
     "expiration": "Jun 30, 2027",
     "gross_remaining": "€ 6,000,000",
     "release_clause": ""
@@ -1255,6 +1394,7 @@
     "team": "Wolfsburg",
     "gross/w": "€ 38,462",
     "gross/y": "€ 2,000,000",
+    "signed": "Jul 16, 2021",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 2,000,000",
     "release_clause": ""
@@ -1264,6 +1404,7 @@
     "team": "Hoffenheim",
     "gross/w": "€ 38,462",
     "gross/y": "€ 2,000,000",
+    "signed": "Jan 27, 2022",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 2,000,000",
     "release_clause": ""
@@ -1273,6 +1414,7 @@
     "team": "Heidenheim",
     "gross/w": "€ 38,462",
     "gross/y": "€ 2,000,000",
+    "signed": "Jul 1, 2024",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 2,000,000",
     "release_clause": ""
@@ -1282,6 +1424,7 @@
     "team": "Werder Bremen",
     "gross/w": "€ 38,077",
     "gross/y": "€ 1,980,000",
+    "signed": "May 17, 2024",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 1,980,000",
     "release_clause": ""
@@ -1291,6 +1434,7 @@
     "team": "Hoffenheim",
     "gross/w": "€ 36,923",
     "gross/y": "€ 1,920,000",
+    "signed": "Jul 1, 2024",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 1,920,000",
     "release_clause": "€ 80,000,000"
@@ -1300,6 +1444,7 @@
     "team": "Hoffenheim",
     "gross/w": "€ 36,538",
     "gross/y": "€ 1,900,000",
+    "signed": "Sep 1, 2023",
     "expiration": "Jun 30, 2027",
     "gross_remaining": "€ 5,700,000",
     "release_clause": ""
@@ -1309,6 +1454,7 @@
     "team": "Wolfsburg",
     "gross/w": "€ 36,538",
     "gross/y": "€ 1,900,000",
+    "signed": "Aug 12, 2023",
     "expiration": "Jun 30, 2027",
     "gross_remaining": "€ 5,700,000",
     "release_clause": ""
@@ -1318,6 +1464,7 @@
     "team": "Mainz",
     "gross/w": "€ 36,346",
     "gross/y": "€ 1,890,000",
+    "signed": "May 5, 2023",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 3,780,000",
     "release_clause": ""
@@ -1327,15 +1474,17 @@
     "team": "Monchengladbach",
     "gross/w": "€ 36,346",
     "gross/y": "€ 1,890,000",
+    "signed": "Jul 2, 2022",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 3,780,000",
-    "release_clause": ""
+    "release_clause": "€ 13,500,000"
   },
   {
     "player_name": "Hugo Larsson",
     "team": "Eintracht Frankfurt",
     "gross/w": "€ 36,346",
     "gross/y": "€ 1,890,000",
+    "signed": "Oct 4, 2024",
     "expiration": "Jun 30, 2029",
     "gross_remaining": "€ 9,450,000",
     "release_clause": ""
@@ -1345,6 +1494,7 @@
     "team": "Wolfsburg",
     "gross/w": "€ 36,346",
     "gross/y": "€ 1,890,000",
+    "signed": "Aug 30, 2024",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 1,890,000",
     "release_clause": ""
@@ -1354,6 +1504,7 @@
     "team": "Bochum",
     "gross/w": "€ 36,346",
     "gross/y": "€ 1,890,000",
+    "signed": "Jul 1, 2024",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 3,780,000",
     "release_clause": ""
@@ -1363,6 +1514,7 @@
     "team": "Stuttgart",
     "gross/w": "€ 36,346",
     "gross/y": "€ 1,890,000",
+    "signed": "Aug 31, 2024",
     "expiration": "Jun 30, 2028",
     "gross_remaining": "€ 7,560,000",
     "release_clause": ""
@@ -1372,6 +1524,7 @@
     "team": "Stuttgart",
     "gross/w": "€ 36,346",
     "gross/y": "€ 1,890,000",
+    "signed": "Jan 12, 2024",
     "expiration": "Jun 30, 2028",
     "gross_remaining": "€ 7,560,000",
     "release_clause": "€ 20,000,000"
@@ -1381,6 +1534,7 @@
     "team": "Mainz",
     "gross/w": "€ 36,346",
     "gross/y": "€ 1,890,000",
+    "signed": "Apr 11, 2025",
     "expiration": "Jun 30, 2028",
     "gross_remaining": "€ 7,560,000",
     "release_clause": ""
@@ -1390,6 +1544,7 @@
     "team": "Mainz",
     "gross/w": "€ 36,346",
     "gross/y": "€ 1,890,000",
+    "signed": "Jun 27, 2023",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 3,780,000",
     "release_clause": ""
@@ -1399,6 +1554,7 @@
     "team": "Mainz",
     "gross/w": "€ 36,346",
     "gross/y": "€ 1,890,000",
+    "signed": "Jan 1, 2024",
     "expiration": "Jun 30, 2027",
     "gross_remaining": "€ 5,670,000",
     "release_clause": ""
@@ -1408,26 +1564,9 @@
     "team": "Freiburg",
     "gross/w": "€ 36,154",
     "gross/y": "€ 1,880,000",
+    "signed": "Jan 31, 2025",
     "expiration": "Jun 30, 2030",
     "gross_remaining": "€ 11,280,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Stefan Bell",
-    "team": "Mainz",
-    "gross/w": "€ 34,615",
-    "gross/y": "€ 1,800,000",
-    "expiration": "Jun 30, 2025",
-    "gross_remaining": "€ 1,800,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Aleksandar Pavlovic",
-    "team": "Bayern Munich",
-    "gross/w": "€ 34,615",
-    "gross/y": "€ 1,800,000",
-    "expiration": "Jun 30, 2029",
-    "gross_remaining": "€ 9,000,000",
     "release_clause": ""
   },
   {
@@ -1435,8 +1574,29 @@
     "team": "Bayer Leverkusen",
     "gross/w": "€ 34,615",
     "gross/y": "€ 1,800,000",
+    "signed": "Aug 27, 2023",
     "expiration": "Jun 30, 2028",
     "gross_remaining": "€ 7,200,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Aleksandar Pavlovic",
+    "team": "Bayern Munich",
+    "gross/w": "€ 34,615",
+    "gross/y": "€ 1,800,000",
+    "signed": "Jun 16, 2024",
+    "expiration": "Jun 30, 2029",
+    "gross_remaining": "€ 9,000,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Stefan Bell",
+    "team": "Mainz",
+    "gross/w": "€ 34,615",
+    "gross/y": "€ 1,800,000",
+    "signed": "May 2, 2025",
+    "expiration": "Jun 30, 2026",
+    "gross_remaining": "€ 3,600,000",
     "release_clause": ""
   },
   {
@@ -1444,6 +1604,7 @@
     "team": "Leipzig",
     "gross/w": "€ 34,615",
     "gross/y": "€ 1,800,000",
+    "signed": "Jul 18, 2023",
     "expiration": "Jun 30, 2028",
     "gross_remaining": "€ 7,200,000",
     "release_clause": ""
@@ -1453,6 +1614,7 @@
     "team": "Mainz",
     "gross/w": "€ 34,615",
     "gross/y": "€ 1,800,000",
+    "signed": "Dec 1, 2024",
     "expiration": "Jun 30, 2028",
     "gross_remaining": "€ 7,200,000",
     "release_clause": ""
@@ -1462,6 +1624,7 @@
     "team": "Stuttgart",
     "gross/w": "€ 34,615",
     "gross/y": "€ 1,800,000",
+    "signed": "Dec 17, 2024",
     "expiration": "Jun 30, 2029",
     "gross_remaining": "€ 9,000,000",
     "release_clause": ""
@@ -1471,6 +1634,7 @@
     "team": "Wolfsburg",
     "gross/w": "€ 32,692",
     "gross/y": "€ 1,700,000",
+    "signed": "Aug 5, 2023",
     "expiration": "Jun 30, 2027",
     "gross_remaining": "€ 5,100,000",
     "release_clause": ""
@@ -1480,6 +1644,7 @@
     "team": "Mainz",
     "gross/w": "€ 32,692",
     "gross/y": "€ 1,700,000",
+    "signed": "Jan 28, 2025",
     "expiration": "Jun 30, 2028",
     "gross_remaining": "€ 6,800,000",
     "release_clause": ""
@@ -1489,6 +1654,7 @@
     "team": "Mainz",
     "gross/w": "€ 32,692",
     "gross/y": "€ 1,700,000",
+    "signed": "May 21, 2024",
     "expiration": "Jun 30, 2028",
     "gross_remaining": "€ 6,800,000",
     "release_clause": ""
@@ -1498,17 +1664,9 @@
     "team": "Mainz",
     "gross/w": "€ 32,308",
     "gross/y": "€ 1,680,000",
+    "signed": "Jul 1, 2022",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 3,360,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Josip Juranovic",
-    "team": "Union Berlin",
-    "gross/w": "€ 30,769",
-    "gross/y": "€ 1,600,000",
-    "expiration": "Jun 30, 2027",
-    "gross_remaining": "€ 4,800,000",
     "release_clause": ""
   },
   {
@@ -1516,26 +1674,29 @@
     "team": "Union Berlin",
     "gross/w": "€ 30,769",
     "gross/y": "€ 1,600,000",
+    "signed": "Jul 1, 2024",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 1,600,000",
     "release_clause": ""
   },
   {
-    "player_name": "Tiago Tomás",
-    "team": "Wolfsburg",
-    "gross/w": "€ 28,846",
-    "gross/y": "€ 1,500,000",
+    "player_name": "Josip Juranovic",
+    "team": "Union Berlin",
+    "gross/w": "€ 30,769",
+    "gross/y": "€ 1,600,000",
+    "signed": "Jan 22, 2023",
     "expiration": "Jun 30, 2027",
-    "gross_remaining": "€ 4,500,000",
+    "gross_remaining": "€ 4,800,000",
     "release_clause": ""
   },
   {
-    "player_name": "Kevin Akpoguma",
-    "team": "Hoffenheim",
+    "player_name": "Jérôme Roussillon",
+    "team": "Union Berlin",
     "gross/w": "€ 28,846",
     "gross/y": "€ 1,500,000",
-    "expiration": "Jun 30, 2026",
-    "gross_remaining": "€ 3,000,000",
+    "signed": "Jan 12, 2023",
+    "expiration": "Jun 30, 2025",
+    "gross_remaining": "€ 1,500,000",
     "release_clause": ""
   },
   {
@@ -1543,17 +1704,9 @@
     "team": "Union Berlin",
     "gross/w": "€ 28,846",
     "gross/y": "€ 1,500,000",
+    "signed": "Sep 4, 2024",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 1,500,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Daniel Peretz",
-    "team": "Bayern Munich",
-    "gross/w": "€ 28,846",
-    "gross/y": "€ 1,500,000",
-    "expiration": "Jun 30, 2028",
-    "gross_remaining": "€ 6,000,000",
     "release_clause": ""
   },
   {
@@ -1561,8 +1714,69 @@
     "team": "Heidenheim",
     "gross/w": "€ 28,846",
     "gross/y": "€ 1,500,000",
+    "signed": "Sep 1, 2024",
     "expiration": "Jun 30, 2028",
     "gross_remaining": "€ 6,000,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Ibrahima Sissoko",
+    "team": "Bochum",
+    "gross/w": "€ 28,846",
+    "gross/y": "€ 1,500,000",
+    "signed": "Jul 1, 2024",
+    "expiration": "Jun 30, 2027",
+    "gross_remaining": "€ 4,500,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Tuta",
+    "team": "Eintracht Frankfurt",
+    "gross/w": "€ 28,846",
+    "gross/y": "€ 1,500,000",
+    "signed": "May 17, 2022",
+    "expiration": "Jun 30, 2026",
+    "gross_remaining": "€ 3,000,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Antonio Nusa",
+    "team": "Leipzig",
+    "gross/w": "€ 28,846",
+    "gross/y": "€ 1,500,000",
+    "signed": "Aug 13, 2024",
+    "expiration": "Jun 30, 2029",
+    "gross_remaining": "€ 7,500,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Daniel Peretz",
+    "team": "Bayern Munich",
+    "gross/w": "€ 28,846",
+    "gross/y": "€ 1,500,000",
+    "signed": "Aug 25, 2023",
+    "expiration": "Jun 30, 2028",
+    "gross_remaining": "€ 6,000,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Kevin Akpoguma",
+    "team": "Hoffenheim",
+    "gross/w": "€ 28,846",
+    "gross/y": "€ 1,500,000",
+    "signed": "Jun 21, 2023",
+    "expiration": "Jun 30, 2026",
+    "gross_remaining": "€ 3,000,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Tiago Tomás",
+    "team": "Wolfsburg",
+    "gross/w": "€ 28,846",
+    "gross/y": "€ 1,500,000",
+    "signed": "Jul 5, 2023",
+    "expiration": "Jun 30, 2027",
+    "gross_remaining": "€ 4,500,000",
     "release_clause": ""
   },
   {
@@ -1570,6 +1784,7 @@
     "team": "Wolfsburg",
     "gross/w": "€ 28,846",
     "gross/y": "€ 1,500,000",
+    "signed": "Jul 1, 2024",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 1,500,000",
     "release_clause": ""
@@ -1579,42 +1794,7 @@
     "team": "Werder Bremen",
     "gross/w": "€ 28,846",
     "gross/y": "€ 1,500,000",
-    "expiration": "Jun 30, 2025",
-    "gross_remaining": "€ 1,500,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Tuta",
-    "team": "Eintracht Frankfurt",
-    "gross/w": "€ 28,846",
-    "gross/y": "€ 1,500,000",
-    "expiration": "Jun 30, 2026",
-    "gross_remaining": "€ 3,000,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Ibrahima Sissoko",
-    "team": "Bochum",
-    "gross/w": "€ 28,846",
-    "gross/y": "€ 1,500,000",
-    "expiration": "Jun 30, 2027",
-    "gross_remaining": "€ 4,500,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Antonio Nusa",
-    "team": "Leipzig",
-    "gross/w": "€ 28,846",
-    "gross/y": "€ 1,500,000",
-    "expiration": "Jun 30, 2029",
-    "gross_remaining": "€ 7,500,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Jérôme Roussillon",
-    "team": "Union Berlin",
-    "gross/w": "€ 28,846",
-    "gross/y": "€ 1,500,000",
+    "signed": "Feb 3, 2025",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 1,500,000",
     "release_clause": ""
@@ -1624,17 +1804,9 @@
     "team": "Werder Bremen",
     "gross/w": "€ 27,692",
     "gross/y": "€ 1,440,000",
+    "signed": "Jul 1, 2022",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 2,880,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Kevin Stöger",
-    "team": "Monchengladbach",
-    "gross/w": "€ 27,308",
-    "gross/y": "€ 1,420,000",
-    "expiration": "Jun 30, 2027",
-    "gross_remaining": "€ 4,260,000",
     "release_clause": ""
   },
   {
@@ -1642,8 +1814,19 @@
     "team": "Mainz",
     "gross/w": "€ 27,308",
     "gross/y": "€ 1,420,000",
+    "signed": "Aug 29, 2024",
     "expiration": "Jun 30, 2028",
     "gross_remaining": "€ 5,680,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Kevin Stöger",
+    "team": "Monchengladbach",
+    "gross/w": "€ 27,308",
+    "gross/y": "€ 1,420,000",
+    "signed": "Jul 1, 2024",
+    "expiration": "Jun 30, 2027",
+    "gross_remaining": "€ 4,260,000",
     "release_clause": ""
   },
   {
@@ -1651,6 +1834,7 @@
     "team": "Bochum",
     "gross/w": "€ 27,115",
     "gross/y": "€ 1,410,000",
+    "signed": "Feb 1, 2025",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 1,410,000",
     "release_clause": ""
@@ -1660,6 +1844,7 @@
     "team": "Bochum",
     "gross/w": "€ 27,115",
     "gross/y": "€ 1,410,000",
+    "signed": "Aug 9, 2024",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 1,410,000",
     "release_clause": ""
@@ -1669,6 +1854,7 @@
     "team": "Bochum",
     "gross/w": "€ 26,923",
     "gross/y": "€ 1,400,000",
+    "signed": "Jan 30, 2025",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 1,400,000",
     "release_clause": ""
@@ -1678,6 +1864,7 @@
     "team": "Mainz",
     "gross/w": "€ 26,923",
     "gross/y": "€ 1,400,000",
+    "signed": "Aug 28, 2024",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 1,400,000",
     "release_clause": ""
@@ -1687,44 +1874,19 @@
     "team": "Augsburg",
     "gross/w": "€ 26,538",
     "gross/y": "€ 1,380,000",
+    "signed": "Jul 27, 2022",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 2,760,000",
     "release_clause": ""
   },
   {
-    "player_name": "Keven Schlotterbeck",
-    "team": "Augsburg",
-    "gross/w": "€ 25,385",
-    "gross/y": "€ 1,320,000",
-    "expiration": "Jun 30, 2027",
-    "gross_remaining": "€ 3,960,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Lennard Maloney",
-    "team": "Mainz",
-    "gross/w": "€ 25,385",
-    "gross/y": "€ 1,320,000",
+    "player_name": "Marco Friedl",
+    "team": "Werder Bremen",
+    "gross/w": "€ 25,962",
+    "gross/y": "€ 1,350,000",
+    "signed": "Apr 18, 2025",
     "expiration": "Jun 30, 2028",
-    "gross_remaining": "€ 5,280,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Ameen Al-Dakhil",
-    "team": "Stuttgart",
-    "gross/w": "€ 25,385",
-    "gross/y": "€ 1,320,000",
-    "expiration": "Jun 30, 2028",
-    "gross_remaining": "€ 5,280,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Niklas Dorsch",
-    "team": "Heidenheim",
-    "gross/w": "€ 25,385",
-    "gross/y": "€ 1,320,000",
-    "expiration": "Jun 30, 2028",
-    "gross_remaining": "€ 5,280,000",
+    "gross_remaining": "€ 5,400,000",
     "release_clause": ""
   },
   {
@@ -1732,8 +1894,19 @@
     "team": "Leipzig",
     "gross/w": "€ 25,385",
     "gross/y": "€ 1,320,000",
+    "signed": "Jul 1, 2024",
     "expiration": "Jun 30, 2029",
     "gross_remaining": "€ 6,600,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Niklas Dorsch",
+    "team": "Heidenheim",
+    "gross/w": "€ 25,385",
+    "gross/y": "€ 1,320,000",
+    "signed": "Aug 30, 2024",
+    "expiration": "Jun 30, 2028",
+    "gross_remaining": "€ 5,280,000",
     "release_clause": ""
   },
   {
@@ -1741,17 +1914,9 @@
     "team": "Hoffenheim",
     "gross/w": "€ 25,385",
     "gross/y": "€ 1,320,000",
+    "signed": "Aug 25, 2024",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 1,320,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Dani de Wit",
-    "team": "Bochum",
-    "gross/w": "€ 25,385",
-    "gross/y": "€ 1,320,000",
-    "expiration": "Jun 30, 2028",
-    "gross_remaining": "€ 5,280,000",
     "release_clause": ""
   },
   {
@@ -1759,8 +1924,49 @@
     "team": "Bochum",
     "gross/w": "€ 25,385",
     "gross/y": "€ 1,320,000",
+    "signed": "Aug 2, 2023",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 1,320,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Lennard Maloney",
+    "team": "Mainz",
+    "gross/w": "€ 25,385",
+    "gross/y": "€ 1,320,000",
+    "signed": "Jan 21, 2025",
+    "expiration": "Jun 30, 2028",
+    "gross_remaining": "€ 5,280,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Dani de Wit",
+    "team": "Bochum",
+    "gross/w": "€ 25,385",
+    "gross/y": "€ 1,320,000",
+    "signed": "Jul 3, 2024",
+    "expiration": "Jun 30, 2028",
+    "gross_remaining": "€ 5,280,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Keven Schlotterbeck",
+    "team": "Augsburg",
+    "gross/w": "€ 25,385",
+    "gross/y": "€ 1,320,000",
+    "signed": "Jul 1, 2024",
+    "expiration": "Jun 30, 2027",
+    "gross_remaining": "€ 3,960,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Ameen Al-Dakhil",
+    "team": "Stuttgart",
+    "gross/w": "€ 25,385",
+    "gross/y": "€ 1,320,000",
+    "signed": "Aug 27, 2024",
+    "expiration": "Jun 30, 2028",
+    "gross_remaining": "€ 5,280,000",
     "release_clause": ""
   },
   {
@@ -1768,6 +1974,7 @@
     "team": "Wolfsburg",
     "gross/w": "€ 25,000",
     "gross/y": "€ 1,300,000",
+    "signed": "Jan 31, 2024",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 1,300,000",
     "release_clause": ""
@@ -1777,17 +1984,9 @@
     "team": "Monchengladbach",
     "gross/w": "€ 24,038",
     "gross/y": "€ 1,250,000",
+    "signed": "Jul 11, 2023",
     "expiration": "Jun 30, 2028",
     "gross_remaining": "€ 5,000,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Issa Kabore",
-    "team": "Werder Bremen",
-    "gross/w": "€ 24,038",
-    "gross/y": "€ 1,250,000",
-    "expiration": "Jun 30, 2025",
-    "gross_remaining": "€ 1,250,000",
     "release_clause": ""
   },
   {
@@ -1795,17 +1994,29 @@
     "team": "Eintracht Frankfurt",
     "gross/w": "€ 24,038",
     "gross/y": "€ 1,250,000",
+    "signed": "Feb 27, 2025",
     "expiration": "Jun 30, 2030",
     "gross_remaining": "€ 7,500,000",
     "release_clause": ""
   },
   {
-    "player_name": "Jeffrey Gouweleeuw",
+    "player_name": "Issa Kabore",
+    "team": "Werder Bremen",
+    "gross/w": "€ 24,038",
+    "gross/y": "€ 1,250,000",
+    "signed": "Jan 6, 2025",
+    "expiration": "Jun 30, 2025",
+    "gross_remaining": "€ 1,250,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Finn Dahmen",
     "team": "Augsburg",
     "gross/w": "€ 23,654",
     "gross/y": "€ 1,230,000",
-    "expiration": "Jun 30, 2026",
-    "gross_remaining": "€ 2,460,000",
+    "signed": "May 2, 2025",
+    "expiration": "Jun 30, 2027",
+    "gross_remaining": "€ 3,690,000",
     "release_clause": ""
   },
   {
@@ -1813,8 +2024,19 @@
     "team": "Wolfsburg",
     "gross/w": "€ 23,654",
     "gross/y": "€ 1,230,000",
+    "signed": "Jan 27, 2025",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 1,230,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Jeffrey Gouweleeuw",
+    "team": "Augsburg",
+    "gross/w": "€ 23,654",
+    "gross/y": "€ 1,230,000",
+    "signed": "Feb 20, 2025",
+    "expiration": "Jun 30, 2026",
+    "gross_remaining": "€ 2,460,000",
     "release_clause": ""
   },
   {
@@ -1822,6 +2044,7 @@
     "team": "Augsburg",
     "gross/w": "€ 23,654",
     "gross/y": "€ 1,230,000",
+    "signed": "Jun 18, 2024",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 2,460,000",
     "release_clause": ""
@@ -1831,17 +2054,19 @@
     "team": "Leipzig",
     "gross/w": "€ 23,462",
     "gross/y": "€ 1,220,000",
+    "signed": "Jul 1, 2024",
     "expiration": "Jun 30, 2029",
     "gross_remaining": "€ 6,100,000",
     "release_clause": ""
   },
   {
-    "player_name": "Joe Scally",
-    "team": "Monchengladbach",
+    "player_name": "Frederik Rönnow",
+    "team": "Union Berlin",
     "gross/w": "€ 23,077",
     "gross/y": "€ 1,200,000",
-    "expiration": "Jun 30, 2027",
-    "gross_remaining": "€ 3,600,000",
+    "signed": "Jan 28, 2024",
+    "expiration": "Jun 30, 2025",
+    "gross_remaining": "€ 1,200,000",
     "release_clause": ""
   },
   {
@@ -1849,6 +2074,7 @@
     "team": "Hoffenheim",
     "gross/w": "€ 23,077",
     "gross/y": "€ 1,200,000",
+    "signed": "Aug 3, 2022",
     "expiration": "Jun 30, 2027",
     "gross_remaining": "€ 3,600,000",
     "release_clause": ""
@@ -1858,8 +2084,39 @@
     "team": "Union Berlin",
     "gross/w": "€ 23,077",
     "gross/y": "€ 1,200,000",
+    "signed": "Oct 24, 2024",
     "expiration": "Jun 30, 2027",
     "gross_remaining": "€ 3,600,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Erhan Masovic",
+    "team": "Bochum",
+    "gross/w": "€ 23,077",
+    "gross/y": "€ 1,200,000",
+    "signed": "Sep 18, 2023",
+    "expiration": "Jun 30, 2026",
+    "gross_remaining": "€ 2,400,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Joe Scally",
+    "team": "Monchengladbach",
+    "gross/w": "€ 23,077",
+    "gross/y": "€ 1,200,000",
+    "signed": "Apr 20, 2023",
+    "expiration": "Jun 30, 2027",
+    "gross_remaining": "€ 3,600,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "András Schäfer",
+    "team": "Union Berlin",
+    "gross/w": "€ 23,077",
+    "gross/y": "€ 1,200,000",
+    "signed": "May 1, 2024",
+    "expiration": "Jun 30, 2025",
+    "gross_remaining": "€ 1,200,000",
     "release_clause": ""
   },
   {
@@ -1867,24 +2124,7 @@
     "team": "Werder Bremen",
     "gross/w": "€ 23,077",
     "gross/y": "€ 1,200,000",
-    "expiration": "Jun 30, 2025",
-    "gross_remaining": "€ 1,200,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Danny da Costa",
-    "team": "Mainz",
-    "gross/w": "€ 23,077",
-    "gross/y": "€ 1,200,000",
-    "expiration": "Jun 30, 2026",
-    "gross_remaining": "€ 2,400,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Timothy Chandler",
-    "team": "Eintracht Frankfurt",
-    "gross/w": "€ 23,077",
-    "gross/y": "€ 1,200,000",
+    "signed": "Jun 11, 2022",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 1,200,000",
     "release_clause": ""
@@ -1894,35 +2134,29 @@
     "team": "Mainz",
     "gross/w": "€ 23,077",
     "gross/y": "€ 1,200,000",
+    "signed": "Jan 13, 2023",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 2,400,000",
     "release_clause": ""
   },
   {
-    "player_name": "András Schäfer",
-    "team": "Union Berlin",
+    "player_name": "Danny da Costa",
+    "team": "Mainz",
     "gross/w": "€ 23,077",
     "gross/y": "€ 1,200,000",
-    "expiration": "Jun 30, 2025",
-    "gross_remaining": "€ 1,200,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Erhan Masovic",
-    "team": "Bochum",
-    "gross/w": "€ 23,077",
-    "gross/y": "€ 1,200,000",
+    "signed": "Apr 11, 2025",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 2,400,000",
     "release_clause": ""
   },
   {
-    "player_name": "Frederik Rönnow",
-    "team": "Union Berlin",
-    "gross/w": "€ 23,077",
-    "gross/y": "€ 1,200,000",
-    "expiration": "Jun 30, 2025",
-    "gross_remaining": "€ 1,200,000",
+    "player_name": "Justin Njinmah",
+    "team": "Werder Bremen",
+    "gross/w": "€ 22,115",
+    "gross/y": "€ 1,150,000",
+    "signed": "Jun 13, 2024",
+    "expiration": "Jun 30, 2027",
+    "gross_remaining": "€ 3,450,000",
     "release_clause": ""
   },
   {
@@ -1930,17 +2164,9 @@
     "team": "Werder Bremen",
     "gross/w": "€ 22,115",
     "gross/y": "€ 1,150,000",
+    "signed": "Feb 28, 2024",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 1,150,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Jakub Kaminski",
-    "team": "Wolfsburg",
-    "gross/w": "€ 22,115",
-    "gross/y": "€ 1,150,000",
-    "expiration": "Jun 30, 2027",
-    "gross_remaining": "€ 3,450,000",
     "release_clause": ""
   },
   {
@@ -1948,69 +2174,27 @@
     "team": "Werder Bremen",
     "gross/w": "€ 22,115",
     "gross/y": "€ 1,150,000",
+    "signed": "Jul 16, 2024",
     "expiration": "Jun 30, 2027",
     "gross_remaining": "€ 3,450,000",
     "release_clause": "€ 9,000,000"
   },
   {
-    "player_name": "Justin Njinmah",
-    "team": "Werder Bremen",
+    "player_name": "Jakub Kaminski",
+    "team": "Wolfsburg",
     "gross/w": "€ 22,115",
     "gross/y": "€ 1,150,000",
+    "signed": "Jul 1, 2022",
     "expiration": "Jun 30, 2027",
     "gross_remaining": "€ 3,450,000",
     "release_clause": ""
   },
   {
-    "player_name": "Alexander Meyer",
-    "team": "Borussia Dortmund",
+    "player_name": "Haris Tabakovic",
+    "team": "Hoffenheim",
     "gross/w": "€ 21,923",
     "gross/y": "€ 1,140,000",
-    "expiration": "Jun 30, 2026",
-    "gross_remaining": "€ 2,280,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Yan Couto",
-    "team": "Borussia Dortmund",
-    "gross/w": "€ 21,923",
-    "gross/y": "€ 1,140,000",
-    "expiration": "Jun 30, 2025",
-    "gross_remaining": "€ 1,140,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Budu Zivzivadze",
-    "team": "Heidenheim",
-    "gross/w": "€ 21,923",
-    "gross/y": "€ 1,140,000",
-    "expiration": "Jun 30, 2029",
-    "gross_remaining": "€ 5,700,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Kevin Müller",
-    "team": "Heidenheim",
-    "gross/w": "€ 21,923",
-    "gross/y": "€ 1,140,000",
-    "expiration": "Jun 30, 2027",
-    "gross_remaining": "€ 3,420,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Michael Gregoritsch",
-    "team": "Freiburg",
-    "gross/w": "€ 21,923",
-    "gross/y": "€ 1,140,000",
-    "expiration": "Jun 30, 2025",
-    "gross_remaining": "€ 1,140,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Alexis Claude-Maurice",
-    "team": "Augsburg",
-    "gross/w": "€ 21,923",
-    "gross/y": "€ 1,140,000",
+    "signed": "Aug 23, 2024",
     "expiration": "Jun 30, 2027",
     "gross_remaining": "€ 3,420,000",
     "release_clause": ""
@@ -2020,26 +2204,69 @@
     "team": "Augsburg",
     "gross/w": "€ 21,923",
     "gross/y": "€ 1,140,000",
+    "signed": "Jan 30, 2025",
     "expiration": "Jun 30, 2029",
     "gross_remaining": "€ 5,700,000",
     "release_clause": ""
   },
   {
-    "player_name": "Haris Tabakovic",
-    "team": "Hoffenheim",
+    "player_name": "Budu Zivzivadze",
+    "team": "Heidenheim",
     "gross/w": "€ 21,923",
     "gross/y": "€ 1,140,000",
+    "signed": "Jan 3, 2025",
+    "expiration": "Jun 30, 2029",
+    "gross_remaining": "€ 5,700,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Michael Gregoritsch",
+    "team": "Freiburg",
+    "gross/w": "€ 21,923",
+    "gross/y": "€ 1,140,000",
+    "signed": "Jul 8, 2022",
+    "expiration": "Jun 30, 2025",
+    "gross_remaining": "€ 1,140,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Yan Couto",
+    "team": "Borussia Dortmund",
+    "gross/w": "€ 21,923",
+    "gross/y": "€ 1,140,000",
+    "signed": "Aug 3, 2024",
+    "expiration": "Jun 30, 2025",
+    "gross_remaining": "€ 1,140,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Kevin Müller",
+    "team": "Heidenheim",
+    "gross/w": "€ 21,923",
+    "gross/y": "€ 1,140,000",
+    "signed": "Jan 23, 2025",
     "expiration": "Jun 30, 2027",
     "gross_remaining": "€ 3,420,000",
     "release_clause": ""
   },
   {
-    "player_name": "Fabian Bredlow",
-    "team": "Stuttgart",
-    "gross/w": "€ 21,731",
-    "gross/y": "€ 1,130,000",
+    "player_name": "Alexis Claude-Maurice",
+    "team": "Augsburg",
+    "gross/w": "€ 21,923",
+    "gross/y": "€ 1,140,000",
+    "signed": "Aug 30, 2024",
+    "expiration": "Jun 30, 2027",
+    "gross_remaining": "€ 3,420,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Alexander Meyer",
+    "team": "Borussia Dortmund",
+    "gross/w": "€ 21,923",
+    "gross/y": "€ 1,140,000",
+    "signed": "Jul 19, 2024",
     "expiration": "Jun 30, 2026",
-    "gross_remaining": "€ 2,260,000",
+    "gross_remaining": "€ 2,280,000",
     "release_clause": ""
   },
   {
@@ -2047,17 +2274,19 @@
     "team": "Stuttgart",
     "gross/w": "€ 21,731",
     "gross/y": "€ 1,130,000",
+    "signed": "Jul 1, 2024",
     "expiration": "Jun 30, 2028",
     "gross_remaining": "€ 4,520,000",
     "release_clause": ""
   },
   {
-    "player_name": "Senne Lynen",
-    "team": "Werder Bremen",
-    "gross/w": "€ 21,154",
-    "gross/y": "€ 1,100,000",
-    "expiration": "Jun 30, 2025",
-    "gross_remaining": "€ 1,100,000",
+    "player_name": "Fabian Bredlow",
+    "team": "Stuttgart",
+    "gross/w": "€ 21,731",
+    "gross/y": "€ 1,130,000",
+    "signed": "Nov 24, 2023",
+    "expiration": "Jun 30, 2026",
+    "gross_remaining": "€ 2,260,000",
     "release_clause": ""
   },
   {
@@ -2065,6 +2294,7 @@
     "team": "Stuttgart",
     "gross/w": "€ 21,154",
     "gross/y": "€ 1,100,000",
+    "signed": "Jul 1, 2024",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 1,100,000",
     "release_clause": ""
@@ -2074,17 +2304,19 @@
     "team": "Union Berlin",
     "gross/w": "€ 21,154",
     "gross/y": "€ 1,100,000",
+    "signed": "Jan 11, 2024",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 1,100,000",
     "release_clause": ""
   },
   {
-    "player_name": "Robin Hack",
-    "team": "Monchengladbach",
-    "gross/w": "€ 20,000",
-    "gross/y": "€ 1,040,000",
-    "expiration": "Jun 30, 2029",
-    "gross_remaining": "€ 5,200,000",
+    "player_name": "Senne Lynen",
+    "team": "Werder Bremen",
+    "gross/w": "€ 21,154",
+    "gross/y": "€ 1,100,000",
+    "signed": "Aug 8, 2023",
+    "expiration": "Jun 30, 2025",
+    "gross_remaining": "€ 1,100,000",
     "release_clause": ""
   },
   {
@@ -2092,8 +2324,19 @@
     "team": "Monchengladbach",
     "gross/w": "€ 20,000",
     "gross/y": "€ 1,040,000",
+    "signed": "Aug 30, 2022",
     "expiration": "Jun 30, 2027",
     "gross_remaining": "€ 3,120,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Robin Hack",
+    "team": "Monchengladbach",
+    "gross/w": "€ 20,000",
+    "gross/y": "€ 1,040,000",
+    "signed": "Oct 17, 2024",
+    "expiration": "Jun 30, 2029",
+    "gross_remaining": "€ 5,200,000",
     "release_clause": ""
   },
   {
@@ -2101,17 +2344,9 @@
     "team": "Monchengladbach",
     "gross/w": "€ 20,000",
     "gross/y": "€ 1,040,000",
+    "signed": "Mar 8, 2024",
     "expiration": "Jun 30, 2029",
     "gross_remaining": "€ 5,200,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Christian Günter",
-    "team": "Freiburg",
-    "gross/w": "€ 19,615",
-    "gross/y": "€ 1,020,000",
-    "expiration": "Jun 30, 2025",
-    "gross_remaining": "€ 1,020,000",
     "release_clause": ""
   },
   {
@@ -2119,26 +2354,19 @@
     "team": "Werder Bremen",
     "gross/w": "€ 19,615",
     "gross/y": "€ 1,020,000",
+    "signed": "Jul 1, 2022",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 1,020,000",
     "release_clause": ""
   },
   {
-    "player_name": "Nikola Vasilj",
-    "team": "St Pauli",
-    "gross/w": "€ 19,231",
-    "gross/y": "€ 1,000,000",
+    "player_name": "Christian Günter",
+    "team": "Freiburg",
+    "gross/w": "€ 19,615",
+    "gross/y": "€ 1,020,000",
+    "signed": "Mar 18, 2021",
     "expiration": "Jun 30, 2025",
-    "gross_remaining": "€ 1,000,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Fiete Arp",
-    "team": "Holstein Kiel",
-    "gross/w": "€ 19,231",
-    "gross/y": "€ 1,000,000",
-    "expiration": "Jun 30, 2026",
-    "gross_remaining": "€ 2,000,000",
+    "gross_remaining": "€ 1,020,000",
     "release_clause": ""
   },
   {
@@ -2146,6 +2374,7 @@
     "team": "Bochum",
     "gross/w": "€ 19,231",
     "gross/y": "€ 1,000,000",
+    "signed": "Jul 1, 2023",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 1,000,000",
     "release_clause": ""
@@ -2155,8 +2384,39 @@
     "team": "Augsburg",
     "gross/w": "€ 19,231",
     "gross/y": "€ 1,000,000",
+    "signed": "Jan 14, 2025",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 1,000,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Fiete Arp",
+    "team": "Holstein Kiel",
+    "gross/w": "€ 19,231",
+    "gross/y": "€ 1,000,000",
+    "signed": "Feb 23, 2024",
+    "expiration": "Jun 30, 2026",
+    "gross_remaining": "€ 2,000,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Nikola Vasilj",
+    "team": "St Pauli",
+    "gross/w": "€ 19,231",
+    "gross/y": "€ 1,000,000",
+    "signed": "Jan 24, 2024",
+    "expiration": "Jun 30, 2025",
+    "gross_remaining": "€ 1,000,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Maxim Leitsch",
+    "team": "Mainz",
+    "gross/w": "€ 18,462",
+    "gross/y": "€ 960,000",
+    "signed": "Jul 1, 2022",
+    "expiration": "Jun 30, 2026",
+    "gross_remaining": "€ 1,920,000",
     "release_clause": ""
   },
   {
@@ -2164,6 +2424,7 @@
     "team": "Freiburg",
     "gross/w": "€ 18,462",
     "gross/y": "€ 960,000",
+    "signed": "Mar 25, 2024",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 960,000",
     "release_clause": ""
@@ -2173,35 +2434,9 @@
     "team": "St Pauli",
     "gross/w": "€ 18,462",
     "gross/y": "€ 960,000",
+    "signed": "Oct 21, 2024",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 960,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Maxim Leitsch",
-    "team": "Mainz",
-    "gross/w": "€ 18,462",
-    "gross/y": "€ 960,000",
-    "expiration": "Jun 30, 2026",
-    "gross_remaining": "€ 1,920,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Vincenzo Grifo",
-    "team": "Freiburg",
-    "gross/w": "€ 18,269",
-    "gross/y": "€ 950,000",
-    "expiration": "Jun 30, 2025",
-    "gross_remaining": "€ 950,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "James Sands",
-    "team": "St Pauli",
-    "gross/w": "€ 18,269",
-    "gross/y": "€ 950,000",
-    "expiration": "Jun 30, 2025",
-    "gross_remaining": "€ 950,000",
     "release_clause": ""
   },
   {
@@ -2209,6 +2444,27 @@
     "team": "Wolfsburg",
     "gross/w": "€ 18,269",
     "gross/y": "€ 950,000",
+    "signed": "Apr 16, 2025",
+    "expiration": "Jun 30, 2026",
+    "gross_remaining": "€ 1,900,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Vincenzo Grifo",
+    "team": "Freiburg",
+    "gross/w": "€ 18,269",
+    "gross/y": "€ 950,000",
+    "signed": "Jul 7, 2022",
+    "expiration": "Jun 30, 2025",
+    "gross_remaining": "€ 950,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Timothy Chandler",
+    "team": "Eintracht Frankfurt",
+    "gross/w": "€ 18,269",
+    "gross/y": "€ 950,000",
+    "signed": "May 8, 2025",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 1,900,000",
     "release_clause": ""
@@ -2218,6 +2474,17 @@
     "team": "Freiburg",
     "gross/w": "€ 18,269",
     "gross/y": "€ 950,000",
+    "signed": "Sep 18, 2024",
+    "expiration": "Jun 30, 2025",
+    "gross_remaining": "€ 950,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "James Sands",
+    "team": "St Pauli",
+    "gross/w": "€ 18,269",
+    "gross/y": "€ 950,000",
+    "signed": "Jan 1, 2025",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 950,000",
     "release_clause": ""
@@ -2227,6 +2494,7 @@
     "team": "Werder Bremen",
     "gross/w": "€ 18,269",
     "gross/y": "€ 950,000",
+    "signed": "Jul 1, 2024",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 950,000",
     "release_clause": ""
@@ -2236,44 +2504,9 @@
     "team": "Union Berlin",
     "gross/w": "€ 18,269",
     "gross/y": "€ 950,000",
+    "signed": "Aug 7, 2024",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 950,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Pascal Stenzel",
-    "team": "Stuttgart",
-    "gross/w": "€ 18,077",
-    "gross/y": "€ 940,000",
-    "expiration": "Jun 30, 2026",
-    "gross_remaining": "€ 1,880,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Timo Horn",
-    "team": "Bochum",
-    "gross/w": "€ 18,077",
-    "gross/y": "€ 940,000",
-    "expiration": "Jun 30, 2026",
-    "gross_remaining": "€ 1,880,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Bryan Zaragoza",
-    "team": "Bayern Munich",
-    "gross/w": "€ 18,077",
-    "gross/y": "€ 940,000",
-    "expiration": "Jun 30, 2029",
-    "gross_remaining": "€ 4,700,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Anthony Losilla",
-    "team": "Bochum",
-    "gross/w": "€ 18,077",
-    "gross/y": "€ 940,000",
-    "expiration": "Jun 30, 2025",
-    "gross_remaining": "€ 940,000",
     "release_clause": ""
   },
   {
@@ -2281,8 +2514,39 @@
     "team": "Hoffenheim",
     "gross/w": "€ 18,077",
     "gross/y": "€ 940,000",
+    "signed": "Sep 12, 2024",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 940,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Bryan Zaragoza",
+    "team": "Bayern Munich",
+    "gross/w": "€ 18,077",
+    "gross/y": "€ 940,000",
+    "signed": "Jul 1, 2024",
+    "expiration": "Jun 30, 2029",
+    "gross_remaining": "€ 4,700,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Timo Horn",
+    "team": "Bochum",
+    "gross/w": "€ 18,077",
+    "gross/y": "€ 940,000",
+    "signed": "Aug 1, 2024",
+    "expiration": "Jun 30, 2026",
+    "gross_remaining": "€ 1,880,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Pascal Stenzel",
+    "team": "Stuttgart",
+    "gross/w": "€ 18,077",
+    "gross/y": "€ 940,000",
+    "signed": "Jan 17, 2024",
+    "expiration": "Jun 30, 2026",
+    "gross_remaining": "€ 1,880,000",
     "release_clause": ""
   },
   {
@@ -2290,17 +2554,19 @@
     "team": "Stuttgart",
     "gross/w": "€ 18,077",
     "gross/y": "€ 940,000",
+    "signed": "Jul 9, 2022",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 1,880,000",
     "release_clause": ""
   },
   {
-    "player_name": "Kevin Paredes",
-    "team": "Wolfsburg",
-    "gross/w": "€ 17,308",
-    "gross/y": "€ 900,000",
-    "expiration": "Jun 30, 2026",
-    "gross_remaining": "€ 1,800,000",
+    "player_name": "Anthony Losilla",
+    "team": "Bochum",
+    "gross/w": "€ 18,077",
+    "gross/y": "€ 940,000",
+    "signed": "Jan 18, 2024",
+    "expiration": "Jun 30, 2025",
+    "gross_remaining": "€ 940,000",
     "release_clause": ""
   },
   {
@@ -2308,6 +2574,7 @@
     "team": "Union Berlin",
     "gross/w": "€ 17,308",
     "gross/y": "€ 900,000",
+    "signed": "Jul 26, 2023",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 900,000",
     "release_clause": ""
@@ -2317,15 +2584,17 @@
     "team": "Union Berlin",
     "gross/w": "€ 17,308",
     "gross/y": "€ 900,000",
-    "expiration": "Jun 30, 2025",
-    "gross_remaining": "€ 900,000",
+    "signed": "Apr 18, 2025",
+    "expiration": "Jun 30, 2026",
+    "gross_remaining": "€ 1,800,000",
     "release_clause": ""
   },
   {
-    "player_name": "Phillipp Mwene",
-    "team": "Mainz",
+    "player_name": "Kevin Paredes",
+    "team": "Wolfsburg",
     "gross/w": "€ 17,308",
     "gross/y": "€ 900,000",
+    "signed": "Jan 28, 2022",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 1,800,000",
     "release_clause": ""
@@ -2335,8 +2604,19 @@
     "team": "Freiburg",
     "gross/w": "€ 17,308",
     "gross/y": "€ 900,000",
+    "signed": "Nov 24, 2022",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 900,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Phillipp Mwene",
+    "team": "Mainz",
+    "gross/w": "€ 17,308",
+    "gross/y": "€ 900,000",
+    "signed": "Aug 23, 2023",
+    "expiration": "Jun 30, 2026",
+    "gross_remaining": "€ 1,800,000",
     "release_clause": ""
   },
   {
@@ -2344,17 +2624,9 @@
     "team": "Wolfsburg",
     "gross/w": "€ 16,731",
     "gross/y": "€ 870,000",
+    "signed": "Jul 1, 2022",
     "expiration": "Jun 30, 2027",
     "gross_remaining": "€ 2,610,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "John Tolkin",
-    "team": "Holstein Kiel",
-    "gross/w": "€ 16,346",
-    "gross/y": "€ 850,000",
-    "expiration": "Jun 30, 2025",
-    "gross_remaining": "€ 850,000",
     "release_clause": ""
   },
   {
@@ -2362,6 +2634,17 @@
     "team": "Bochum",
     "gross/w": "€ 16,346",
     "gross/y": "€ 850,000",
+    "signed": "Jul 21, 2022",
+    "expiration": "Jun 30, 2025",
+    "gross_remaining": "€ 850,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Rani Khedira",
+    "team": "Union Berlin",
+    "gross/w": "€ 16,346",
+    "gross/y": "€ 850,000",
+    "signed": "Apr 17, 2023",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 850,000",
     "release_clause": ""
@@ -2371,17 +2654,9 @@
     "team": "Werder Bremen",
     "gross/w": "€ 16,346",
     "gross/y": "€ 850,000",
+    "signed": "Jul 1, 2024",
     "expiration": "Jun 30, 2028",
     "gross_remaining": "€ 3,400,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Rani Khedira",
-    "team": "Union Berlin",
-    "gross/w": "€ 16,346",
-    "gross/y": "€ 850,000",
-    "expiration": "Jun 30, 2025",
-    "gross_remaining": "€ 850,000",
     "release_clause": ""
   },
   {
@@ -2389,6 +2664,17 @@
     "team": "St Pauli",
     "gross/w": "€ 16,346",
     "gross/y": "€ 850,000",
+    "signed": "Jan 30, 2025",
+    "expiration": "Jun 30, 2025",
+    "gross_remaining": "€ 850,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "John Tolkin",
+    "team": "Holstein Kiel",
+    "gross/w": "€ 16,346",
+    "gross/y": "€ 850,000",
+    "signed": "Jan 16, 2025",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 850,000",
     "release_clause": ""
@@ -2398,26 +2684,9 @@
     "team": "St Pauli",
     "gross/w": "€ 16,346",
     "gross/y": "€ 850,000",
+    "signed": "Jul 26, 2024",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 850,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Daniel Svensson",
-    "team": "Borussia Dortmund",
-    "gross/w": "€ 16,154",
-    "gross/y": "€ 840,000",
-    "expiration": "Jun 30, 2025",
-    "gross_remaining": "€ 840,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Johannes Eggestein",
-    "team": "St Pauli",
-    "gross/w": "€ 16,154",
-    "gross/y": "€ 840,000",
-    "expiration": "Jun 30, 2025",
-    "gross_remaining": "€ 840,000",
     "release_clause": ""
   },
   {
@@ -2425,6 +2694,27 @@
     "team": "Hoffenheim",
     "gross/w": "€ 16,154",
     "gross/y": "€ 840,000",
+    "signed": "Feb 1, 2025",
+    "expiration": "Jun 30, 2025",
+    "gross_remaining": "€ 840,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Daniel Svensson",
+    "team": "Borussia Dortmund",
+    "gross/w": "€ 16,154",
+    "gross/y": "€ 840,000",
+    "signed": "Feb 3, 2025",
+    "expiration": "Jun 30, 2025",
+    "gross_remaining": "€ 840,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Hauke Wahl",
+    "team": "St Pauli",
+    "gross/w": "€ 16,154",
+    "gross/y": "€ 840,000",
+    "signed": "Jul 1, 2023",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 840,000",
     "release_clause": ""
@@ -2434,33 +2724,17 @@
     "team": "Freiburg",
     "gross/w": "€ 16,154",
     "gross/y": "€ 840,000",
+    "signed": "Jul 5, 2022",
     "expiration": "Jun 30, 2027",
     "gross_remaining": "€ 2,520,000",
     "release_clause": ""
   },
   {
-    "player_name": "Patrick Osterhage",
-    "team": "Freiburg",
-    "gross/w": "€ 16,154",
-    "gross/y": "€ 840,000",
-    "expiration": "Jun 30, 2025",
-    "gross_remaining": "€ 840,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Finn Dahmen",
-    "team": "Augsburg",
-    "gross/w": "€ 16,154",
-    "gross/y": "€ 840,000",
-    "expiration": "Jun 30, 2026",
-    "gross_remaining": "€ 1,680,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Hauke Wahl",
+    "player_name": "Johannes Eggestein",
     "team": "St Pauli",
     "gross/w": "€ 16,154",
     "gross/y": "€ 840,000",
+    "signed": "Jul 1, 2022",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 840,000",
     "release_clause": ""
@@ -2470,17 +2744,9 @@
     "team": "Eintracht Frankfurt",
     "gross/w": "€ 16,154",
     "gross/y": "€ 840,000",
+    "signed": "Jul 2, 2024",
     "expiration": "Jun 30, 2029",
     "gross_remaining": "€ 4,200,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Grischa Prömel",
-    "team": "Hoffenheim",
-    "gross/w": "€ 16,154",
-    "gross/y": "€ 840,000",
-    "expiration": "Jun 30, 2026",
-    "gross_remaining": "€ 1,680,000",
     "release_clause": ""
   },
   {
@@ -2488,6 +2754,27 @@
     "team": "St Pauli",
     "gross/w": "€ 16,154",
     "gross/y": "€ 840,000",
+    "signed": "Jul 9, 2024",
+    "expiration": "Jun 30, 2025",
+    "gross_remaining": "€ 840,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Grischa Prömel",
+    "team": "Hoffenheim",
+    "gross/w": "€ 16,154",
+    "gross/y": "€ 840,000",
+    "signed": "Jul 1, 2022",
+    "expiration": "Jun 30, 2026",
+    "gross_remaining": "€ 1,680,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Patrick Osterhage",
+    "team": "Freiburg",
+    "gross/w": "€ 16,154",
+    "gross/y": "€ 840,000",
+    "signed": "Jul 1, 2024",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 840,000",
     "release_clause": ""
@@ -2497,8 +2784,29 @@
     "team": "Eintracht Frankfurt",
     "gross/w": "€ 15,385",
     "gross/y": "€ 800,000",
+    "signed": "Aug 30, 2023",
     "expiration": "Jun 30, 2028",
     "gross_remaining": "€ 3,200,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Tomas Cvancara",
+    "team": "Monchengladbach",
+    "gross/w": "€ 15,385",
+    "gross/y": "€ 800,000",
+    "signed": "Jul 14, 2023",
+    "expiration": "Jun 30, 2028",
+    "gross_remaining": "€ 3,200,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Mads Pedersen",
+    "team": "Augsburg",
+    "gross/w": "€ 15,385",
+    "gross/y": "€ 800,000",
+    "signed": "Jul 14, 2023",
+    "expiration": "Jun 30, 2027",
+    "gross_remaining": "€ 2,400,000",
     "release_clause": ""
   },
   {
@@ -2506,6 +2814,7 @@
     "team": "Augsburg",
     "gross/w": "€ 15,385",
     "gross/y": "€ 800,000",
+    "signed": "Nov 4, 2021",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 800,000",
     "release_clause": ""
@@ -2515,17 +2824,9 @@
     "team": "Bochum",
     "gross/w": "€ 15,385",
     "gross/y": "€ 800,000",
+    "signed": "Aug 14, 2023",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 1,600,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Mads Pedersen",
-    "team": "Augsburg",
-    "gross/w": "€ 15,385",
-    "gross/y": "€ 800,000",
-    "expiration": "Jun 30, 2027",
-    "gross_remaining": "€ 2,400,000",
     "release_clause": ""
   },
   {
@@ -2533,17 +2834,9 @@
     "team": "Union Berlin",
     "gross/w": "€ 15,385",
     "gross/y": "€ 800,000",
+    "signed": "Aug 27, 2024",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 800,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Tomas Cvancara",
-    "team": "Monchengladbach",
-    "gross/w": "€ 15,385",
-    "gross/y": "€ 800,000",
-    "expiration": "Jun 30, 2028",
-    "gross_remaining": "€ 3,200,000",
     "release_clause": ""
   },
   {
@@ -2551,33 +2844,7 @@
     "team": "Heidenheim",
     "gross/w": "€ 15,000",
     "gross/y": "€ 780,000",
-    "expiration": "Jun 30, 2027",
-    "gross_remaining": "€ 2,340,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "David Nemeth",
-    "team": "St Pauli",
-    "gross/w": "€ 15,000",
-    "gross/y": "€ 780,000",
-    "expiration": "Jun 30, 2026",
-    "gross_remaining": "€ 1,560,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Oladapo Afolayan",
-    "team": "St Pauli",
-    "gross/w": "€ 15,000",
-    "gross/y": "€ 780,000",
-    "expiration": "Jun 30, 2025",
-    "gross_remaining": "€ 780,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Michael Zetterer",
-    "team": "Werder Bremen",
-    "gross/w": "€ 15,000",
-    "gross/y": "€ 780,000",
+    "signed": "Jul 3, 2023",
     "expiration": "Jun 30, 2027",
     "gross_remaining": "€ 2,340,000",
     "release_clause": ""
@@ -2587,8 +2854,39 @@
     "team": "Bochum",
     "gross/w": "€ 15,000",
     "gross/y": "€ 780,000",
+    "signed": "Aug 24, 2023",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 1,560,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "David Nemeth",
+    "team": "St Pauli",
+    "gross/w": "€ 15,000",
+    "gross/y": "€ 780,000",
+    "signed": "Jul 1, 2022",
+    "expiration": "Jun 30, 2026",
+    "gross_remaining": "€ 1,560,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Oladapo Afolayan",
+    "team": "St Pauli",
+    "gross/w": "€ 15,000",
+    "gross/y": "€ 780,000",
+    "signed": "Jan 19, 2023",
+    "expiration": "Jun 30, 2025",
+    "gross_remaining": "€ 780,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Michael Zetterer",
+    "team": "Werder Bremen",
+    "gross/w": "€ 15,000",
+    "gross/y": "€ 780,000",
+    "signed": "May 4, 2024",
+    "expiration": "Jun 30, 2027",
+    "gross_remaining": "€ 2,340,000",
     "release_clause": ""
   },
   {
@@ -2596,6 +2894,7 @@
     "team": "Bochum",
     "gross/w": "€ 14,615",
     "gross/y": "€ 760,000",
+    "signed": "Aug 30, 2024",
     "expiration": "Jun 30, 2028",
     "gross_remaining": "€ 3,040,000",
     "release_clause": ""
@@ -2605,6 +2904,7 @@
     "team": "Holstein Kiel",
     "gross/w": "€ 14,423",
     "gross/y": "€ 750,000",
+    "signed": "Jul 28, 2023",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 1,500,000",
     "release_clause": ""
@@ -2614,6 +2914,7 @@
     "team": "Bayer Leverkusen",
     "gross/w": "€ 14,423",
     "gross/y": "€ 750,000",
+    "signed": "Jul 1, 2024",
     "expiration": "Jun 30, 2029",
     "gross_remaining": "€ 3,750,000",
     "release_clause": ""
@@ -2623,6 +2924,7 @@
     "team": "Freiburg",
     "gross/w": "€ 14,423",
     "gross/y": "€ 750,000",
+    "signed": "Jul 1, 2024",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 750,000",
     "release_clause": ""
@@ -2632,6 +2934,7 @@
     "team": "Union Berlin",
     "gross/w": "€ 14,423",
     "gross/y": "€ 750,000",
+    "signed": "Sep 20, 2024",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 750,000",
     "release_clause": ""
@@ -2641,6 +2944,7 @@
     "team": "Stuttgart",
     "gross/w": "€ 14,423",
     "gross/y": "€ 750,000",
+    "signed": "Jul 1, 2024",
     "expiration": "Jun 30, 2028",
     "gross_remaining": "€ 3,000,000",
     "release_clause": ""
@@ -2650,6 +2954,7 @@
     "team": "Wolfsburg",
     "gross/w": "€ 14,423",
     "gross/y": "€ 750,000",
+    "signed": "Aug 30, 2024",
     "expiration": "Jun 30, 2029",
     "gross_remaining": "€ 3,750,000",
     "release_clause": ""
@@ -2659,6 +2964,7 @@
     "team": "Augsburg",
     "gross/w": "€ 14,423",
     "gross/y": "€ 750,000",
+    "signed": "Jul 1, 2024",
     "expiration": "Jun 30, 2028",
     "gross_remaining": "€ 3,000,000",
     "release_clause": ""
@@ -2668,6 +2974,7 @@
     "team": "Union Berlin",
     "gross/w": "€ 14,423",
     "gross/y": "€ 750,000",
+    "signed": "Jul 1, 2024",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 750,000",
     "release_clause": ""
@@ -2677,6 +2984,7 @@
     "team": "Holstein Kiel",
     "gross/w": "€ 14,423",
     "gross/y": "€ 750,000",
+    "signed": "Jul 1, 2024",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 750,000",
     "release_clause": ""
@@ -2686,6 +2994,7 @@
     "team": "Union Berlin",
     "gross/w": "€ 14,423",
     "gross/y": "€ 750,000",
+    "signed": "Feb 2, 2025",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 750,000",
     "release_clause": ""
@@ -2695,6 +3004,7 @@
     "team": "Wolfsburg",
     "gross/w": "€ 14,423",
     "gross/y": "€ 750,000",
+    "signed": "Jul 1, 2024",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 750,000",
     "release_clause": ""
@@ -2704,6 +3014,7 @@
     "team": "Heidenheim",
     "gross/w": "€ 14,423",
     "gross/y": "€ 750,000",
+    "signed": "Dec 12, 2022",
     "expiration": "Jun 30, 2027",
     "gross_remaining": "€ 2,250,000",
     "release_clause": ""
@@ -2713,6 +3024,7 @@
     "team": "Bayer Leverkusen",
     "gross/w": "€ 14,423",
     "gross/y": "€ 750,000",
+    "signed": "Aug 15, 2023",
     "expiration": "Jun 30, 2027",
     "gross_remaining": "€ 2,250,000",
     "release_clause": ""
@@ -2722,6 +3034,7 @@
     "team": "Holstein Kiel",
     "gross/w": "€ 14,423",
     "gross/y": "€ 750,000",
+    "signed": "Jul 23, 2024",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 750,000",
     "release_clause": ""
@@ -2731,6 +3044,7 @@
     "team": "Bayern Munich",
     "gross/w": "€ 14,423",
     "gross/y": "€ 750,000",
+    "signed": "Jul 2, 2024",
     "expiration": "Jun 30, 2027",
     "gross_remaining": "€ 2,250,000",
     "release_clause": ""
@@ -2740,6 +3054,7 @@
     "team": "Augsburg",
     "gross/w": "€ 14,423",
     "gross/y": "€ 750,000",
+    "signed": "Jul 12, 2023",
     "expiration": "Jun 30, 2027",
     "gross_remaining": "€ 2,250,000",
     "release_clause": ""
@@ -2749,6 +3064,7 @@
     "team": "Monchengladbach",
     "gross/w": "€ 14,423",
     "gross/y": "€ 750,000",
+    "signed": "Jul 1, 2024",
     "expiration": "Jun 30, 2028",
     "gross_remaining": "€ 3,000,000",
     "release_clause": ""
@@ -2758,6 +3074,7 @@
     "team": "Augsburg",
     "gross/w": "€ 14,423",
     "gross/y": "€ 750,000",
+    "signed": "Jul 1, 2024",
     "expiration": "Jun 30, 2029",
     "gross_remaining": "€ 3,750,000",
     "release_clause": ""
@@ -2767,6 +3084,7 @@
     "team": "Heidenheim",
     "gross/w": "€ 14,423",
     "gross/y": "€ 750,000",
+    "signed": "Dec 20, 2023",
     "expiration": "Jun 30, 2027",
     "gross_remaining": "€ 2,250,000",
     "release_clause": ""
@@ -2776,33 +3094,7 @@
     "team": "Monchengladbach",
     "gross/w": "€ 13,846",
     "gross/y": "€ 720,000",
-    "expiration": "Jun 30, 2028",
-    "gross_remaining": "€ 2,880,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Marco Friedl",
-    "team": "Werder Bremen",
-    "gross/w": "€ 13,846",
-    "gross/y": "€ 720,000",
-    "expiration": "Jun 30, 2026",
-    "gross_remaining": "€ 1,440,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Arthur",
-    "team": "Bayer Leverkusen",
-    "gross/w": "€ 13,846",
-    "gross/y": "€ 720,000",
-    "expiration": "Jun 30, 2028",
-    "gross_remaining": "€ 2,880,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Adrian Beck",
-    "team": "Heidenheim",
-    "gross/w": "€ 13,846",
-    "gross/y": "€ 720,000",
+    "signed": "Feb 1, 2024",
     "expiration": "Jun 30, 2028",
     "gross_remaining": "€ 2,880,000",
     "release_clause": ""
@@ -2812,35 +3104,29 @@
     "team": "Eintracht Frankfurt",
     "gross/w": "€ 13,846",
     "gross/y": "€ 720,000",
+    "signed": "Jul 1, 2023",
     "expiration": "Jun 30, 2027",
     "gross_remaining": "€ 2,160,000",
     "release_clause": ""
   },
   {
-    "player_name": "Junior Adamu",
-    "team": "Freiburg",
-    "gross/w": "€ 13,462",
-    "gross/y": "€ 700,000",
-    "expiration": "Jun 30, 2025",
-    "gross_remaining": "€ 700,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Niels Nkounkou",
-    "team": "Eintracht Frankfurt",
-    "gross/w": "€ 13,462",
-    "gross/y": "€ 700,000",
+    "player_name": "Adrian Beck",
+    "team": "Heidenheim",
+    "gross/w": "€ 13,846",
+    "gross/y": "€ 720,000",
+    "signed": "Sep 1, 2024",
     "expiration": "Jun 30, 2028",
-    "gross_remaining": "€ 2,800,000",
+    "gross_remaining": "€ 2,880,000",
     "release_clause": ""
   },
   {
-    "player_name": "Jean-Mattéo Bahoya",
-    "team": "Eintracht Frankfurt",
-    "gross/w": "€ 13,462",
-    "gross/y": "€ 700,000",
-    "expiration": "Jun 30, 2029",
-    "gross_remaining": "€ 3,500,000",
+    "player_name": "Arthur",
+    "team": "Bayer Leverkusen",
+    "gross/w": "€ 13,846",
+    "gross/y": "€ 720,000",
+    "signed": "Jul 1, 2023",
+    "expiration": "Jun 30, 2028",
+    "gross_remaining": "€ 2,880,000",
     "release_clause": ""
   },
   {
@@ -2848,8 +3134,39 @@
     "team": "Bochum",
     "gross/w": "€ 13,462",
     "gross/y": "€ 700,000",
+    "signed": "Jul 1, 2023",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 1,400,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Jean-Mattéo Bahoya",
+    "team": "Eintracht Frankfurt",
+    "gross/w": "€ 13,462",
+    "gross/y": "€ 700,000",
+    "signed": "Jan 25, 2024",
+    "expiration": "Jun 30, 2029",
+    "gross_remaining": "€ 3,500,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Niels Nkounkou",
+    "team": "Eintracht Frankfurt",
+    "gross/w": "€ 13,462",
+    "gross/y": "€ 700,000",
+    "signed": "Sep 1, 2023",
+    "expiration": "Jun 30, 2028",
+    "gross_remaining": "€ 2,800,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Junior Adamu",
+    "team": "Freiburg",
+    "gross/w": "€ 13,462",
+    "gross/y": "€ 700,000",
+    "signed": "Jul 1, 2023",
+    "expiration": "Jun 30, 2025",
+    "gross_remaining": "€ 700,000",
     "release_clause": ""
   },
   {
@@ -2857,53 +3174,9 @@
     "team": "Freiburg",
     "gross/w": "€ 13,077",
     "gross/y": "€ 680,000",
+    "signed": "Jun 1, 2023",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 680,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Jackson Irvine",
-    "team": "St Pauli",
-    "gross/w": "€ 12,692",
-    "gross/y": "€ 660,000",
-    "expiration": "Jun 30, 2025",
-    "gross_remaining": "€ 660,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Dimitrios Giannoulis",
-    "team": "Augsburg",
-    "gross/w": "€ 12,692",
-    "gross/y": "€ 660,000",
-    "expiration": "Jun 30, 2028",
-    "gross_remaining": "€ 2,640,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Leopold Zingerle",
-    "team": "Leipzig",
-    "gross/w": "€ 12,692",
-    "gross/y": "€ 660,000",
-    "expiration": "Jun 30, 2026",
-    "gross_remaining": "€ 1,320,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Jonas Urbig",
-    "team": "Bayern Munich",
-    "gross/w": "€ 12,692",
-    "gross/y": "€ 660,000",
-    "expiration": "Jun 30, 2029",
-    "gross_remaining": "€ 3,300,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Simon Zoller",
-    "team": "St Pauli",
-    "gross/w": "€ 12,692",
-    "gross/y": "€ 660,000",
-    "expiration": "Jun 30, 2025",
-    "gross_remaining": "€ 660,000",
     "release_clause": ""
   },
   {
@@ -2911,6 +3184,7 @@
     "team": "Eintracht Frankfurt",
     "gross/w": "€ 12,692",
     "gross/y": "€ 660,000",
+    "signed": "Dec 16, 2024",
     "expiration": "Jun 30, 2030",
     "gross_remaining": "€ 3,960,000",
     "release_clause": ""
@@ -2920,8 +3194,29 @@
     "team": "Leipzig",
     "gross/w": "€ 12,692",
     "gross/y": "€ 660,000",
+    "signed": "Feb 3, 2025",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 660,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Simon Zoller",
+    "team": "St Pauli",
+    "gross/w": "€ 12,692",
+    "gross/y": "€ 660,000",
+    "signed": "Sep 1, 2023",
+    "expiration": "Jun 30, 2025",
+    "gross_remaining": "€ 660,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Dimitrios Giannoulis",
+    "team": "Augsburg",
+    "gross/w": "€ 12,692",
+    "gross/y": "€ 660,000",
+    "signed": "Jul 23, 2024",
+    "expiration": "Jun 30, 2028",
+    "gross_remaining": "€ 2,640,000",
     "release_clause": ""
   },
   {
@@ -2929,8 +3224,39 @@
     "team": "Stuttgart",
     "gross/w": "€ 12,692",
     "gross/y": "€ 660,000",
+    "signed": "Feb 3, 2025",
     "expiration": "Jun 30, 2030",
     "gross_remaining": "€ 3,960,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Jackson Irvine",
+    "team": "St Pauli",
+    "gross/w": "€ 12,692",
+    "gross/y": "€ 660,000",
+    "signed": "Aug 24, 2024",
+    "expiration": "Jun 30, 2025",
+    "gross_remaining": "€ 660,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Leopold Zingerle",
+    "team": "Leipzig",
+    "gross/w": "€ 12,692",
+    "gross/y": "€ 660,000",
+    "signed": "Nov 22, 2024",
+    "expiration": "Jun 30, 2026",
+    "gross_remaining": "€ 1,320,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Jonas Urbig",
+    "team": "Bayern Munich",
+    "gross/w": "€ 12,692",
+    "gross/y": "€ 660,000",
+    "signed": "Jan 27, 2025",
+    "expiration": "Jun 30, 2029",
+    "gross_remaining": "€ 3,300,000",
     "release_clause": ""
   },
   {
@@ -2938,6 +3264,7 @@
     "team": "Holstein Kiel",
     "gross/w": "€ 12,500",
     "gross/y": "€ 650,000",
+    "signed": "Jun 18, 2024",
     "expiration": "Jun 30, 2027",
     "gross_remaining": "€ 1,950,000",
     "release_clause": ""
@@ -2947,6 +3274,7 @@
     "team": "Eintracht Frankfurt",
     "gross/w": "€ 12,308",
     "gross/y": "€ 640,000",
+    "signed": "Jan 24, 2024",
     "expiration": "Jun 30, 2029",
     "gross_remaining": "€ 3,200,000",
     "release_clause": ""
@@ -2956,6 +3284,7 @@
     "team": "Stuttgart",
     "gross/w": "€ 11,923",
     "gross/y": "€ 620,000",
+    "signed": "Apr 27, 2022",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 620,000",
     "release_clause": ""
@@ -2965,17 +3294,19 @@
     "team": "Stuttgart",
     "gross/w": "€ 11,538",
     "gross/y": "€ 600,000",
+    "signed": "Jul 19, 2024",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 1,200,000",
     "release_clause": ""
   },
   {
-    "player_name": "Amos Pieper",
-    "team": "Werder Bremen",
+    "player_name": "Frans Krätzig",
+    "team": "Heidenheim",
     "gross/w": "€ 11,538",
     "gross/y": "€ 600,000",
-    "expiration": "Jun 30, 2026",
-    "gross_remaining": "€ 1,200,000",
+    "signed": "Jan 3, 2025",
+    "expiration": "Jun 30, 2025",
+    "gross_remaining": "€ 600,000",
     "release_clause": ""
   },
   {
@@ -2983,6 +3314,27 @@
     "team": "Bochum",
     "gross/w": "€ 11,538",
     "gross/y": "€ 600,000",
+    "signed": "Oct 25, 2023",
+    "expiration": "Jun 30, 2025",
+    "gross_remaining": "€ 600,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Amos Pieper",
+    "team": "Werder Bremen",
+    "gross/w": "€ 11,538",
+    "gross/y": "€ 600,000",
+    "signed": "Jul 1, 2022",
+    "expiration": "Jun 30, 2026",
+    "gross_remaining": "€ 1,200,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Jens Stage",
+    "team": "Werder Bremen",
+    "gross/w": "€ 11,538",
+    "gross/y": "€ 600,000",
+    "signed": "Nov 18, 2024",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 600,000",
     "release_clause": ""
@@ -2992,24 +3344,7 @@
     "team": "Union Berlin",
     "gross/w": "€ 11,538",
     "gross/y": "€ 600,000",
-    "expiration": "Jun 30, 2025",
-    "gross_remaining": "€ 600,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Frans Krätzig",
-    "team": "Heidenheim",
-    "gross/w": "€ 11,538",
-    "gross/y": "€ 600,000",
-    "expiration": "Jun 30, 2025",
-    "gross_remaining": "€ 600,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Jens Stage",
-    "team": "Werder Bremen",
-    "gross/w": "€ 11,538",
-    "gross/y": "€ 600,000",
+    "signed": "Oct 27, 2024",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 600,000",
     "release_clause": ""
@@ -3019,6 +3354,7 @@
     "team": "Heidenheim",
     "gross/w": "€ 11,538",
     "gross/y": "€ 600,000",
+    "signed": "Jul 1, 2023",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 1,200,000",
     "release_clause": ""
@@ -3028,26 +3364,9 @@
     "team": "Holstein Kiel",
     "gross/w": "€ 11,346",
     "gross/y": "€ 590,000",
+    "signed": "Jul 1, 2022",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 590,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Umut Tohumcu",
-    "team": "Hoffenheim",
-    "gross/w": "€ 10,962",
-    "gross/y": "€ 570,000",
-    "expiration": "Jun 30, 2028",
-    "gross_remaining": "€ 2,280,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Derrick Köhn",
-    "team": "Werder Bremen",
-    "gross/w": "€ 10,962",
-    "gross/y": "€ 570,000",
-    "expiration": "Jun 30, 2025",
-    "gross_remaining": "€ 570,000",
     "release_clause": ""
   },
   {
@@ -3055,17 +3374,9 @@
     "team": "St Pauli",
     "gross/w": "€ 10,962",
     "gross/y": "€ 570,000",
+    "signed": "Aug 22, 2024",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 570,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Niklas Lomb",
-    "team": "Bayer Leverkusen",
-    "gross/w": "€ 10,962",
-    "gross/y": "€ 570,000",
-    "expiration": "Jun 30, 2027",
-    "gross_remaining": "€ 1,710,000",
     "release_clause": ""
   },
   {
@@ -3073,44 +3384,39 @@
     "team": "Leipzig",
     "gross/w": "€ 10,962",
     "gross/y": "€ 570,000",
+    "signed": "Feb 3, 2025",
     "expiration": "Jun 30, 2029",
     "gross_remaining": "€ 2,850,000",
     "release_clause": ""
   },
   {
-    "player_name": "Gabriel Vidovic",
-    "team": "Bayern Munich",
-    "gross/w": "€ 10,769",
-    "gross/y": "€ 560,000",
-    "expiration": "Jun 30, 2026",
-    "gross_remaining": "€ 1,120,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Jannik Huth",
-    "team": "Freiburg",
-    "gross/w": "€ 10,769",
-    "gross/y": "€ 560,000",
+    "player_name": "Derrick Köhn",
+    "team": "Werder Bremen",
+    "gross/w": "€ 10,962",
+    "gross/y": "€ 570,000",
+    "signed": "Aug 30, 2024",
     "expiration": "Jun 30, 2025",
-    "gross_remaining": "€ 560,000",
+    "gross_remaining": "€ 570,000",
     "release_clause": ""
   },
   {
-    "player_name": "Kauã Santos",
-    "team": "Eintracht Frankfurt",
-    "gross/w": "€ 10,769",
-    "gross/y": "€ 560,000",
-    "expiration": "Jun 30, 2030",
-    "gross_remaining": "€ 3,360,000",
+    "player_name": "Umut Tohumcu",
+    "team": "Hoffenheim",
+    "gross/w": "€ 10,962",
+    "gross/y": "€ 570,000",
+    "signed": "Feb 16, 2024",
+    "expiration": "Jun 30, 2028",
+    "gross_remaining": "€ 2,280,000",
     "release_clause": ""
   },
   {
-    "player_name": "Luca Jaquez",
-    "team": "Stuttgart",
-    "gross/w": "€ 10,769",
-    "gross/y": "€ 560,000",
-    "expiration": "Jun 30, 2029",
-    "gross_remaining": "€ 2,800,000",
+    "player_name": "Niklas Lomb",
+    "team": "Bayer Leverkusen",
+    "gross/w": "€ 10,962",
+    "gross/y": "€ 570,000",
+    "signed": "Apr 8, 2024",
+    "expiration": "Jun 30, 2027",
+    "gross_remaining": "€ 1,710,000",
     "release_clause": ""
   },
   {
@@ -3118,17 +3424,49 @@
     "team": "Augsburg",
     "gross/w": "€ 10,769",
     "gross/y": "€ 560,000",
+    "signed": "Jan 20, 2023",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 560,000",
     "release_clause": ""
   },
   {
-    "player_name": "Florent Muslija",
+    "player_name": "Luca Jaquez",
+    "team": "Stuttgart",
+    "gross/w": "€ 10,769",
+    "gross/y": "€ 560,000",
+    "signed": "Feb 3, 2025",
+    "expiration": "Jun 30, 2029",
+    "gross_remaining": "€ 2,800,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Jannik Huth",
     "team": "Freiburg",
-    "gross/w": "€ 10,577",
-    "gross/y": "€ 550,000",
-    "expiration": "Jun 30, 2028",
-    "gross_remaining": "€ 2,200,000",
+    "gross/w": "€ 10,769",
+    "gross/y": "€ 560,000",
+    "signed": "Jul 1, 2024",
+    "expiration": "Jun 30, 2025",
+    "gross_remaining": "€ 560,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Gabriel Vidovic",
+    "team": "Bayern Munich",
+    "gross/w": "€ 10,769",
+    "gross/y": "€ 560,000",
+    "signed": "Jul 1, 2022",
+    "expiration": "Jun 30, 2026",
+    "gross_remaining": "€ 1,120,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Kauã Santos",
+    "team": "Eintracht Frankfurt",
+    "gross/w": "€ 10,769",
+    "gross/y": "€ 560,000",
+    "signed": "Oct 9, 2024",
+    "expiration": "Jun 30, 2030",
+    "gross_remaining": "€ 3,360,000",
     "release_clause": ""
   },
   {
@@ -3136,8 +3474,19 @@
     "team": "Holstein Kiel",
     "gross/w": "€ 10,577",
     "gross/y": "€ 550,000",
+    "signed": "Jul 1, 2022",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 550,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Florent Muslija",
+    "team": "Freiburg",
+    "gross/w": "€ 10,577",
+    "gross/y": "€ 550,000",
+    "signed": "Jan 24, 2024",
+    "expiration": "Jun 30, 2028",
+    "gross_remaining": "€ 2,200,000",
     "release_clause": ""
   },
   {
@@ -3145,26 +3494,9 @@
     "team": "Eintracht Frankfurt",
     "gross/w": "€ 10,385",
     "gross/y": "€ 540,000",
+    "signed": "Jul 1, 2023",
     "expiration": "Jun 30, 2028",
     "gross_remaining": "€ 2,160,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Lucas Höler",
-    "team": "Freiburg",
-    "gross/w": "€ 10,000",
-    "gross/y": "€ 520,000",
-    "expiration": "Jun 30, 2025",
-    "gross_remaining": "€ 520,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Jakov Medic",
-    "team": "Bochum",
-    "gross/w": "€ 10,000",
-    "gross/y": "€ 520,000",
-    "expiration": "Jun 30, 2025",
-    "gross_remaining": "€ 520,000",
     "release_clause": ""
   },
   {
@@ -3172,8 +3504,19 @@
     "team": "Heidenheim",
     "gross/w": "€ 10,000",
     "gross/y": "€ 520,000",
+    "signed": "Dec 12, 2022",
     "expiration": "Jun 30, 2027",
     "gross_remaining": "€ 1,560,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Jakov Medic",
+    "team": "Bochum",
+    "gross/w": "€ 10,000",
+    "gross/y": "€ 520,000",
+    "signed": "Aug 20, 2024",
+    "expiration": "Jun 30, 2025",
+    "gross_remaining": "€ 520,000",
     "release_clause": ""
   },
   {
@@ -3181,8 +3524,19 @@
     "team": "Holstein Kiel",
     "gross/w": "€ 10,000",
     "gross/y": "€ 520,000",
+    "signed": "Mar 24, 2023",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 1,040,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Lucas Höler",
+    "team": "Freiburg",
+    "gross/w": "€ 10,000",
+    "gross/y": "€ 520,000",
+    "signed": "Mar 27, 2023",
+    "expiration": "Jun 30, 2025",
+    "gross_remaining": "€ 520,000",
     "release_clause": ""
   },
   {
@@ -3190,6 +3544,7 @@
     "team": "Union Berlin",
     "gross/w": "€ 9,615",
     "gross/y": "€ 500,000",
+    "signed": "Jul 27, 2023",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 500,000",
     "release_clause": ""
@@ -3199,6 +3554,7 @@
     "team": "Freiburg",
     "gross/w": "€ 9,615",
     "gross/y": "€ 500,000",
+    "signed": "Jul 1, 2023",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 500,000",
     "release_clause": ""
@@ -3208,33 +3564,7 @@
     "team": "St Pauli",
     "gross/w": "€ 9,231",
     "gross/y": "€ 480,000",
-    "expiration": "Jun 30, 2025",
-    "gross_remaining": "€ 480,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Keke Topp",
-    "team": "Werder Bremen",
-    "gross/w": "€ 9,231",
-    "gross/y": "€ 480,000",
-    "expiration": "Jun 30, 2028",
-    "gross_remaining": "€ 1,920,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Manuel Gulde",
-    "team": "Freiburg",
-    "gross/w": "€ 9,231",
-    "gross/y": "€ 480,000",
-    "expiration": "Jun 30, 2025",
-    "gross_remaining": "€ 480,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Danel Sinani",
-    "team": "St Pauli",
-    "gross/w": "€ 9,231",
-    "gross/y": "€ 480,000",
+    "signed": "Jan 27, 2024",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 480,000",
     "release_clause": ""
@@ -3244,6 +3574,7 @@
     "team": "Heidenheim",
     "gross/w": "€ 9,231",
     "gross/y": "€ 480,000",
+    "signed": "Jan 10, 2025",
     "expiration": "Jun 30, 2028",
     "gross_remaining": "€ 1,920,000",
     "release_clause": ""
@@ -3253,8 +3584,39 @@
     "team": "Holstein Kiel",
     "gross/w": "€ 9,231",
     "gross/y": "€ 480,000",
+    "signed": "Jan 22, 2024",
     "expiration": "Jun 30, 2027",
     "gross_remaining": "€ 1,440,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Keke Topp",
+    "team": "Werder Bremen",
+    "gross/w": "€ 9,231",
+    "gross/y": "€ 480,000",
+    "signed": "Jul 1, 2024",
+    "expiration": "Jun 30, 2028",
+    "gross_remaining": "€ 1,920,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Manuel Gulde",
+    "team": "Freiburg",
+    "gross/w": "€ 9,231",
+    "gross/y": "€ 480,000",
+    "signed": "Jan 19, 2024",
+    "expiration": "Jun 30, 2025",
+    "gross_remaining": "€ 480,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Danel Sinani",
+    "team": "St Pauli",
+    "gross/w": "€ 9,231",
+    "gross/y": "€ 480,000",
+    "signed": "Jul 4, 2023",
+    "expiration": "Jun 30, 2025",
+    "gross_remaining": "€ 480,000",
     "release_clause": ""
   },
   {
@@ -3262,6 +3624,7 @@
     "team": "St Pauli",
     "gross/w": "€ 9,038",
     "gross/y": "€ 470,000",
+    "signed": "Jul 4, 2024",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 470,000",
     "release_clause": ""
@@ -3271,17 +3634,9 @@
     "team": "Wolfsburg",
     "gross/w": "€ 9,038",
     "gross/y": "€ 470,000",
+    "signed": "Jul 8, 2024",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 470,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Dennis Seimen",
-    "team": "Stuttgart",
-    "gross/w": "€ 9,038",
-    "gross/y": "€ 470,000",
-    "expiration": "Jun 30, 2029",
-    "gross_remaining": "€ 2,350,000",
     "release_clause": ""
   },
   {
@@ -3289,6 +3644,7 @@
     "team": "Stuttgart",
     "gross/w": "€ 9,038",
     "gross/y": "€ 470,000",
+    "signed": "Jul 1, 2024",
     "expiration": "Jun 30, 2029",
     "gross_remaining": "€ 2,350,000",
     "release_clause": ""
@@ -3298,6 +3654,7 @@
     "team": "Mainz",
     "gross/w": "€ 9,038",
     "gross/y": "€ 470,000",
+    "signed": "Jul 3, 2024",
     "expiration": "Jun 30, 2028",
     "gross_remaining": "€ 1,880,000",
     "release_clause": ""
@@ -3307,6 +3664,7 @@
     "team": "Monchengladbach",
     "gross/w": "€ 9,038",
     "gross/y": "€ 470,000",
+    "signed": "Jun 14, 2024",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 470,000",
     "release_clause": ""
@@ -3316,6 +3674,7 @@
     "team": "Mainz",
     "gross/w": "€ 9,038",
     "gross/y": "€ 470,000",
+    "signed": "Jul 2, 2024",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 940,000",
     "release_clause": ""
@@ -3325,6 +3684,7 @@
     "team": "Stuttgart",
     "gross/w": "€ 9,038",
     "gross/y": "€ 470,000",
+    "signed": "Jul 1, 2024",
     "expiration": "Jun 30, 2028",
     "gross_remaining": "€ 1,880,000",
     "release_clause": ""
@@ -3334,17 +3694,9 @@
     "team": "Stuttgart",
     "gross/w": "€ 9,038",
     "gross/y": "€ 470,000",
+    "signed": "Jun 12, 2024",
     "expiration": "Jun 30, 2028",
     "gross_remaining": "€ 1,880,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Bartosz Bialek",
-    "team": "Wolfsburg",
-    "gross/w": "€ 9,038",
-    "gross/y": "€ 470,000",
-    "expiration": "Jun 30, 2025",
-    "gross_remaining": "€ 470,000",
     "release_clause": ""
   },
   {
@@ -3352,8 +3704,29 @@
     "team": "Holstein Kiel",
     "gross/w": "€ 9,038",
     "gross/y": "€ 470,000",
+    "signed": "Feb 5, 2024",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 940,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Bartosz Bialek",
+    "team": "Wolfsburg",
+    "gross/w": "€ 9,038",
+    "gross/y": "€ 470,000",
+    "signed": "Aug 19, 2020",
+    "expiration": "Jun 30, 2025",
+    "gross_remaining": "€ 470,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Dennis Seimen",
+    "team": "Stuttgart",
+    "gross/w": "€ 9,038",
+    "gross/y": "€ 470,000",
+    "signed": "Sep 13, 2024",
+    "expiration": "Jun 30, 2029",
+    "gross_remaining": "€ 2,350,000",
     "release_clause": ""
   },
   {
@@ -3361,6 +3734,7 @@
     "team": "Werder Bremen",
     "gross/w": "€ 8,654",
     "gross/y": "€ 450,000",
+    "signed": "Jan 16, 2024",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 450,000",
     "release_clause": ""
@@ -3370,8 +3744,19 @@
     "team": "Union Berlin",
     "gross/w": "€ 8,462",
     "gross/y": "€ 440,000",
+    "signed": "Aug 30, 2024",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 440,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Shuto Machino",
+    "team": "Holstein Kiel",
+    "gross/w": "€ 8,077",
+    "gross/y": "€ 420,000",
+    "signed": "Jul 1, 2023",
+    "expiration": "Jun 30, 2027",
+    "gross_remaining": "€ 1,260,000",
     "release_clause": ""
   },
   {
@@ -3379,6 +3764,27 @@
     "team": "St Pauli",
     "gross/w": "€ 8,077",
     "gross/y": "€ 420,000",
+    "signed": "Mar 20, 2023",
+    "expiration": "Jun 30, 2025",
+    "gross_remaining": "€ 420,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Julian Niehues",
+    "team": "Heidenheim",
+    "gross/w": "€ 8,077",
+    "gross/y": "€ 420,000",
+    "signed": "Jul 1, 2024",
+    "expiration": "Jun 30, 2027",
+    "gross_remaining": "€ 1,260,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Norman Theuerkauf",
+    "team": "Heidenheim",
+    "gross/w": "€ 8,077",
+    "gross/y": "€ 420,000",
+    "signed": "May 10, 2024",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 420,000",
     "release_clause": ""
@@ -3388,35 +3794,9 @@
     "team": "Holstein Kiel",
     "gross/w": "€ 8,077",
     "gross/y": "€ 420,000",
+    "signed": "Dec 16, 2023",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 420,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Norman Theuerkauf",
-    "team": "Heidenheim",
-    "gross/w": "€ 8,077",
-    "gross/y": "€ 420,000",
-    "expiration": "Jun 30, 2025",
-    "gross_remaining": "€ 420,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Shuto Machino",
-    "team": "Holstein Kiel",
-    "gross/w": "€ 8,077",
-    "gross/y": "€ 420,000",
-    "expiration": "Jun 30, 2027",
-    "gross_remaining": "€ 1,260,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Julian Niehues",
-    "team": "Heidenheim",
-    "gross/w": "€ 8,077",
-    "gross/y": "€ 420,000",
-    "expiration": "Jun 30, 2027",
-    "gross_remaining": "€ 1,260,000",
     "release_clause": ""
   },
   {
@@ -3424,6 +3804,7 @@
     "team": "Wolfsburg",
     "gross/w": "€ 7,885",
     "gross/y": "€ 410,000",
+    "signed": "Jul 1, 2024",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 410,000",
     "release_clause": ""
@@ -3433,6 +3814,7 @@
     "team": "Monchengladbach",
     "gross/w": "€ 7,692",
     "gross/y": "€ 400,000",
+    "signed": "Jul 1, 2023",
     "expiration": "Jun 30, 2027",
     "gross_remaining": "€ 1,200,000",
     "release_clause": ""
@@ -3442,71 +3824,9 @@
     "team": "Freiburg",
     "gross/w": "€ 7,500",
     "gross/y": "€ 390,000",
+    "signed": "Nov 26, 2024",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 390,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "David Zec",
-    "team": "Holstein Kiel",
-    "gross/w": "€ 7,308",
-    "gross/y": "€ 380,000",
-    "expiration": "Jun 30, 2029",
-    "gross_remaining": "€ 1,900,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Markus Kolke",
-    "team": "Werder Bremen",
-    "gross/w": "€ 7,308",
-    "gross/y": "€ 380,000",
-    "expiration": "Jun 30, 2025",
-    "gross_remaining": "€ 380,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Lasse Rieß",
-    "team": "Mainz",
-    "gross/w": "€ 7,308",
-    "gross/y": "€ 380,000",
-    "expiration": "Jun 30, 2027",
-    "gross_remaining": "€ 1,140,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Sirlord Conteh",
-    "team": "Heidenheim",
-    "gross/w": "€ 7,308",
-    "gross/y": "€ 380,000",
-    "expiration": "Jun 30, 2027",
-    "gross_remaining": "€ 1,140,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Krisztián Lisztes",
-    "team": "Eintracht Frankfurt",
-    "gross/w": "€ 7,308",
-    "gross/y": "€ 380,000",
-    "expiration": "Jun 30, 2029",
-    "gross_remaining": "€ 1,900,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Thomas Keller",
-    "team": "Heidenheim",
-    "gross/w": "€ 7,308",
-    "gross/y": "€ 380,000",
-    "expiration": "Jun 30, 2028",
-    "gross_remaining": "€ 1,520,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Luca Philipp",
-    "team": "Hoffenheim",
-    "gross/w": "€ 7,308",
-    "gross/y": "€ 380,000",
-    "expiration": "Jun 30, 2025",
-    "gross_remaining": "€ 380,000",
     "release_clause": ""
   },
   {
@@ -3514,8 +3834,79 @@
     "team": "Mainz",
     "gross/w": "€ 7,308",
     "gross/y": "€ 380,000",
+    "signed": "Apr 11, 2025",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 760,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Thomas Keller",
+    "team": "Heidenheim",
+    "gross/w": "€ 7,308",
+    "gross/y": "€ 380,000",
+    "signed": "Mar 28, 2025",
+    "expiration": "Jun 30, 2028",
+    "gross_remaining": "€ 1,520,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Lasse Rieß",
+    "team": "Mainz",
+    "gross/w": "€ 7,308",
+    "gross/y": "€ 380,000",
+    "signed": "Jul 19, 2024",
+    "expiration": "Jun 30, 2027",
+    "gross_remaining": "€ 1,140,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Markus Kolke",
+    "team": "Werder Bremen",
+    "gross/w": "€ 7,308",
+    "gross/y": "€ 380,000",
+    "signed": "Jul 1, 2024",
+    "expiration": "Jun 30, 2025",
+    "gross_remaining": "€ 380,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Luca Philipp",
+    "team": "Hoffenheim",
+    "gross/w": "€ 7,308",
+    "gross/y": "€ 380,000",
+    "signed": "May 17, 2024",
+    "expiration": "Jun 30, 2025",
+    "gross_remaining": "€ 380,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "David Zec",
+    "team": "Holstein Kiel",
+    "gross/w": "€ 7,308",
+    "gross/y": "€ 380,000",
+    "signed": "Jan 1, 2025",
+    "expiration": "Jun 30, 2029",
+    "gross_remaining": "€ 1,900,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Krisztián Lisztes",
+    "team": "Eintracht Frankfurt",
+    "gross/w": "€ 7,308",
+    "gross/y": "€ 380,000",
+    "signed": "Jul 1, 2024",
+    "expiration": "Jun 30, 2029",
+    "gross_remaining": "€ 1,900,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Sirlord Conteh",
+    "team": "Heidenheim",
+    "gross/w": "€ 7,308",
+    "gross/y": "€ 380,000",
+    "signed": "Jul 1, 2024",
+    "expiration": "Jun 30, 2027",
+    "gross_remaining": "€ 1,140,000",
     "release_clause": ""
   },
   {
@@ -3523,6 +3914,7 @@
     "team": "Bochum",
     "gross/w": "€ 7,115",
     "gross/y": "€ 370,000",
+    "signed": "Jul 1, 2024",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 740,000",
     "release_clause": ""
@@ -3532,6 +3924,7 @@
     "team": "Monchengladbach",
     "gross/w": "€ 6,923",
     "gross/y": "€ 360,000",
+    "signed": "Jan 10, 2024",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 720,000",
     "release_clause": ""
@@ -3541,6 +3934,7 @@
     "team": "Holstein Kiel",
     "gross/w": "€ 6,923",
     "gross/y": "€ 360,000",
+    "signed": "Jul 1, 2023",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 360,000",
     "release_clause": ""
@@ -3550,6 +3944,7 @@
     "team": "Freiburg",
     "gross/w": "€ 6,923",
     "gross/y": "€ 360,000",
+    "signed": "Jul 1, 2022",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 360,000",
     "release_clause": ""
@@ -3559,6 +3954,7 @@
     "team": "Hoffenheim",
     "gross/w": "€ 6,923",
     "gross/y": "€ 360,000",
+    "signed": "Jul 1, 2022",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 720,000",
     "release_clause": ""
@@ -3568,6 +3964,7 @@
     "team": "Stuttgart",
     "gross/w": "€ 6,923",
     "gross/y": "€ 360,000",
+    "signed": "Jan 1, 2025",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 720,000",
     "release_clause": ""
@@ -3577,6 +3974,7 @@
     "team": "Mainz",
     "gross/w": "€ 6,923",
     "gross/y": "€ 360,000",
+    "signed": "Jul 1, 2022",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 360,000",
     "release_clause": ""
@@ -3586,6 +3984,7 @@
     "team": "Werder Bremen",
     "gross/w": "€ 6,923",
     "gross/y": "€ 360,000",
+    "signed": "Dec 13, 2023",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 360,000",
     "release_clause": ""
@@ -3595,6 +3994,7 @@
     "team": "Stuttgart",
     "gross/w": "€ 6,731",
     "gross/y": "€ 350,000",
+    "signed": "Jul 1, 2024",
     "expiration": "Jun 30, 2027",
     "gross_remaining": "€ 1,050,000",
     "release_clause": ""
@@ -3604,6 +4004,7 @@
     "team": "Eintracht Frankfurt",
     "gross/w": "€ 6,731",
     "gross/y": "€ 350,000",
+    "signed": "Feb 2, 2023",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 700,000",
     "release_clause": ""
@@ -3613,6 +4014,7 @@
     "team": "Union Berlin",
     "gross/w": "€ 6,538",
     "gross/y": "€ 340,000",
+    "signed": "Jul 1, 2023",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 340,000",
     "release_clause": ""
@@ -3622,6 +4024,7 @@
     "team": "Stuttgart",
     "gross/w": "€ 6,538",
     "gross/y": "€ 340,000",
+    "signed": "Jul 1, 2024",
     "expiration": "Jun 30, 2028",
     "gross_remaining": "€ 1,360,000",
     "release_clause": ""
@@ -3631,6 +4034,7 @@
     "team": "Eintracht Frankfurt",
     "gross/w": "€ 6,538",
     "gross/y": "€ 340,000",
+    "signed": "Jul 10, 2024",
     "expiration": "Jun 30, 2029",
     "gross_remaining": "€ 1,700,000",
     "release_clause": ""
@@ -3640,6 +4044,7 @@
     "team": "Holstein Kiel",
     "gross/w": "€ 6,538",
     "gross/y": "€ 340,000",
+    "signed": "Dec 16, 2023",
     "expiration": "Jun 30, 2027",
     "gross_remaining": "€ 1,020,000",
     "release_clause": ""
@@ -3649,6 +4054,7 @@
     "team": "Holstein Kiel",
     "gross/w": "€ 6,538",
     "gross/y": "€ 340,000",
+    "signed": "Jan 22, 2025",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 340,000",
     "release_clause": ""
@@ -3658,6 +4064,7 @@
     "team": "Union Berlin",
     "gross/w": "€ 6,538",
     "gross/y": "€ 340,000",
+    "signed": "Jul 1, 2024",
     "expiration": "Jun 30, 2027",
     "gross_remaining": "€ 1,020,000",
     "release_clause": ""
@@ -3667,6 +4074,7 @@
     "team": "Heidenheim",
     "gross/w": "€ 6,346",
     "gross/y": "€ 330,000",
+    "signed": "Jul 1, 2024",
     "expiration": "Jun 30, 2027",
     "gross_remaining": "€ 990,000",
     "release_clause": ""
@@ -3676,6 +4084,7 @@
     "team": "Freiburg",
     "gross/w": "€ 6,154",
     "gross/y": "€ 320,000",
+    "signed": "Apr 3, 2023",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 640,000",
     "release_clause": ""
@@ -3685,6 +4094,7 @@
     "team": "St Pauli",
     "gross/w": "€ 5,962",
     "gross/y": "€ 310,000",
+    "signed": "Jul 1, 2023",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 620,000",
     "release_clause": ""
@@ -3694,6 +4104,7 @@
     "team": "Stuttgart",
     "gross/w": "€ 5,962",
     "gross/y": "€ 310,000",
+    "signed": "Aug 31, 2021",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 620,000",
     "release_clause": ""
@@ -3703,6 +4114,7 @@
     "team": "Heidenheim",
     "gross/w": "€ 5,769",
     "gross/y": "€ 300,000",
+    "signed": "Jul 1, 2023",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 600,000",
     "release_clause": ""
@@ -3712,6 +4124,7 @@
     "team": "Hoffenheim",
     "gross/w": "€ 5,769",
     "gross/y": "€ 300,000",
+    "signed": "Aug 30, 2024",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 300,000",
     "release_clause": ""
@@ -3721,6 +4134,7 @@
     "team": "Heidenheim",
     "gross/w": "€ 5,769",
     "gross/y": "€ 300,000",
+    "signed": "Apr 17, 2025",
     "expiration": "Jun 30, 2027",
     "gross_remaining": "€ 900,000",
     "release_clause": ""
@@ -3730,6 +4144,7 @@
     "team": "Holstein Kiel",
     "gross/w": "€ 5,769",
     "gross/y": "€ 300,000",
+    "signed": "Jul 1, 2023",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 600,000",
     "release_clause": ""
@@ -3739,6 +4154,7 @@
     "team": "Union Berlin",
     "gross/w": "€ 5,769",
     "gross/y": "€ 300,000",
+    "signed": "Jul 28, 2024",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 300,000",
     "release_clause": ""
@@ -3748,6 +4164,7 @@
     "team": "Hoffenheim",
     "gross/w": "€ 5,769",
     "gross/y": "€ 300,000",
+    "signed": "Aug 30, 2024",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 300,000",
     "release_clause": ""
@@ -3757,6 +4174,7 @@
     "team": "St Pauli",
     "gross/w": "€ 5,769",
     "gross/y": "€ 300,000",
+    "signed": "Jan 1, 2023",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 300,000",
     "release_clause": ""
@@ -3766,6 +4184,7 @@
     "team": "Heidenheim",
     "gross/w": "€ 5,769",
     "gross/y": "€ 300,000",
+    "signed": "Jul 1, 2024",
     "expiration": "Jun 30, 2027",
     "gross_remaining": "€ 900,000",
     "release_clause": ""
@@ -3775,6 +4194,7 @@
     "team": "Heidenheim",
     "gross/w": "€ 5,769",
     "gross/y": "€ 300,000",
+    "signed": "Feb 24, 2023",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 600,000",
     "release_clause": ""
@@ -3784,6 +4204,7 @@
     "team": "Hoffenheim",
     "gross/w": "€ 5,769",
     "gross/y": "€ 300,000",
+    "signed": "Feb 1, 2025",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 300,000",
     "release_clause": ""
@@ -3793,6 +4214,7 @@
     "team": "Wolfsburg",
     "gross/w": "€ 5,769",
     "gross/y": "€ 300,000",
+    "signed": "Apr 21, 2023",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 300,000",
     "release_clause": ""
@@ -3802,6 +4224,7 @@
     "team": "St Pauli",
     "gross/w": "€ 5,385",
     "gross/y": "€ 280,000",
+    "signed": "Jul 1, 2024",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 280,000",
     "release_clause": ""
@@ -3811,6 +4234,7 @@
     "team": "Borussia Dortmund",
     "gross/w": "€ 5,385",
     "gross/y": "€ 280,000",
+    "signed": "Jul 1, 2024",
     "expiration": "Jun 30, 2028",
     "gross_remaining": "€ 1,120,000",
     "release_clause": ""
@@ -3820,6 +4244,7 @@
     "team": "Augsburg",
     "gross/w": "€ 5,385",
     "gross/y": "€ 280,000",
+    "signed": "Jul 4, 2024",
     "expiration": "Jun 30, 2028",
     "gross_remaining": "€ 1,120,000",
     "release_clause": ""
@@ -3829,6 +4254,7 @@
     "team": "Bayer Leverkusen",
     "gross/w": "€ 5,385",
     "gross/y": "€ 280,000",
+    "signed": "Jan 2, 2025",
     "expiration": "Jun 30, 2029",
     "gross_remaining": "€ 1,400,000",
     "release_clause": ""
@@ -3838,6 +4264,7 @@
     "team": "Mainz",
     "gross/w": "€ 5,385",
     "gross/y": "€ 280,000",
+    "signed": "Jul 1, 2024",
     "expiration": "Jun 30, 2028",
     "gross_remaining": "€ 1,120,000",
     "release_clause": ""
@@ -3847,6 +4274,7 @@
     "team": "Borussia Dortmund",
     "gross/w": "€ 5,385",
     "gross/y": "€ 280,000",
+    "signed": "Feb 20, 2025",
     "expiration": "Jun 30, 2028",
     "gross_remaining": "€ 1,120,000",
     "release_clause": ""
@@ -3856,6 +4284,7 @@
     "team": "Werder Bremen",
     "gross/w": "€ 5,385",
     "gross/y": "€ 280,000",
+    "signed": "Jul 12, 2022",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 280,000",
     "release_clause": ""
@@ -3865,6 +4294,7 @@
     "team": "Hoffenheim",
     "gross/w": "€ 5,385",
     "gross/y": "€ 280,000",
+    "signed": "Feb 22, 2024",
     "expiration": "Jun 30, 2027",
     "gross_remaining": "€ 840,000",
     "release_clause": ""
@@ -3874,6 +4304,7 @@
     "team": "Monchengladbach",
     "gross/w": "€ 5,385",
     "gross/y": "€ 280,000",
+    "signed": "Jul 1, 2023",
     "expiration": "Jun 30, 2027",
     "gross_remaining": "€ 840,000",
     "release_clause": ""
@@ -3883,6 +4314,7 @@
     "team": "Augsburg",
     "gross/w": "€ 5,385",
     "gross/y": "€ 280,000",
+    "signed": "Jan 24, 2025",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 560,000",
     "release_clause": ""
@@ -3892,6 +4324,7 @@
     "team": "Eintracht Frankfurt",
     "gross/w": "€ 5,385",
     "gross/y": "€ 280,000",
+    "signed": "Aug 30, 2021",
     "expiration": "Jun 30, 2029",
     "gross_remaining": "€ 1,400,000",
     "release_clause": ""
@@ -3901,6 +4334,7 @@
     "team": "Heidenheim",
     "gross/w": "€ 5,385",
     "gross/y": "€ 280,000",
+    "signed": "Jul 1, 2024",
     "expiration": "Jun 30, 2027",
     "gross_remaining": "€ 840,000",
     "release_clause": ""
@@ -3910,6 +4344,7 @@
     "team": "Bochum",
     "gross/w": "€ 5,385",
     "gross/y": "€ 280,000",
+    "signed": "Jul 1, 2024",
     "expiration": "Jun 30, 2027",
     "gross_remaining": "€ 840,000",
     "release_clause": ""
@@ -3919,6 +4354,7 @@
     "team": "Mainz",
     "gross/w": "€ 5,192",
     "gross/y": "€ 270,000",
+    "signed": "Jun 30, 2020",
     "expiration": "Jun 30, 2027",
     "gross_remaining": "€ 810,000",
     "release_clause": ""
@@ -3928,6 +4364,7 @@
     "team": "Bochum",
     "gross/w": "€ 5,192",
     "gross/y": "€ 270,000",
+    "signed": "Dec 22, 2022",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 540,000",
     "release_clause": ""
@@ -3937,6 +4374,7 @@
     "team": "Holstein Kiel",
     "gross/w": "€ 5,192",
     "gross/y": "€ 270,000",
+    "signed": "Jul 1, 2023",
     "expiration": "Jun 30, 2027",
     "gross_remaining": "€ 810,000",
     "release_clause": ""
@@ -3946,6 +4384,7 @@
     "team": "Heidenheim",
     "gross/w": "€ 5,192",
     "gross/y": "€ 270,000",
+    "signed": "Jun 7, 2023",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 270,000",
     "release_clause": ""
@@ -3955,6 +4394,7 @@
     "team": "St Pauli",
     "gross/w": "€ 5,000",
     "gross/y": "€ 260,000",
+    "signed": "Jul 26, 2024",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 260,000",
     "release_clause": ""
@@ -3964,6 +4404,7 @@
     "team": "Augsburg",
     "gross/w": "€ 4,808",
     "gross/y": "€ 250,000",
+    "signed": "Sep 2, 2020",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 250,000",
     "release_clause": ""
@@ -3973,6 +4414,7 @@
     "team": "Borussia Dortmund",
     "gross/w": "€ 4,615",
     "gross/y": "€ 240,000",
+    "signed": "Apr 13, 2023",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 240,000",
     "release_clause": ""
@@ -3982,6 +4424,7 @@
     "team": "Holstein Kiel",
     "gross/w": "€ 4,615",
     "gross/y": "€ 240,000",
+    "signed": "Jul 1, 2023",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 480,000",
     "release_clause": ""
@@ -3991,6 +4434,7 @@
     "team": "Borussia Dortmund",
     "gross/w": "€ 4,615",
     "gross/y": "€ 240,000",
+    "signed": "Jan 27, 2023",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 240,000",
     "release_clause": ""
@@ -4000,6 +4444,7 @@
     "team": "Holstein Kiel",
     "gross/w": "€ 4,615",
     "gross/y": "€ 240,000",
+    "signed": "Jul 1, 2023",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 480,000",
     "release_clause": ""
@@ -4009,6 +4454,7 @@
     "team": "Heidenheim",
     "gross/w": "€ 4,231",
     "gross/y": "€ 220,000",
+    "signed": "Jul 1, 2024",
     "expiration": "Jun 30, 2027",
     "gross_remaining": "€ 660,000",
     "release_clause": ""
@@ -4018,6 +4464,7 @@
     "team": "Heidenheim",
     "gross/w": "€ 4,231",
     "gross/y": "€ 220,000",
+    "signed": "Jan 22, 2025",
     "expiration": "Jun 30, 2028",
     "gross_remaining": "€ 880,000",
     "release_clause": ""
@@ -4027,6 +4474,7 @@
     "team": "Mainz",
     "gross/w": "€ 4,231",
     "gross/y": "€ 220,000",
+    "signed": "Jul 1, 2024",
     "expiration": "Jun 30, 2027",
     "gross_remaining": "€ 660,000",
     "release_clause": ""
@@ -4036,6 +4484,7 @@
     "team": "Holstein Kiel",
     "gross/w": "€ 4,231",
     "gross/y": "€ 220,000",
+    "signed": "Aug 30, 2024",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 220,000",
     "release_clause": ""
@@ -4045,6 +4494,7 @@
     "team": "Freiburg",
     "gross/w": "€ 4,231",
     "gross/y": "€ 220,000",
+    "signed": "Oct 2, 2023",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 220,000",
     "release_clause": ""
@@ -4054,6 +4504,7 @@
     "team": "Holstein Kiel",
     "gross/w": "€ 3,846",
     "gross/y": "€ 200,000",
+    "signed": "Jul 1, 2024",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 200,000",
     "release_clause": ""
@@ -4063,6 +4514,7 @@
     "team": "Holstein Kiel",
     "gross/w": "€ 3,846",
     "gross/y": "€ 200,000",
+    "signed": "Jul 1, 2024",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 200,000",
     "release_clause": ""
@@ -4072,6 +4524,7 @@
     "team": "Leipzig",
     "gross/w": "€ 3,654",
     "gross/y": "€ 190,000",
+    "signed": "Aug 16, 2024",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 190,000",
     "release_clause": ""
@@ -4081,6 +4534,7 @@
     "team": "Stuttgart",
     "gross/w": "€ 3,654",
     "gross/y": "€ 190,000",
+    "signed": "Jul 1, 2024",
     "expiration": "Jun 30, 2028",
     "gross_remaining": "€ 760,000",
     "release_clause": ""
@@ -4090,6 +4544,7 @@
     "team": "Holstein Kiel",
     "gross/w": "€ 3,654",
     "gross/y": "€ 190,000",
+    "signed": "Feb 1, 2023",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 380,000",
     "release_clause": ""
@@ -4099,17 +4554,9 @@
     "team": "St Pauli",
     "gross/w": "€ 3,654",
     "gross/y": "€ 190,000",
+    "signed": "Mar 26, 2024",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 190,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Filippo Mané",
-    "team": "Borussia Dortmund",
-    "gross/w": "€ 3,462",
-    "gross/y": "€ 180,000",
-    "expiration": "Jun 30, 2028",
-    "gross_remaining": "€ 720,000",
     "release_clause": ""
   },
   {
@@ -4117,6 +4564,7 @@
     "team": "Borussia Dortmund",
     "gross/w": "€ 3,462",
     "gross/y": "€ 180,000",
+    "signed": "Jul 9, 2024",
     "expiration": "Jun 30, 2028",
     "gross_remaining": "€ 720,000",
     "release_clause": ""
@@ -4126,6 +4574,7 @@
     "team": "Bochum",
     "gross/w": "€ 3,462",
     "gross/y": "€ 180,000",
+    "signed": "May 31, 2023",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 180,000",
     "release_clause": ""
@@ -4135,6 +4584,7 @@
     "team": "St Pauli",
     "gross/w": "€ 3,462",
     "gross/y": "€ 180,000",
+    "signed": "Oct 23, 2024",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 180,000",
     "release_clause": ""
@@ -4144,6 +4594,7 @@
     "team": "Bochum",
     "gross/w": "€ 3,462",
     "gross/y": "€ 180,000",
+    "signed": "Jul 1, 2024",
     "expiration": "Jun 30, 2027",
     "gross_remaining": "€ 540,000",
     "release_clause": ""
@@ -4153,15 +4604,17 @@
     "team": "Stuttgart",
     "gross/w": "€ 3,462",
     "gross/y": "€ 180,000",
+    "signed": "May 8, 2024",
     "expiration": "Jun 30, 2027",
     "gross_remaining": "€ 540,000",
     "release_clause": ""
   },
   {
-    "player_name": "Mohamed Sankoh",
-    "team": "Stuttgart",
+    "player_name": "Daniel Klein",
+    "team": "Augsburg",
     "gross/w": "€ 3,462",
     "gross/y": "€ 180,000",
+    "signed": "Apr 29, 2025",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 360,000",
     "release_clause": ""
@@ -4171,6 +4624,7 @@
     "team": "St Pauli",
     "gross/w": "€ 3,462",
     "gross/y": "€ 180,000",
+    "signed": "Jul 1, 2023",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 180,000",
     "release_clause": ""
@@ -4180,8 +4634,29 @@
     "team": "Freiburg",
     "gross/w": "€ 3,462",
     "gross/y": "€ 180,000",
+    "signed": "Nov 28, 2024",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 180,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Mohamed Sankoh",
+    "team": "Stuttgart",
+    "gross/w": "€ 3,462",
+    "gross/y": "€ 180,000",
+    "signed": "Jan 3, 2025",
+    "expiration": "Jun 30, 2026",
+    "gross_remaining": "€ 360,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Filippo Mané",
+    "team": "Borussia Dortmund",
+    "gross/w": "€ 3,462",
+    "gross/y": "€ 180,000",
+    "signed": "Jan 6, 2025",
+    "expiration": "Jun 30, 2028",
+    "gross_remaining": "€ 720,000",
     "release_clause": ""
   },
   {
@@ -4189,15 +4664,7 @@
     "team": "Freiburg",
     "gross/w": "€ 3,269",
     "gross/y": "€ 170,000",
-    "expiration": "Jun 30, 2025",
-    "gross_remaining": "€ 170,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Bruno Ogbus",
-    "team": "Freiburg",
-    "gross/w": "€ 3,269",
-    "gross/y": "€ 170,000",
+    "signed": "Jul 13, 2023",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 170,000",
     "release_clause": ""
@@ -4207,6 +4674,7 @@
     "team": "St Pauli",
     "gross/w": "€ 3,269",
     "gross/y": "€ 170,000",
+    "signed": "Jan 2, 2025",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 170,000",
     "release_clause": ""
@@ -4216,6 +4684,7 @@
     "team": "Borussia Dortmund",
     "gross/w": "€ 3,269",
     "gross/y": "€ 170,000",
+    "signed": "Jun 10, 2023",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 170,000",
     "release_clause": ""
@@ -4225,6 +4694,7 @@
     "team": "Monchengladbach",
     "gross/w": "€ 3,269",
     "gross/y": "€ 170,000",
+    "signed": "Jan 7, 2025",
     "expiration": "Jun 30, 2027",
     "gross_remaining": "€ 510,000",
     "release_clause": ""
@@ -4234,8 +4704,19 @@
     "team": "Freiburg",
     "gross/w": "€ 3,269",
     "gross/y": "€ 170,000",
+    "signed": "Sep 26, 2024",
     "expiration": "Jun 30, 2028",
     "gross_remaining": "€ 680,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Bruno Ogbus",
+    "team": "Freiburg",
+    "gross/w": "€ 3,269",
+    "gross/y": "€ 170,000",
+    "signed": "Sep 30, 2024",
+    "expiration": "Jun 30, 2025",
+    "gross_remaining": "€ 170,000",
     "release_clause": ""
   },
   {
@@ -4243,17 +4724,9 @@
     "team": "Hoffenheim",
     "gross/w": "€ 3,077",
     "gross/y": "€ 160,000",
+    "signed": "Jul 1, 2024",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 320,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Marcel Engelhardt",
-    "team": "Holstein Kiel",
-    "gross/w": "€ 2,885",
-    "gross/y": "€ 150,000",
-    "expiration": "Jun 30, 2025",
-    "gross_remaining": "€ 150,000",
     "release_clause": ""
   },
   {
@@ -4261,6 +4734,7 @@
     "team": "Union Berlin",
     "gross/w": "€ 2,885",
     "gross/y": "€ 150,000",
+    "signed": "Jul 1, 2023",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 150,000",
     "release_clause": ""
@@ -4270,6 +4744,7 @@
     "team": "Heidenheim",
     "gross/w": "€ 2,885",
     "gross/y": "€ 150,000",
+    "signed": "Sep 12, 2024",
     "expiration": "Jun 30, 2029",
     "gross_remaining": "€ 750,000",
     "release_clause": ""
@@ -4279,8 +4754,19 @@
     "team": "Bayern Munich",
     "gross/w": "€ 2,885",
     "gross/y": "€ 150,000",
+    "signed": "Jul 1, 2023",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 300,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Marcel Engelhardt",
+    "team": "Holstein Kiel",
+    "gross/w": "€ 2,885",
+    "gross/y": "€ 150,000",
+    "signed": "Oct 14, 2024",
+    "expiration": "Jun 30, 2025",
+    "gross_remaining": "€ 150,000",
     "release_clause": ""
   },
   {
@@ -4288,6 +4774,7 @@
     "team": "St Pauli",
     "gross/w": "€ 2,692",
     "gross/y": "€ 140,000",
+    "signed": "Jul 1, 2024",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 140,000",
     "release_clause": ""
@@ -4297,6 +4784,7 @@
     "team": "Monchengladbach",
     "gross/w": "€ 2,692",
     "gross/y": "€ 140,000",
+    "signed": "Jan 15, 2024",
     "expiration": "Jun 30, 2027",
     "gross_remaining": "€ 420,000",
     "release_clause": ""
@@ -4306,6 +4794,7 @@
     "team": "Werder Bremen",
     "gross/w": "€ 2,692",
     "gross/y": "€ 140,000",
+    "signed": "Sep 6, 2023",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 140,000",
     "release_clause": ""
@@ -4315,6 +4804,7 @@
     "team": "St Pauli",
     "gross/w": "€ 2,692",
     "gross/y": "€ 140,000",
+    "signed": "Jan 29, 2025",
     "expiration": "Jun 30, 2028",
     "gross_remaining": "€ 560,000",
     "release_clause": ""
@@ -4324,6 +4814,7 @@
     "team": "Bayer Leverkusen",
     "gross/w": "€ 2,692",
     "gross/y": "€ 140,000",
+    "signed": "Jul 1, 2024",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 140,000",
     "release_clause": ""
@@ -4333,6 +4824,7 @@
     "team": "St Pauli",
     "gross/w": "€ 2,692",
     "gross/y": "€ 140,000",
+    "signed": "Aug 31, 2021",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 140,000",
     "release_clause": ""
@@ -4342,6 +4834,7 @@
     "team": "St Pauli",
     "gross/w": "€ 2,692",
     "gross/y": "€ 140,000",
+    "signed": "Jul 1, 2024",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 140,000",
     "release_clause": ""
@@ -4351,6 +4844,7 @@
     "team": "St Pauli",
     "gross/w": "€ 2,692",
     "gross/y": "€ 140,000",
+    "signed": "Jan 16, 2025",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 140,000",
     "release_clause": ""
@@ -4360,6 +4854,7 @@
     "team": "Bayer Leverkusen",
     "gross/w": "€ 2,692",
     "gross/y": "€ 140,000",
+    "signed": "Jul 1, 2024",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 140,000",
     "release_clause": ""
@@ -4369,6 +4864,7 @@
     "team": "Hoffenheim",
     "gross/w": "€ 2,692",
     "gross/y": "€ 140,000",
+    "signed": "Jan 28, 2025",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 140,000",
     "release_clause": ""
@@ -4378,6 +4874,7 @@
     "team": "Hoffenheim",
     "gross/w": "€ 2,692",
     "gross/y": "€ 140,000",
+    "signed": "Jan 28, 2022",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 140,000",
     "release_clause": ""
@@ -4387,6 +4884,7 @@
     "team": "St Pauli",
     "gross/w": "€ 2,692",
     "gross/y": "€ 140,000",
+    "signed": "Jul 1, 2022",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 140,000",
     "release_clause": ""
@@ -4396,6 +4894,7 @@
     "team": "St Pauli",
     "gross/w": "€ 2,692",
     "gross/y": "€ 140,000",
+    "signed": "Jul 1, 2024",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 140,000",
     "release_clause": ""
@@ -4405,6 +4904,7 @@
     "team": "Holstein Kiel",
     "gross/w": "€ 2,692",
     "gross/y": "€ 140,000",
+    "signed": "Jul 1, 2024",
     "expiration": "Jun 30, 2028",
     "gross_remaining": "€ 560,000",
     "release_clause": ""
@@ -4414,6 +4914,7 @@
     "team": "St Pauli",
     "gross/w": "€ 2,692",
     "gross/y": "€ 140,000",
+    "signed": "Jan 3, 2025",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 140,000",
     "release_clause": ""
@@ -4423,6 +4924,7 @@
     "team": "St Pauli",
     "gross/w": "€ 2,692",
     "gross/y": "€ 140,000",
+    "signed": "Nov 15, 2023",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 140,000",
     "release_clause": ""
@@ -4432,62 +4934,9 @@
     "team": "Heidenheim",
     "gross/w": "€ 2,500",
     "gross/y": "€ 130,000",
+    "signed": "Jul 1, 2024",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 130,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Mert Kömür",
-    "team": "Augsburg",
-    "gross/w": "€ 2,308",
-    "gross/y": "€ 120,000",
-    "expiration": "Jun 30, 2027",
-    "gross_remaining": "€ 360,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Mats Pannewig",
-    "team": "Bochum",
-    "gross/w": "€ 2,308",
-    "gross/y": "€ 120,000",
-    "expiration": "Jun 30, 2026",
-    "gross_remaining": "€ 240,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "David Odogu",
-    "team": "Wolfsburg",
-    "gross/w": "€ 2,308",
-    "gross/y": "€ 120,000",
-    "expiration": "Jun 30, 2025",
-    "gross_remaining": "€ 120,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Moritz Broschinski",
-    "team": "Bochum",
-    "gross/w": "€ 2,308",
-    "gross/y": "€ 120,000",
-    "expiration": "Jun 30, 2026",
-    "gross_remaining": "€ 240,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Luca Raimund",
-    "team": "Stuttgart",
-    "gross/w": "€ 2,308",
-    "gross/y": "€ 120,000",
-    "expiration": "Jun 30, 2026",
-    "gross_remaining": "€ 240,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Marco Komenda",
-    "team": "Holstein Kiel",
-    "gross/w": "€ 2,308",
-    "gross/y": "€ 120,000",
-    "expiration": "Jun 30, 2026",
-    "gross_remaining": "€ 240,000",
     "release_clause": ""
   },
   {
@@ -4495,35 +4944,19 @@
     "team": "Bochum",
     "gross/w": "€ 2,308",
     "gross/y": "€ 120,000",
+    "signed": "Jan 26, 2023",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 120,000",
     "release_clause": ""
   },
   {
-    "player_name": "Bennit Bröger",
-    "team": "Wolfsburg",
+    "player_name": "Luca Raimund",
+    "team": "Stuttgart",
     "gross/w": "€ 2,308",
     "gross/y": "€ 120,000",
-    "expiration": "Jun 30, 2025",
-    "gross_remaining": "€ 120,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Daniel Klein",
-    "team": "Augsburg",
-    "gross/w": "€ 2,308",
-    "gross/y": "€ 120,000",
-    "expiration": "Jun 30, 2025",
-    "gross_remaining": "€ 120,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Lúkas Petersson",
-    "team": "Hoffenheim",
-    "gross/w": "€ 2,308",
-    "gross/y": "€ 120,000",
-    "expiration": "Jun 30, 2027",
-    "gross_remaining": "€ 360,000",
+    "signed": "Jul 1, 2024",
+    "expiration": "Jun 30, 2026",
+    "gross_remaining": "€ 240,000",
     "release_clause": ""
   },
   {
@@ -4531,6 +4964,7 @@
     "team": "Holstein Kiel",
     "gross/w": "€ 2,308",
     "gross/y": "€ 120,000",
+    "signed": "Jul 1, 2023",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 240,000",
     "release_clause": ""
@@ -4540,15 +4974,7 @@
     "team": "Augsburg",
     "gross/w": "€ 2,308",
     "gross/y": "€ 120,000",
-    "expiration": "Jun 30, 2027",
-    "gross_remaining": "€ 360,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Lennart Koerdt",
-    "team": "Bochum",
-    "gross/w": "€ 2,308",
-    "gross/y": "€ 120,000",
+    "signed": "Jul 17, 2024",
     "expiration": "Jun 30, 2027",
     "gross_remaining": "€ 360,000",
     "release_clause": ""
@@ -4558,17 +4984,89 @@
     "team": "Stuttgart",
     "gross/w": "€ 2,308",
     "gross/y": "€ 120,000",
+    "signed": "Jul 1, 2024",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 120,000",
     "release_clause": ""
   },
   {
-    "player_name": "Mathys Angély",
+    "player_name": "Lennart Koerdt",
+    "team": "Bochum",
+    "gross/w": "€ 2,308",
+    "gross/y": "€ 120,000",
+    "signed": "Jul 1, 2024",
+    "expiration": "Jun 30, 2027",
+    "gross_remaining": "€ 360,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Mert Kömür",
+    "team": "Augsburg",
+    "gross/w": "€ 2,308",
+    "gross/y": "€ 120,000",
+    "signed": "Jul 1, 2023",
+    "expiration": "Jun 30, 2027",
+    "gross_remaining": "€ 360,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "David Odogu",
     "team": "Wolfsburg",
-    "gross/w": "€ 1,923",
-    "gross/y": "€ 100,000",
+    "gross/w": "€ 2,308",
+    "gross/y": "€ 120,000",
+    "signed": "Aug 16, 2024",
     "expiration": "Jun 30, 2025",
-    "gross_remaining": "€ 100,000",
+    "gross_remaining": "€ 120,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Lúkas Petersson",
+    "team": "Hoffenheim",
+    "gross/w": "€ 2,308",
+    "gross/y": "€ 120,000",
+    "signed": "Jul 1, 2024",
+    "expiration": "Jun 30, 2027",
+    "gross_remaining": "€ 360,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Mats Pannewig",
+    "team": "Bochum",
+    "gross/w": "€ 2,308",
+    "gross/y": "€ 120,000",
+    "signed": "Feb 28, 2023",
+    "expiration": "Jun 30, 2026",
+    "gross_remaining": "€ 240,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Moritz Broschinski",
+    "team": "Bochum",
+    "gross/w": "€ 2,308",
+    "gross/y": "€ 120,000",
+    "signed": "Jan 22, 2023",
+    "expiration": "Jun 30, 2026",
+    "gross_remaining": "€ 240,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Marco Komenda",
+    "team": "Holstein Kiel",
+    "gross/w": "€ 2,308",
+    "gross/y": "€ 120,000",
+    "signed": "Mar 8, 2022",
+    "expiration": "Jun 30, 2026",
+    "gross_remaining": "€ 240,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Bennit Bröger",
+    "team": "Wolfsburg",
+    "gross/w": "€ 2,308",
+    "gross/y": "€ 120,000",
+    "signed": "Jul 21, 2023",
+    "expiration": "Jun 30, 2025",
+    "gross_remaining": "€ 120,000",
     "release_clause": ""
   },
   {
@@ -4576,17 +5074,19 @@
     "team": "Holstein Kiel",
     "gross/w": "€ 1,923",
     "gross/y": "€ 100,000",
+    "signed": "Jul 25, 2024",
     "expiration": "Jun 30, 2028",
     "gross_remaining": "€ 400,000",
     "release_clause": ""
   },
   {
-    "player_name": "Noahkai Banks",
-    "team": "Augsburg",
+    "player_name": "Mathys Angély",
+    "team": "Wolfsburg",
     "gross/w": "€ 1,923",
     "gross/y": "€ 100,000",
-    "expiration": "Jun 30, 2027",
-    "gross_remaining": "€ 300,000",
+    "signed": "Aug 13, 2024",
+    "expiration": "Jun 30, 2025",
+    "gross_remaining": "€ 100,000",
     "release_clause": ""
   },
   {
@@ -4594,6 +5094,7 @@
     "team": "Union Berlin",
     "gross/w": "€ 1,923",
     "gross/y": "€ 100,000",
+    "signed": "Aug 12, 2024",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 100,000",
     "release_clause": ""
@@ -4603,8 +5104,19 @@
     "team": "Union Berlin",
     "gross/w": "€ 1,923",
     "gross/y": "€ 100,000",
+    "signed": "Oct 7, 2024",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 100,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Noahkai Banks",
+    "team": "Augsburg",
+    "gross/w": "€ 1,923",
+    "gross/y": "€ 100,000",
+    "signed": "Jul 10, 2024",
+    "expiration": "Jun 30, 2027",
+    "gross_remaining": "€ 300,000",
     "release_clause": ""
   },
   {
@@ -4612,17 +5124,9 @@
     "team": "Werder Bremen",
     "gross/w": "€ 1,731",
     "gross/y": "€ 90,000",
+    "signed": "Jul 1, 2021",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 90,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Naby Keïta",
-    "team": "Werder Bremen",
-    "gross/w": "",
-    "gross/y": "",
-    "expiration": "Jun 30, 2026",
-    "gross_remaining": "",
     "release_clause": ""
   },
   {
@@ -4630,8 +5134,19 @@
     "team": "Stuttgart",
     "gross/w": "",
     "gross/y": "",
+    "signed": "Jan 1, 2023",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "",
     "release_clause": "€ 10,000,000"
+  },
+  {
+    "player_name": "Naby Keïta",
+    "team": "Werder Bremen",
+    "gross/w": "",
+    "gross/y": "",
+    "signed": "Jul 1, 2023",
+    "expiration": "Jun 30, 2026",
+    "gross_remaining": "",
+    "release_clause": ""
   }
 ]

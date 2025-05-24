@@ -1,6 +1,6 @@
 from pyspark.sql import SparkSession
 from pyspark.sql.functions import lit
-from raw_to_trusted.module_job import checking_duplicated
+from modules.module_job import checking_duplicated
 from crawling.crawlData_fbhref import Scraping
 from datetime import date
 import json
@@ -11,11 +11,11 @@ spark = SparkSession.builder \
 
 def team_read_from_json():
     shared_map = {
-    "pl": "/opt/shared/premier_leagues/24_25/team_info/team_overall.json",
-    "la": "/opt/shared/laliga/24_25/team_info/team_overall.json",
-    "fl": "/opt/shared/ligue 1/24_25/team_info/team_overall.json",
-    "bun": "/opt/shared/bundesliga/24_25/team_info/team_overall.json",
-    "se": "/opt/shared/seria/24_25/team_info/team_overall.json"
+    "pl": "/opt/shared/premier_leagues/24_25/team_info/teams_overall.json",
+    "la": "/opt/shared/laliga/24_25/team_info/teams_overall.json",
+    "fl": "/opt/shared/ligue 1/24_25/team_info/teams_overall.json",
+    "bun": "/opt/shared/bundesliga/24_25/team_info/teams_overall.json",
+    "se": "/opt/shared/seria/24_25/team_info/teams_overall.json"
 }
     path_map = {
     "pl": "premierleague/24_25/team",

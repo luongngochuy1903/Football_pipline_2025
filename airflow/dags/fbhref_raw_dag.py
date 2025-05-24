@@ -47,6 +47,9 @@ def fbref_to_raw_dag():
         print(result.stdout)
         print("===== STDERR =====")
         print(result.stderr)
+        if result.returncode != 0:
+            raise Exception("Loading job failed")
+        logging.info("Crawling completed!")
 
     @task
     def clear_from_shared():
@@ -56,7 +59,28 @@ def fbref_to_raw_dag():
             for attribute in attribute_folder:
                 os.system(f"rm -f /opt/shared/{league}/24_25/{attribute}")
         print("Deleted shared data")
+    
+    @task
+    def transform_load():
+        command = [
+    "docker", "exec",
+    "-e", "PYTHONPATH=/opt/spark_jobs",
+    "football_pipeline_2025-spark-master-1",
+    "spark-submit", "--master", "spark://spark-master:7077",
+    "/opt/spark_jobs/transforming/fbhref_transforming.py"
+]
 
-    write_team_player_to_shared() >> spark_submit_to_raw() >> clear_from_shared()
+        result = subprocess.run(command, capture_output=True, text=True)
+
+        print("===== STDOUT =====")
+        print(result.stdout)
+        print("===== STDERR =====")
+        print(result.stderr)
+
+        if result.returncode != 0:
+            raise Exception("Spark job failed")
+        logging.info("completed fbhref load to Trusted!")
+
+    write_team_player_to_shared() >> spark_submit_to_raw() >> clear_from_shared() >> transform_load()
 
 fbref_to_raw_dag()

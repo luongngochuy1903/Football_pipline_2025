@@ -1,6 +1,6 @@
 from pyspark.sql import SparkSession
 from pyspark.sql.functions import lit
-from raw_to_trusted.module_job import checking_duplicated
+from modules.module_job import checking_duplicated
 from datetime import date
 import json
 import hashlib
@@ -13,11 +13,11 @@ spark = SparkSession.builder \
 
 def news_read_from_json():
     shared_map = {
-    "pl": "/opt/shared/news/dailymail/premierleague_dailynews.json",
-    "la": "/opt/shared/news/dailymail/la-liga_dailynews.json",
-    "fl": "/opt/shared/news/dailymail/ligue-1_dailynews.json",
-    "bun": "/opt/shared/news/dailymail/bundesliga_dailynews.json",
-    "se": "/opt/shared/news/dailymail/serie-a_dailynews.json"
+    "pl": "/opt/shared/news/dailymail/premierleague_dailymailnews.json",
+    "la": "/opt/shared/news/dailymail/la-liga_dailymailnews.json",
+    "fl": "/opt/shared/news/dailymail/ligue-1_dailymailnews.json",
+    "bun": "/opt/shared/news/dailymail/bundesliga_dailymailnews.json",
+    "se": "/opt/shared/news/dailymail/serie-a_dailymailnews.json"
 }
     path_map = {
     "pl": "premierleague/24_25/news/dailymail",

@@ -1,7 +1,7 @@
 from pyspark.sql import SparkSession
 from pyspark.sql.functions import lit
 from crawling.crawlData_espn import crawl_league_news, crawl_team_season
-from raw_to_trusted.module_job import checking_duplicated
+from modules.module_job import checking_duplicated
 from datetime import date
 import json
 import hashlib
@@ -14,6 +14,7 @@ spark = SparkSession.builder \
 
     
 def news_read_from_json():
+    crawl_league_news()
     news_lists = {
     "pl": "/opt/shared/news/espn/eng_news.json",
     "la": "/opt/shared/news/espn/esp_news.json",

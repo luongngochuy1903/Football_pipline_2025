@@ -60,10 +60,10 @@ def crawl_league_news():
 def crawl_team_season():
     league_map = {
                     "PL": "/opt/shared/premier_leagues/24_25/team_info/team_season.json",
-                    "PD": "/opt/shared/premier_leagues/24_25/team_info/team_season.json",
-                    "FL1": "/opt/shared/premier_leagues/24_25/team_info/team_season.json",
-                    "BL1": "/opt/shared/premier_leagues/24_25/team_info/team_season.json",
-                    "SA": "/opt/shared/premier_leagues/24_25/team_info/team_season.json"
+                    "PD": "/opt/shared/laliga/24_25/team_info/team_season.json",
+                    "FL1": "/opt/shared/ligue 1/24_25/team_info/team_season.json",
+                    "BL1": "/opt/shared/bundesliga/24_25/team_info/team_season.json",
+                    "SA": "/opt/shared/seria/24_25/team_info/team_season.json"
                 }
     for item in list_url:
         for year, year_code in list_year.items():

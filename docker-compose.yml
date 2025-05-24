@@ -7,6 +7,7 @@ x-airflow-common: &airflow-common
   env_file:
     - ./airflow/airflow.env
   environment:
+    - AIRFLOW__CORE__EXECUTOR=LocalExecutor
     - PYTHONPATH=/opt/airflow
   volumes:
     - /var/run/docker.sock:/var/run/docker.sock

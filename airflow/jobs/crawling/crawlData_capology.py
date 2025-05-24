@@ -95,13 +95,21 @@ class Scraping():
                     
                     time.sleep(1)
                     current_page_tag = soup.select_one('.pagination li.page-item.active a')
-                    if current_page_tag:
-                        current_page = int(current_page_tag.text.strip())
-                        print(f"Trang hiện tại: {current_page}")
-                        next_li_tag = soup.select_one('.pagination li.page-next')
-                        if next_li_tag and 'disabled' in next_li_tag.get('class', []):
-                            print("Đã đến trang cuối")
+                    current_page = int(current_page_tag.text.strip()) if current_page_tag else 1
+
+                    total_page = 1
+                    pagination_items = soup.select('.pagination li')
+                    for li in reversed(pagination_items):
+                        try:
+                            total_page = int(li.text.strip())
                             break
+                        except ValueError:
+                            continue
+
+                    print(f"Trang hiện tại: {current_page} / {total_page}")
+                    if current_page >= total_page:
+                        print("Đã đến trang cuối")
+                        break
 
                     # Tìm và click nút Next
                     try:
@@ -110,6 +118,7 @@ class Scraping():
                         time.sleep(3)
                     except Exception as e:
                         print("Không tìm thấy nút Next hoặc lỗi:", e)
+                        break
                 
                 with open(f"/app/output/{folder}/{save}/player_info/salary/player_salary.json", "w", encoding="utf-8") as f:
                     json.dump(player_salary, f, ensure_ascii=False, indent=2)
