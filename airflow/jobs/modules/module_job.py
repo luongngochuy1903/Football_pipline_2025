@@ -10,7 +10,7 @@ def checking_duplicated(spark, target, raw_df, address, list_value):
     if not get_latest_partition_date(target, address):
         return False
     year, month, day = get_latest_partition_date(target, address)
-    trusted_df = spark.read.parquet(f"s3a://{target}/{address}/year={year}/month={month}/day={day}")
+    trusted_df = spark.read.json(f"s3a://{target}/{address}/year={year}/month={month}/day={day}")
     def hash_column(df, columns):
         return df.select(md5(to_json(struct(*[col(f"`{c}`") for c in columns]))).alias("hash")) \
              .rdd.map(lambda row: row["hash"]).collect()
@@ -25,16 +25,6 @@ def checking_duplicated(spark, target, raw_df, address, list_value):
             return False
     return True
     
-
-def load_to_trusted(df, path):
-    df.printSchema()
-    df.show(3)
-    today = date.today()
-    df = df.withColumn("year", lit(today.year)) \
-    .withColumn("month", lit(today.month)) \
-    .withColumn("day", lit(today.day))
-    df.write.mode("append").partitionBy("year","month","day").parquet(path)
-    print("Load to TRUSTED ZONE/news minio completed !")
 
 def get_latest_partition_date(bucket, prefix):
         s3_client = boto3.client(

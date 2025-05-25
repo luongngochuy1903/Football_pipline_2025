@@ -122,7 +122,7 @@
   {
     "team_name": "Napoli",
     "player_name": "David Neres",
-    "tkl": "20",
+    "tkl": "21",
     "tklWon": "11",
     "tkl_pct": "66.7",
     "interception": "7",
@@ -133,7 +133,7 @@
     "team_name": "Napoli",
     "player_name": "Billy Gilmour",
     "tkl": "24",
-    "tklWon": "15",
+    "tklWon": "16",
     "tkl_pct": "60.0",
     "interception": "9",
     "blocks": "6",
@@ -2964,7 +2964,7 @@
     "player_name": "Maxence Caqueret",
     "tkl": "36",
     "tklWon": "21",
-    "tkl_pct": "51.3",
+    "tkl_pct": "52.6",
     "interception": "7",
     "blocks": "15",
     "errors": "1"
@@ -2975,8 +2975,8 @@
     "tkl": "40",
     "tklWon": "32",
     "tkl_pct": "72.7",
-    "interception": "16",
-    "blocks": "13",
+    "interception": "17",
+    "blocks": "14",
     "errors": "0"
   },
   {
@@ -3012,9 +3012,9 @@
   {
     "team_name": "Como",
     "player_name": "Yannik Engelhardt",
-    "tkl": "29",
+    "tkl": "30",
     "tklWon": "12",
-    "tkl_pct": "57.7",
+    "tkl_pct": "59.3",
     "interception": "11",
     "blocks": "13",
     "errors": "0"
@@ -3035,7 +3035,7 @@
     "tkl": "9",
     "tklWon": "6",
     "tkl_pct": "77.8",
-    "interception": "4",
+    "interception": "3",
     "blocks": "7",
     "errors": "0"
   },
@@ -4386,7 +4386,7 @@
     "tklWon": "27",
     "tkl_pct": "64.3",
     "interception": "33",
-    "blocks": "29",
+    "blocks": "30",
     "errors": "1"
   },
   {
@@ -4394,7 +4394,7 @@
     "player_name": "Gabriele Zappa",
     "tkl": "40",
     "tklWon": "23",
-    "tkl_pct": "51.4",
+    "tkl_pct": "50.0",
     "interception": "23",
     "blocks": "42",
     "errors": "1"
@@ -4426,7 +4426,7 @@
     "tklWon": "28",
     "tkl_pct": "69.8",
     "interception": "16",
-    "blocks": "24",
+    "blocks": "23",
     "errors": "2"
   },
   {

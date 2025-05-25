@@ -32,20 +32,19 @@ def transformEspn():
         .withColumn("month", lit(today.month)) \
         .withColumn("day", lit(today.day))
         transform_df.printSchema()
-        transform_df.write.mode("append").partitionBy("year", "month", "year").json(f"s3a://trusted/{league}")
+        transform_df.write.mode("append").partitionBy("year", "month", "day").json(f"s3a://trusted/{league}")
         print(f"Complete loading to Trusted/{league} !")
     
     for news in news_map:
         today = date.today()
         df_news = spark.read.option("multiline","true").json(f"s3a://raw/{news}/year={today.year}/month={today.month}/day={today.day}")
-        df_news = df_league.select("area", "competition", "season", "standings")
         transform_df = handle_null(spark, df_news)
         print("Starting transforming to Trusted Zone task")
         transform_df = transform_df.withColumn("year", lit(today.year)) \
         .withColumn("month", lit(today.month)) \
         .withColumn("day", lit(today.day))
         transform_df.printSchema()
-        transform_df.write.mode("append").partitionBy("year", "month", "year").json(f"s3a://trusted/{news}")
+        transform_df.write.mode("append").partitionBy("year", "month", "day").json(f"s3a://trusted/{news}")
         print(f"Complete loading to Trusted/{news} !")
 
 transformEspn()

@@ -30,7 +30,7 @@ def news_read_from_json():
     for league_code, shared in shared_map.items():
         df = spark.read.json(shared)
         df.printSchema()
-        df.show(3)
+        # df.show(3)
         for key, path in path_map.items():
                 if key == league_code:
                     if not checking_duplicated(spark, "trusted", df, path, ["Url"]):

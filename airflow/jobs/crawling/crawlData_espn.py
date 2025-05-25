@@ -34,7 +34,7 @@ def crawl_league_news():
         response = requests.get(item)
         time.sleep(2)
         if response.status_code == 200:
-            data = [response.json()]
+            data = response.json()
             # newdata = []
             # for article in data["articles"]:
             #     partdata = {
@@ -48,6 +48,7 @@ def crawl_league_news():
             #     ]
             #     partdata["Tags"] = list_tag
             #     newdata.append(partdata)
+            print(json.dumps(data, indent=2, ensure_ascii=False))
             for code, target_list in news_map.items():
                 if code in item:
                     with open(target_list, "w", encoding='utf-8') as f:
@@ -70,7 +71,7 @@ def crawl_team_season():
             time.sleep(3)
             response = requests.get(f"{item}{year}", headers=headers)
             if response.status_code == 200:
-                data = [response.json()]
+                data = response.json()
                 # newdata = [
                 #     {"Season":data["filters"]["season"],
                 #      "Area":data["area"]["name"],
@@ -87,5 +88,5 @@ def crawl_team_season():
             else:
                 print("fail")
     
-# crawl_league_news()
-# crawl_team_season()
+crawl_league_news()
+crawl_team_season()

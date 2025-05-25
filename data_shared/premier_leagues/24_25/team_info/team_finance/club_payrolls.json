@@ -10,12 +10,12 @@
   },
   {
     "team": "Manchester United",
-    "gross/w": "£ 3,315,750",
-    "gross/y": "£ 172,419,000",
+    "gross/w": "£ 3,342,750",
+    "gross/y": "£ 173,823,000",
     "gross_keeper": "£ 10,400,000",
-    "gross_defense": "£ 65,689,000",
-    "gross_midfield": "£ 33,800,000",
-    "gross_forward": "£ 62,530,000"
+    "gross_defense": "£ 65,949,000",
+    "gross_midfield": "£ 33,748,000",
+    "gross_forward": "£ 63,726,000"
   },
   {
     "team": "Arsenal",
@@ -37,10 +37,10 @@
   },
   {
     "team": "Liverpool",
-    "gross/w": "£ 2,660,650",
-    "gross/y": "£ 138,353,800",
+    "gross/w": "£ 2,855,650",
+    "gross/y": "£ 148,493,800",
     "gross_keeper": "£ 11,960,000",
-    "gross_defense": "£ 44,850,000",
+    "gross_defense": "£ 54,990,000",
     "gross_midfield": "£ 28,633,800",
     "gross_forward": "£ 52,910,000"
   },
@@ -55,11 +55,11 @@
   },
   {
     "team": "Tottenham",
-    "gross/w": "£ 2,184,250",
-    "gross/y": "£ 113,581,000",
+    "gross/w": "£ 2,234,250",
+    "gross/y": "£ 116,181,000",
     "gross_keeper": "£ 10,010,000",
     "gross_defense": "£ 38,896,000",
-    "gross_midfield": "£ 11,219,000",
+    "gross_midfield": "£ 13,819,000",
     "gross_forward": "£ 53,456,000"
   },
   {
@@ -91,11 +91,11 @@
   },
   {
     "team": "Crystal Palace",
-    "gross/w": "£ 1,392,000",
-    "gross/y": "£ 72,384,000",
+    "gross/w": "£ 1,417,000",
+    "gross/y": "£ 73,684,000",
     "gross_keeper": "£ 8,060,000",
-    "gross_defense": "£ 25,090,000",
-    "gross_midfield": "£ 13,832,000",
+    "gross_defense": "£ 25,870,000",
+    "gross_midfield": "£ 14,352,000",
     "gross_forward": "£ 25,402,000"
   },
   {
@@ -117,6 +117,15 @@
     "gross_forward": "£ 24,284,000"
   },
   {
+    "team": "Brighton",
+    "gross/w": "£ 1,235,750",
+    "gross/y": "£ 64,259,000",
+    "gross_keeper": "£ 3,900,000",
+    "gross_defense": "£ 24,934,000",
+    "gross_midfield": "£ 11,882,000",
+    "gross_forward": "£ 23,543,000"
+  },
+  {
     "team": "Wolverhampton",
     "gross/w": "£ 1,220,000",
     "gross/y": "£ 63,440,000",
@@ -124,15 +133,6 @@
     "gross_defense": "£ 19,032,000",
     "gross_midfield": "£ 14,872,000",
     "gross_forward": "£ 23,816,000"
-  },
-  {
-    "team": "Brighton",
-    "gross/w": "£ 1,210,750",
-    "gross/y": "£ 62,959,000",
-    "gross_keeper": "£ 3,640,000",
-    "gross_defense": "£ 23,894,000",
-    "gross_midfield": "£ 11,882,000",
-    "gross_forward": "£ 23,543,000"
   },
   {
     "team": "Nottingham Forest",

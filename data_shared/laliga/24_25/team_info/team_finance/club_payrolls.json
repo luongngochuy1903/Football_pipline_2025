@@ -63,6 +63,15 @@
     "gross_forward": "€ 16,810,000"
   },
   {
+    "team": "Girona",
+    "gross/w": "€ 783,654",
+    "gross/y": "€ 40,750,000",
+    "gross_keeper": "€ 1,790,000",
+    "gross_defense": "€ 10,370,000",
+    "gross_midfield": "€ 13,120,000",
+    "gross_forward": "€ 15,470,000"
+  },
+  {
     "team": "Real Sociedad",
     "gross/w": "€ 772,500",
     "gross/y": "€ 40,170,000",
@@ -70,15 +79,6 @@
     "gross_defense": "€ 15,410,000",
     "gross_midfield": "€ 5,800,000",
     "gross_forward": "€ 15,980,000"
-  },
-  {
-    "team": "Girona",
-    "gross/w": "€ 766,154",
-    "gross/y": "€ 39,840,000",
-    "gross_keeper": "€ 1,790,000",
-    "gross_defense": "€ 9,460,000",
-    "gross_midfield": "€ 13,120,000",
-    "gross_forward": "€ 15,470,000"
   },
   {
     "team": "Valencia",

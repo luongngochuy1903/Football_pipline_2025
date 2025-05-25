@@ -1,7 +1,6 @@
 from pyspark.sql import SparkSession
 from pyspark.sql.functions import lit
 from modules.module_job import checking_duplicated
-from crawling.crawlData_fbhref import Scraping
 from datetime import date
 import json
 
@@ -28,7 +27,6 @@ def team_read_from_json():
     for league_code, shared in shared_map.items():
         df = spark.read.json(shared)
         df.printSchema()
-        df.show(3)
         for key, path in path_map.items():
                 if key == league_code:
                     if not checking_duplicated(spark, "trusted", df, path, ["point"]):
@@ -65,7 +63,6 @@ def player_read_from_json():
         for attribute in attribute_map:
             df = spark.read.json(f"{shared}/{attribute}/player_stat.json")
             df.printSchema()
-            df.show(3)
             for key, path in path_map.items():
                 if key == league_code:
                     complete_path = f"{path}/{attribute}"

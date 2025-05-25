@@ -4,6 +4,7 @@
     "team": "Barcelona",
     "gross/w": "€ 640,962",
     "gross/y": "€ 33,330,000",
+    "signed": "Jul 19, 2022",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 66,660,000",
     "release_clause": "€ 500,000,000"
@@ -13,6 +14,7 @@
     "team": "Real Madrid",
     "gross/w": "€ 600,962",
     "gross/y": "€ 31,250,000",
+    "signed": "Jul 1, 2024",
     "expiration": "Jun 30, 2029",
     "gross_remaining": "€ 156,250,000",
     "release_clause": ""
@@ -22,17 +24,19 @@
     "team": "Real Madrid",
     "gross/w": "€ 432,692",
     "gross/y": "€ 22,500,000",
+    "signed": "Jul 1, 2021",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 45,000,000",
     "release_clause": "€ 850,000,000"
   },
   {
-    "player_name": "Vinicius Junior",
+    "player_name": "Jude Bellingham",
     "team": "Real Madrid",
     "gross/w": "€ 400,577",
     "gross/y": "€ 20,830,000",
-    "expiration": "Jun 30, 2027",
-    "gross_remaining": "€ 62,490,000",
+    "signed": "Jul 1, 2023",
+    "expiration": "Jun 30, 2029",
+    "gross_remaining": "€ 104,150,000",
     "release_clause": "€ 1,000,000,000"
   },
   {
@@ -40,17 +44,19 @@
     "team": "Atletico Madrid",
     "gross/w": "€ 400,577",
     "gross/y": "€ 20,830,000",
+    "signed": "Jul 20, 2022",
     "expiration": "Jun 30, 2028",
     "gross_remaining": "€ 83,320,000",
     "release_clause": ""
   },
   {
-    "player_name": "Jude Bellingham",
+    "player_name": "Vinicius Junior",
     "team": "Real Madrid",
     "gross/w": "€ 400,577",
     "gross/y": "€ 20,830,000",
-    "expiration": "Jun 30, 2029",
-    "gross_remaining": "€ 104,150,000",
+    "signed": "Oct 31, 2023",
+    "expiration": "Jun 30, 2027",
+    "gross_remaining": "€ 62,490,000",
     "release_clause": "€ 1,000,000,000"
   },
   {
@@ -58,6 +64,7 @@
     "team": "Barcelona",
     "gross/w": "€ 365,385",
     "gross/y": "€ 19,000,000",
+    "signed": "Oct 20, 2020",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 38,000,000",
     "release_clause": "€ 400,000,000"
@@ -67,6 +74,7 @@
     "team": "Real Madrid",
     "gross/w": "€ 320,577",
     "gross/y": "€ 16,670,000",
+    "signed": "Nov 9, 2023",
     "expiration": "Jun 30, 2029",
     "gross_remaining": "€ 83,350,000",
     "release_clause": "€ 1,000,000,000"
@@ -76,33 +84,47 @@
     "team": "Real Madrid",
     "gross/w": "€ 288,462",
     "gross/y": "€ 15,000,000",
+    "signed": "Aug 16, 2021",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 30,000,000",
     "release_clause": "€ 700,000,000"
-  },
-  {
-    "player_name": "Éder Militão",
-    "team": "Real Madrid",
-    "gross/w": "€ 280,385",
-    "gross/y": "€ 14,580,000",
-    "expiration": "Jun 30, 2028",
-    "gross_remaining": "€ 58,320,000",
-    "release_clause": "€ 1,000,000,000"
   },
   {
     "player_name": "Antonio Rüdiger",
     "team": "Real Madrid",
     "gross/w": "€ 280,385",
     "gross/y": "€ 14,580,000",
+    "signed": "Jul 1, 2022",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 29,160,000",
     "release_clause": "€ 400,000,000"
+  },
+  {
+    "player_name": "Raphinha",
+    "team": "Barcelona",
+    "gross/w": "€ 280,385",
+    "gross/y": "€ 14,580,000",
+    "signed": "May 22, 2025",
+    "expiration": "Jun 30, 2028",
+    "gross_remaining": "€ 58,320,000",
+    "release_clause": "€ 1,000,000,000"
+  },
+  {
+    "player_name": "Éder Militão",
+    "team": "Real Madrid",
+    "gross/w": "€ 280,385",
+    "gross/y": "€ 14,580,000",
+    "signed": "Jan 23, 2024",
+    "expiration": "Jun 30, 2028",
+    "gross_remaining": "€ 58,320,000",
+    "release_clause": "€ 1,000,000,000"
   },
   {
     "player_name": "Ansu Fati",
     "team": "Barcelona",
     "gross/w": "€ 268,269",
     "gross/y": "€ 13,950,000",
+    "signed": "Oct 21, 2021",
     "expiration": "Jun 30, 2027",
     "gross_remaining": "€ 41,850,000",
     "release_clause": "€ 1,000,000,000"
@@ -112,17 +134,19 @@
     "team": "Barcelona",
     "gross/w": "€ 260,577",
     "gross/y": "€ 13,550,000",
+    "signed": "Jul 28, 2022",
     "expiration": "Jun 30, 2027",
     "gross_remaining": "€ 40,650,000",
     "release_clause": "€ 1,000,000,000"
   },
   {
-    "player_name": "Eduardo Camavinga",
+    "player_name": "Rodrygo",
     "team": "Real Madrid",
     "gross/w": "€ 240,385",
     "gross/y": "€ 12,500,000",
-    "expiration": "Jun 30, 2029",
-    "gross_remaining": "€ 62,500,000",
+    "signed": "Nov 2, 2023",
+    "expiration": "Jun 30, 2028",
+    "gross_remaining": "€ 50,000,000",
     "release_clause": "€ 1,000,000,000"
   },
   {
@@ -130,24 +154,17 @@
     "team": "Atletico Madrid",
     "gross/w": "€ 240,385",
     "gross/y": "€ 12,500,000",
+    "signed": "Jul 1, 2023",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 25,000,000",
     "release_clause": "€ 25,000,000"
-  },
-  {
-    "player_name": "Rodrygo",
-    "team": "Real Madrid",
-    "gross/w": "€ 240,385",
-    "gross/y": "€ 12,500,000",
-    "expiration": "Jun 30, 2028",
-    "gross_remaining": "€ 50,000,000",
-    "release_clause": "€ 1,000,000,000"
   },
   {
     "player_name": "Pedri",
     "team": "Barcelona",
     "gross/w": "€ 240,385",
     "gross/y": "€ 12,500,000",
+    "signed": "Jan 30, 2025",
     "expiration": "Jun 30, 2030",
     "gross_remaining": "€ 75,000,000",
     "release_clause": "€ 1,000,000,000"
@@ -157,17 +174,19 @@
     "team": "Real Madrid",
     "gross/w": "€ 240,385",
     "gross/y": "€ 12,500,000",
+    "signed": "Jul 1, 2022",
     "expiration": "Jun 30, 2028",
     "gross_remaining": "€ 50,000,000",
     "release_clause": "€ 1,000,000,000"
   },
   {
-    "player_name": "Raphinha",
-    "team": "Barcelona",
+    "player_name": "Eduardo Camavinga",
+    "team": "Real Madrid",
     "gross/w": "€ 240,385",
     "gross/y": "€ 12,500,000",
-    "expiration": "Jun 30, 2027",
-    "gross_remaining": "€ 37,500,000",
+    "signed": "Nov 7, 2023",
+    "expiration": "Jun 30, 2029",
+    "gross_remaining": "€ 62,500,000",
     "release_clause": "€ 1,000,000,000"
   },
   {
@@ -175,87 +194,87 @@
     "team": "Athletic Club",
     "gross/w": "€ 219,231",
     "gross/y": "€ 11,400,000",
+    "signed": "Aug 12, 2019",
     "expiration": "Jun 30, 2028",
     "gross_remaining": "€ 45,600,000",
     "release_clause": "€ 135,000,000"
-  },
-  {
-    "player_name": "Dani Ceballos",
-    "team": "Real Madrid",
-    "gross/w": "€ 200,385",
-    "gross/y": "€ 10,420,000",
-    "expiration": "Jun 30, 2027",
-    "gross_remaining": "€ 31,260,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Luka Modric",
-    "team": "Real Madrid",
-    "gross/w": "€ 200,385",
-    "gross/y": "€ 10,420,000",
-    "expiration": "Jun 30, 2025",
-    "gross_remaining": "€ 10,420,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Ferland Mendy",
-    "team": "Real Madrid",
-    "gross/w": "€ 200,385",
-    "gross/y": "€ 10,420,000",
-    "expiration": "Jun 30, 2028",
-    "gross_remaining": "€ 41,680,000",
-    "release_clause": ""
   },
   {
     "player_name": "Nico Williams",
     "team": "Athletic Club",
     "gross/w": "€ 200,385",
     "gross/y": "€ 10,420,000",
+    "signed": "Dec 1, 2023",
     "expiration": "Jun 30, 2027",
     "gross_remaining": "€ 31,260,000",
     "release_clause": "€ 58,000,000"
+  },
+  {
+    "player_name": "Ferland Mendy",
+    "team": "Real Madrid",
+    "gross/w": "€ 200,385",
+    "gross/y": "€ 10,420,000",
+    "signed": "Jul 1, 2019",
+    "expiration": "Jun 30, 2028",
+    "gross_remaining": "€ 41,680,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Dani Ceballos",
+    "team": "Real Madrid",
+    "gross/w": "€ 200,385",
+    "gross/y": "€ 10,420,000",
+    "signed": "Jun 23, 2023",
+    "expiration": "Jun 30, 2027",
+    "gross_remaining": "€ 31,260,000",
+    "release_clause": ""
   },
   {
     "player_name": "Daniel Carvajal",
     "team": "Real Madrid",
     "gross/w": "€ 200,385",
     "gross/y": "€ 10,420,000",
+    "signed": "Oct 6, 2024",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 20,840,000",
     "release_clause": "€ 350,000,000"
   },
   {
-    "player_name": "Ronald Araujo",
-    "team": "Barcelona",
-    "gross/w": "€ 192,308",
-    "gross/y": "€ 10,000,000",
-    "expiration": "Jun 30, 2031",
-    "gross_remaining": "€ 70,000,000",
-    "release_clause": "€ 65,000,000"
+    "player_name": "Luka Modric",
+    "team": "Real Madrid",
+    "gross/w": "€ 200,385",
+    "gross/y": "€ 10,420,000",
+    "signed": "Jul 17, 2024",
+    "expiration": "Jun 30, 2025",
+    "gross_remaining": "€ 10,420,000",
+    "release_clause": ""
   },
   {
     "player_name": "Ferran Torres",
     "team": "Barcelona",
     "gross/w": "€ 192,308",
     "gross/y": "€ 10,000,000",
+    "signed": "Jan 1, 2022",
     "expiration": "Jun 30, 2027",
     "gross_remaining": "€ 30,000,000",
     "release_clause": "€ 1,000,000,000"
   },
   {
-    "player_name": "Lucas Vázquez",
-    "team": "Real Madrid",
-    "gross/w": "€ 180,385",
-    "gross/y": "€ 9,380,000",
-    "expiration": "Jun 30, 2025",
-    "gross_remaining": "€ 9,380,000",
-    "release_clause": ""
+    "player_name": "Ronald Araujo",
+    "team": "Barcelona",
+    "gross/w": "€ 192,308",
+    "gross/y": "€ 10,000,000",
+    "signed": "Jan 23, 2025",
+    "expiration": "Jun 30, 2031",
+    "gross_remaining": "€ 70,000,000",
+    "release_clause": "€ 65,000,000"
   },
   {
     "player_name": "Dani Olmo",
     "team": "Barcelona",
     "gross/w": "€ 180,385",
     "gross/y": "€ 9,380,000",
+    "signed": "Aug 9, 2024",
     "expiration": "Jun 30, 2030",
     "gross_remaining": "€ 56,280,000",
     "release_clause": "€ 500,000,000"
@@ -265,42 +284,57 @@
     "team": "Barcelona",
     "gross/w": "€ 180,385",
     "gross/y": "€ 9,380,000",
+    "signed": "Jan 31, 2025",
     "expiration": "Jun 30, 2030",
     "gross_remaining": "€ 56,280,000",
     "release_clause": "€ 1,000,000,000"
+  },
+  {
+    "player_name": "Lucas Vázquez",
+    "team": "Real Madrid",
+    "gross/w": "€ 180,385",
+    "gross/y": "€ 9,380,000",
+    "signed": "Jul 18, 2024",
+    "expiration": "Jun 30, 2025",
+    "gross_remaining": "€ 9,380,000",
+    "release_clause": ""
   },
   {
     "player_name": "Iñigo Martínez",
     "team": "Barcelona",
     "gross/w": "€ 174,231",
     "gross/y": "€ 9,060,000",
+    "signed": "Mar 13, 2025",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 18,120,000",
     "release_clause": "€ 400,000,000"
-  },
-  {
-    "player_name": "Andreas Christensen",
-    "team": "Barcelona",
-    "gross/w": "€ 173,077",
-    "gross/y": "€ 9,000,000",
-    "expiration": "Jun 30, 2026",
-    "gross_remaining": "€ 18,000,000",
-    "release_clause": "€ 500,000,000"
   },
   {
     "player_name": "Conor Gallagher",
     "team": "Atletico Madrid",
     "gross/w": "€ 173,077",
     "gross/y": "€ 9,000,000",
+    "signed": "Aug 21, 2024",
     "expiration": "Jun 30, 2029",
     "gross_remaining": "€ 45,000,000",
     "release_clause": ""
+  },
+  {
+    "player_name": "Andreas Christensen",
+    "team": "Barcelona",
+    "gross/w": "€ 173,077",
+    "gross/y": "€ 9,000,000",
+    "signed": "Jul 4, 2022",
+    "expiration": "Jun 30, 2026",
+    "gross_remaining": "€ 18,000,000",
+    "release_clause": "€ 500,000,000"
   },
   {
     "player_name": "Marcos Llorente",
     "team": "Atletico Madrid",
     "gross/w": "€ 160,192",
     "gross/y": "€ 8,330,000",
+    "signed": "Aug 18, 2021",
     "expiration": "Jun 30, 2027",
     "gross_remaining": "€ 24,990,000",
     "release_clause": "€ 120,000,000"
@@ -310,6 +344,7 @@
     "team": "Atletico Madrid",
     "gross/w": "€ 160,192",
     "gross/y": "€ 8,330,000",
+    "signed": "Jun 13, 2024",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 8,330,000",
     "release_clause": ""
@@ -319,6 +354,7 @@
     "team": "Atletico Madrid",
     "gross/w": "€ 153,846",
     "gross/y": "€ 8,000,000",
+    "signed": "Jun 30, 2024",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 8,000,000",
     "release_clause": ""
@@ -328,6 +364,7 @@
     "team": "Real Madrid",
     "gross/w": "€ 140,192",
     "gross/y": "€ 7,290,000",
+    "signed": "Jan 6, 2019",
     "expiration": "Jun 30, 2027",
     "gross_remaining": "€ 21,870,000",
     "release_clause": ""
@@ -337,6 +374,7 @@
     "team": "Atletico Madrid",
     "gross/w": "€ 136,154",
     "gross/y": "€ 7,080,000",
+    "signed": "Aug 12, 2024",
     "expiration": "Jun 30, 2030",
     "gross_remaining": "€ 42,480,000",
     "release_clause": ""
@@ -346,17 +384,9 @@
     "team": "Atletico Madrid",
     "gross/w": "€ 134,615",
     "gross/y": "€ 7,000,000",
+    "signed": "Jul 1, 2020",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 14,000,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Rodrigo De Paul",
-    "team": "Atletico Madrid",
-    "gross/w": "€ 128,269",
-    "gross/y": "€ 6,670,000",
-    "expiration": "Jun 30, 2026",
-    "gross_remaining": "€ 13,340,000",
     "release_clause": ""
   },
   {
@@ -364,8 +394,19 @@
     "team": "Atletico Madrid",
     "gross/w": "€ 128,269",
     "gross/y": "€ 6,670,000",
+    "signed": "Mar 25, 2024",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 6,670,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Rodrigo De Paul",
+    "team": "Atletico Madrid",
+    "gross/w": "€ 128,269",
+    "gross/y": "€ 6,670,000",
+    "signed": "Jul 12, 2021",
+    "expiration": "Jun 30, 2026",
+    "gross_remaining": "€ 13,340,000",
     "release_clause": ""
   },
   {
@@ -373,6 +414,7 @@
     "team": "Barcelona",
     "gross/w": "€ 121,154",
     "gross/y": "€ 6,300,000",
+    "signed": "Aug 25, 2023",
     "expiration": "Jun 30, 2028",
     "gross_remaining": "€ 25,200,000",
     "release_clause": "€ 500,000,000"
@@ -382,26 +424,9 @@
     "team": "Osasuna",
     "gross/w": "€ 120,192",
     "gross/y": "€ 6,250,000",
+    "signed": "Aug 9, 2024",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 6,250,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "José Giménez",
-    "team": "Atletico Madrid",
-    "gross/w": "€ 120,192",
-    "gross/y": "€ 6,250,000",
-    "expiration": "Jun 30, 2028",
-    "gross_remaining": "€ 25,000,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Raúl Asencio",
-    "team": "Real Madrid",
-    "gross/w": "€ 120,192",
-    "gross/y": "€ 6,250,000",
-    "expiration": "Jun 30, 2029",
-    "gross_remaining": "€ 31,250,000",
     "release_clause": ""
   },
   {
@@ -409,8 +434,29 @@
     "team": "Atletico Madrid",
     "gross/w": "€ 120,192",
     "gross/y": "€ 6,250,000",
+    "signed": "Jul 27, 2024",
     "expiration": "Jun 30, 2029",
     "gross_remaining": "€ 31,250,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Pablo Barrios",
+    "team": "Atletico Madrid",
+    "gross/w": "€ 120,192",
+    "gross/y": "€ 6,250,000",
+    "signed": "May 22, 2025",
+    "expiration": "Jun 30, 2030",
+    "gross_remaining": "€ 37,500,000",
+    "release_clause": "€ 100,000,000"
+  },
+  {
+    "player_name": "José Giménez",
+    "team": "Atletico Madrid",
+    "gross/w": "€ 120,192",
+    "gross/y": "€ 6,250,000",
+    "signed": "Oct 6, 2023",
+    "expiration": "Jun 30, 2028",
+    "gross_remaining": "€ 25,000,000",
     "release_clause": ""
   },
   {
@@ -418,15 +464,27 @@
     "team": "Real Betis",
     "gross/w": "€ 120,192",
     "gross/y": "€ 6,250,000",
+    "signed": "Dec 28, 2023",
     "expiration": "Jun 30, 2027",
     "gross_remaining": "€ 18,750,000",
     "release_clause": "€ 20,000,000"
+  },
+  {
+    "player_name": "Raúl Asencio",
+    "team": "Real Madrid",
+    "gross/w": "€ 120,192",
+    "gross/y": "€ 6,250,000",
+    "signed": "Mar 26, 2025",
+    "expiration": "Jun 30, 2029",
+    "gross_remaining": "€ 31,250,000",
+    "release_clause": ""
   },
   {
     "player_name": "Alexander Sörloth",
     "team": "Atletico Madrid",
     "gross/w": "€ 120,000",
     "gross/y": "€ 6,240,000",
+    "signed": "Aug 3, 2024",
     "expiration": "Jun 30, 2028",
     "gross_remaining": "€ 24,960,000",
     "release_clause": ""
@@ -436,6 +494,7 @@
     "team": "Barcelona",
     "gross/w": "€ 115,385",
     "gross/y": "€ 6,000,000",
+    "signed": "Jul 1, 2021",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 12,000,000",
     "release_clause": "€ 400,000,000"
@@ -445,26 +504,29 @@
     "team": "Valencia",
     "gross/w": "€ 112,115",
     "gross/y": "€ 5,830,000",
+    "signed": "Oct 19, 2022",
     "expiration": "Jun 30, 2027",
     "gross_remaining": "€ 17,490,000",
     "release_clause": "€ 100,000,000"
-  },
-  {
-    "player_name": "Fran García",
-    "team": "Real Madrid",
-    "gross/w": "€ 100,192",
-    "gross/y": "€ 5,210,000",
-    "expiration": "Jun 30, 2027",
-    "gross_remaining": "€ 15,630,000",
-    "release_clause": ""
   },
   {
     "player_name": "Arthur",
     "team": "Girona",
     "gross/w": "€ 100,192",
     "gross/y": "€ 5,210,000",
+    "signed": "Feb 1, 2025",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 5,210,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Fran García",
+    "team": "Real Madrid",
+    "gross/w": "€ 100,192",
+    "gross/y": "€ 5,210,000",
+    "signed": "Jul 1, 2023",
+    "expiration": "Jun 30, 2027",
+    "gross_remaining": "€ 15,630,000",
     "release_clause": ""
   },
   {
@@ -472,6 +534,7 @@
     "team": "Real Madrid",
     "gross/w": "€ 100,000",
     "gross/y": "€ 5,200,000",
+    "signed": "Jul 6, 2023",
     "expiration": "Jun 30, 2029",
     "gross_remaining": "€ 26,000,000",
     "release_clause": ""
@@ -481,6 +544,7 @@
     "team": "Sevilla",
     "gross/w": "€ 96,154",
     "gross/y": "€ 5,000,000",
+    "signed": "Jul 15, 2024",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 5,000,000",
     "release_clause": ""
@@ -490,6 +554,7 @@
     "team": "Getafe",
     "gross/w": "€ 92,115",
     "gross/y": "€ 4,790,000",
+    "signed": "Aug 1, 2022",
     "expiration": "Jun 30, 2027",
     "gross_remaining": "€ 14,370,000",
     "release_clause": "€ 20,000,000"
@@ -499,6 +564,7 @@
     "team": "Barcelona",
     "gross/w": "€ 90,192",
     "gross/y": "€ 4,690,000",
+    "signed": "Jul 1, 2023",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 4,690,000",
     "release_clause": ""
@@ -508,6 +574,7 @@
     "team": "Mallorca",
     "gross/w": "€ 88,077",
     "gross/y": "€ 4,580,000",
+    "signed": "Jul 22, 2022",
     "expiration": "Jun 30, 2027",
     "gross_remaining": "€ 13,740,000",
     "release_clause": ""
@@ -517,6 +584,7 @@
     "team": "Real Madrid",
     "gross/w": "€ 86,538",
     "gross/y": "€ 4,500,000",
+    "signed": "Sep 13, 2024",
     "expiration": "Jun 30, 2030",
     "gross_remaining": "€ 27,000,000",
     "release_clause": ""
@@ -526,17 +594,9 @@
     "team": "Sevilla",
     "gross/w": "€ 84,231",
     "gross/y": "€ 4,380,000",
+    "signed": "Jul 8, 2022",
     "expiration": "Jun 30, 2027",
     "gross_remaining": "€ 13,140,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Unai Simón",
-    "team": "Athletic Club",
-    "gross/w": "€ 82,308",
-    "gross/y": "€ 4,280,000",
-    "expiration": "Jun 30, 2029",
-    "gross_remaining": "€ 21,400,000",
     "release_clause": ""
   },
   {
@@ -544,17 +604,19 @@
     "team": "Athletic Club",
     "gross/w": "€ 82,308",
     "gross/y": "€ 4,280,000",
-    "expiration": "Jun 30, 2025",
-    "gross_remaining": "€ 4,280,000",
+    "signed": "May 21, 2025",
+    "expiration": "Jun 30, 2026",
+    "gross_remaining": "€ 8,560,000",
     "release_clause": "€ 100,000,000"
   },
   {
-    "player_name": "Djibril Sow",
-    "team": "Sevilla",
-    "gross/w": "€ 80,192",
-    "gross/y": "€ 4,170,000",
-    "expiration": "Jun 30, 2028",
-    "gross_remaining": "€ 16,680,000",
+    "player_name": "Unai Simón",
+    "team": "Athletic Club",
+    "gross/w": "€ 82,308",
+    "gross/y": "€ 4,280,000",
+    "signed": "May 24, 2024",
+    "expiration": "Jun 30, 2029",
+    "gross_remaining": "€ 21,400,000",
     "release_clause": ""
   },
   {
@@ -562,26 +624,49 @@
     "team": "Sevilla",
     "gross/w": "€ 80,192",
     "gross/y": "€ 4,170,000",
+    "signed": "Sep 2, 2024",
     "expiration": "Jun 30, 2029",
     "gross_remaining": "€ 20,850,000",
     "release_clause": "€ 60,000,000"
   },
   {
-    "player_name": "Tanguy Nianzou",
+    "player_name": "Djibril Sow",
     "team": "Sevilla",
     "gross/w": "€ 80,192",
     "gross/y": "€ 4,170,000",
-    "expiration": "Jun 30, 2027",
-    "gross_remaining": "€ 12,510,000",
-    "release_clause": "€ 90,000,000"
+    "signed": "Aug 4, 2023",
+    "expiration": "Jun 30, 2028",
+    "gross_remaining": "€ 16,680,000",
+    "release_clause": ""
   },
   {
     "player_name": "Hugo Duro",
     "team": "Valencia",
     "gross/w": "€ 80,192",
     "gross/y": "€ 4,170,000",
+    "signed": "Jul 4, 2024",
     "expiration": "Jun 30, 2028",
     "gross_remaining": "€ 16,680,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Tanguy Nianzou",
+    "team": "Sevilla",
+    "gross/w": "€ 80,192",
+    "gross/y": "€ 4,170,000",
+    "signed": "Aug 17, 2022",
+    "expiration": "Jun 30, 2027",
+    "gross_remaining": "€ 12,510,000",
+    "release_clause": "€ 90,000,000"
+  },
+  {
+    "player_name": "Giovani Lo Celso",
+    "team": "Real Betis",
+    "gross/w": "€ 80,000",
+    "gross/y": "€ 4,160,000",
+    "signed": "Aug 30, 2024",
+    "expiration": "Jun 30, 2028",
+    "gross_remaining": "€ 16,640,000",
     "release_clause": ""
   },
   {
@@ -589,17 +674,9 @@
     "team": "Real Madrid",
     "gross/w": "€ 80,000",
     "gross/y": "€ 4,160,000",
+    "signed": "Jul 21, 2024",
     "expiration": "Jun 30, 2030",
     "gross_remaining": "€ 24,960,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Giovani Lo Celso",
-    "team": "Real Betis",
-    "gross/w": "€ 80,000",
-    "gross/y": "€ 4,160,000",
-    "expiration": "Jun 30, 2028",
-    "gross_remaining": "€ 16,640,000",
     "release_clause": ""
   },
   {
@@ -607,17 +684,9 @@
     "team": "Sevilla",
     "gross/w": "€ 78,846",
     "gross/y": "€ 4,100,000",
+    "signed": "Jun 24, 2023",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 8,200,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Mouctar Diakhaby",
-    "team": "Valencia",
-    "gross/w": "€ 76,923",
-    "gross/y": "€ 4,000,000",
-    "expiration": "Jun 30, 2027",
-    "gross_remaining": "€ 12,000,000",
     "release_clause": ""
   },
   {
@@ -625,6 +694,27 @@
     "team": "Barcelona",
     "gross/w": "€ 76,923",
     "gross/y": "€ 4,000,000",
+    "signed": "Feb 13, 2025",
+    "expiration": "Jun 30, 2029",
+    "gross_remaining": "€ 20,000,000",
+    "release_clause": "€ 500,000,000"
+  },
+  {
+    "player_name": "Mouctar Diakhaby",
+    "team": "Valencia",
+    "gross/w": "€ 76,923",
+    "gross/y": "€ 4,000,000",
+    "signed": "Jan 16, 2023",
+    "expiration": "Jun 30, 2027",
+    "gross_remaining": "€ 12,000,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Fermín López",
+    "team": "Barcelona",
+    "gross/w": "€ 76,923",
+    "gross/y": "€ 4,000,000",
+    "signed": "Oct 31, 2024",
     "expiration": "Jun 30, 2029",
     "gross_remaining": "€ 20,000,000",
     "release_clause": "€ 500,000,000"
@@ -634,35 +724,19 @@
     "team": "Atletico Madrid",
     "gross/w": "€ 76,923",
     "gross/y": "€ 4,000,000",
+    "signed": "Aug 26, 2024",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 4,000,000",
     "release_clause": ""
-  },
-  {
-    "player_name": "Fermín López",
-    "team": "Barcelona",
-    "gross/w": "€ 76,923",
-    "gross/y": "€ 4,000,000",
-    "expiration": "Jun 30, 2029",
-    "gross_remaining": "€ 20,000,000",
-    "release_clause": "€ 500,000,000"
   },
   {
     "player_name": "Cucho Hernández",
     "team": "Real Betis",
     "gross/w": "€ 72,308",
     "gross/y": "€ 3,760,000",
+    "signed": "Feb 3, 2025",
     "expiration": "Jun 30, 2030",
     "gross_remaining": "€ 22,560,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Marash Kumbulla",
-    "team": "Espanyol",
-    "gross/w": "€ 72,115",
-    "gross/y": "€ 3,750,000",
-    "expiration": "Jun 30, 2025",
-    "gross_remaining": "€ 3,750,000",
     "release_clause": ""
   },
   {
@@ -670,8 +744,19 @@
     "team": "Girona",
     "gross/w": "€ 72,115",
     "gross/y": "€ 3,750,000",
+    "signed": "Dec 19, 2023",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 7,500,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Marash Kumbulla",
+    "team": "Espanyol",
+    "gross/w": "€ 72,115",
+    "gross/y": "€ 3,750,000",
+    "signed": "Aug 17, 2024",
+    "expiration": "Jun 30, 2025",
+    "gross_remaining": "€ 3,750,000",
     "release_clause": ""
   },
   {
@@ -679,6 +764,7 @@
     "team": "Getafe",
     "gross/w": "€ 71,923",
     "gross/y": "€ 3,740,000",
+    "signed": "Feb 3, 2025",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 3,740,000",
     "release_clause": ""
@@ -688,6 +774,7 @@
     "team": "Villarreal",
     "gross/w": "€ 69,615",
     "gross/y": "€ 3,620,000",
+    "signed": "Aug 9, 2021",
     "expiration": "Jun 30, 2027",
     "gross_remaining": "€ 10,860,000",
     "release_clause": "€ 100,000,000"
@@ -697,6 +784,7 @@
     "team": "Real Sociedad",
     "gross/w": "€ 69,231",
     "gross/y": "€ 3,600,000",
+    "signed": "Feb 10, 2023",
     "expiration": "Jun 30, 2028",
     "gross_remaining": "€ 14,400,000",
     "release_clause": "€ 75,000,000"
@@ -706,6 +794,7 @@
     "team": "Alaves",
     "gross/w": "€ 69,231",
     "gross/y": "€ 3,600,000",
+    "signed": "Aug 29, 2024",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 3,600,000",
     "release_clause": ""
@@ -715,6 +804,7 @@
     "team": "Atletico Madrid",
     "gross/w": "€ 67,308",
     "gross/y": "€ 3,500,000",
+    "signed": "Jan 4, 2022",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 7,000,000",
     "release_clause": ""
@@ -724,15 +814,27 @@
     "team": "Girona",
     "gross/w": "€ 67,308",
     "gross/y": "€ 3,500,000",
+    "signed": "Aug 5, 2024",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 3,500,000",
     "release_clause": "€ 400,000,000"
+  },
+  {
+    "player_name": "Lamine Yamal",
+    "team": "Barcelona",
+    "gross/w": "€ 64,038",
+    "gross/y": "€ 3,330,000",
+    "signed": "Oct 2, 2023",
+    "expiration": "Jun 30, 2026",
+    "gross_remaining": "€ 6,660,000",
+    "release_clause": "€ 1,000,000,000"
   },
   {
     "player_name": "Juan Musso",
     "team": "Atletico Madrid",
     "gross/w": "€ 64,038",
     "gross/y": "€ 3,330,000",
+    "signed": "Aug 27, 2024",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 3,330,000",
     "release_clause": ""
@@ -742,6 +844,7 @@
     "team": "Barcelona",
     "gross/w": "€ 62,500",
     "gross/y": "€ 3,250,000",
+    "signed": "May 9, 2023",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 6,500,000",
     "release_clause": "€ 400,000,000"
@@ -751,6 +854,7 @@
     "team": "Atletico Madrid",
     "gross/w": "€ 62,500",
     "gross/y": "€ 3,250,000",
+    "signed": "Jul 20, 2022",
     "expiration": "Jun 30, 2027",
     "gross_remaining": "€ 9,750,000",
     "release_clause": ""
@@ -760,6 +864,7 @@
     "team": "Atletico Madrid",
     "gross/w": "€ 62,500",
     "gross/y": "€ 3,250,000",
+    "signed": "Jul 3, 2023",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 6,500,000",
     "release_clause": ""
@@ -769,8 +874,19 @@
     "team": "Las Palmas",
     "gross/w": "€ 61,538",
     "gross/y": "€ 3,200,000",
+    "signed": "Jul 24, 2024",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 3,200,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Dani Vivian",
+    "team": "Athletic Club",
+    "gross/w": "€ 60,192",
+    "gross/y": "€ 3,130,000",
+    "signed": "Jun 1, 2024",
+    "expiration": "Jun 30, 2032",
+    "gross_remaining": "€ 25,040,000",
     "release_clause": ""
   },
   {
@@ -778,15 +894,7 @@
     "team": "Sevilla",
     "gross/w": "€ 60,192",
     "gross/y": "€ 3,130,000",
-    "expiration": "Jun 30, 2025",
-    "gross_remaining": "€ 3,130,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Antony",
-    "team": "Real Betis",
-    "gross/w": "€ 60,192",
-    "gross/y": "€ 3,130,000",
+    "signed": "Jul 15, 2024",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 3,130,000",
     "release_clause": ""
@@ -796,17 +904,9 @@
     "team": "Girona",
     "gross/w": "€ 60,192",
     "gross/y": "€ 3,130,000",
+    "signed": "Jul 11, 2024",
     "expiration": "Jun 30, 2028",
     "gross_remaining": "€ 12,520,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Dani Vivian",
-    "team": "Athletic Club",
-    "gross/w": "€ 60,192",
-    "gross/y": "€ 3,130,000",
-    "expiration": "Jun 30, 2032",
-    "gross_remaining": "€ 25,040,000",
     "release_clause": ""
   },
   {
@@ -814,35 +914,19 @@
     "team": "Girona",
     "gross/w": "€ 60,192",
     "gross/y": "€ 3,130,000",
+    "signed": "Aug 30, 2024",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 3,130,000",
     "release_clause": ""
   },
   {
-    "player_name": "Denis Suárez",
-    "team": "Villarreal",
-    "gross/w": "€ 60,000",
-    "gross/y": "€ 3,120,000",
-    "expiration": "Jun 30, 2026",
-    "gross_remaining": "€ 6,240,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Nicolas Pépé",
-    "team": "Villarreal",
-    "gross/w": "€ 60,000",
-    "gross/y": "€ 3,120,000",
-    "expiration": "Jun 30, 2026",
-    "gross_remaining": "€ 6,240,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Dani Parejo",
-    "team": "Villarreal",
-    "gross/w": "€ 60,000",
-    "gross/y": "€ 3,120,000",
-    "expiration": "Jun 30, 2026",
-    "gross_remaining": "€ 6,240,000",
+    "player_name": "Antony",
+    "team": "Real Betis",
+    "gross/w": "€ 60,192",
+    "gross/y": "€ 3,130,000",
+    "signed": "Jan 25, 2025",
+    "expiration": "Jun 30, 2025",
+    "gross_remaining": "€ 3,130,000",
     "release_clause": ""
   },
   {
@@ -850,8 +934,19 @@
     "team": "Real Betis",
     "gross/w": "€ 60,000",
     "gross/y": "€ 3,120,000",
+    "signed": "Jul 18, 2023",
     "expiration": "Jun 30, 2028",
     "gross_remaining": "€ 12,480,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Dani Parejo",
+    "team": "Villarreal",
+    "gross/w": "€ 60,000",
+    "gross/y": "€ 3,120,000",
+    "signed": "Mar 26, 2024",
+    "expiration": "Jun 30, 2026",
+    "gross_remaining": "€ 6,240,000",
     "release_clause": ""
   },
   {
@@ -859,17 +954,19 @@
     "team": "Villarreal",
     "gross/w": "€ 60,000",
     "gross/y": "€ 3,120,000",
+    "signed": "Jan 1, 2024",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 3,120,000",
     "release_clause": ""
   },
   {
-    "player_name": "Diego Llorente",
+    "player_name": "Pablo Fornals",
     "team": "Real Betis",
     "gross/w": "€ 60,000",
     "gross/y": "€ 3,120,000",
-    "expiration": "Jun 30, 2028",
-    "gross_remaining": "€ 12,480,000",
+    "signed": "Feb 1, 2024",
+    "expiration": "Jun 30, 2029",
+    "gross_remaining": "€ 15,600,000",
     "release_clause": ""
   },
   {
@@ -877,6 +974,7 @@
     "team": "Celta Vigo",
     "gross/w": "€ 60,000",
     "gross/y": "€ 3,120,000",
+    "signed": "Aug 28, 2024",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 3,120,000",
     "release_clause": ""
@@ -886,17 +984,39 @@
     "team": "Real Betis",
     "gross/w": "€ 60,000",
     "gross/y": "€ 3,120,000",
+    "signed": "Feb 4, 2025",
     "expiration": "Jun 30, 2030",
     "gross_remaining": "€ 18,720,000",
     "release_clause": ""
   },
   {
-    "player_name": "Pablo Fornals",
+    "player_name": "Denis Suárez",
+    "team": "Villarreal",
+    "gross/w": "€ 60,000",
+    "gross/y": "€ 3,120,000",
+    "signed": "Jul 1, 2023",
+    "expiration": "Jun 30, 2026",
+    "gross_remaining": "€ 6,240,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Diego Llorente",
     "team": "Real Betis",
     "gross/w": "€ 60,000",
     "gross/y": "€ 3,120,000",
-    "expiration": "Jun 30, 2029",
-    "gross_remaining": "€ 15,600,000",
+    "signed": "Jul 9, 2024",
+    "expiration": "Jun 30, 2028",
+    "gross_remaining": "€ 12,480,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Nicolas Pépé",
+    "team": "Villarreal",
+    "gross/w": "€ 60,000",
+    "gross/y": "€ 3,120,000",
+    "signed": "Aug 4, 2024",
+    "expiration": "Jun 30, 2026",
+    "gross_remaining": "€ 6,240,000",
     "release_clause": ""
   },
   {
@@ -904,6 +1024,7 @@
     "team": "Rayo Vallecano",
     "gross/w": "€ 59,615",
     "gross/y": "€ 3,100,000",
+    "signed": "Sep 13, 2022",
     "expiration": "Jun 30, 2027",
     "gross_remaining": "€ 9,300,000",
     "release_clause": ""
@@ -913,6 +1034,7 @@
     "team": "Real Betis",
     "gross/w": "€ 58,269",
     "gross/y": "€ 3,030,000",
+    "signed": "Jul 1, 2024",
     "expiration": "Jun 30, 2029",
     "gross_remaining": "€ 15,150,000",
     "release_clause": ""
@@ -922,6 +1044,7 @@
     "team": "Sevilla",
     "gross/w": "€ 57,692",
     "gross/y": "€ 3,000,000",
+    "signed": "Aug 24, 2023",
     "expiration": "Jun 30, 2028",
     "gross_remaining": "€ 12,000,000",
     "release_clause": ""
@@ -931,6 +1054,7 @@
     "team": "Barcelona",
     "gross/w": "€ 57,692",
     "gross/y": "€ 3,000,000",
+    "signed": "Oct 2, 2024",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 3,000,000",
     "release_clause": ""
@@ -940,6 +1064,7 @@
     "team": "Real Sociedad",
     "gross/w": "€ 57,692",
     "gross/y": "€ 3,000,000",
+    "signed": "Oct 14, 2022",
     "expiration": "Jun 30, 2027",
     "gross_remaining": "€ 9,000,000",
     "release_clause": "€ 60,000,000"
@@ -949,6 +1074,7 @@
     "team": "Las Palmas",
     "gross/w": "€ 55,962",
     "gross/y": "€ 2,910,000",
+    "signed": "Aug 30, 2024",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 2,910,000",
     "release_clause": ""
@@ -958,6 +1084,7 @@
     "team": "Celta Vigo",
     "gross/w": "€ 55,769",
     "gross/y": "€ 2,900,000",
+    "signed": "Dec 25, 2024",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 5,800,000",
     "release_clause": ""
@@ -967,6 +1094,7 @@
     "team": "Sevilla",
     "gross/w": "€ 53,846",
     "gross/y": "€ 2,800,000",
+    "signed": "Jul 21, 2020",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 2,800,000",
     "release_clause": ""
@@ -976,6 +1104,7 @@
     "team": "Real Sociedad",
     "gross/w": "€ 53,846",
     "gross/y": "€ 2,800,000",
+    "signed": "Jun 29, 2022",
     "expiration": "Jun 30, 2027",
     "gross_remaining": "€ 8,400,000",
     "release_clause": "€ 70,000,000"
@@ -985,6 +1114,7 @@
     "team": "Real Sociedad",
     "gross/w": "€ 51,923",
     "gross/y": "€ 2,700,000",
+    "signed": "Sep 1, 2023",
     "expiration": "Jun 30, 2029",
     "gross_remaining": "€ 13,500,000",
     "release_clause": ""
@@ -994,6 +1124,7 @@
     "team": "Getafe",
     "gross/w": "€ 49,231",
     "gross/y": "€ 2,560,000",
+    "signed": "Jul 30, 2024",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 2,560,000",
     "release_clause": ""
@@ -1003,8 +1134,29 @@
     "team": "Getafe",
     "gross/w": "€ 48,462",
     "gross/y": "€ 2,520,000",
+    "signed": "Feb 6, 2023",
     "expiration": "Jun 30, 2028",
     "gross_remaining": "€ 10,080,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Oihan Sancet",
+    "team": "Athletic Club",
+    "gross/w": "€ 48,077",
+    "gross/y": "€ 2,500,000",
+    "signed": "Apr 1, 2023",
+    "expiration": "Jun 30, 2032",
+    "gross_remaining": "€ 20,000,000",
+    "release_clause": "€ 80,000,000"
+  },
+  {
+    "player_name": "Florian Grillitsch",
+    "team": "Valladolid",
+    "gross/w": "€ 48,077",
+    "gross/y": "€ 2,500,000",
+    "signed": "Feb 3, 2025",
+    "expiration": "Jun 30, 2025",
+    "gross_remaining": "€ 2,500,000",
     "release_clause": ""
   },
   {
@@ -1012,15 +1164,7 @@
     "team": "Celta Vigo",
     "gross/w": "€ 48,077",
     "gross/y": "€ 2,500,000",
-    "expiration": "Jun 30, 2026",
-    "gross_remaining": "€ 5,000,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Ricardo Rodríguez",
-    "team": "Real Betis",
-    "gross/w": "€ 48,077",
-    "gross/y": "€ 2,500,000",
+    "signed": "Jan 13, 2022",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 5,000,000",
     "release_clause": ""
@@ -1030,8 +1174,19 @@
     "team": "Girona",
     "gross/w": "€ 48,077",
     "gross/y": "€ 2,500,000",
+    "signed": "Jul 29, 2024",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 2,500,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Ricardo Rodríguez",
+    "team": "Real Betis",
+    "gross/w": "€ 48,077",
+    "gross/y": "€ 2,500,000",
+    "signed": "Aug 5, 2024",
+    "expiration": "Jun 30, 2026",
+    "gross_remaining": "€ 5,000,000",
     "release_clause": ""
   },
   {
@@ -1039,51 +1194,37 @@
     "team": "Real Sociedad",
     "gross/w": "€ 48,077",
     "gross/y": "€ 2,500,000",
+    "signed": "Feb 12, 2024",
     "expiration": "Jun 30, 2029",
     "gross_remaining": "€ 12,500,000",
     "release_clause": "€ 60,000,000"
-  },
-  {
-    "player_name": "Florian Grillitsch",
-    "team": "Valladolid",
-    "gross/w": "€ 48,077",
-    "gross/y": "€ 2,500,000",
-    "expiration": "Jun 30, 2025",
-    "gross_remaining": "€ 2,500,000",
-    "release_clause": ""
   },
   {
     "player_name": "Martin Valjent",
     "team": "Mallorca",
     "gross/w": "€ 48,077",
     "gross/y": "€ 2,500,000",
+    "signed": "Jan 16, 2025",
     "expiration": "Jun 30, 2029",
     "gross_remaining": "€ 12,500,000",
     "release_clause": ""
   },
   {
-    "player_name": "Oihan Sancet",
+    "player_name": "Yeray Álvarez",
     "team": "Athletic Club",
-    "gross/w": "€ 48,077",
-    "gross/y": "€ 2,500,000",
-    "expiration": "Jun 30, 2032",
-    "gross_remaining": "€ 20,000,000",
-    "release_clause": "€ 80,000,000"
+    "gross/w": "€ 46,154",
+    "gross/y": "€ 2,400,000",
+    "signed": "Jul 18, 2019",
+    "expiration": "Jun 30, 2026",
+    "gross_remaining": "€ 4,800,000",
+    "release_clause": "€ 70,000,000"
   },
   {
     "player_name": "Vicente Guaita",
     "team": "Celta Vigo",
     "gross/w": "€ 46,154",
     "gross/y": "€ 2,400,000",
-    "expiration": "Jun 30, 2025",
-    "gross_remaining": "€ 2,400,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Juanmi",
-    "team": "Getafe",
-    "gross/w": "€ 46,154",
-    "gross/y": "€ 2,400,000",
+    "signed": "Sep 1, 2023",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 2,400,000",
     "release_clause": ""
@@ -1093,26 +1234,29 @@
     "team": "Real Sociedad",
     "gross/w": "€ 46,154",
     "gross/y": "€ 2,400,000",
+    "signed": "Jan 17, 2025",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 4,800,000",
     "release_clause": ""
-  },
-  {
-    "player_name": "Yeray Álvarez",
-    "team": "Athletic Club",
-    "gross/w": "€ 46,154",
-    "gross/y": "€ 2,400,000",
-    "expiration": "Jun 30, 2026",
-    "gross_remaining": "€ 4,800,000",
-    "release_clause": "€ 70,000,000"
   },
   {
     "player_name": "Chimy Ávila",
     "team": "Real Betis",
     "gross/w": "€ 46,154",
     "gross/y": "€ 2,400,000",
+    "signed": "Feb 1, 2024",
     "expiration": "Jun 30, 2027",
     "gross_remaining": "€ 7,200,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Juanmi",
+    "team": "Getafe",
+    "gross/w": "€ 46,154",
+    "gross/y": "€ 2,400,000",
+    "signed": "Jan 31, 2025",
+    "expiration": "Jun 30, 2025",
+    "gross_remaining": "€ 2,400,000",
     "release_clause": ""
   },
   {
@@ -1120,26 +1264,29 @@
     "team": "Real Betis",
     "gross/w": "€ 45,192",
     "gross/y": "€ 2,350,000",
+    "signed": "Sep 2, 2022",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 4,700,000",
     "release_clause": "€ 120,000,000"
-  },
-  {
-    "player_name": "Sergio Gómez",
-    "team": "Real Sociedad",
-    "gross/w": "€ 44,231",
-    "gross/y": "€ 2,300,000",
-    "expiration": "Jun 30, 2030",
-    "gross_remaining": "€ 13,800,000",
-    "release_clause": ""
   },
   {
     "player_name": "Sergi Darder",
     "team": "Mallorca",
     "gross/w": "€ 44,231",
     "gross/y": "€ 2,300,000",
+    "signed": "Aug 11, 2023",
     "expiration": "Jun 30, 2028",
     "gross_remaining": "€ 9,200,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Sergio Gómez",
+    "team": "Real Sociedad",
+    "gross/w": "€ 44,231",
+    "gross/y": "€ 2,300,000",
+    "signed": "Jul 12, 2024",
+    "expiration": "Jun 30, 2030",
+    "gross_remaining": "€ 13,800,000",
     "release_clause": ""
   },
   {
@@ -1147,26 +1294,19 @@
     "team": "Real Betis",
     "gross/w": "€ 44,038",
     "gross/y": "€ 2,290,000",
+    "signed": "Aug 15, 2024",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 2,290,000",
     "release_clause": ""
   },
   {
-    "player_name": "Aritz Elustondo",
-    "team": "Real Sociedad",
+    "player_name": "Alfonso Pedraza",
+    "team": "Villarreal",
     "gross/w": "€ 42,308",
     "gross/y": "€ 2,200,000",
+    "signed": "May 26, 2022",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 4,400,000",
-    "release_clause": "€ 60,000,000"
-  },
-  {
-    "player_name": "Djené",
-    "team": "Getafe",
-    "gross/w": "€ 42,308",
-    "gross/y": "€ 2,200,000",
-    "expiration": "Jun 30, 2025",
-    "gross_remaining": "€ 2,200,000",
     "release_clause": ""
   },
   {
@@ -1174,53 +1314,59 @@
     "team": "Real Sociedad",
     "gross/w": "€ 42,308",
     "gross/y": "€ 2,200,000",
+    "signed": "Jul 6, 2022",
     "expiration": "Jun 30, 2028",
     "gross_remaining": "€ 8,800,000",
     "release_clause": "€ 60,000,000"
   },
   {
-    "player_name": "Alfonso Pedraza",
-    "team": "Villarreal",
+    "player_name": "Djené",
+    "team": "Getafe",
     "gross/w": "€ 42,308",
     "gross/y": "€ 2,200,000",
+    "signed": "Jul 24, 2017",
+    "expiration": "Jun 30, 2025",
+    "gross_remaining": "€ 2,200,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Aritz Elustondo",
+    "team": "Real Sociedad",
+    "gross/w": "€ 42,308",
+    "gross/y": "€ 2,200,000",
+    "signed": "Mar 5, 2023",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 4,400,000",
-    "release_clause": ""
+    "release_clause": "€ 60,000,000"
   },
   {
     "player_name": "Álvaro García",
     "team": "Rayo Vallecano",
     "gross/w": "€ 40,000",
     "gross/y": "€ 2,080,000",
+    "signed": "Feb 11, 2025",
     "expiration": "Jun 30, 2028",
     "gross_remaining": "€ 8,320,000",
     "release_clause": ""
-  },
-  {
-    "player_name": "Mikel Vesga",
-    "team": "Athletic Club",
-    "gross/w": "€ 40,000",
-    "gross/y": "€ 2,080,000",
-    "expiration": "Jun 30, 2027",
-    "gross_remaining": "€ 6,240,000",
-    "release_clause": "€ 50,000,000"
   },
   {
     "player_name": "Ayoze Pérez",
     "team": "Villarreal",
     "gross/w": "€ 40,000",
     "gross/y": "€ 2,080,000",
+    "signed": "Aug 13, 2024",
     "expiration": "Jun 30, 2028",
     "gross_remaining": "€ 8,320,000",
     "release_clause": ""
   },
   {
-    "player_name": "Gorka Guruzeta",
-    "team": "Athletic Club",
+    "player_name": "Oliver McBurnie",
+    "team": "Las Palmas",
     "gross/w": "€ 40,000",
     "gross/y": "€ 2,080,000",
-    "expiration": "Jun 30, 2028",
-    "gross_remaining": "€ 8,320,000",
+    "signed": "Jul 25, 2024",
+    "expiration": "Jun 30, 2027",
+    "gross_remaining": "€ 6,240,000",
     "release_clause": ""
   },
   {
@@ -1228,6 +1374,7 @@
     "team": "Sevilla",
     "gross/w": "€ 40,000",
     "gross/y": "€ 2,080,000",
+    "signed": "May 24, 2024",
     "expiration": "Jun 30, 2028",
     "gross_remaining": "€ 8,320,000",
     "release_clause": "€ 30,000,000"
@@ -1237,8 +1384,29 @@
     "team": "Las Palmas",
     "gross/w": "€ 40,000",
     "gross/y": "€ 2,080,000",
+    "signed": "Aug 8, 2024",
     "expiration": "Jun 30, 2027",
     "gross_remaining": "€ 6,240,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Mikel Vesga",
+    "team": "Athletic Club",
+    "gross/w": "€ 40,000",
+    "gross/y": "€ 2,080,000",
+    "signed": "Dec 21, 2023",
+    "expiration": "Jun 30, 2027",
+    "gross_remaining": "€ 6,240,000",
+    "release_clause": "€ 50,000,000"
+  },
+  {
+    "player_name": "Gorka Guruzeta",
+    "team": "Athletic Club",
+    "gross/w": "€ 40,000",
+    "gross/y": "€ 2,080,000",
+    "signed": "Feb 20, 2024",
+    "expiration": "Jun 30, 2028",
+    "gross_remaining": "€ 8,320,000",
     "release_clause": ""
   },
   {
@@ -1246,24 +1414,37 @@
     "team": "Real Betis",
     "gross/w": "€ 40,000",
     "gross/y": "€ 2,080,000",
-    "expiration": "Jun 30, 2025",
-    "gross_remaining": "€ 2,080,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Oliver McBurnie",
-    "team": "Las Palmas",
-    "gross/w": "€ 40,000",
-    "gross/y": "€ 2,080,000",
+    "signed": "Apr 23, 2025",
     "expiration": "Jun 30, 2027",
     "gross_remaining": "€ 6,240,000",
     "release_clause": ""
+  },
+  {
+    "player_name": "Igor Zubeldia",
+    "team": "Real Sociedad",
+    "gross/w": "€ 38,462",
+    "gross/y": "€ 2,000,000",
+    "signed": "May 17, 2023",
+    "expiration": "Jun 30, 2029",
+    "gross_remaining": "€ 10,000,000",
+    "release_clause": "€ 50,000,000"
+  },
+  {
+    "player_name": "Juan Foyth",
+    "team": "Villarreal",
+    "gross/w": "€ 38,462",
+    "gross/y": "€ 2,000,000",
+    "signed": "Jul 1, 2021",
+    "expiration": "Jun 30, 2026",
+    "gross_remaining": "€ 4,000,000",
+    "release_clause": "€ 42,000,000"
   },
   {
     "player_name": "Clément Lenglet",
     "team": "Barcelona",
     "gross/w": "€ 38,462",
     "gross/y": "€ 2,000,000",
+    "signed": "Aug 26, 2024",
     "expiration": "Jun 30, 2027",
     "gross_remaining": "€ 6,000,000",
     "release_clause": ""
@@ -1273,33 +1454,17 @@
     "team": "Villarreal",
     "gross/w": "€ 38,462",
     "gross/y": "€ 2,000,000",
+    "signed": "Jan 20, 2023",
     "expiration": "Jun 30, 2028",
     "gross_remaining": "€ 8,000,000",
     "release_clause": "€ 60,000,000"
-  },
-  {
-    "player_name": "Juan Foyth",
-    "team": "Villarreal",
-    "gross/w": "€ 38,462",
-    "gross/y": "€ 2,000,000",
-    "expiration": "Jun 30, 2026",
-    "gross_remaining": "€ 4,000,000",
-    "release_clause": "€ 42,000,000"
-  },
-  {
-    "player_name": "Igor Zubeldia",
-    "team": "Real Sociedad",
-    "gross/w": "€ 38,462",
-    "gross/y": "€ 2,000,000",
-    "expiration": "Jun 30, 2029",
-    "gross_remaining": "€ 10,000,000",
-    "release_clause": "€ 50,000,000"
   },
   {
     "player_name": "Alex Král",
     "team": "Espanyol",
     "gross/w": "€ 38,077",
     "gross/y": "€ 1,980,000",
+    "signed": "Aug 7, 2024",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 1,980,000",
     "release_clause": ""
@@ -1309,6 +1474,7 @@
     "team": "Valencia",
     "gross/w": "€ 36,923",
     "gross/y": "€ 1,920,000",
+    "signed": "Oct 3, 2022",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 3,840,000",
     "release_clause": "€ 50,000,000"
@@ -1318,26 +1484,19 @@
     "team": "Valencia",
     "gross/w": "€ 36,538",
     "gross/y": "€ 1,900,000",
+    "signed": "Jul 11, 2024",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 1,900,000",
     "release_clause": ""
   },
   {
-    "player_name": "Romain Perraud",
-    "team": "Real Betis",
+    "player_name": "Pape Gueye",
+    "team": "Villarreal",
     "gross/w": "€ 36,154",
     "gross/y": "€ 1,880,000",
-    "expiration": "Jun 30, 2029",
-    "gross_remaining": "€ 9,400,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Álvaro Djaló",
-    "team": "Athletic Club",
-    "gross/w": "€ 36,154",
-    "gross/y": "€ 1,880,000",
-    "expiration": "Jun 30, 2029",
-    "gross_remaining": "€ 9,400,000",
+    "signed": "Jul 5, 2024",
+    "expiration": "Jun 30, 2028",
+    "gross_remaining": "€ 7,520,000",
     "release_clause": ""
   },
   {
@@ -1345,6 +1504,17 @@
     "team": "Sevilla",
     "gross/w": "€ 36,154",
     "gross/y": "€ 1,880,000",
+    "signed": "Jan 27, 2025",
+    "expiration": "Jun 30, 2029",
+    "gross_remaining": "€ 9,400,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Romain Perraud",
+    "team": "Real Betis",
+    "gross/w": "€ 36,154",
+    "gross/y": "€ 1,880,000",
+    "signed": "Jul 1, 2024",
     "expiration": "Jun 30, 2029",
     "gross_remaining": "€ 9,400,000",
     "release_clause": ""
@@ -1354,17 +1524,19 @@
     "team": "Valencia",
     "gross/w": "€ 36,154",
     "gross/y": "€ 1,880,000",
+    "signed": "Mar 6, 2024",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 3,760,000",
     "release_clause": ""
   },
   {
-    "player_name": "Pape Gueye",
-    "team": "Villarreal",
+    "player_name": "Álvaro Djaló",
+    "team": "Athletic Club",
     "gross/w": "€ 36,154",
     "gross/y": "€ 1,880,000",
-    "expiration": "Jun 30, 2028",
-    "gross_remaining": "€ 7,520,000",
+    "signed": "Jul 1, 2024",
+    "expiration": "Jun 30, 2029",
+    "gross_remaining": "€ 9,400,000",
     "release_clause": ""
   },
   {
@@ -1372,6 +1544,7 @@
     "team": "Valencia",
     "gross/w": "€ 35,962",
     "gross/y": "€ 1,870,000",
+    "signed": "Aug 30, 2021",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 1,870,000",
     "release_clause": ""
@@ -1381,6 +1554,7 @@
     "team": "Valencia",
     "gross/w": "€ 35,385",
     "gross/y": "€ 1,840,000",
+    "signed": "Oct 4, 2021",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 3,680,000",
     "release_clause": ""
@@ -1390,17 +1564,9 @@
     "team": "Real Sociedad",
     "gross/w": "€ 35,000",
     "gross/y": "€ 1,820,000",
+    "signed": "Aug 30, 2024",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 1,820,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Jesús Vallejo",
-    "team": "Real Madrid",
-    "gross/w": "€ 34,615",
-    "gross/y": "€ 1,800,000",
-    "expiration": "Jun 30, 2025",
-    "gross_remaining": "€ 1,800,000",
     "release_clause": ""
   },
   {
@@ -1408,26 +1574,19 @@
     "team": "Girona",
     "gross/w": "€ 34,615",
     "gross/y": "€ 1,800,000",
+    "signed": "Sep 1, 2023",
     "expiration": "Jun 30, 2027",
     "gross_remaining": "€ 5,400,000",
     "release_clause": ""
   },
   {
-    "player_name": "Valentin Rosier",
-    "team": "Leganes",
-    "gross/w": "€ 34,231",
-    "gross/y": "€ 1,780,000",
+    "player_name": "Jesús Vallejo",
+    "team": "Real Madrid",
+    "gross/w": "€ 34,615",
+    "gross/y": "€ 1,800,000",
+    "signed": "Jul 1, 2020",
     "expiration": "Jun 30, 2025",
-    "gross_remaining": "€ 1,780,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Chidera Ejuke",
-    "team": "Sevilla",
-    "gross/w": "€ 34,231",
-    "gross/y": "€ 1,780,000",
-    "expiration": "Jun 30, 2027",
-    "gross_remaining": "€ 5,340,000",
+    "gross_remaining": "€ 1,800,000",
     "release_clause": ""
   },
   {
@@ -1435,8 +1594,19 @@
     "team": "Alaves",
     "gross/w": "€ 34,231",
     "gross/y": "€ 1,780,000",
+    "signed": "Aug 27, 2024",
     "expiration": "Jun 30, 2028",
     "gross_remaining": "€ 7,120,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Valentin Rosier",
+    "team": "Leganes",
+    "gross/w": "€ 34,231",
+    "gross/y": "€ 1,780,000",
+    "signed": "Jul 5, 2024",
+    "expiration": "Jun 30, 2025",
+    "gross_remaining": "€ 1,780,000",
     "release_clause": ""
   },
   {
@@ -1444,8 +1614,19 @@
     "team": "Girona",
     "gross/w": "€ 34,231",
     "gross/y": "€ 1,780,000",
+    "signed": "May 15, 2024",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 3,560,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Chidera Ejuke",
+    "team": "Sevilla",
+    "gross/w": "€ 34,231",
+    "gross/y": "€ 1,780,000",
+    "signed": "Jul 1, 2024",
+    "expiration": "Jun 30, 2027",
+    "gross_remaining": "€ 5,340,000",
     "release_clause": ""
   },
   {
@@ -1453,62 +1634,29 @@
     "team": "Athletic Club",
     "gross/w": "€ 32,692",
     "gross/y": "€ 1,700,000",
+    "signed": "Aug 28, 2024",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 1,700,000",
     "release_clause": ""
-  },
-  {
-    "player_name": "Lamine Yamal",
-    "team": "Barcelona",
-    "gross/w": "€ 32,115",
-    "gross/y": "€ 1,670,000",
-    "expiration": "Jun 30, 2026",
-    "gross_remaining": "€ 3,340,000",
-    "release_clause": "€ 1,000,000,000"
   },
   {
     "player_name": "Alejandro Balde",
     "team": "Barcelona",
     "gross/w": "€ 32,115",
     "gross/y": "€ 1,670,000",
+    "signed": "Sep 20, 2023",
     "expiration": "Jun 30, 2028",
     "gross_remaining": "€ 6,680,000",
     "release_clause": "€ 1,000,000,000"
-  },
-  {
-    "player_name": "Rubén Vargas",
-    "team": "Sevilla",
-    "gross/w": "€ 31,923",
-    "gross/y": "€ 1,660,000",
-    "expiration": "Jun 30, 2029",
-    "gross_remaining": "€ 8,300,000",
-    "release_clause": ""
   },
   {
     "player_name": "Logan Costa",
     "team": "Villarreal",
     "gross/w": "€ 31,923",
     "gross/y": "€ 1,660,000",
+    "signed": "Aug 22, 2024",
     "expiration": "Jun 30, 2030",
     "gross_remaining": "€ 9,960,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Sergi Gómez",
-    "team": "Espanyol",
-    "gross/w": "€ 31,923",
-    "gross/y": "€ 1,660,000",
-    "expiration": "Jun 30, 2025",
-    "gross_remaining": "€ 1,660,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Abel Ruiz",
-    "team": "Girona",
-    "gross/w": "€ 31,923",
-    "gross/y": "€ 1,660,000",
-    "expiration": "Jun 30, 2029",
-    "gross_remaining": "€ 8,300,000",
     "release_clause": ""
   },
   {
@@ -1516,8 +1664,39 @@
     "team": "Girona",
     "gross/w": "€ 31,923",
     "gross/y": "€ 1,660,000",
+    "signed": "Nov 19, 2024",
     "expiration": "Jun 30, 2028",
     "gross_remaining": "€ 6,640,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Abel Ruiz",
+    "team": "Girona",
+    "gross/w": "€ 31,923",
+    "gross/y": "€ 1,660,000",
+    "signed": "Jul 1, 2024",
+    "expiration": "Jun 30, 2029",
+    "gross_remaining": "€ 8,300,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Sergi Gómez",
+    "team": "Espanyol",
+    "gross/w": "€ 31,923",
+    "gross/y": "€ 1,660,000",
+    "signed": "Jul 28, 2021",
+    "expiration": "Jun 30, 2025",
+    "gross_remaining": "€ 1,660,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Rubén Vargas",
+    "team": "Sevilla",
+    "gross/w": "€ 31,923",
+    "gross/y": "€ 1,660,000",
+    "signed": "Jan 10, 2025",
+    "expiration": "Jun 30, 2029",
+    "gross_remaining": "€ 8,300,000",
     "release_clause": ""
   },
   {
@@ -1525,6 +1704,7 @@
     "team": "Celta Vigo",
     "gross/w": "€ 31,154",
     "gross/y": "€ 1,620,000",
+    "signed": "Aug 7, 2024",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 1,620,000",
     "release_clause": ""
@@ -1534,6 +1714,7 @@
     "team": "Valladolid",
     "gross/w": "€ 31,154",
     "gross/y": "€ 1,620,000",
+    "signed": "Sep 1, 2022",
     "expiration": "Jun 30, 2027",
     "gross_remaining": "€ 4,860,000",
     "release_clause": ""
@@ -1543,6 +1724,7 @@
     "team": "Celta Vigo",
     "gross/w": "€ 30,769",
     "gross/y": "€ 1,600,000",
+    "signed": "Jul 19, 2024",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 1,600,000",
     "release_clause": ""
@@ -1552,35 +1734,19 @@
     "team": "Valladolid",
     "gross/w": "€ 30,769",
     "gross/y": "€ 1,600,000",
+    "signed": "Jan 30, 2025",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 1,600,000",
     "release_clause": ""
-  },
-  {
-    "player_name": "Ander Barrenetxea",
-    "team": "Real Sociedad",
-    "gross/w": "€ 30,000",
-    "gross/y": "€ 1,560,000",
-    "expiration": "Jun 30, 2030",
-    "gross_remaining": "€ 9,360,000",
-    "release_clause": "€ 75,000,000"
   },
   {
     "player_name": "Jaime Mata",
     "team": "Las Palmas",
     "gross/w": "€ 30,000",
     "gross/y": "€ 1,560,000",
+    "signed": "Jul 1, 2024",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 1,560,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Andoni Gorosabel",
-    "team": "Athletic Club",
-    "gross/w": "€ 30,000",
-    "gross/y": "€ 1,560,000",
-    "expiration": "Jun 30, 2028",
-    "gross_remaining": "€ 6,240,000",
     "release_clause": ""
   },
   {
@@ -1588,15 +1754,37 @@
     "team": "Villarreal",
     "gross/w": "€ 30,000",
     "gross/y": "€ 1,560,000",
+    "signed": "Feb 11, 2025",
     "expiration": "Jun 30, 2028",
     "gross_remaining": "€ 6,240,000",
     "release_clause": ""
+  },
+  {
+    "player_name": "Andoni Gorosabel",
+    "team": "Athletic Club",
+    "gross/w": "€ 30,000",
+    "gross/y": "€ 1,560,000",
+    "signed": "Jul 1, 2024",
+    "expiration": "Jun 30, 2028",
+    "gross_remaining": "€ 6,240,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Ander Barrenetxea",
+    "team": "Real Sociedad",
+    "gross/w": "€ 30,000",
+    "gross/y": "€ 1,560,000",
+    "signed": "Jan 28, 2024",
+    "expiration": "Jun 30, 2030",
+    "gross_remaining": "€ 9,360,000",
+    "release_clause": "€ 75,000,000"
   },
   {
     "player_name": "Sergi Cardona",
     "team": "Villarreal",
     "gross/w": "€ 30,000",
     "gross/y": "€ 1,560,000",
+    "signed": "Jul 18, 2024",
     "expiration": "Jun 30, 2027",
     "gross_remaining": "€ 4,680,000",
     "release_clause": ""
@@ -1606,6 +1794,7 @@
     "team": "Villarreal",
     "gross/w": "€ 30,000",
     "gross/y": "€ 1,560,000",
+    "signed": "Feb 1, 2025",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 1,560,000",
     "release_clause": ""
@@ -1615,35 +1804,9 @@
     "team": "Getafe",
     "gross/w": "€ 29,038",
     "gross/y": "€ 1,510,000",
+    "signed": "May 25, 2021",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 3,020,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Giorgi Mamardashvili",
-    "team": "Valencia",
-    "gross/w": "€ 28,846",
-    "gross/y": "€ 1,500,000",
-    "expiration": "Jun 30, 2025",
-    "gross_remaining": "€ 1,500,000",
-    "release_clause": "€ 100,000,000"
-  },
-  {
-    "player_name": "Sergi Canós",
-    "team": "Valencia",
-    "gross/w": "€ 28,846",
-    "gross/y": "€ 1,500,000",
-    "expiration": "Jun 30, 2027",
-    "gross_remaining": "€ 4,500,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Toni Lato",
-    "team": "Mallorca",
-    "gross/w": "€ 28,846",
-    "gross/y": "€ 1,500,000",
-    "expiration": "Jun 30, 2027",
-    "gross_remaining": "€ 4,500,000",
     "release_clause": ""
   },
   {
@@ -1651,17 +1814,9 @@
     "team": "Espanyol",
     "gross/w": "€ 28,846",
     "gross/y": "€ 1,500,000",
+    "signed": "Aug 7, 2024",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 1,500,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Marcos André",
-    "team": "Valladolid",
-    "gross/w": "€ 28,846",
-    "gross/y": "€ 1,500,000",
-    "expiration": "Jun 30, 2029",
-    "gross_remaining": "€ 7,500,000",
     "release_clause": ""
   },
   {
@@ -1669,17 +1824,59 @@
     "team": "Valladolid",
     "gross/w": "€ 28,846",
     "gross/y": "€ 1,500,000",
+    "signed": "Nov 25, 2019",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 1,500,000",
     "release_clause": ""
+  },
+  {
+    "player_name": "Toni Lato",
+    "team": "Mallorca",
+    "gross/w": "€ 28,846",
+    "gross/y": "€ 1,500,000",
+    "signed": "Jul 1, 2023",
+    "expiration": "Jun 30, 2027",
+    "gross_remaining": "€ 4,500,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Giorgi Mamardashvili",
+    "team": "Valencia",
+    "gross/w": "€ 28,846",
+    "gross/y": "€ 1,500,000",
+    "signed": "Aug 28, 2024",
+    "expiration": "Jun 30, 2025",
+    "gross_remaining": "€ 1,500,000",
+    "release_clause": "€ 100,000,000"
   },
   {
     "player_name": "Stefan Bajcetic",
     "team": "Las Palmas",
     "gross/w": "€ 28,846",
     "gross/y": "€ 1,500,000",
+    "signed": "Jan 31, 2025",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 1,500,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Sergi Canós",
+    "team": "Valencia",
+    "gross/w": "€ 28,846",
+    "gross/y": "€ 1,500,000",
+    "signed": "Aug 20, 2023",
+    "expiration": "Jun 30, 2027",
+    "gross_remaining": "€ 4,500,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Marcos André",
+    "team": "Valladolid",
+    "gross/w": "€ 28,846",
+    "gross/y": "€ 1,500,000",
+    "signed": "Aug 29, 2023",
+    "expiration": "Jun 30, 2029",
+    "gross_remaining": "€ 7,500,000",
     "release_clause": ""
   },
   {
@@ -1687,6 +1884,7 @@
     "team": "Las Palmas",
     "gross/w": "€ 28,654",
     "gross/y": "€ 1,490,000",
+    "signed": "Jul 1, 2023",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 2,980,000",
     "release_clause": ""
@@ -1696,6 +1894,7 @@
     "team": "Villarreal",
     "gross/w": "€ 28,077",
     "gross/y": "€ 1,460,000",
+    "signed": "Aug 20, 2024",
     "expiration": "Jun 30, 2030",
     "gross_remaining": "€ 8,760,000",
     "release_clause": ""
@@ -1705,6 +1904,7 @@
     "team": "Leganes",
     "gross/w": "€ 28,077",
     "gross/y": "€ 1,460,000",
+    "signed": "Aug 22, 2024",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 2,920,000",
     "release_clause": ""
@@ -1714,17 +1914,9 @@
     "team": "Leganes",
     "gross/w": "€ 28,077",
     "gross/y": "€ 1,460,000",
+    "signed": "Aug 15, 2024",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 2,920,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Jaume Doménech",
-    "team": "Valencia",
-    "gross/w": "€ 27,885",
-    "gross/y": "€ 1,450,000",
-    "expiration": "Jun 30, 2025",
-    "gross_remaining": "€ 1,450,000",
     "release_clause": ""
   },
   {
@@ -1732,8 +1924,19 @@
     "team": "Valladolid",
     "gross/w": "€ 27,885",
     "gross/y": "€ 1,450,000",
+    "signed": "Jan 19, 2023",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 2,900,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Jaume Doménech",
+    "team": "Valencia",
+    "gross/w": "€ 27,885",
+    "gross/y": "€ 1,450,000",
+    "signed": "Apr 17, 2024",
+    "expiration": "Jun 30, 2025",
+    "gross_remaining": "€ 1,450,000",
     "release_clause": ""
   },
   {
@@ -1741,6 +1944,7 @@
     "team": "Real Sociedad",
     "gross/w": "€ 26,923",
     "gross/y": "€ 1,400,000",
+    "signed": "Jan 18, 2024",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 2,800,000",
     "release_clause": ""
@@ -1750,6 +1954,7 @@
     "team": "Girona",
     "gross/w": "€ 26,923",
     "gross/y": "€ 1,400,000",
+    "signed": "Jan 17, 2023",
     "expiration": "Jun 30, 2027",
     "gross_remaining": "€ 4,200,000",
     "release_clause": "€ 30,000,000"
@@ -1759,51 +1964,57 @@
     "team": "Espanyol",
     "gross/w": "€ 26,154",
     "gross/y": "€ 1,360,000",
+    "signed": "Jan 20, 2020",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 1,360,000",
     "release_clause": ""
-  },
-  {
-    "player_name": "Ante Budimir",
-    "team": "Osasuna",
-    "gross/w": "€ 25,962",
-    "gross/y": "€ 1,350,000",
-    "expiration": "Jun 30, 2027",
-    "gross_remaining": "€ 4,050,000",
-    "release_clause": "€ 20,000,000"
-  },
-  {
-    "player_name": "Yeremi Pino",
-    "team": "Villarreal",
-    "gross/w": "€ 25,962",
-    "gross/y": "€ 1,350,000",
-    "expiration": "Jun 30, 2027",
-    "gross_remaining": "€ 4,050,000",
-    "release_clause": "€ 80,000,000"
   },
   {
     "player_name": "Jon Aramburu",
     "team": "Real Sociedad",
     "gross/w": "€ 25,962",
     "gross/y": "€ 1,350,000",
+    "signed": "Jan 3, 2025",
     "expiration": "Jun 30, 2030",
     "gross_remaining": "€ 8,100,000",
     "release_clause": "€ 60,000,000"
+  },
+  {
+    "player_name": "Yeremi Pino",
+    "team": "Villarreal",
+    "gross/w": "€ 25,962",
+    "gross/y": "€ 1,350,000",
+    "signed": "Nov 15, 2021",
+    "expiration": "Jun 30, 2027",
+    "gross_remaining": "€ 4,050,000",
+    "release_clause": "€ 80,000,000"
   },
   {
     "player_name": "Rubén García",
     "team": "Osasuna",
     "gross/w": "€ 25,962",
     "gross/y": "€ 1,350,000",
+    "signed": "May 23, 2024",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 2,700,000",
     "release_clause": "€ 8,000,000"
+  },
+  {
+    "player_name": "Ante Budimir",
+    "team": "Osasuna",
+    "gross/w": "€ 25,962",
+    "gross/y": "€ 1,350,000",
+    "signed": "Oct 9, 2023",
+    "expiration": "Jun 30, 2027",
+    "gross_remaining": "€ 4,050,000",
+    "release_clause": "€ 20,000,000"
   },
   {
     "player_name": "Manu Morlanes",
     "team": "Mallorca",
     "gross/w": "€ 25,192",
     "gross/y": "€ 1,310,000",
+    "signed": "Jul 1, 2023",
     "expiration": "Jun 30, 2028",
     "gross_remaining": "€ 5,240,000",
     "release_clause": ""
@@ -1813,71 +2024,49 @@
     "team": "Valencia",
     "gross/w": "€ 25,000",
     "gross/y": "€ 1,300,000",
+    "signed": "Jul 8, 2023",
     "expiration": "Jun 30, 2028",
     "gross_remaining": "€ 5,200,000",
     "release_clause": "€ 100,000,000"
-  },
-  {
-    "player_name": "Borna Barisic",
-    "team": "Leganes",
-    "gross/w": "€ 24,038",
-    "gross/y": "€ 1,250,000",
-    "expiration": "Jun 30, 2025",
-    "gross_remaining": "€ 1,250,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Antonio Candela",
-    "team": "Valladolid",
-    "gross/w": "€ 24,038",
-    "gross/y": "€ 1,250,000",
-    "expiration": "Jun 30, 2025",
-    "gross_remaining": "€ 1,250,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Álex Berenguer",
-    "team": "Athletic Club",
-    "gross/w": "€ 24,038",
-    "gross/y": "€ 1,250,000",
-    "expiration": "Jun 30, 2027",
-    "gross_remaining": "€ 3,750,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Óscar de Marcos",
-    "team": "Athletic Club",
-    "gross/w": "€ 24,038",
-    "gross/y": "€ 1,250,000",
-    "expiration": "Jun 30, 2025",
-    "gross_remaining": "€ 1,250,000",
-    "release_clause": ""
   },
   {
     "player_name": "Florian Lejeune",
     "team": "Rayo Vallecano",
     "gross/w": "€ 24,038",
     "gross/y": "€ 1,250,000",
+    "signed": "Jul 28, 2023",
     "expiration": "Jun 30, 2027",
     "gross_remaining": "€ 3,750,000",
     "release_clause": ""
   },
   {
-    "player_name": "Kike Salas",
-    "team": "Sevilla",
+    "player_name": "Stanko Juric",
+    "team": "Valladolid",
     "gross/w": "€ 24,038",
     "gross/y": "€ 1,250,000",
-    "expiration": "Jun 30, 2029",
-    "gross_remaining": "€ 6,250,000",
+    "signed": "Jul 1, 2024",
+    "expiration": "Jun 30, 2027",
+    "gross_remaining": "€ 3,750,000",
     "release_clause": ""
   },
   {
-    "player_name": "Luka Sucic",
-    "team": "Real Sociedad",
+    "player_name": "Max Aarons",
+    "team": "Valencia",
     "gross/w": "€ 24,038",
     "gross/y": "€ 1,250,000",
-    "expiration": "Jun 30, 2029",
-    "gross_remaining": "€ 6,250,000",
+    "signed": "Jan 13, 2025",
+    "expiration": "Jun 30, 2025",
+    "gross_remaining": "€ 1,250,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Enzo Barrenechea",
+    "team": "Valencia",
+    "gross/w": "€ 24,038",
+    "gross/y": "€ 1,250,000",
+    "signed": "Aug 30, 2024",
+    "expiration": "Jun 30, 2025",
+    "gross_remaining": "€ 1,250,000",
     "release_clause": ""
   },
   {
@@ -1885,6 +2074,7 @@
     "team": "Sevilla",
     "gross/w": "€ 24,038",
     "gross/y": "€ 1,250,000",
+    "signed": "Nov 28, 2024",
     "expiration": "Jun 30, 2028",
     "gross_remaining": "€ 5,000,000",
     "release_clause": "€ 30,000,000"
@@ -1894,42 +2084,57 @@
     "team": "Real Betis",
     "gross/w": "€ 24,038",
     "gross/y": "€ 1,250,000",
+    "signed": "Apr 11, 2025",
     "expiration": "Jun 30, 2029",
     "gross_remaining": "€ 6,250,000",
     "release_clause": "€ 60,000,000"
   },
   {
-    "player_name": "Juanlu Sánchez",
-    "team": "Sevilla",
+    "player_name": "Álex Berenguer",
+    "team": "Athletic Club",
     "gross/w": "€ 24,038",
     "gross/y": "€ 1,250,000",
-    "expiration": "Jun 30, 2029",
-    "gross_remaining": "€ 6,250,000",
-    "release_clause": "€ 40,000,000"
-  },
-  {
-    "player_name": "Stanko Juric",
-    "team": "Valladolid",
-    "gross/w": "€ 24,038",
-    "gross/y": "€ 1,250,000",
+    "signed": "Jul 7, 2024",
     "expiration": "Jun 30, 2027",
     "gross_remaining": "€ 3,750,000",
     "release_clause": ""
   },
   {
-    "player_name": "Enzo Barrenechea",
-    "team": "Valencia",
+    "player_name": "Luka Sucic",
+    "team": "Real Sociedad",
     "gross/w": "€ 24,038",
     "gross/y": "€ 1,250,000",
+    "signed": "Aug 2, 2024",
+    "expiration": "Jun 30, 2029",
+    "gross_remaining": "€ 6,250,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Antonio Candela",
+    "team": "Valladolid",
+    "gross/w": "€ 24,038",
+    "gross/y": "€ 1,250,000",
+    "signed": "Feb 3, 2025",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 1,250,000",
     "release_clause": ""
+  },
+  {
+    "player_name": "Samuel Lino",
+    "team": "Atletico Madrid",
+    "gross/w": "€ 24,038",
+    "gross/y": "€ 1,250,000",
+    "signed": "Jul 8, 2022",
+    "expiration": "Jun 30, 2027",
+    "gross_remaining": "€ 3,750,000",
+    "release_clause": "€ 100,000,000"
   },
   {
     "player_name": "Aitor Paredes",
     "team": "Athletic Club",
     "gross/w": "€ 24,038",
     "gross/y": "€ 1,250,000",
+    "signed": "Mar 21, 2024",
     "expiration": "Jun 30, 2029",
     "gross_remaining": "€ 6,250,000",
     "release_clause": ""
@@ -1939,35 +2144,59 @@
     "team": "Real Sociedad",
     "gross/w": "€ 24,038",
     "gross/y": "€ 1,250,000",
+    "signed": "Nov 29, 2024",
     "expiration": "Jun 30, 2030",
     "gross_remaining": "€ 7,500,000",
     "release_clause": ""
   },
   {
-    "player_name": "Samuel Lino",
-    "team": "Atletico Madrid",
+    "player_name": "Kike Salas",
+    "team": "Sevilla",
     "gross/w": "€ 24,038",
     "gross/y": "€ 1,250,000",
-    "expiration": "Jun 30, 2027",
-    "gross_remaining": "€ 3,750,000",
-    "release_clause": "€ 100,000,000"
+    "signed": "Dec 26, 2024",
+    "expiration": "Jun 30, 2029",
+    "gross_remaining": "€ 6,250,000",
+    "release_clause": ""
   },
   {
-    "player_name": "Max Aarons",
-    "team": "Valencia",
+    "player_name": "Óscar de Marcos",
+    "team": "Athletic Club",
     "gross/w": "€ 24,038",
     "gross/y": "€ 1,250,000",
+    "signed": "May 19, 2024",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 1,250,000",
     "release_clause": ""
   },
   {
-    "player_name": "Diego Rico",
-    "team": "Getafe",
+    "player_name": "Borna Barisic",
+    "team": "Leganes",
+    "gross/w": "€ 24,038",
+    "gross/y": "€ 1,250,000",
+    "signed": "Feb 3, 2025",
+    "expiration": "Jun 30, 2025",
+    "gross_remaining": "€ 1,250,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Juanlu Sánchez",
+    "team": "Sevilla",
+    "gross/w": "€ 24,038",
+    "gross/y": "€ 1,250,000",
+    "signed": "Apr 10, 2025",
+    "expiration": "Jun 30, 2029",
+    "gross_remaining": "€ 6,250,000",
+    "release_clause": "€ 40,000,000"
+  },
+  {
+    "player_name": "Ladislav Krejci",
+    "team": "Girona",
     "gross/w": "€ 23,846",
     "gross/y": "€ 1,240,000",
-    "expiration": "Jun 30, 2026",
-    "gross_remaining": "€ 2,480,000",
+    "signed": "Jul 1, 2024",
+    "expiration": "Jun 30, 2029",
+    "gross_remaining": "€ 6,200,000",
     "release_clause": ""
   },
   {
@@ -1975,24 +2204,37 @@
     "team": "Valencia",
     "gross/w": "€ 23,846",
     "gross/y": "€ 1,240,000",
+    "signed": "Jul 1, 2024",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 2,480,000",
     "release_clause": ""
   },
   {
-    "player_name": "Arnau Martínez",
+    "player_name": "Diego Rico",
+    "team": "Getafe",
+    "gross/w": "€ 23,846",
+    "gross/y": "€ 1,240,000",
+    "signed": "Jul 16, 2024",
+    "expiration": "Jun 30, 2026",
+    "gross_remaining": "€ 2,480,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Miguel Gutiérrez",
     "team": "Girona",
     "gross/w": "€ 23,846",
     "gross/y": "€ 1,240,000",
+    "signed": "Aug 5, 2022",
     "expiration": "Jun 30, 2027",
     "gross_remaining": "€ 3,720,000",
-    "release_clause": ""
+    "release_clause": "€ 35,000,000"
   },
   {
     "player_name": "Paulo Gazzaniga",
     "team": "Girona",
     "gross/w": "€ 23,846",
     "gross/y": "€ 1,240,000",
+    "signed": "Feb 14, 2024",
     "expiration": "Jun 30, 2027",
     "gross_remaining": "€ 3,720,000",
     "release_clause": ""
@@ -2002,17 +2244,39 @@
     "team": "Las Palmas",
     "gross/w": "€ 23,846",
     "gross/y": "€ 1,240,000",
+    "signed": "Jan 13, 2024",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 1,240,000",
     "release_clause": ""
   },
   {
-    "player_name": "Ladislav Krejci",
+    "player_name": "Arnau Martínez",
     "team": "Girona",
     "gross/w": "€ 23,846",
     "gross/y": "€ 1,240,000",
-    "expiration": "Jun 30, 2029",
-    "gross_remaining": "€ 6,200,000",
+    "signed": "Aug 13, 2024",
+    "expiration": "Jun 30, 2027",
+    "gross_remaining": "€ 3,720,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Umar Sadiq",
+    "team": "Valencia",
+    "gross/w": "€ 23,077",
+    "gross/y": "€ 1,200,000",
+    "signed": "Jan 4, 2025",
+    "expiration": "Jun 30, 2025",
+    "gross_remaining": "€ 1,200,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Omar Alderete",
+    "team": "Getafe",
+    "gross/w": "€ 23,077",
+    "gross/y": "€ 1,200,000",
+    "signed": "Jul 1, 2023",
+    "expiration": "Jun 30, 2028",
+    "gross_remaining": "€ 4,800,000",
     "release_clause": ""
   },
   {
@@ -2020,6 +2284,7 @@
     "team": "Real Betis",
     "gross/w": "€ 23,077",
     "gross/y": "€ 1,200,000",
+    "signed": "Feb 1, 2024",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 2,400,000",
     "release_clause": ""
@@ -2029,44 +2294,9 @@
     "team": "Espanyol",
     "gross/w": "€ 23,077",
     "gross/y": "€ 1,200,000",
+    "signed": "Aug 8, 2022",
     "expiration": "Jun 30, 2027",
     "gross_remaining": "€ 3,600,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Nahuel Molina",
-    "team": "Atletico Madrid",
-    "gross/w": "€ 23,077",
-    "gross/y": "€ 1,200,000",
-    "expiration": "Jun 30, 2027",
-    "gross_remaining": "€ 3,600,000",
-    "release_clause": "€ 100,000,000"
-  },
-  {
-    "player_name": "Isi Palazón",
-    "team": "Rayo Vallecano",
-    "gross/w": "€ 23,077",
-    "gross/y": "€ 1,200,000",
-    "expiration": "Jun 30, 2028",
-    "gross_remaining": "€ 4,800,000",
-    "release_clause": "€ 50,000,000"
-  },
-  {
-    "player_name": "Umar Sadiq",
-    "team": "Valencia",
-    "gross/w": "€ 23,077",
-    "gross/y": "€ 1,200,000",
-    "expiration": "Jun 30, 2025",
-    "gross_remaining": "€ 1,200,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Aitor Ruibal",
-    "team": "Real Betis",
-    "gross/w": "€ 23,077",
-    "gross/y": "€ 1,200,000",
-    "expiration": "Jun 30, 2028",
-    "gross_remaining": "€ 4,800,000",
     "release_clause": ""
   },
   {
@@ -2074,62 +2304,69 @@
     "team": "Girona",
     "gross/w": "€ 23,077",
     "gross/y": "€ 1,200,000",
+    "signed": "Jul 5, 2021",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 2,400,000",
     "release_clause": ""
   },
   {
-    "player_name": "Omar Alderete",
-    "team": "Getafe",
+    "player_name": "Aitor Ruibal",
+    "team": "Real Betis",
     "gross/w": "€ 23,077",
     "gross/y": "€ 1,200,000",
+    "signed": "Sep 11, 2024",
     "expiration": "Jun 30, 2028",
     "gross_remaining": "€ 4,800,000",
     "release_clause": ""
+  },
+  {
+    "player_name": "Nahuel Molina",
+    "team": "Atletico Madrid",
+    "gross/w": "€ 23,077",
+    "gross/y": "€ 1,200,000",
+    "signed": "Jul 28, 2022",
+    "expiration": "Jun 30, 2027",
+    "gross_remaining": "€ 3,600,000",
+    "release_clause": "€ 100,000,000"
   },
   {
     "player_name": "Franco Cervi",
     "team": "Celta Vigo",
     "gross/w": "€ 23,077",
     "gross/y": "€ 1,200,000",
+    "signed": "Jul 5, 2021",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 2,400,000",
     "release_clause": ""
+  },
+  {
+    "player_name": "Isi Palazón",
+    "team": "Rayo Vallecano",
+    "gross/w": "€ 23,077",
+    "gross/y": "€ 1,200,000",
+    "signed": "May 8, 2023",
+    "expiration": "Jun 30, 2028",
+    "gross_remaining": "€ 4,800,000",
+    "release_clause": "€ 50,000,000"
   },
   {
     "player_name": "Óscar Mingueza",
     "team": "Celta Vigo",
     "gross/w": "€ 22,115",
     "gross/y": "€ 1,150,000",
+    "signed": "Jul 30, 2022",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 2,300,000",
     "release_clause": ""
-  },
-  {
-    "player_name": "Pablo Barrios",
-    "team": "Atletico Madrid",
-    "gross/w": "€ 22,115",
-    "gross/y": "€ 1,150,000",
-    "expiration": "Jun 30, 2028",
-    "gross_remaining": "€ 4,600,000",
-    "release_clause": "€ 100,000,000"
   },
   {
     "player_name": "Javier Manquillo",
     "team": "Celta Vigo",
     "gross/w": "€ 21,923",
     "gross/y": "€ 1,140,000",
+    "signed": "Jan 21, 2024",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 1,140,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Adrià Pedrosa",
-    "team": "Sevilla",
-    "gross/w": "€ 21,154",
-    "gross/y": "€ 1,100,000",
-    "expiration": "Jun 30, 2028",
-    "gross_remaining": "€ 4,400,000",
     "release_clause": ""
   },
   {
@@ -2137,8 +2374,19 @@
     "team": "Celta Vigo",
     "gross/w": "€ 21,154",
     "gross/y": "€ 1,100,000",
+    "signed": "Aug 10, 2023",
     "expiration": "Jun 30, 2027",
     "gross_remaining": "€ 3,300,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Adrià Pedrosa",
+    "team": "Sevilla",
+    "gross/w": "€ 21,154",
+    "gross/y": "€ 1,100,000",
+    "signed": "Jul 1, 2023",
+    "expiration": "Jun 30, 2028",
+    "gross_remaining": "€ 4,400,000",
     "release_clause": ""
   },
   {
@@ -2146,17 +2394,9 @@
     "team": "Girona",
     "gross/w": "€ 21,154",
     "gross/y": "€ 1,100,000",
+    "signed": "Jul 14, 2023",
     "expiration": "Jun 30, 2027",
     "gross_remaining": "€ 3,300,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Iván Sánchez",
-    "team": "Valladolid",
-    "gross/w": "€ 20,769",
-    "gross/y": "€ 1,080,000",
-    "expiration": "Jun 30, 2025",
-    "gross_remaining": "€ 1,080,000",
     "release_clause": ""
   },
   {
@@ -2164,8 +2404,19 @@
     "team": "Getafe",
     "gross/w": "€ 20,769",
     "gross/y": "€ 1,080,000",
+    "signed": "Jul 11, 2022",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 2,160,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Iván Sánchez",
+    "team": "Valladolid",
+    "gross/w": "€ 20,769",
+    "gross/y": "€ 1,080,000",
+    "signed": "Jun 13, 2024",
+    "expiration": "Jun 30, 2025",
+    "gross_remaining": "€ 1,080,000",
     "release_clause": ""
   },
   {
@@ -2173,6 +2424,7 @@
     "team": "Celta Vigo",
     "gross/w": "€ 20,192",
     "gross/y": "€ 1,050,000",
+    "signed": "Sep 1, 2023",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 2,100,000",
     "release_clause": ""
@@ -2182,6 +2434,7 @@
     "team": "Leganes",
     "gross/w": "€ 20,000",
     "gross/y": "€ 1,040,000",
+    "signed": "Aug 12, 2024",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 2,080,000",
     "release_clause": ""
@@ -2191,6 +2444,7 @@
     "team": "Getafe",
     "gross/w": "€ 20,000",
     "gross/y": "€ 1,040,000",
+    "signed": "Jul 15, 2024",
     "expiration": "Jun 30, 2027",
     "gross_remaining": "€ 3,120,000",
     "release_clause": ""
@@ -2200,6 +2454,7 @@
     "team": "Athletic Club",
     "gross/w": "€ 20,000",
     "gross/y": "€ 1,040,000",
+    "signed": "Jun 27, 2024",
     "expiration": "Jun 30, 2031",
     "gross_remaining": "€ 7,280,000",
     "release_clause": ""
@@ -2209,6 +2464,7 @@
     "team": "Valladolid",
     "gross/w": "€ 20,000",
     "gross/y": "€ 1,040,000",
+    "signed": "Jul 10, 2024",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 1,040,000",
     "release_clause": ""
@@ -2218,6 +2474,7 @@
     "team": "Celta Vigo",
     "gross/w": "€ 20,000",
     "gross/y": "€ 1,040,000",
+    "signed": "Jan 11, 2024",
     "expiration": "Jun 30, 2027",
     "gross_remaining": "€ 3,120,000",
     "release_clause": ""
@@ -2227,6 +2484,7 @@
     "team": "Mallorca",
     "gross/w": "€ 20,000",
     "gross/y": "€ 1,040,000",
+    "signed": "Jul 23, 2024",
     "expiration": "Jun 30, 2027",
     "gross_remaining": "€ 3,120,000",
     "release_clause": ""
@@ -2236,6 +2494,7 @@
     "team": "Real Sociedad",
     "gross/w": "€ 20,000",
     "gross/y": "€ 1,040,000",
+    "signed": "Dec 27, 2024",
     "expiration": "Jun 30, 2030",
     "gross_remaining": "€ 6,240,000",
     "release_clause": ""
@@ -2245,6 +2504,7 @@
     "team": "Osasuna",
     "gross/w": "€ 20,000",
     "gross/y": "€ 1,040,000",
+    "signed": "Jun 9, 2022",
     "expiration": "Jun 30, 2027",
     "gross_remaining": "€ 3,120,000",
     "release_clause": ""
@@ -2254,6 +2514,7 @@
     "team": "Sevilla",
     "gross/w": "€ 20,000",
     "gross/y": "€ 1,040,000",
+    "signed": "Aug 6, 2024",
     "expiration": "Jun 30, 2028",
     "gross_remaining": "€ 4,160,000",
     "release_clause": ""
@@ -2263,6 +2524,7 @@
     "team": "Valencia",
     "gross/w": "€ 20,000",
     "gross/y": "€ 1,040,000",
+    "signed": "Aug 22, 2024",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 2,080,000",
     "release_clause": ""
@@ -2272,6 +2534,7 @@
     "team": "Real Sociedad",
     "gross/w": "€ 20,000",
     "gross/y": "€ 1,040,000",
+    "signed": "Aug 30, 2024",
     "expiration": "Jun 30, 2030",
     "gross_remaining": "€ 6,240,000",
     "release_clause": ""
@@ -2281,6 +2544,7 @@
     "team": "Valladolid",
     "gross/w": "€ 20,000",
     "gross/y": "€ 1,040,000",
+    "signed": "Jul 1, 2024",
     "expiration": "Jun 30, 2028",
     "gross_remaining": "€ 4,160,000",
     "release_clause": ""
@@ -2290,6 +2554,7 @@
     "team": "Villarreal",
     "gross/w": "€ 20,000",
     "gross/y": "€ 1,040,000",
+    "signed": "Jul 15, 2024",
     "expiration": "Jun 30, 2029",
     "gross_remaining": "€ 5,200,000",
     "release_clause": ""
@@ -2299,53 +2564,9 @@
     "team": "Girona",
     "gross/w": "€ 20,000",
     "gross/y": "€ 1,040,000",
+    "signed": "Aug 23, 2024",
     "expiration": "Jun 30, 2030",
     "gross_remaining": "€ 6,240,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Alejandro Catena",
-    "team": "Osasuna",
-    "gross/w": "€ 19,231",
-    "gross/y": "€ 1,000,000",
-    "expiration": "Jun 30, 2028",
-    "gross_remaining": "€ 4,000,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Jon Moncayola",
-    "team": "Osasuna",
-    "gross/w": "€ 19,231",
-    "gross/y": "€ 1,000,000",
-    "expiration": "Jun 30, 2031",
-    "gross_remaining": "€ 7,000,000",
-    "release_clause": "€ 22,000,000"
-  },
-  {
-    "player_name": "Iñigo Lekue",
-    "team": "Athletic Club",
-    "gross/w": "€ 19,231",
-    "gross/y": "€ 1,000,000",
-    "expiration": "Jun 30, 2025",
-    "gross_remaining": "€ 1,000,000",
-    "release_clause": "€ 45,000,000"
-  },
-  {
-    "player_name": "Kiko Femenía",
-    "team": "Villarreal",
-    "gross/w": "€ 19,231",
-    "gross/y": "€ 1,000,000",
-    "expiration": "Jun 30, 2025",
-    "gross_remaining": "€ 1,000,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Fernando Pacheco",
-    "team": "Espanyol",
-    "gross/w": "€ 19,231",
-    "gross/y": "€ 1,000,000",
-    "expiration": "Jun 30, 2026",
-    "gross_remaining": "€ 2,000,000",
     "release_clause": ""
   },
   {
@@ -2353,15 +2574,67 @@
     "team": "Alaves",
     "gross/w": "€ 19,231",
     "gross/y": "€ 1,000,000",
+    "signed": "Jul 23, 2024",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 1,000,000",
     "release_clause": ""
+  },
+  {
+    "player_name": "Alejandro Catena",
+    "team": "Osasuna",
+    "gross/w": "€ 19,231",
+    "gross/y": "€ 1,000,000",
+    "signed": "Jul 1, 2023",
+    "expiration": "Jun 30, 2028",
+    "gross_remaining": "€ 4,000,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Iñigo Lekue",
+    "team": "Athletic Club",
+    "gross/w": "€ 19,231",
+    "gross/y": "€ 1,000,000",
+    "signed": "Apr 23, 2023",
+    "expiration": "Jun 30, 2025",
+    "gross_remaining": "€ 1,000,000",
+    "release_clause": "€ 45,000,000"
+  },
+  {
+    "player_name": "Fernando Pacheco",
+    "team": "Espanyol",
+    "gross/w": "€ 19,231",
+    "gross/y": "€ 1,000,000",
+    "signed": "Jan 31, 2023",
+    "expiration": "Jun 30, 2026",
+    "gross_remaining": "€ 2,000,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Kiko Femenía",
+    "team": "Villarreal",
+    "gross/w": "€ 19,231",
+    "gross/y": "€ 1,000,000",
+    "signed": "Jul 28, 2022",
+    "expiration": "Jun 30, 2025",
+    "gross_remaining": "€ 1,000,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Jon Moncayola",
+    "team": "Osasuna",
+    "gross/w": "€ 19,231",
+    "gross/y": "€ 1,000,000",
+    "signed": "Jun 8, 2021",
+    "expiration": "Jun 30, 2031",
+    "gross_remaining": "€ 7,000,000",
+    "release_clause": "€ 22,000,000"
   },
   {
     "player_name": "Pablo Maffeo",
     "team": "Mallorca",
     "gross/w": "€ 18,846",
     "gross/y": "€ 980,000",
+    "signed": "Jun 10, 2022",
     "expiration": "Jun 30, 2027",
     "gross_remaining": "€ 2,940,000",
     "release_clause": ""
@@ -2371,8 +2644,19 @@
     "team": "Rayo Vallecano",
     "gross/w": "€ 18,462",
     "gross/y": "€ 960,000",
+    "signed": "Jul 26, 2024",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 960,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Sergio Herrera",
+    "team": "Osasuna",
+    "gross/w": "€ 18,269",
+    "gross/y": "€ 950,000",
+    "signed": "Dec 8, 2021",
+    "expiration": "Jun 30, 2026",
+    "gross_remaining": "€ 1,900,000",
     "release_clause": ""
   },
   {
@@ -2380,35 +2664,19 @@
     "team": "Osasuna",
     "gross/w": "€ 18,269",
     "gross/y": "€ 950,000",
+    "signed": "Sep 1, 2024",
     "expiration": "Jun 30, 2029",
     "gross_remaining": "€ 4,750,000",
     "release_clause": "€ 30,000,000"
-  },
-  {
-    "player_name": "Sergio Herrera",
-    "team": "Osasuna",
-    "gross/w": "€ 18,269",
-    "gross/y": "€ 950,000",
-    "expiration": "Jun 30, 2026",
-    "gross_remaining": "€ 1,900,000",
-    "release_clause": ""
   },
   {
     "player_name": "Hugo Álvarez",
     "team": "Celta Vigo",
     "gross/w": "€ 18,077",
     "gross/y": "€ 940,000",
+    "signed": "Nov 26, 2024",
     "expiration": "Jun 30, 2028",
     "gross_remaining": "€ 3,760,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Raúl Albiol",
-    "team": "Villarreal",
-    "gross/w": "€ 18,077",
-    "gross/y": "€ 940,000",
-    "expiration": "Jun 30, 2025",
-    "gross_remaining": "€ 940,000",
     "release_clause": ""
   },
   {
@@ -2416,6 +2684,17 @@
     "team": "Espanyol",
     "gross/w": "€ 18,077",
     "gross/y": "€ 940,000",
+    "signed": "Sep 11, 2023",
+    "expiration": "Jun 30, 2025",
+    "gross_remaining": "€ 940,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Raúl Albiol",
+    "team": "Villarreal",
+    "gross/w": "€ 18,077",
+    "gross/y": "€ 940,000",
+    "signed": "Jul 11, 2024",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 940,000",
     "release_clause": ""
@@ -2425,6 +2704,7 @@
     "team": "Celta Vigo",
     "gross/w": "€ 17,885",
     "gross/y": "€ 930,000",
+    "signed": "Jan 1, 2024",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 930,000",
     "release_clause": ""
@@ -2434,26 +2714,9 @@
     "team": "Villarreal",
     "gross/w": "€ 17,692",
     "gross/y": "€ 920,000",
+    "signed": "Aug 21, 2024",
     "expiration": "Jun 30, 2029",
     "gross_remaining": "€ 4,600,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Ander Guevara",
-    "team": "Alaves",
-    "gross/w": "€ 17,308",
-    "gross/y": "€ 900,000",
-    "expiration": "Jun 30, 2027",
-    "gross_remaining": "€ 2,700,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Mamadou Sylla",
-    "team": "Valladolid",
-    "gross/w": "€ 17,308",
-    "gross/y": "€ 900,000",
-    "expiration": "Jun 30, 2026",
-    "gross_remaining": "€ 1,800,000",
     "release_clause": ""
   },
   {
@@ -2461,17 +2724,29 @@
     "team": "Osasuna",
     "gross/w": "€ 17,308",
     "gross/y": "€ 900,000",
+    "signed": "Jul 28, 2022",
     "expiration": "Jun 30, 2027",
     "gross_remaining": "€ 2,700,000",
     "release_clause": "€ 20,000,000"
   },
   {
-    "player_name": "Antonio Raíllo",
-    "team": "Mallorca",
-    "gross/w": "€ 16,923",
-    "gross/y": "€ 880,000",
+    "player_name": "Mamadou Sylla",
+    "team": "Valladolid",
+    "gross/w": "€ 17,308",
+    "gross/y": "€ 900,000",
+    "signed": "May 27, 2024",
     "expiration": "Jun 30, 2026",
-    "gross_remaining": "€ 1,760,000",
+    "gross_remaining": "€ 1,800,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Ander Guevara",
+    "team": "Alaves",
+    "gross/w": "€ 17,308",
+    "gross/y": "€ 900,000",
+    "signed": "Jul 9, 2023",
+    "expiration": "Jun 30, 2027",
+    "gross_remaining": "€ 2,700,000",
     "release_clause": ""
   },
   {
@@ -2479,6 +2754,7 @@
     "team": "Rayo Vallecano",
     "gross/w": "€ 16,923",
     "gross/y": "€ 880,000",
+    "signed": "Sep 13, 2023",
     "expiration": "Jun 30, 2027",
     "gross_remaining": "€ 2,640,000",
     "release_clause": ""
@@ -2488,8 +2764,19 @@
     "team": "Alaves",
     "gross/w": "€ 16,923",
     "gross/y": "€ 880,000",
+    "signed": "Dec 13, 2023",
     "expiration": "Jun 30, 2027",
     "gross_remaining": "€ 2,640,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Antonio Raíllo",
+    "team": "Mallorca",
+    "gross/w": "€ 16,923",
+    "gross/y": "€ 880,000",
+    "signed": "Apr 28, 2023",
+    "expiration": "Jun 30, 2026",
+    "gross_remaining": "€ 1,760,000",
     "release_clause": ""
   },
   {
@@ -2497,6 +2784,7 @@
     "team": "Real Sociedad",
     "gross/w": "€ 16,538",
     "gross/y": "€ 860,000",
+    "signed": "Nov 3, 2023",
     "expiration": "Jun 30, 2027",
     "gross_remaining": "€ 2,580,000",
     "release_clause": "€ 50,000,000"
@@ -2506,53 +2794,19 @@
     "team": "Real Betis",
     "gross/w": "€ 16,346",
     "gross/y": "€ 850,000",
+    "signed": "Jul 1, 2021",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 1,700,000",
     "release_clause": ""
   },
   {
-    "player_name": "Takuma Asano",
+    "player_name": "Antonio Sánchez",
     "team": "Mallorca",
     "gross/w": "€ 16,154",
     "gross/y": "€ 840,000",
-    "expiration": "Jun 30, 2026",
-    "gross_remaining": "€ 1,680,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Javi Hernández",
-    "team": "Leganes",
-    "gross/w": "€ 16,154",
-    "gross/y": "€ 840,000",
+    "signed": "Mar 27, 2024",
     "expiration": "Jun 30, 2027",
     "gross_remaining": "€ 2,520,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Adrián",
-    "team": "Real Betis",
-    "gross/w": "€ 16,154",
-    "gross/y": "€ 840,000",
-    "expiration": "Jun 30, 2026",
-    "gross_remaining": "€ 1,680,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Jasper Cillessen",
-    "team": "Las Palmas",
-    "gross/w": "€ 16,154",
-    "gross/y": "€ 840,000",
-    "expiration": "Jun 30, 2026",
-    "gross_remaining": "€ 1,680,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Diego Conde",
-    "team": "Villarreal",
-    "gross/w": "€ 16,154",
-    "gross/y": "€ 840,000",
-    "expiration": "Jun 30, 2029",
-    "gross_remaining": "€ 4,200,000",
     "release_clause": ""
   },
   {
@@ -2560,6 +2814,7 @@
     "team": "Barcelona",
     "gross/w": "€ 16,154",
     "gross/y": "€ 840,000",
+    "signed": "Jul 1, 2024",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 1,680,000",
     "release_clause": ""
@@ -2569,42 +2824,17 @@
     "team": "Osasuna",
     "gross/w": "€ 16,154",
     "gross/y": "€ 840,000",
+    "signed": "Nov 25, 2024",
     "expiration": "Jun 30, 2027",
     "gross_remaining": "€ 2,520,000",
     "release_clause": "€ 14,000,000"
   },
   {
-    "player_name": "Antonio Sánchez",
+    "player_name": "Takuma Asano",
     "team": "Mallorca",
     "gross/w": "€ 16,154",
     "gross/y": "€ 840,000",
-    "expiration": "Jun 30, 2027",
-    "gross_remaining": "€ 2,520,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Tomás Conechny",
-    "team": "Alaves",
-    "gross/w": "€ 16,154",
-    "gross/y": "€ 840,000",
-    "expiration": "Jun 30, 2028",
-    "gross_remaining": "€ 3,360,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Juanmi Latasa",
-    "team": "Valladolid",
-    "gross/w": "€ 16,154",
-    "gross/y": "€ 840,000",
-    "expiration": "Jun 30, 2029",
-    "gross_remaining": "€ 4,200,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Dani Rodríguez",
-    "team": "Mallorca",
-    "gross/w": "€ 16,154",
-    "gross/y": "€ 840,000",
+    "signed": "Jul 6, 2024",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 1,680,000",
     "release_clause": ""
@@ -2614,8 +2844,49 @@
     "team": "Leganes",
     "gross/w": "€ 16,154",
     "gross/y": "€ 840,000",
+    "signed": "Jul 10, 2024",
     "expiration": "Jun 30, 2027",
     "gross_remaining": "€ 2,520,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Tomás Conechny",
+    "team": "Alaves",
+    "gross/w": "€ 16,154",
+    "gross/y": "€ 840,000",
+    "signed": "Jul 5, 2024",
+    "expiration": "Jun 30, 2028",
+    "gross_remaining": "€ 3,360,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Diego Conde",
+    "team": "Villarreal",
+    "gross/w": "€ 16,154",
+    "gross/y": "€ 840,000",
+    "signed": "Jul 2, 2024",
+    "expiration": "Jun 30, 2029",
+    "gross_remaining": "€ 4,200,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Juanmi Latasa",
+    "team": "Valladolid",
+    "gross/w": "€ 16,154",
+    "gross/y": "€ 840,000",
+    "signed": "Aug 14, 2024",
+    "expiration": "Jun 30, 2029",
+    "gross_remaining": "€ 4,200,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Dani Rodríguez",
+    "team": "Mallorca",
+    "gross/w": "€ 16,154",
+    "gross/y": "€ 840,000",
+    "signed": "Feb 3, 2025",
+    "expiration": "Jun 30, 2026",
+    "gross_remaining": "€ 1,680,000",
     "release_clause": ""
   },
   {
@@ -2623,8 +2894,29 @@
     "team": "Mallorca",
     "gross/w": "€ 16,154",
     "gross/y": "€ 840,000",
+    "signed": "Aug 3, 2023",
     "expiration": "Jun 30, 2028",
     "gross_remaining": "€ 3,360,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Javi Hernández",
+    "team": "Leganes",
+    "gross/w": "€ 16,154",
+    "gross/y": "€ 840,000",
+    "signed": "Sep 17, 2024",
+    "expiration": "Jun 30, 2027",
+    "gross_remaining": "€ 2,520,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Adrián",
+    "team": "Real Betis",
+    "gross/w": "€ 16,154",
+    "gross/y": "€ 840,000",
+    "signed": "Jul 8, 2024",
+    "expiration": "Jun 30, 2026",
+    "gross_remaining": "€ 1,680,000",
     "release_clause": ""
   },
   {
@@ -2632,8 +2924,19 @@
     "team": "Osasuna",
     "gross/w": "€ 16,154",
     "gross/y": "€ 840,000",
+    "signed": "Jul 1, 2022",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 840,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Jasper Cillessen",
+    "team": "Las Palmas",
+    "gross/w": "€ 16,154",
+    "gross/y": "€ 840,000",
+    "signed": "Jul 1, 2024",
+    "expiration": "Jun 30, 2026",
+    "gross_remaining": "€ 1,680,000",
     "release_clause": ""
   },
   {
@@ -2641,6 +2944,7 @@
     "team": "Las Palmas",
     "gross/w": "€ 15,962",
     "gross/y": "€ 830,000",
+    "signed": "Feb 14, 2024",
     "expiration": "Jun 30, 2028",
     "gross_remaining": "€ 3,320,000",
     "release_clause": ""
@@ -2650,6 +2954,7 @@
     "team": "Las Palmas",
     "gross/w": "€ 15,962",
     "gross/y": "€ 830,000",
+    "signed": "May 28, 2024",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 830,000",
     "release_clause": ""
@@ -2659,8 +2964,19 @@
     "team": "Mallorca",
     "gross/w": "€ 15,769",
     "gross/y": "€ 820,000",
+    "signed": "Jul 1, 2023",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 1,640,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Abde Ezzalzouli",
+    "team": "Real Betis",
+    "gross/w": "€ 15,385",
+    "gross/y": "€ 800,000",
+    "signed": "Oct 30, 2024",
+    "expiration": "Jun 30, 2029",
+    "gross_remaining": "€ 4,000,000",
     "release_clause": ""
   },
   {
@@ -2668,6 +2984,7 @@
     "team": "Atletico Madrid",
     "gross/w": "€ 15,385",
     "gross/y": "€ 800,000",
+    "signed": "Jan 31, 2022",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 800,000",
     "release_clause": ""
@@ -2677,6 +2994,7 @@
     "team": "Valencia",
     "gross/w": "€ 15,385",
     "gross/y": "€ 800,000",
+    "signed": "Apr 10, 2024",
     "expiration": "Jun 30, 2027",
     "gross_remaining": "€ 2,400,000",
     "release_clause": "€ 100,000,000"
@@ -2686,17 +3004,9 @@
     "team": "Rayo Vallecano",
     "gross/w": "€ 15,385",
     "gross/y": "€ 800,000",
+    "signed": "Aug 17, 2023",
     "expiration": "Jun 30, 2028",
     "gross_remaining": "€ 3,200,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Abde Ezzalzouli",
-    "team": "Real Betis",
-    "gross/w": "€ 15,385",
-    "gross/y": "€ 800,000",
-    "expiration": "Jun 30, 2029",
-    "gross_remaining": "€ 4,000,000",
     "release_clause": ""
   },
   {
@@ -2704,6 +3014,7 @@
     "team": "Rayo Vallecano",
     "gross/w": "€ 15,000",
     "gross/y": "€ 780,000",
+    "signed": "Aug 23, 2024",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 780,000",
     "release_clause": ""
@@ -2713,6 +3024,7 @@
     "team": "Getafe",
     "gross/w": "€ 15,000",
     "gross/y": "€ 780,000",
+    "signed": "Jul 25, 2022",
     "expiration": "Jun 30, 2027",
     "gross_remaining": "€ 2,340,000",
     "release_clause": ""
@@ -2722,6 +3034,7 @@
     "team": "Athletic Club",
     "gross/w": "€ 14,615",
     "gross/y": "€ 760,000",
+    "signed": "Jul 1, 2023",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 760,000",
     "release_clause": ""
@@ -2731,17 +3044,9 @@
     "team": "Real Sociedad",
     "gross/w": "€ 14,423",
     "gross/y": "€ 750,000",
+    "signed": "Aug 19, 2023",
     "expiration": "Jun 30, 2029",
     "gross_remaining": "€ 3,750,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Julen Agirrezabala",
-    "team": "Athletic Club",
-    "gross/w": "€ 14,038",
-    "gross/y": "€ 730,000",
-    "expiration": "Jun 30, 2027",
-    "gross_remaining": "€ 2,190,000",
     "release_clause": ""
   },
   {
@@ -2749,6 +3054,7 @@
     "team": "Sevilla",
     "gross/w": "€ 14,038",
     "gross/y": "€ 730,000",
+    "signed": "May 23, 2024",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 1,460,000",
     "release_clause": ""
@@ -2758,51 +3064,27 @@
     "team": "Alaves",
     "gross/w": "€ 14,038",
     "gross/y": "€ 730,000",
+    "signed": "Dec 15, 2023",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 730,000",
     "release_clause": ""
   },
   {
-    "player_name": "Álvaro Fernández",
-    "team": "Sevilla",
-    "gross/w": "€ 13,846",
-    "gross/y": "€ 720,000",
-    "expiration": "Jun 30, 2025",
-    "gross_remaining": "€ 720,000",
+    "player_name": "Julen Agirrezabala",
+    "team": "Athletic Club",
+    "gross/w": "€ 14,038",
+    "gross/y": "€ 730,000",
+    "signed": "May 31, 2024",
+    "expiration": "Jun 30, 2027",
+    "gross_remaining": "€ 2,190,000",
     "release_clause": ""
   },
   {
-    "player_name": "Pedro Díaz",
-    "team": "Rayo Vallecano",
+    "player_name": "Robert Navarro",
+    "team": "Mallorca",
     "gross/w": "€ 13,846",
     "gross/y": "€ 720,000",
-    "expiration": "Jun 30, 2028",
-    "gross_remaining": "€ 2,880,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Javi Muñoz",
-    "team": "Las Palmas",
-    "gross/w": "€ 13,846",
-    "gross/y": "€ 720,000",
-    "expiration": "Jun 30, 2025",
-    "gross_remaining": "€ 720,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Javi López",
-    "team": "Real Sociedad",
-    "gross/w": "€ 13,846",
-    "gross/y": "€ 720,000",
-    "expiration": "Jun 30, 2030",
-    "gross_remaining": "€ 4,320,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Iván Jaime",
-    "team": "Valencia",
-    "gross/w": "€ 13,846",
-    "gross/y": "€ 720,000",
+    "signed": "Aug 29, 2024",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 720,000",
     "release_clause": ""
@@ -2812,6 +3094,7 @@
     "team": "Osasuna",
     "gross/w": "€ 13,846",
     "gross/y": "€ 720,000",
+    "signed": "Jul 5, 2024",
     "expiration": "Jun 30, 2029",
     "gross_remaining": "€ 3,600,000",
     "release_clause": ""
@@ -2821,8 +3104,39 @@
     "team": "Espanyol",
     "gross/w": "€ 13,846",
     "gross/y": "€ 720,000",
+    "signed": "Nov 14, 2024",
     "expiration": "Jun 30, 2029",
     "gross_remaining": "€ 3,600,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Álvaro Fernández",
+    "team": "Sevilla",
+    "gross/w": "€ 13,846",
+    "gross/y": "€ 720,000",
+    "signed": "Aug 12, 2024",
+    "expiration": "Jun 30, 2025",
+    "gross_remaining": "€ 720,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Javi López",
+    "team": "Real Sociedad",
+    "gross/w": "€ 13,846",
+    "gross/y": "€ 720,000",
+    "signed": "Jul 21, 2024",
+    "expiration": "Jun 30, 2030",
+    "gross_remaining": "€ 4,320,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Javi Muñoz",
+    "team": "Las Palmas",
+    "gross/w": "€ 13,846",
+    "gross/y": "€ 720,000",
+    "signed": "Jul 1, 2023",
+    "expiration": "Jun 30, 2025",
+    "gross_remaining": "€ 720,000",
     "release_clause": ""
   },
   {
@@ -2830,33 +3144,17 @@
     "team": "Valladolid",
     "gross/w": "€ 13,846",
     "gross/y": "€ 720,000",
+    "signed": "Jul 1, 2024",
     "expiration": "Jun 30, 2027",
     "gross_remaining": "€ 2,160,000",
     "release_clause": ""
   },
   {
-    "player_name": "Asier Villalibre",
-    "team": "Alaves",
+    "player_name": "Pedro Díaz",
+    "team": "Rayo Vallecano",
     "gross/w": "€ 13,846",
     "gross/y": "€ 720,000",
-    "expiration": "Jun 30, 2028",
-    "gross_remaining": "€ 2,880,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Robert Navarro",
-    "team": "Mallorca",
-    "gross/w": "€ 13,846",
-    "gross/y": "€ 720,000",
-    "expiration": "Jun 30, 2025",
-    "gross_remaining": "€ 720,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Bojan Miovski",
-    "team": "Girona",
-    "gross/w": "€ 13,846",
-    "gross/y": "€ 720,000",
+    "signed": "Aug 5, 2024",
     "expiration": "Jun 30, 2028",
     "gross_remaining": "€ 2,880,000",
     "release_clause": ""
@@ -2866,8 +3164,39 @@
     "team": "Rayo Vallecano",
     "gross/w": "€ 13,846",
     "gross/y": "€ 720,000",
+    "signed": "Feb 13, 2025",
     "expiration": "Jun 30, 2028",
     "gross_remaining": "€ 2,880,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Bojan Miovski",
+    "team": "Girona",
+    "gross/w": "€ 13,846",
+    "gross/y": "€ 720,000",
+    "signed": "Aug 15, 2024",
+    "expiration": "Jun 30, 2028",
+    "gross_remaining": "€ 2,880,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Asier Villalibre",
+    "team": "Alaves",
+    "gross/w": "€ 13,846",
+    "gross/y": "€ 720,000",
+    "signed": "Jul 15, 2024",
+    "expiration": "Jun 30, 2028",
+    "gross_remaining": "€ 2,880,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Iván Jaime",
+    "team": "Valencia",
+    "gross/w": "€ 13,846",
+    "gross/y": "€ 720,000",
+    "signed": "Feb 3, 2025",
+    "expiration": "Jun 30, 2025",
+    "gross_remaining": "€ 720,000",
     "release_clause": ""
   },
   {
@@ -2875,6 +3204,7 @@
     "team": "Mallorca",
     "gross/w": "€ 13,462",
     "gross/y": "€ 700,000",
+    "signed": "Aug 10, 2023",
     "expiration": "Jun 30, 2028",
     "gross_remaining": "€ 2,800,000",
     "release_clause": ""
@@ -2884,6 +3214,7 @@
     "team": "Osasuna",
     "gross/w": "€ 13,077",
     "gross/y": "€ 680,000",
+    "signed": "Jul 1, 2023",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 680,000",
     "release_clause": ""
@@ -2893,17 +3224,9 @@
     "team": "Valladolid",
     "gross/w": "€ 12,692",
     "gross/y": "€ 660,000",
+    "signed": "Sep 26, 2022",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 1,320,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Gerard Gumbau",
-    "team": "Rayo Vallecano",
-    "gross/w": "€ 12,500",
-    "gross/y": "€ 650,000",
-    "expiration": "Jun 30, 2025",
-    "gross_remaining": "€ 650,000",
     "release_clause": ""
   },
   {
@@ -2911,6 +3234,7 @@
     "team": "Rayo Vallecano",
     "gross/w": "€ 12,500",
     "gross/y": "€ 650,000",
+    "signed": "Aug 17, 2023",
     "expiration": "Jun 30, 2027",
     "gross_remaining": "€ 1,950,000",
     "release_clause": ""
@@ -2920,15 +3244,27 @@
     "team": "Alaves",
     "gross/w": "€ 12,500",
     "gross/y": "€ 650,000",
+    "signed": "Aug 13, 2023",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 650,000",
     "release_clause": ""
   },
   {
-    "player_name": "Alex Suárez",
+    "player_name": "Gerard Gumbau",
+    "team": "Rayo Vallecano",
+    "gross/w": "€ 12,500",
+    "gross/y": "€ 650,000",
+    "signed": "Jul 15, 2024",
+    "expiration": "Jun 30, 2025",
+    "gross_remaining": "€ 650,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Marc Cardona",
     "team": "Las Palmas",
     "gross/w": "€ 12,115",
     "gross/y": "€ 630,000",
+    "signed": "Jun 20, 2023",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 1,260,000",
     "release_clause": ""
@@ -2938,6 +3274,7 @@
     "team": "Real Sociedad",
     "gross/w": "€ 12,115",
     "gross/y": "€ 630,000",
+    "signed": "Nov 30, 2024",
     "expiration": "Jun 30, 2028",
     "gross_remaining": "€ 2,520,000",
     "release_clause": ""
@@ -2947,6 +3284,7 @@
     "team": "Alaves",
     "gross/w": "€ 12,115",
     "gross/y": "€ 630,000",
+    "signed": "Feb 3, 2025",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 630,000",
     "release_clause": ""
@@ -2956,96 +3294,37 @@
     "team": "Las Palmas",
     "gross/w": "€ 12,115",
     "gross/y": "€ 630,000",
+    "signed": "Jul 16, 2024",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 1,260,000",
     "release_clause": ""
   },
   {
-    "player_name": "Marc Cardona",
+    "player_name": "Alex Suárez",
     "team": "Las Palmas",
     "gross/w": "€ 12,115",
     "gross/y": "€ 630,000",
+    "signed": "Feb 13, 2024",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 1,260,000",
     "release_clause": ""
-  },
-  {
-    "player_name": "Karl Hein",
-    "team": "Valladolid",
-    "gross/w": "€ 11,923",
-    "gross/y": "€ 620,000",
-    "expiration": "Jun 30, 2025",
-    "gross_remaining": "€ 620,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Allan Nyom",
-    "team": "Getafe",
-    "gross/w": "€ 11,923",
-    "gross/y": "€ 620,000",
-    "expiration": "Jun 30, 2025",
-    "gross_remaining": "€ 620,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Fran Pérez",
-    "team": "Valencia",
-    "gross/w": "€ 11,923",
-    "gross/y": "€ 620,000",
-    "expiration": "Jun 30, 2026",
-    "gross_remaining": "€ 1,240,000",
-    "release_clause": "€ 80,000,000"
   },
   {
     "player_name": "Williot Swedberg",
     "team": "Celta Vigo",
     "gross/w": "€ 11,923",
     "gross/y": "€ 620,000",
+    "signed": "Jul 1, 2022",
     "expiration": "Jun 30, 2027",
     "gross_remaining": "€ 1,860,000",
     "release_clause": ""
   },
   {
-    "player_name": "Maroan Sannadi",
-    "team": "Athletic Club",
+    "player_name": "Javi Rodríguez",
+    "team": "Celta Vigo",
     "gross/w": "€ 11,923",
     "gross/y": "€ 620,000",
-    "expiration": "Jun 30, 2029",
-    "gross_remaining": "€ 3,100,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Jesús Vázquez",
-    "team": "Valencia",
-    "gross/w": "€ 11,923",
-    "gross/y": "€ 620,000",
-    "expiration": "Jun 30, 2026",
-    "gross_remaining": "€ 1,240,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Iván Balliu",
-    "team": "Rayo Vallecano",
-    "gross/w": "€ 11,923",
-    "gross/y": "€ 620,000",
-    "expiration": "Jun 30, 2027",
-    "gross_remaining": "€ 1,860,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Álex Muñoz",
-    "team": "Las Palmas",
-    "gross/w": "€ 11,923",
-    "gross/y": "€ 620,000",
-    "expiration": "Jun 30, 2026",
-    "gross_remaining": "€ 1,240,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Rodrigo Riquelme",
-    "team": "Atletico Madrid",
-    "gross/w": "€ 11,923",
-    "gross/y": "€ 620,000",
+    "signed": "Oct 22, 2024",
     "expiration": "Jun 30, 2028",
     "gross_remaining": "€ 2,480,000",
     "release_clause": ""
@@ -3055,17 +3334,9 @@
     "team": "Leganes",
     "gross/w": "€ 11,923",
     "gross/y": "€ 620,000",
+    "signed": "Aug 30, 2024",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 1,240,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Juan Soriano",
-    "team": "Leganes",
-    "gross/w": "€ 11,923",
-    "gross/y": "€ 620,000",
-    "expiration": "Jun 30, 2027",
-    "gross_remaining": "€ 1,860,000",
     "release_clause": ""
   },
   {
@@ -3073,24 +3344,17 @@
     "team": "Espanyol",
     "gross/w": "€ 11,923",
     "gross/y": "€ 620,000",
+    "signed": "Sep 1, 2023",
     "expiration": "Jun 30, 2027",
     "gross_remaining": "€ 1,860,000",
     "release_clause": ""
   },
   {
-    "player_name": "Alberto Moleiro",
-    "team": "Las Palmas",
+    "player_name": "Peque Fernández",
+    "team": "Sevilla",
     "gross/w": "€ 11,923",
     "gross/y": "€ 620,000",
-    "expiration": "Jun 30, 2026",
-    "gross_remaining": "€ 1,240,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Javi Rodríguez",
-    "team": "Celta Vigo",
-    "gross/w": "€ 11,923",
-    "gross/y": "€ 620,000",
+    "signed": "Jul 11, 2024",
     "expiration": "Jun 30, 2028",
     "gross_remaining": "€ 2,480,000",
     "release_clause": ""
@@ -3100,8 +3364,79 @@
     "team": "Valencia",
     "gross/w": "€ 11,923",
     "gross/y": "€ 620,000",
+    "signed": "Feb 26, 2025",
     "expiration": "Jun 30, 2027",
     "gross_remaining": "€ 1,860,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Jesús Vázquez",
+    "team": "Valencia",
+    "gross/w": "€ 11,923",
+    "gross/y": "€ 620,000",
+    "signed": "Jun 21, 2024",
+    "expiration": "Jun 30, 2026",
+    "gross_remaining": "€ 1,240,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Fran Pérez",
+    "team": "Valencia",
+    "gross/w": "€ 11,923",
+    "gross/y": "€ 620,000",
+    "signed": "Sep 5, 2023",
+    "expiration": "Jun 30, 2026",
+    "gross_remaining": "€ 1,240,000",
+    "release_clause": "€ 80,000,000"
+  },
+  {
+    "player_name": "Rodrigo Riquelme",
+    "team": "Atletico Madrid",
+    "gross/w": "€ 11,923",
+    "gross/y": "€ 620,000",
+    "signed": "Aug 1, 2022",
+    "expiration": "Jun 30, 2028",
+    "gross_remaining": "€ 2,480,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Maroan Sannadi",
+    "team": "Athletic Club",
+    "gross/w": "€ 11,923",
+    "gross/y": "€ 620,000",
+    "signed": "Feb 1, 2025",
+    "expiration": "Jun 30, 2029",
+    "gross_remaining": "€ 3,100,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Juan Soriano",
+    "team": "Leganes",
+    "gross/w": "€ 11,923",
+    "gross/y": "€ 620,000",
+    "signed": "Jul 2, 2024",
+    "expiration": "Jun 30, 2027",
+    "gross_remaining": "€ 1,860,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Álex Muñoz",
+    "team": "Las Palmas",
+    "gross/w": "€ 11,923",
+    "gross/y": "€ 620,000",
+    "signed": "Jul 1, 2024",
+    "expiration": "Jun 30, 2026",
+    "gross_remaining": "€ 1,240,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Karl Hein",
+    "team": "Valladolid",
+    "gross/w": "€ 11,923",
+    "gross/y": "€ 620,000",
+    "signed": "Aug 13, 2024",
+    "expiration": "Jun 30, 2025",
+    "gross_remaining": "€ 620,000",
     "release_clause": ""
   },
   {
@@ -3109,35 +3444,49 @@
     "team": "Espanyol",
     "gross/w": "€ 11,923",
     "gross/y": "€ 620,000",
+    "signed": "Jul 9, 2024",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 620,000",
     "release_clause": ""
   },
   {
-    "player_name": "Peque Fernández",
-    "team": "Sevilla",
+    "player_name": "Iván Balliu",
+    "team": "Rayo Vallecano",
     "gross/w": "€ 11,923",
     "gross/y": "€ 620,000",
-    "expiration": "Jun 30, 2028",
-    "gross_remaining": "€ 2,480,000",
+    "signed": "Feb 27, 2025",
+    "expiration": "Jun 30, 2027",
+    "gross_remaining": "€ 1,860,000",
     "release_clause": ""
   },
   {
-    "player_name": "Juanpe",
-    "team": "Girona",
+    "player_name": "Allan Nyom",
+    "team": "Getafe",
+    "gross/w": "€ 11,923",
+    "gross/y": "€ 620,000",
+    "signed": "Oct 8, 2024",
+    "expiration": "Jun 30, 2025",
+    "gross_remaining": "€ 620,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Alberto Moleiro",
+    "team": "Las Palmas",
+    "gross/w": "€ 11,923",
+    "gross/y": "€ 620,000",
+    "signed": "Jul 4, 2022",
+    "expiration": "Jun 30, 2026",
+    "gross_remaining": "€ 1,240,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Sergio Carreira",
+    "team": "Celta Vigo",
     "gross/w": "€ 11,538",
     "gross/y": "€ 600,000",
+    "signed": "Jul 1, 2021",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 600,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Ilias Akhomach",
-    "team": "Villarreal",
-    "gross/w": "€ 11,538",
-    "gross/y": "€ 600,000",
-    "expiration": "Jun 30, 2026",
-    "gross_remaining": "€ 1,200,000",
     "release_clause": ""
   },
   {
@@ -3145,6 +3494,7 @@
     "team": "Valencia",
     "gross/w": "€ 11,538",
     "gross/y": "€ 600,000",
+    "signed": "Aug 25, 2022",
     "expiration": "Jun 30, 2028",
     "gross_remaining": "€ 2,400,000",
     "release_clause": ""
@@ -3154,8 +3504,19 @@
     "team": "Osasuna",
     "gross/w": "€ 11,538",
     "gross/y": "€ 600,000",
+    "signed": "Aug 10, 2023",
     "expiration": "Jun 30, 2028",
     "gross_remaining": "€ 2,400,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Juanpe",
+    "team": "Girona",
+    "gross/w": "€ 11,538",
+    "gross/y": "€ 600,000",
+    "signed": "Jun 19, 2024",
+    "expiration": "Jun 30, 2025",
+    "gross_remaining": "€ 600,000",
     "release_clause": ""
   },
   {
@@ -3163,8 +3524,19 @@
     "team": "Getafe",
     "gross/w": "€ 11,538",
     "gross/y": "€ 600,000",
+    "signed": "Aug 23, 2024",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 600,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Ilias Akhomach",
+    "team": "Villarreal",
+    "gross/w": "€ 11,538",
+    "gross/y": "€ 600,000",
+    "signed": "Jul 3, 2023",
+    "expiration": "Jun 30, 2026",
+    "gross_remaining": "€ 1,200,000",
     "release_clause": ""
   },
   {
@@ -3172,15 +3544,7 @@
     "team": "Mallorca",
     "gross/w": "€ 11,538",
     "gross/y": "€ 600,000",
-    "expiration": "Jun 30, 2025",
-    "gross_remaining": "€ 600,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Sergio Carreira",
-    "team": "Celta Vigo",
-    "gross/w": "€ 11,538",
-    "gross/y": "€ 600,000",
+    "signed": "Aug 30, 2024",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 600,000",
     "release_clause": ""
@@ -3190,6 +3554,7 @@
     "team": "Valladolid",
     "gross/w": "€ 11,346",
     "gross/y": "€ 590,000",
+    "signed": "Aug 29, 2024",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 590,000",
     "release_clause": ""
@@ -3199,6 +3564,7 @@
     "team": "Rayo Vallecano",
     "gross/w": "€ 11,154",
     "gross/y": "€ 580,000",
+    "signed": "Jul 17, 2023",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 1,160,000",
     "release_clause": ""
@@ -3208,6 +3574,7 @@
     "team": "Espanyol",
     "gross/w": "€ 10,385",
     "gross/y": "€ 540,000",
+    "signed": "Jul 1, 2022",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 540,000",
     "release_clause": ""
@@ -3217,6 +3584,7 @@
     "team": "Rayo Vallecano",
     "gross/w": "€ 10,385",
     "gross/y": "€ 540,000",
+    "signed": "Jul 1, 2024",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 1,080,000",
     "release_clause": ""
@@ -3226,6 +3594,7 @@
     "team": "Osasuna",
     "gross/w": "€ 10,192",
     "gross/y": "€ 530,000",
+    "signed": "Sep 5, 2023",
     "expiration": "Jun 30, 2027",
     "gross_remaining": "€ 1,590,000",
     "release_clause": ""
@@ -3235,141 +3604,17 @@
     "team": "Osasuna",
     "gross/w": "€ 10,192",
     "gross/y": "€ 530,000",
+    "signed": "Dec 7, 2022",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 530,000",
     "release_clause": "€ 20,000,000"
-  },
-  {
-    "player_name": "Manu Fuster",
-    "team": "Las Palmas",
-    "gross/w": "€ 10,000",
-    "gross/y": "€ 520,000",
-    "expiration": "Jun 30, 2028",
-    "gross_remaining": "€ 2,080,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Juan Berrocal",
-    "team": "Getafe",
-    "gross/w": "€ 10,000",
-    "gross/y": "€ 520,000",
-    "expiration": "Jun 30, 2027",
-    "gross_remaining": "€ 1,560,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Juan Cruz",
-    "team": "Leganes",
-    "gross/w": "€ 10,000",
-    "gross/y": "€ 520,000",
-    "expiration": "Jun 30, 2028",
-    "gross_remaining": "€ 2,080,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Luis Pérez",
-    "team": "Valladolid",
-    "gross/w": "€ 10,000",
-    "gross/y": "€ 520,000",
-    "expiration": "Jun 30, 2025",
-    "gross_remaining": "€ 520,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Hugo Sotelo",
-    "team": "Celta Vigo",
-    "gross/w": "€ 10,000",
-    "gross/y": "€ 520,000",
-    "expiration": "Jun 30, 2028",
-    "gross_remaining": "€ 2,080,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Marc Casadó",
-    "team": "Barcelona",
-    "gross/w": "€ 10,000",
-    "gross/y": "€ 520,000",
-    "expiration": "Jun 30, 2028",
-    "gross_remaining": "€ 2,080,000",
-    "release_clause": "€ 100,000,000"
-  },
-  {
-    "player_name": "Marko Dmitrovic",
-    "team": "Leganes",
-    "gross/w": "€ 10,000",
-    "gross/y": "€ 520,000",
-    "expiration": "Jun 30, 2025",
-    "gross_remaining": "€ 520,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Fernando Calero",
-    "team": "Espanyol",
-    "gross/w": "€ 10,000",
-    "gross/y": "€ 520,000",
-    "expiration": "Jun 30, 2026",
-    "gross_remaining": "€ 1,040,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Enzo Boyomo",
-    "team": "Osasuna",
-    "gross/w": "€ 10,000",
-    "gross/y": "€ 520,000",
-    "expiration": "May 30, 2029",
-    "gross_remaining": "€ 2,600,000",
-    "release_clause": ""
   },
   {
     "player_name": "Dinko Horkas",
     "team": "Las Palmas",
     "gross/w": "€ 10,000",
     "gross/y": "€ 520,000",
-    "expiration": "Jun 30, 2028",
-    "gross_remaining": "€ 2,080,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Darko Brasanac",
-    "team": "Leganes",
-    "gross/w": "€ 10,000",
-    "gross/y": "€ 520,000",
-    "expiration": "Jun 30, 2025",
-    "gross_remaining": "€ 520,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Abdón Prats",
-    "team": "Mallorca",
-    "gross/w": "€ 10,000",
-    "gross/y": "€ 520,000",
-    "expiration": "Jun 30, 2028",
-    "gross_remaining": "€ 2,080,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Pau Navarro",
-    "team": "Villarreal",
-    "gross/w": "€ 10,000",
-    "gross/y": "€ 520,000",
-    "expiration": "Jun 30, 2030",
-    "gross_remaining": "€ 3,120,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Pere Milla",
-    "team": "Espanyol",
-    "gross/w": "€ 10,000",
-    "gross/y": "€ 520,000",
-    "expiration": "Jun 30, 2027",
-    "gross_remaining": "€ 1,560,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Peter Federico",
-    "team": "Getafe",
-    "gross/w": "€ 10,000",
-    "gross/y": "€ 520,000",
+    "signed": "Jul 1, 2024",
     "expiration": "Jun 30, 2028",
     "gross_remaining": "€ 2,080,000",
     "release_clause": ""
@@ -3379,8 +3624,69 @@
     "team": "Las Palmas",
     "gross/w": "€ 10,000",
     "gross/y": "€ 520,000",
+    "signed": "Jan 20, 2025",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 520,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Abdón Prats",
+    "team": "Mallorca",
+    "gross/w": "€ 10,000",
+    "gross/y": "€ 520,000",
+    "signed": "Nov 12, 2024",
+    "expiration": "Jun 30, 2028",
+    "gross_remaining": "€ 2,080,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Darko Brasanac",
+    "team": "Leganes",
+    "gross/w": "€ 10,000",
+    "gross/y": "€ 520,000",
+    "signed": "Feb 1, 2024",
+    "expiration": "Jun 30, 2025",
+    "gross_remaining": "€ 520,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Fernando Calero",
+    "team": "Espanyol",
+    "gross/w": "€ 10,000",
+    "gross/y": "€ 520,000",
+    "signed": "Aug 9, 2019",
+    "expiration": "Jun 30, 2026",
+    "gross_remaining": "€ 1,040,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Juan Cruz",
+    "team": "Leganes",
+    "gross/w": "€ 10,000",
+    "gross/y": "€ 520,000",
+    "signed": "Jul 1, 2024",
+    "expiration": "Jun 30, 2028",
+    "gross_remaining": "€ 2,080,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Marc Casadó",
+    "team": "Barcelona",
+    "gross/w": "€ 10,000",
+    "gross/y": "€ 520,000",
+    "signed": "Jul 1, 2024",
+    "expiration": "Jun 30, 2028",
+    "gross_remaining": "€ 2,080,000",
+    "release_clause": "€ 100,000,000"
+  },
+  {
+    "player_name": "Hugo Sotelo",
+    "team": "Celta Vigo",
+    "gross/w": "€ 10,000",
+    "gross/y": "€ 520,000",
+    "signed": "Oct 1, 2024",
+    "expiration": "Jun 30, 2028",
+    "gross_remaining": "€ 2,080,000",
     "release_clause": ""
   },
   {
@@ -3388,17 +3694,9 @@
     "team": "Getafe",
     "gross/w": "€ 10,000",
     "gross/y": "€ 520,000",
+    "signed": "Aug 29, 2024",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 520,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Tamás Nikitscher",
-    "team": "Valladolid",
-    "gross/w": "€ 10,000",
-    "gross/y": "€ 520,000",
-    "expiration": "Jun 30, 2028",
-    "gross_remaining": "€ 2,080,000",
     "release_clause": ""
   },
   {
@@ -3406,8 +3704,99 @@
     "team": "Girona",
     "gross/w": "€ 10,000",
     "gross/y": "€ 520,000",
+    "signed": "Jul 26, 2024",
     "expiration": "Jun 30, 2029",
     "gross_remaining": "€ 2,600,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Manu Fuster",
+    "team": "Las Palmas",
+    "gross/w": "€ 10,000",
+    "gross/y": "€ 520,000",
+    "signed": "Jul 1, 2024",
+    "expiration": "Jun 30, 2028",
+    "gross_remaining": "€ 2,080,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Tamás Nikitscher",
+    "team": "Valladolid",
+    "gross/w": "€ 10,000",
+    "gross/y": "€ 520,000",
+    "signed": "Jan 29, 2025",
+    "expiration": "Jun 30, 2028",
+    "gross_remaining": "€ 2,080,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Pau Navarro",
+    "team": "Villarreal",
+    "gross/w": "€ 10,000",
+    "gross/y": "€ 520,000",
+    "signed": "Mar 18, 2025",
+    "expiration": "Jun 30, 2030",
+    "gross_remaining": "€ 3,120,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Juan Berrocal",
+    "team": "Getafe",
+    "gross/w": "€ 10,000",
+    "gross/y": "€ 520,000",
+    "signed": "Aug 19, 2024",
+    "expiration": "Jun 30, 2027",
+    "gross_remaining": "€ 1,560,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Marko Dmitrovic",
+    "team": "Leganes",
+    "gross/w": "€ 10,000",
+    "gross/y": "€ 520,000",
+    "signed": "Aug 12, 2024",
+    "expiration": "Jun 30, 2025",
+    "gross_remaining": "€ 520,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Enzo Boyomo",
+    "team": "Osasuna",
+    "gross/w": "€ 10,000",
+    "gross/y": "€ 520,000",
+    "signed": "Aug 29, 2024",
+    "expiration": "May 30, 2029",
+    "gross_remaining": "€ 2,600,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Luis Pérez",
+    "team": "Valladolid",
+    "gross/w": "€ 10,000",
+    "gross/y": "€ 520,000",
+    "signed": "Sep 25, 2022",
+    "expiration": "Jun 30, 2025",
+    "gross_remaining": "€ 520,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Pere Milla",
+    "team": "Espanyol",
+    "gross/w": "€ 10,000",
+    "gross/y": "€ 520,000",
+    "signed": "Aug 15, 2023",
+    "expiration": "Jun 30, 2027",
+    "gross_remaining": "€ 1,560,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Peter Federico",
+    "team": "Getafe",
+    "gross/w": "€ 10,000",
+    "gross/y": "€ 520,000",
+    "signed": "Jul 4, 2024",
+    "expiration": "Jun 30, 2028",
+    "gross_remaining": "€ 2,080,000",
     "release_clause": ""
   },
   {
@@ -3415,35 +3804,9 @@
     "team": "Rayo Vallecano",
     "gross/w": "€ 9,808",
     "gross/y": "€ 510,000",
+    "signed": "Oct 6, 2022",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 510,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Giuliano Simeone",
-    "team": "Atletico Madrid",
-    "gross/w": "€ 9,615",
-    "gross/y": "€ 500,000",
-    "expiration": "Jun 30, 2028",
-    "gross_remaining": "€ 2,000,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Sergi Guardiola",
-    "team": "Rayo Vallecano",
-    "gross/w": "€ 9,615",
-    "gross/y": "€ 500,000",
-    "expiration": "Jun 30, 2025",
-    "gross_remaining": "€ 500,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Antonio Blanco",
-    "team": "Alaves",
-    "gross/w": "€ 9,615",
-    "gross/y": "€ 500,000",
-    "expiration": "Jun 30, 2027",
-    "gross_remaining": "€ 1,500,000",
     "release_clause": ""
   },
   {
@@ -3451,6 +3814,37 @@
     "team": "Rayo Vallecano",
     "gross/w": "€ 9,615",
     "gross/y": "€ 500,000",
+    "signed": "Aug 26, 2023",
+    "expiration": "Jun 30, 2028",
+    "gross_remaining": "€ 2,000,000",
+    "release_clause": "€ 25,000,000"
+  },
+  {
+    "player_name": "Antonio Blanco",
+    "team": "Alaves",
+    "gross/w": "€ 9,615",
+    "gross/y": "€ 500,000",
+    "signed": "Jul 25, 2023",
+    "expiration": "Jun 30, 2027",
+    "gross_remaining": "€ 1,500,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Sergi Guardiola",
+    "team": "Rayo Vallecano",
+    "gross/w": "€ 9,615",
+    "gross/y": "€ 500,000",
+    "signed": "Sep 4, 2024",
+    "expiration": "Jun 30, 2025",
+    "gross_remaining": "€ 500,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Giuliano Simeone",
+    "team": "Atletico Madrid",
+    "gross/w": "€ 9,615",
+    "gross/y": "€ 500,000",
+    "signed": "Jul 1, 2022",
     "expiration": "Jun 30, 2028",
     "gross_remaining": "€ 2,000,000",
     "release_clause": ""
@@ -3460,6 +3854,7 @@
     "team": "Las Palmas",
     "gross/w": "€ 9,231",
     "gross/y": "€ 480,000",
+    "signed": "Aug 30, 2024",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 480,000",
     "release_clause": ""
@@ -3469,6 +3864,7 @@
     "team": "Espanyol",
     "gross/w": "€ 9,231",
     "gross/y": "€ 480,000",
+    "signed": "Jan 31, 2023",
     "expiration": "Jun 30, 2028",
     "gross_remaining": "€ 1,920,000",
     "release_clause": ""
@@ -3478,26 +3874,9 @@
     "team": "Leganes",
     "gross/w": "€ 9,231",
     "gross/y": "€ 480,000",
+    "signed": "Jul 1, 2024",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 960,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Aridane Hernández",
-    "team": "Rayo Vallecano",
-    "gross/w": "€ 8,846",
-    "gross/y": "€ 460,000",
-    "expiration": "Jun 30, 2025",
-    "gross_remaining": "€ 460,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Jon Guridi",
-    "team": "Alaves",
-    "gross/w": "€ 8,846",
-    "gross/y": "€ 460,000",
-    "expiration": "Jun 30, 2026",
-    "gross_remaining": "€ 920,000",
     "release_clause": ""
   },
   {
@@ -3505,15 +3884,37 @@
     "team": "Valladolid",
     "gross/w": "€ 8,846",
     "gross/y": "€ 460,000",
+    "signed": "Jan 31, 2023",
     "expiration": "Jun 30, 2027",
     "gross_remaining": "€ 1,380,000",
     "release_clause": ""
   },
   {
-    "player_name": "Nahuel Tenaglia",
+    "player_name": "Jon Guridi",
+    "team": "Alaves",
+    "gross/w": "€ 8,846",
+    "gross/y": "€ 460,000",
+    "signed": "Jul 11, 2022",
+    "expiration": "Jun 30, 2026",
+    "gross_remaining": "€ 920,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Aridane Hernández",
+    "team": "Rayo Vallecano",
+    "gross/w": "€ 8,846",
+    "gross/y": "€ 460,000",
+    "signed": "Jul 5, 2023",
+    "expiration": "Jun 30, 2025",
+    "gross_remaining": "€ 460,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Carlos Vicente",
     "team": "Alaves",
     "gross/w": "€ 8,654",
     "gross/y": "€ 450,000",
+    "signed": "Jan 1, 2024",
     "expiration": "Jun 30, 2027",
     "gross_remaining": "€ 1,350,000",
     "release_clause": ""
@@ -3523,15 +3924,17 @@
     "team": "Espanyol",
     "gross/w": "€ 8,654",
     "gross/y": "€ 450,000",
+    "signed": "Jul 9, 2024",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 450,000",
     "release_clause": ""
   },
   {
-    "player_name": "Carlos Vicente",
+    "player_name": "Nahuel Tenaglia",
     "team": "Alaves",
     "gross/w": "€ 8,654",
     "gross/y": "€ 450,000",
+    "signed": "Aug 20, 2023",
     "expiration": "Jun 30, 2027",
     "gross_remaining": "€ 1,350,000",
     "release_clause": ""
@@ -3541,6 +3944,7 @@
     "team": "Rayo Vallecano",
     "gross/w": "€ 8,654",
     "gross/y": "€ 450,000",
+    "signed": "Aug 18, 2023",
     "expiration": "Jun 30, 2027",
     "gross_remaining": "€ 1,350,000",
     "release_clause": ""
@@ -3550,6 +3954,7 @@
     "team": "Leganes",
     "gross/w": "€ 8,462",
     "gross/y": "€ 440,000",
+    "signed": "Jun 2, 2024",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 440,000",
     "release_clause": ""
@@ -3559,87 +3964,17 @@
     "team": "Leganes",
     "gross/w": "€ 8,269",
     "gross/y": "€ 430,000",
+    "signed": "Jul 1, 2024",
     "expiration": "Jun 30, 2028",
     "gross_remaining": "€ 1,720,000",
     "release_clause": ""
   },
   {
-    "player_name": "Mika Mármol",
+    "player_name": "Marvin Park",
     "team": "Las Palmas",
     "gross/w": "€ 8,077",
     "gross/y": "€ 420,000",
-    "expiration": "Jun 30, 2026",
-    "gross_remaining": "€ 840,000",
-    "release_clause": "€ 10,000,000"
-  },
-  {
-    "player_name": "Roberto Fernández",
-    "team": "Espanyol",
-    "gross/w": "€ 8,077",
-    "gross/y": "€ 420,000",
-    "expiration": "Jun 30, 2025",
-    "gross_remaining": "€ 420,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Kike Barja",
-    "team": "Osasuna",
-    "gross/w": "€ 8,077",
-    "gross/y": "€ 420,000",
-    "expiration": "Jun 30, 2026",
-    "gross_remaining": "€ 840,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Stanis Idumbo",
-    "team": "Sevilla",
-    "gross/w": "€ 8,077",
-    "gross/y": "€ 420,000",
-    "expiration": "Jun 30, 2028",
-    "gross_remaining": "€ 1,680,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Gerard Martín",
-    "team": "Barcelona",
-    "gross/w": "€ 8,077",
-    "gross/y": "€ 420,000",
-    "expiration": "Jun 30, 2028",
-    "gross_remaining": "€ 1,680,000",
-    "release_clause": "€ 100,000,000"
-  },
-  {
-    "player_name": "Jiri Letacek",
-    "team": "Getafe",
-    "gross/w": "€ 8,077",
-    "gross/y": "€ 420,000",
-    "expiration": "Jun 30, 2028",
-    "gross_remaining": "€ 1,680,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Carlos Martín",
-    "team": "Alaves",
-    "gross/w": "€ 8,077",
-    "gross/y": "€ 420,000",
-    "expiration": "Jun 30, 2025",
-    "gross_remaining": "€ 420,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Viti Rozada",
-    "team": "Las Palmas",
-    "gross/w": "€ 8,077",
-    "gross/y": "€ 420,000",
-    "expiration": "Jun 30, 2027",
-    "gross_remaining": "€ 1,260,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Facundo Garcés",
-    "team": "Alaves",
-    "gross/w": "€ 8,077",
-    "gross/y": "€ 420,000",
+    "signed": "Jul 1, 2024",
     "expiration": "Jun 30, 2028",
     "gross_remaining": "€ 1,680,000",
     "release_clause": ""
@@ -3649,17 +3984,79 @@
     "team": "Leganes",
     "gross/w": "€ 8,077",
     "gross/y": "€ 420,000",
+    "signed": "Dec 20, 2023",
     "expiration": "Jun 30, 2027",
     "gross_remaining": "€ 1,260,000",
     "release_clause": ""
   },
   {
-    "player_name": "Marvin Park",
+    "player_name": "Kike Barja",
+    "team": "Osasuna",
+    "gross/w": "€ 8,077",
+    "gross/y": "€ 420,000",
+    "signed": "Dec 13, 2021",
+    "expiration": "Jun 30, 2026",
+    "gross_remaining": "€ 840,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Stanis Idumbo",
+    "team": "Sevilla",
+    "gross/w": "€ 8,077",
+    "gross/y": "€ 420,000",
+    "signed": "Jul 1, 2024",
+    "expiration": "Jun 30, 2028",
+    "gross_remaining": "€ 1,680,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Viti Rozada",
     "team": "Las Palmas",
     "gross/w": "€ 8,077",
     "gross/y": "€ 420,000",
+    "signed": "Jul 1, 2024",
+    "expiration": "Jun 30, 2027",
+    "gross_remaining": "€ 1,260,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Mika Mármol",
+    "team": "Las Palmas",
+    "gross/w": "€ 8,077",
+    "gross/y": "€ 420,000",
+    "signed": "Aug 11, 2023",
+    "expiration": "Jun 30, 2026",
+    "gross_remaining": "€ 840,000",
+    "release_clause": "€ 10,000,000"
+  },
+  {
+    "player_name": "Jiri Letacek",
+    "team": "Getafe",
+    "gross/w": "€ 8,077",
+    "gross/y": "€ 420,000",
+    "signed": "Jul 13, 2024",
     "expiration": "Jun 30, 2028",
     "gross_remaining": "€ 1,680,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Facundo Garcés",
+    "team": "Alaves",
+    "gross/w": "€ 8,077",
+    "gross/y": "€ 420,000",
+    "signed": "Jan 1, 2025",
+    "expiration": "Jun 30, 2028",
+    "gross_remaining": "€ 1,680,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Carlos Martín",
+    "team": "Alaves",
+    "gross/w": "€ 8,077",
+    "gross/y": "€ 420,000",
+    "signed": "Aug 17, 2024",
+    "expiration": "Jun 30, 2025",
+    "gross_remaining": "€ 420,000",
     "release_clause": ""
   },
   {
@@ -3667,6 +4064,27 @@
     "team": "Mallorca",
     "gross/w": "€ 8,077",
     "gross/y": "€ 420,000",
+    "signed": "Jul 5, 2024",
+    "expiration": "Jun 30, 2025",
+    "gross_remaining": "€ 420,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Gerard Martín",
+    "team": "Barcelona",
+    "gross/w": "€ 8,077",
+    "gross/y": "€ 420,000",
+    "signed": "Jan 23, 2025",
+    "expiration": "Jun 30, 2028",
+    "gross_remaining": "€ 1,680,000",
+    "release_clause": "€ 100,000,000"
+  },
+  {
+    "player_name": "Roberto Fernández",
+    "team": "Espanyol",
+    "gross/w": "€ 8,077",
+    "gross/y": "€ 420,000",
+    "signed": "Jan 14, 2025",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 420,000",
     "release_clause": ""
@@ -3676,6 +4094,7 @@
     "team": "Espanyol",
     "gross/w": "€ 7,885",
     "gross/y": "€ 410,000",
+    "signed": "Jan 23, 2025",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 410,000",
     "release_clause": ""
@@ -3685,6 +4104,7 @@
     "team": "Osasuna",
     "gross/w": "€ 7,692",
     "gross/y": "€ 400,000",
+    "signed": "Jul 1, 2021",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 800,000",
     "release_clause": ""
@@ -3694,6 +4114,7 @@
     "team": "Valencia",
     "gross/w": "€ 7,692",
     "gross/y": "€ 400,000",
+    "signed": "May 16, 2023",
     "expiration": "Jun 30, 2027",
     "gross_remaining": "€ 1,200,000",
     "release_clause": "€ 100,000,000"
@@ -3703,26 +4124,29 @@
     "team": "Osasuna",
     "gross/w": "€ 7,692",
     "gross/y": "€ 400,000",
+    "signed": "Dec 13, 2022",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 800,000",
     "release_clause": "€ 15,000,000"
-  },
-  {
-    "player_name": "Javi Puado",
-    "team": "Espanyol",
-    "gross/w": "€ 7,308",
-    "gross/y": "€ 380,000",
-    "expiration": "Jun 30, 2025",
-    "gross_remaining": "€ 380,000",
-    "release_clause": ""
   },
   {
     "player_name": "Pau Víctor",
     "team": "Barcelona",
     "gross/w": "€ 7,308",
     "gross/y": "€ 380,000",
+    "signed": "Jul 24, 2024",
     "expiration": "Jun 30, 2029",
     "gross_remaining": "€ 1,900,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Javi Puado",
+    "team": "Espanyol",
+    "gross/w": "€ 7,308",
+    "gross/y": "€ 380,000",
+    "signed": "Jul 11, 2021",
+    "expiration": "Jun 30, 2025",
+    "gross_remaining": "€ 380,000",
     "release_clause": ""
   },
   {
@@ -3730,17 +4154,9 @@
     "team": "Las Palmas",
     "gross/w": "€ 7,308",
     "gross/y": "€ 380,000",
+    "signed": "Jun 21, 2023",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 380,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Juan Carlos",
-    "team": "Girona",
-    "gross/w": "€ 7,115",
-    "gross/y": "€ 370,000",
-    "expiration": "Jun 30, 2025",
-    "gross_remaining": "€ 370,000",
     "release_clause": ""
   },
   {
@@ -3748,8 +4164,29 @@
     "team": "Alaves",
     "gross/w": "€ 7,115",
     "gross/y": "€ 370,000",
+    "signed": "Jul 1, 2022",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 370,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Juan Carlos",
+    "team": "Girona",
+    "gross/w": "€ 7,115",
+    "gross/y": "€ 370,000",
+    "signed": "Jun 20, 2024",
+    "expiration": "Jun 30, 2025",
+    "gross_remaining": "€ 370,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Jorge Sáenz",
+    "team": "Leganes",
+    "gross/w": "€ 6,923",
+    "gross/y": "€ 360,000",
+    "signed": "Jul 17, 2023",
+    "expiration": "Jun 30, 2025",
+    "gross_remaining": "€ 360,000",
     "release_clause": ""
   },
   {
@@ -3757,6 +4194,7 @@
     "team": "Mallorca",
     "gross/w": "€ 6,923",
     "gross/y": "€ 360,000",
+    "signed": "Aug 30, 2024",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 360,000",
     "release_clause": ""
@@ -3766,35 +4204,9 @@
     "team": "Celta Vigo",
     "gross/w": "€ 6,923",
     "gross/y": "€ 360,000",
+    "signed": "Jul 1, 2024",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 360,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Jorge Sáenz",
-    "team": "Leganes",
-    "gross/w": "€ 6,923",
-    "gross/y": "€ 360,000",
-    "expiration": "Jun 30, 2025",
-    "gross_remaining": "€ 360,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Pep Chavarría",
-    "team": "Rayo Vallecano",
-    "gross/w": "€ 6,731",
-    "gross/y": "€ 350,000",
-    "expiration": "Jun 30, 2027",
-    "gross_remaining": "€ 1,050,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Moussa Diarra",
-    "team": "Alaves",
-    "gross/w": "€ 6,731",
-    "gross/y": "€ 350,000",
-    "expiration": "Jun 30, 2028",
-    "gross_remaining": "€ 1,400,000",
     "release_clause": ""
   },
   {
@@ -3802,6 +4214,7 @@
     "team": "Alaves",
     "gross/w": "€ 6,731",
     "gross/y": "€ 350,000",
+    "signed": "Jul 22, 2024",
     "expiration": "Jun 30, 2029",
     "gross_remaining": "€ 1,750,000",
     "release_clause": ""
@@ -3811,8 +4224,29 @@
     "team": "Rayo Vallecano",
     "gross/w": "€ 6,731",
     "gross/y": "€ 350,000",
+    "signed": "Sep 1, 2022",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 700,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Moussa Diarra",
+    "team": "Alaves",
+    "gross/w": "€ 6,731",
+    "gross/y": "€ 350,000",
+    "signed": "Jul 18, 2024",
+    "expiration": "Jun 30, 2028",
+    "gross_remaining": "€ 1,400,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Pep Chavarría",
+    "team": "Rayo Vallecano",
+    "gross/w": "€ 6,731",
+    "gross/y": "€ 350,000",
+    "signed": "Aug 31, 2022",
+    "expiration": "Jun 30, 2027",
+    "gross_remaining": "€ 1,050,000",
     "release_clause": ""
   },
   {
@@ -3820,53 +4254,39 @@
     "team": "Rayo Vallecano",
     "gross/w": "€ 6,538",
     "gross/y": "€ 340,000",
+    "signed": "Jul 28, 2021",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 340,000",
     "release_clause": ""
-  },
-  {
-    "player_name": "Miguel Gutiérrez",
-    "team": "Girona",
-    "gross/w": "€ 6,346",
-    "gross/y": "€ 330,000",
-    "expiration": "Jun 30, 2027",
-    "gross_remaining": "€ 990,000",
-    "release_clause": "€ 35,000,000"
   },
   {
     "player_name": "Carlos Benavidez",
     "team": "Alaves",
     "gross/w": "€ 6,346",
     "gross/y": "€ 330,000",
+    "signed": "Jul 1, 2022",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 660,000",
     "release_clause": ""
   },
   {
-    "player_name": "Santiago Mouriño",
-    "team": "Alaves",
+    "player_name": "Iker Álvarez",
+    "team": "Villarreal",
     "gross/w": "€ 6,154",
     "gross/y": "€ 320,000",
-    "expiration": "Jun 30, 2029",
-    "gross_remaining": "€ 1,600,000",
+    "signed": "Jul 1, 2021",
+    "expiration": "Jun 30, 2026",
+    "gross_remaining": "€ 640,000",
     "release_clause": ""
   },
   {
-    "player_name": "Pau Cabanes",
-    "team": "Alaves",
+    "player_name": "Iker Losada",
+    "team": "Celta Vigo",
     "gross/w": "€ 6,154",
     "gross/y": "€ 320,000",
+    "signed": "Jan 30, 2025",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 320,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "André Ferreira",
-    "team": "Valladolid",
-    "gross/w": "€ 6,154",
-    "gross/y": "€ 320,000",
-    "expiration": "Jun 30, 2027",
-    "gross_remaining": "€ 960,000",
     "release_clause": ""
   },
   {
@@ -3874,6 +4294,7 @@
     "team": "Barcelona",
     "gross/w": "€ 6,154",
     "gross/y": "€ 320,000",
+    "signed": "Jul 24, 2024",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 640,000",
     "release_clause": "€ 20,000,000"
@@ -3883,35 +4304,9 @@
     "team": "Real Sociedad",
     "gross/w": "€ 6,154",
     "gross/y": "€ 320,000",
+    "signed": "Apr 19, 2024",
     "expiration": "Jun 30, 2030",
     "gross_remaining": "€ 1,920,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Iker Losada",
-    "team": "Celta Vigo",
-    "gross/w": "€ 6,154",
-    "gross/y": "€ 320,000",
-    "expiration": "Jun 30, 2025",
-    "gross_remaining": "€ 320,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Iker Álvarez",
-    "team": "Villarreal",
-    "gross/w": "€ 6,154",
-    "gross/y": "€ 320,000",
-    "expiration": "Jun 30, 2026",
-    "gross_remaining": "€ 640,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Seydouba Cissé",
-    "team": "Leganes",
-    "gross/w": "€ 6,154",
-    "gross/y": "€ 320,000",
-    "expiration": "Jun 30, 2026",
-    "gross_remaining": "€ 640,000",
     "release_clause": ""
   },
   {
@@ -3919,6 +4314,37 @@
     "team": "Alaves",
     "gross/w": "€ 6,154",
     "gross/y": "€ 320,000",
+    "signed": "Sep 1, 2024",
+    "expiration": "Jun 30, 2026",
+    "gross_remaining": "€ 640,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Pau Cabanes",
+    "team": "Alaves",
+    "gross/w": "€ 6,154",
+    "gross/y": "€ 320,000",
+    "signed": "Jan 31, 2025",
+    "expiration": "Jun 30, 2025",
+    "gross_remaining": "€ 320,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Santiago Mouriño",
+    "team": "Alaves",
+    "gross/w": "€ 6,154",
+    "gross/y": "€ 320,000",
+    "signed": "Aug 27, 2024",
+    "expiration": "Jun 30, 2029",
+    "gross_remaining": "€ 1,600,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Seydouba Cissé",
+    "team": "Leganes",
+    "gross/w": "€ 6,154",
+    "gross/y": "€ 320,000",
+    "signed": "Jul 1, 2022",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 640,000",
     "release_clause": ""
@@ -3928,8 +4354,19 @@
     "team": "Leganes",
     "gross/w": "€ 6,154",
     "gross/y": "€ 320,000",
+    "signed": "Feb 3, 2025",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 320,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "André Ferreira",
+    "team": "Valladolid",
+    "gross/w": "€ 6,154",
+    "gross/y": "€ 320,000",
+    "signed": "Jul 1, 2024",
+    "expiration": "Jun 30, 2027",
+    "gross_remaining": "€ 960,000",
     "release_clause": ""
   },
   {
@@ -3937,6 +4374,7 @@
     "team": "Valladolid",
     "gross/w": "€ 5,962",
     "gross/y": "€ 310,000",
+    "signed": "Feb 3, 2025",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 310,000",
     "release_clause": ""
@@ -3946,6 +4384,7 @@
     "team": "Espanyol",
     "gross/w": "€ 5,962",
     "gross/y": "€ 310,000",
+    "signed": "Aug 27, 2024",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 310,000",
     "release_clause": ""
@@ -3955,15 +4394,7 @@
     "team": "Leganes",
     "gross/w": "€ 5,769",
     "gross/y": "€ 300,000",
-    "expiration": "Jun 30, 2025",
-    "gross_remaining": "€ 300,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Jon Ander Olasagasti",
-    "team": "Real Sociedad",
-    "gross/w": "€ 5,769",
-    "gross/y": "€ 300,000",
+    "signed": "Aug 1, 2023",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 300,000",
     "release_clause": ""
@@ -3973,15 +4404,27 @@
     "team": "Mallorca",
     "gross/w": "€ 5,769",
     "gross/y": "€ 300,000",
+    "signed": "Jul 6, 2021",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 600,000",
     "release_clause": ""
   },
   {
-    "player_name": "Julián Chicco",
-    "team": "Leganes",
+    "player_name": "Unai Gómez",
+    "team": "Athletic Club",
     "gross/w": "€ 5,769",
     "gross/y": "€ 300,000",
+    "signed": "Oct 20, 2023",
+    "expiration": "Jun 30, 2028",
+    "gross_remaining": "€ 1,200,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Jon Ander Olasagasti",
+    "team": "Real Sociedad",
+    "gross/w": "€ 5,769",
+    "gross/y": "€ 300,000",
+    "signed": "Jul 1, 2022",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 300,000",
     "release_clause": ""
@@ -3991,17 +4434,19 @@
     "team": "Real Betis",
     "gross/w": "€ 5,769",
     "gross/y": "€ 300,000",
+    "signed": "Sep 12, 2024",
     "expiration": "Jun 30, 2029",
     "gross_remaining": "€ 1,500,000",
     "release_clause": ""
   },
   {
-    "player_name": "Unai Gómez",
-    "team": "Athletic Club",
+    "player_name": "Julián Chicco",
+    "team": "Leganes",
     "gross/w": "€ 5,769",
     "gross/y": "€ 300,000",
-    "expiration": "Jun 30, 2028",
-    "gross_remaining": "€ 1,200,000",
+    "signed": "Jul 11, 2023",
+    "expiration": "Jun 30, 2025",
+    "gross_remaining": "€ 300,000",
     "release_clause": ""
   },
   {
@@ -4009,6 +4454,7 @@
     "team": "Valladolid",
     "gross/w": "€ 5,192",
     "gross/y": "€ 270,000",
+    "signed": "Jul 27, 2023",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 540,000",
     "release_clause": ""
@@ -4018,35 +4464,39 @@
     "team": "Mallorca",
     "gross/w": "€ 5,192",
     "gross/y": "€ 270,000",
+    "signed": "Jul 1, 2022",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 540,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Jesús Owono",
-    "team": "Alaves",
-    "gross/w": "€ 4,615",
-    "gross/y": "€ 240,000",
-    "expiration": "Jun 30, 2026",
-    "gross_remaining": "€ 480,000",
-    "release_clause": ""
+    "release_clause": "€ 10,500,000"
   },
   {
     "player_name": "Joan García",
     "team": "Espanyol",
     "gross/w": "€ 4,615",
     "gross/y": "€ 240,000",
+    "signed": "Nov 16, 2023",
     "expiration": "Jun 30, 2028",
     "gross_remaining": "€ 960,000",
     "release_clause": "€ 30,000,000"
   },
   {
-    "player_name": "Pablo Ramón",
+    "player_name": "Jesús Owono",
+    "team": "Alaves",
+    "gross/w": "€ 4,615",
+    "gross/y": "€ 240,000",
+    "signed": "Jan 24, 2024",
+    "expiration": "Jun 30, 2026",
+    "gross_remaining": "€ 480,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Omar El Hilali",
     "team": "Espanyol",
     "gross/w": "€ 4,038",
     "gross/y": "€ 210,000",
-    "expiration": "Jun 30, 2028",
-    "gross_remaining": "€ 840,000",
+    "signed": "Dec 14, 2023",
+    "expiration": "Jun 30, 2027",
+    "gross_remaining": "€ 630,000",
     "release_clause": ""
   },
   {
@@ -4054,35 +4504,19 @@
     "team": "Barcelona",
     "gross/w": "€ 4,038",
     "gross/y": "€ 210,000",
+    "signed": "Jul 1, 2022",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 420,000",
     "release_clause": "€ 100,000,000"
   },
   {
-    "player_name": "Omar El Hilali",
+    "player_name": "Pablo Ramón",
     "team": "Espanyol",
     "gross/w": "€ 4,038",
     "gross/y": "€ 210,000",
-    "expiration": "Jun 30, 2027",
-    "gross_remaining": "€ 630,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Mikel Jauregizar",
-    "team": "Athletic Club",
-    "gross/w": "€ 4,038",
-    "gross/y": "€ 210,000",
-    "expiration": "Jun 30, 2027",
-    "gross_remaining": "€ 630,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Ángel Fortuño",
-    "team": "Espanyol",
-    "gross/w": "€ 4,038",
-    "gross/y": "€ 210,000",
-    "expiration": "Jun 30, 2025",
-    "gross_remaining": "€ 210,000",
+    "signed": "Jan 3, 2025",
+    "expiration": "Jun 30, 2028",
+    "gross_remaining": "€ 840,000",
     "release_clause": ""
   },
   {
@@ -4090,17 +4524,19 @@
     "team": "Leganes",
     "gross/w": "€ 4,038",
     "gross/y": "€ 210,000",
+    "signed": "Jun 2, 2024",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 210,000",
     "release_clause": ""
   },
   {
-    "player_name": "Justin Smith",
+    "player_name": "Ángel Fortuño",
     "team": "Espanyol",
     "gross/w": "€ 4,038",
     "gross/y": "€ 210,000",
-    "expiration": "Jun 30, 2026",
-    "gross_remaining": "€ 420,000",
+    "signed": "Jul 1, 2024",
+    "expiration": "Jun 30, 2025",
+    "gross_remaining": "€ 210,000",
     "release_clause": ""
   },
   {
@@ -4108,6 +4544,27 @@
     "team": "Mallorca",
     "gross/w": "€ 4,038",
     "gross/y": "€ 210,000",
+    "signed": "Jul 1, 2022",
+    "expiration": "Jun 30, 2026",
+    "gross_remaining": "€ 420,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Mikel Jauregizar",
+    "team": "Athletic Club",
+    "gross/w": "€ 4,038",
+    "gross/y": "€ 210,000",
+    "signed": "Oct 16, 2023",
+    "expiration": "Jun 30, 2027",
+    "gross_remaining": "€ 630,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Justin Smith",
+    "team": "Espanyol",
+    "gross/w": "€ 4,038",
+    "gross/y": "€ 210,000",
+    "signed": "Jul 23, 2024",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 420,000",
     "release_clause": ""
@@ -4117,17 +4574,9 @@
     "team": "Athletic Club",
     "gross/w": "€ 4,038",
     "gross/y": "€ 210,000",
+    "signed": "Jul 1, 2024",
     "expiration": "Jun 30, 2029",
     "gross_remaining": "€ 1,050,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "César Tárrega",
-    "team": "Valencia",
-    "gross/w": "€ 3,846",
-    "gross/y": "€ 200,000",
-    "expiration": "Jun 30, 2028",
-    "gross_remaining": "€ 800,000",
     "release_clause": ""
   },
   {
@@ -4135,6 +4584,7 @@
     "team": "Getafe",
     "gross/w": "€ 3,846",
     "gross/y": "€ 200,000",
+    "signed": "Feb 3, 2025",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 200,000",
     "release_clause": ""
@@ -4144,8 +4594,19 @@
     "team": "Osasuna",
     "gross/w": "€ 3,846",
     "gross/y": "€ 200,000",
+    "signed": "Jul 5, 2023",
     "expiration": "Jun 30, 2027",
     "gross_remaining": "€ 600,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "César Tárrega",
+    "team": "Valencia",
+    "gross/w": "€ 3,846",
+    "gross/y": "€ 200,000",
+    "signed": "Jan 18, 2024",
+    "expiration": "Jun 30, 2028",
+    "gross_remaining": "€ 800,000",
     "release_clause": ""
   },
   {
@@ -4153,6 +4614,7 @@
     "team": "Barcelona",
     "gross/w": "€ 3,846",
     "gross/y": "€ 200,000",
+    "signed": "Jul 25, 2024",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 400,000",
     "release_clause": ""
@@ -4162,53 +4624,9 @@
     "team": "Espanyol",
     "gross/w": "€ 3,654",
     "gross/y": "€ 190,000",
+    "signed": "Jul 1, 2023",
     "expiration": "Jun 30, 2027",
     "gross_remaining": "€ 570,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Alvin Abajas",
-    "team": "Leganes",
-    "gross/w": "€ 3,462",
-    "gross/y": "€ 180,000",
-    "expiration": "Jun 30, 2025",
-    "gross_remaining": "€ 180,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Marc Domènech",
-    "team": "Mallorca",
-    "gross/w": "€ 3,462",
-    "gross/y": "€ 180,000",
-    "expiration": "Jun 30, 2029",
-    "gross_remaining": "€ 900,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Unai Marrero",
-    "team": "Real Sociedad",
-    "gross/w": "€ 3,462",
-    "gross/y": "€ 180,000",
-    "expiration": "Jun 30, 2027",
-    "gross_remaining": "€ 540,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Gabriel Misehouy",
-    "team": "Girona",
-    "gross/w": "€ 3,462",
-    "gross/y": "€ 180,000",
-    "expiration": "Jun 30, 2028",
-    "gross_remaining": "€ 720,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Antoniu Roca",
-    "team": "Espanyol",
-    "gross/w": "€ 3,462",
-    "gross/y": "€ 180,000",
-    "expiration": "Jun 30, 2025",
-    "gross_remaining": "€ 180,000",
     "release_clause": ""
   },
   {
@@ -4216,87 +4634,17 @@
     "team": "Mallorca",
     "gross/w": "€ 3,462",
     "gross/y": "€ 180,000",
+    "signed": "Jan 31, 2024",
     "expiration": "Jun 30, 2027",
     "gross_remaining": "€ 540,000",
     "release_clause": ""
   },
   {
-    "player_name": "Joni Montiel",
-    "team": "Rayo Vallecano",
+    "player_name": "Alvin Abajas",
+    "team": "Leganes",
     "gross/w": "€ 3,462",
     "gross/y": "€ 180,000",
-    "expiration": "Jun 30, 2025",
-    "gross_remaining": "€ 180,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Manu Bueno",
-    "team": "Sevilla",
-    "gross/w": "€ 3,462",
-    "gross/y": "€ 180,000",
-    "expiration": "Jun 30, 2026",
-    "gross_remaining": "€ 360,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Juanma Herzog",
-    "team": "Las Palmas",
-    "gross/w": "€ 3,462",
-    "gross/y": "€ 180,000",
-    "expiration": "Jun 30, 2025",
-    "gross_remaining": "€ 180,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Juan Iglesias",
-    "team": "Getafe",
-    "gross/w": "€ 3,462",
-    "gross/y": "€ 180,000",
-    "expiration": "Jun 30, 2026",
-    "gross_remaining": "€ 360,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Min-su Kim",
-    "team": "Girona",
-    "gross/w": "€ 3,462",
-    "gross/y": "€ 180,000",
-    "expiration": "Jun 30, 2027",
-    "gross_remaining": "€ 540,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Vladyslav Krapyvtsov",
-    "team": "Girona",
-    "gross/w": "€ 3,462",
-    "gross/y": "€ 180,000",
-    "expiration": "Jun 30, 2029",
-    "gross_remaining": "€ 900,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Jhon Solís",
-    "team": "Girona",
-    "gross/w": "€ 3,462",
-    "gross/y": "€ 180,000",
-    "expiration": "Jun 30, 2028",
-    "gross_remaining": "€ 720,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Christantus Uche",
-    "team": "Getafe",
-    "gross/w": "€ 3,462",
-    "gross/y": "€ 180,000",
-    "expiration": "Jun 30, 2028",
-    "gross_remaining": "€ 720,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Iván Cuéllar",
-    "team": "Mallorca",
-    "gross/w": "€ 3,462",
-    "gross/y": "€ 180,000",
+    "signed": "Sep 8, 2023",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 180,000",
     "release_clause": ""
@@ -4306,17 +4654,139 @@
     "team": "Osasuna",
     "gross/w": "€ 3,462",
     "gross/y": "€ 180,000",
+    "signed": "Jul 1, 2022",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 180,000",
     "release_clause": "€ 25,000,000"
   },
   {
-    "player_name": "Rafel Bauzà",
+    "player_name": "Christantus Uche",
+    "team": "Getafe",
+    "gross/w": "€ 3,462",
+    "gross/y": "€ 180,000",
+    "signed": "Jul 1, 2024",
+    "expiration": "Jun 30, 2028",
+    "gross_remaining": "€ 720,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Antoniu Roca",
     "team": "Espanyol",
-    "gross/w": "€ 3,269",
-    "gross/y": "€ 170,000",
+    "gross/w": "€ 3,462",
+    "gross/y": "€ 180,000",
+    "signed": "Jul 1, 2024",
+    "expiration": "Jun 30, 2025",
+    "gross_remaining": "€ 180,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Min-su Kim",
+    "team": "Girona",
+    "gross/w": "€ 3,462",
+    "gross/y": "€ 180,000",
+    "signed": "Jul 1, 2022",
+    "expiration": "Jun 30, 2027",
+    "gross_remaining": "€ 540,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Gabriel Misehouy",
+    "team": "Girona",
+    "gross/w": "€ 3,462",
+    "gross/y": "€ 180,000",
+    "signed": "Jul 10, 2024",
+    "expiration": "Jun 30, 2028",
+    "gross_remaining": "€ 720,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Marc Domènech",
+    "team": "Mallorca",
+    "gross/w": "€ 3,462",
+    "gross/y": "€ 180,000",
+    "signed": "Jul 1, 2024",
+    "expiration": "Jun 30, 2029",
+    "gross_remaining": "€ 900,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Manu Bueno",
+    "team": "Sevilla",
+    "gross/w": "€ 3,462",
+    "gross/y": "€ 180,000",
+    "signed": "May 15, 2023",
     "expiration": "Jun 30, 2026",
-    "gross_remaining": "€ 340,000",
+    "gross_remaining": "€ 360,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Unai Marrero",
+    "team": "Real Sociedad",
+    "gross/w": "€ 3,462",
+    "gross/y": "€ 180,000",
+    "signed": "Jul 12, 2023",
+    "expiration": "Jun 30, 2027",
+    "gross_remaining": "€ 540,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Iván Cuéllar",
+    "team": "Mallorca",
+    "gross/w": "€ 3,462",
+    "gross/y": "€ 180,000",
+    "signed": "Jul 5, 2024",
+    "expiration": "Jun 30, 2025",
+    "gross_remaining": "€ 180,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Vladyslav Krapyvtsov",
+    "team": "Girona",
+    "gross/w": "€ 3,462",
+    "gross/y": "€ 180,000",
+    "signed": "Jan 1, 2025",
+    "expiration": "Jun 30, 2029",
+    "gross_remaining": "€ 900,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Juanma Herzog",
+    "team": "Las Palmas",
+    "gross/w": "€ 3,462",
+    "gross/y": "€ 180,000",
+    "signed": "Jul 1, 2024",
+    "expiration": "Jun 30, 2025",
+    "gross_remaining": "€ 180,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Juan Iglesias",
+    "team": "Getafe",
+    "gross/w": "€ 3,462",
+    "gross/y": "€ 180,000",
+    "signed": "Aug 19, 2021",
+    "expiration": "Jun 30, 2026",
+    "gross_remaining": "€ 360,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Jhon Solís",
+    "team": "Girona",
+    "gross/w": "€ 3,462",
+    "gross/y": "€ 180,000",
+    "signed": "Sep 1, 2023",
+    "expiration": "Jun 30, 2028",
+    "gross_remaining": "€ 720,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Joni Montiel",
+    "team": "Rayo Vallecano",
+    "gross/w": "€ 3,462",
+    "gross/y": "€ 180,000",
+    "signed": "Jul 1, 2017",
+    "expiration": "Jun 30, 2025",
+    "gross_remaining": "€ 180,000",
     "release_clause": ""
   },
   {
@@ -4324,8 +4794,39 @@
     "team": "Alaves",
     "gross/w": "€ 3,269",
     "gross/y": "€ 170,000",
+    "signed": "Jan 9, 2024",
     "expiration": "Jun 30, 2027",
     "gross_remaining": "€ 510,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Rafel Bauzà",
+    "team": "Espanyol",
+    "gross/w": "€ 3,269",
+    "gross/y": "€ 170,000",
+    "signed": "Jul 1, 2023",
+    "expiration": "Jun 30, 2026",
+    "gross_remaining": "€ 340,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Fran Vieites",
+    "team": "Real Betis",
+    "gross/w": "€ 3,077",
+    "gross/y": "€ 160,000",
+    "signed": "Jul 1, 2024",
+    "expiration": "Jun 30, 2026",
+    "gross_remaining": "€ 320,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Pelayo Fernández",
+    "team": "Rayo Vallecano",
+    "gross/w": "€ 3,077",
+    "gross/y": "€ 160,000",
+    "signed": "Jul 2, 2024",
+    "expiration": "Jun 30, 2028",
+    "gross_remaining": "€ 640,000",
     "release_clause": ""
   },
   {
@@ -4333,6 +4834,7 @@
     "team": "Real Betis",
     "gross/w": "€ 3,077",
     "gross/y": "€ 160,000",
+    "signed": "Jul 1, 2023",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 160,000",
     "release_clause": ""
@@ -4342,35 +4844,9 @@
     "team": "Celta Vigo",
     "gross/w": "€ 3,077",
     "gross/y": "€ 160,000",
+    "signed": "Sep 3, 2024",
     "expiration": "Jun 30, 2028",
     "gross_remaining": "€ 640,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Pelayo Fernández",
-    "team": "Rayo Vallecano",
-    "gross/w": "€ 3,077",
-    "gross/y": "€ 160,000",
-    "expiration": "Jun 30, 2028",
-    "gross_remaining": "€ 640,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Fran Vieites",
-    "team": "Real Betis",
-    "gross/w": "€ 3,077",
-    "gross/y": "€ 160,000",
-    "expiration": "Jun 30, 2026",
-    "gross_remaining": "€ 320,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Adrià Altimira",
-    "team": "Leganes",
-    "gross/w": "€ 2,885",
-    "gross/y": "€ 150,000",
-    "expiration": "Jun 30, 2025",
-    "gross_remaining": "€ 150,000",
     "release_clause": ""
   },
   {
@@ -4378,17 +4854,19 @@
     "team": "Celta Vigo",
     "gross/w": "€ 2,885",
     "gross/y": "€ 150,000",
+    "signed": "Jan 11, 2022",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 300,000",
     "release_clause": ""
   },
   {
-    "player_name": "Pablo Durán",
-    "team": "Celta Vigo",
-    "gross/w": "€ 2,692",
-    "gross/y": "€ 140,000",
-    "expiration": "Jun 30, 2027",
-    "gross_remaining": "€ 420,000",
+    "player_name": "Adrià Altimira",
+    "team": "Leganes",
+    "gross/w": "€ 2,885",
+    "gross/y": "€ 150,000",
+    "signed": "Aug 21, 2024",
+    "expiration": "Jun 30, 2025",
+    "gross_remaining": "€ 150,000",
     "release_clause": ""
   },
   {
@@ -4396,8 +4874,19 @@
     "team": "Getafe",
     "gross/w": "€ 2,692",
     "gross/y": "€ 140,000",
+    "signed": "Jul 1, 2024",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 140,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Pablo Durán",
+    "team": "Celta Vigo",
+    "gross/w": "€ 2,692",
+    "gross/y": "€ 140,000",
+    "signed": "Jul 18, 2024",
+    "expiration": "Jun 30, 2027",
+    "gross_remaining": "€ 420,000",
     "release_clause": ""
   },
   {
@@ -4405,6 +4894,7 @@
     "team": "Getafe",
     "gross/w": "€ 2,692",
     "gross/y": "€ 140,000",
+    "signed": "Jan 10, 2024",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 140,000",
     "release_clause": ""
@@ -4414,17 +4904,9 @@
     "team": "Getafe",
     "gross/w": "€ 2,308",
     "gross/y": "€ 120,000",
+    "signed": "Jul 1, 2024",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 240,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Chuki",
-    "team": "Valladolid",
-    "gross/w": "€ 1,923",
-    "gross/y": "€ 100,000",
-    "expiration": "Jun 30, 2025",
-    "gross_remaining": "€ 100,000",
     "release_clause": ""
   },
   {
@@ -4432,6 +4914,17 @@
     "team": "Valladolid",
     "gross/w": "€ 1,923",
     "gross/y": "€ 100,000",
+    "signed": "Aug 23, 2024",
+    "expiration": "Jun 30, 2025",
+    "gross_remaining": "€ 100,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Chuki",
+    "team": "Valladolid",
+    "gross/w": "€ 1,923",
+    "gross/y": "€ 100,000",
+    "signed": "Jul 15, 2022",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 100,000",
     "release_clause": ""

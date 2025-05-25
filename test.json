@@ -1,0 +1,1557 @@
+{
+  "header": "Bundesliga News",
+  "link": {
+    "language": "en",
+    "rel": [
+      "index",
+      "desktop",
+      "league"
+    ],
+    "href": "https://www.espn.com/football/league/_/name/ger.1",
+    "text": "All Bundesliga News",
+    "shortText": "All News",
+    "isExternal": false,
+    "isPremium": false
+  },
+  "articles": [
+    {
+      "id": 44835154,
+      "nowId": "1-44835154",
+      "contentKey": "44835154-1-6-1",
+      "dataSourceIdentifier": "0707e5eeb0dcd",
+      "type": "Story",
+      "headline": "Europe's top soccer leagues: Titles, cup finals, UCL, relegation",
+      "description": "As Europe's soccer season winds down, a bunch of teams got relegated or qualified for European competition on Saturday. Here's a rundown of all the results.",
+      "lastModified": "2025-05-25T14:16:48Z",
+      "published": "2025-05-25T14:16:00Z",
+      "images": [
+        {
+          "dataSourceIdentifier": "4b7144bdcb994",
+          "id": 45242925,
+          "type": "header",
+          "name": "Bernardo Silva celeb [1296x729]",
+          "credit": "Ben Roberts - Danehouse/Getty Images",
+          "height": 729,
+          "width": 1296,
+          "url": "https://a.espncdn.com/photo/2025/0520/r1495875_1296x729_16-9.jpg"
+        },
+        {
+          "dataSourceIdentifier": "ff9a6e8c4de26",
+          "id": 45288743,
+          "type": "header",
+          "name": "Napoli champions [1296x729]",
+          "credit": "ISABELLA BONOTTO/AFP via Getty Images",
+          "height": 729,
+          "width": 1296,
+          "url": "https://a.espncdn.com/photo/2025/0523/r1497371_1296x729_16-9.jpg"
+        },
+        {
+          "dataSourceIdentifier": "bf2d0a794393f",
+          "id": 45098339,
+          "type": "header",
+          "name": "Barca celeb Yamal_250511 [1296x518]",
+          "caption": "Barcelona's Lamine Yamal, center, celebrates after scoring a goal against Real Madrid in LaLiga.",
+          "alt": "Barcelona's Lamine Yamal, center, celebrates after scoring a goal against Real Madrid in LaLiga.",
+          "credit": "Getty Images",
+          "height": 518,
+          "width": 1296,
+          "url": "https://a.espncdn.com/photo/2025/0511/r1491178_1296x518_5-2.jpg"
+        },
+        {
+          "dataSourceIdentifier": "a133965303d92",
+          "id": 44982377,
+          "type": "header",
+          "name": "Harry Kane of Bayern Munich applauds the fans with teammates after the Bundesliga match between RB Leipzig and FC Bayern München at Red Bull Arena\n [1296x864]",
+          "alt": "Harry Kane of Bayern Munich applauds the fans with teammates after the Bundesliga match between RB Leipzig and FC Bayern München at Red Bull Arena\n",
+          "credit": "Maja Hitij/Getty Images",
+          "height": 864,
+          "width": 1296,
+          "url": "https://a.espncdn.com/photo/2025/0503/r1487450_1296x864_3-2.jpg"
+        },
+        {
+          "dataSourceIdentifier": "e962d8f385161",
+          "id": 44547242,
+          "type": "header",
+          "name": "PSG players staff Ligue 1 title celeb [1296x864]",
+          "credit": "FRANCK FIFE/POOL/AFP via Getty Images",
+          "height": 864,
+          "width": 1296,
+          "url": "https://a.espncdn.com/photo/2025/0405/r1474219_1296x864_3-2.jpg"
+        },
+        {
+          "dataSourceIdentifier": "d21979991ccb3",
+          "id": 45136773,
+          "type": "header",
+          "name": "travis scott barca [1296x518]",
+          "credit": "(Photo by Joan Valls/Urbanandsport/NurPhoto via Getty Images)",
+          "height": 518,
+          "width": 1296,
+          "url": "https://a.espncdn.com/photo/2025/0514/r1492405_1296x518_5-2.jpg"
+        },
+        {
+          "type": "Media",
+          "name": "Which team will clinch the final Champions League spot in the Premier League?",
+          "caption": "Don Hutchison breaks down who he thinks will finish fifth in the Premier League and clinch the final Champions League spot for next season.",
+          "height": 324,
+          "width": 576,
+          "url": "https://a.espncdn.com/media/motion/2025/0516/dm_250516_COM_SOC_Analysis_Which_team_will_clinch_the_final_Champions_League_spot_in_the_Premier_League_GLO/dm_250516_COM_SOC_Analysis_Which_team_will_clinch_the_final_Champions_League_spot_in_the_Premier_League_GLO.jpg"
+        }
+      ],
+      "categories": [
+        {
+          "id": 137781,
+          "type": "league",
+          "uid": "s:600~l:700",
+          "guid": "6949f3af-300c-35f1-beab-b95669eedd38",
+          "description": "English Premier League",
+          "sportId": 600,
+          "leagueId": 23,
+          "league": {
+            "id": 700,
+            "description": "English Premier League",
+            "abbreviation": "Premier League",
+            "links": {
+              "web": {
+                "leagues": {
+                  "href": "https://www.espn.com/soccer/league/_/name/eng.1"
+                }
+              },
+              "mobile": {
+                "leagues": {
+                  "href": "https://www.espn.com/soccer/league/_/name/eng.1"
+                }
+              }
+            }
+          }
+        },
+        {
+          "id": 137798,
+          "type": "league",
+          "uid": "s:600~l:730",
+          "guid": "9c1e0753-2757-3b78-a6ed-1b595caf8191",
+          "description": "Italian Serie A",
+          "sportId": 600,
+          "leagueId": 12,
+          "league": {
+            "id": 730,
+            "description": "Italian Serie A",
+            "abbreviation": "Serie A",
+            "links": {
+              "web": {
+                "leagues": {
+                  "href": "https://www.espn.com/soccer/league/_/name/ita.1"
+                }
+              },
+              "mobile": {
+                "leagues": {
+                  "href": "https://www.espn.com/soccer/league/_/name/ita.1"
+                }
+              }
+            }
+          }
+        },
+        {
+          "id": 137787,
+          "type": "league",
+          "uid": "s:600~l:740",
+          "guid": "cf7b0c51-7c48-3e9a-8abb-0c01b1a973a0",
+          "description": "Spanish LALIGA",
+          "sportId": 600,
+          "leagueId": 15,
+          "league": {
+            "id": 740,
+            "description": "Spanish LALIGA",
+            "abbreviation": "LALIGA",
+            "links": {
+              "web": {
+                "leagues": {
+                  "href": "https://www.espn.com/soccer/league/_/name/esp.1"
+                }
+              },
+              "mobile": {
+                "leagues": {
+                  "href": "https://www.espn.com/soccer/league/_/name/esp.1"
+                }
+              }
+            }
+          }
+        },
+        {
+          "id": 137790,
+          "type": "league",
+          "uid": "s:600~l:720",
+          "guid": "30244926-00c4-3f69-8946-f8421c97ff71",
+          "description": "German Bundesliga",
+          "sportId": 600,
+          "leagueId": 10,
+          "league": {
+            "id": 720,
+            "description": "German Bundesliga",
+            "abbreviation": "Bundesliga",
+            "links": {
+              "web": {
+                "leagues": {
+                  "href": "https://www.espn.com/soccer/league/_/name/ger.1"
+                }
+              },
+              "mobile": {
+                "leagues": {
+                  "href": "https://www.espn.com/soccer/league/_/name/ger.1"
+                }
+              }
+            }
+          }
+        },
+        {
+          "id": 81497,
+          "type": "league",
+          "uid": "s:600",
+          "guid": "119cfa41-71d4-39bf-a790-6273a52b0259",
+          "description": "Soccer",
+          "sportId": 600,
+          "leagueId": 600,
+          "league": {
+            "id": 600,
+            "description": "Soccer",
+            "links": {
+              "web": {
+                "leagues": {
+                  "href": "https://www.espn.com/soccer/"
+                }
+              },
+              "mobile": {
+                "leagues": {
+                  "href": "https://www.espn.com/soccer/"
+                }
+              }
+            }
+          }
+        },
+        {
+          "id": 137799,
+          "type": "league",
+          "uid": "s:600~l:710",
+          "guid": "b7217910-7773-3ea8-bc69-30c19c579306",
+          "description": "French Ligue 1",
+          "sportId": 600,
+          "leagueId": 9,
+          "league": {
+            "id": 710,
+            "description": "French Ligue 1",
+            "abbreviation": "Ligue 1",
+            "links": {
+              "web": {
+                "leagues": {
+                  "href": "https://www.espn.com/soccer/league/_/name/fra.1"
+                }
+              },
+              "mobile": {
+                "leagues": {
+                  "href": "https://www.espn.com/soccer/league/_/name/fra.1"
+                }
+              }
+            }
+          }
+        },
+        {
+          "type": "guid",
+          "guid": "6949f3af-300c-35f1-beab-b95669eedd38"
+        },
+        {
+          "type": "guid",
+          "guid": "9c1e0753-2757-3b78-a6ed-1b595caf8191"
+        },
+        {
+          "type": "guid",
+          "guid": "cf7b0c51-7c48-3e9a-8abb-0c01b1a973a0"
+        },
+        {
+          "type": "guid",
+          "guid": "30244926-00c4-3f69-8946-f8421c97ff71"
+        },
+        {
+          "type": "guid",
+          "guid": "119cfa41-71d4-39bf-a790-6273a52b0259"
+        },
+        {
+          "type": "guid",
+          "guid": "b7217910-7773-3ea8-bc69-30c19c579306"
+        }
+      ],
+      "premium": false,
+      "links": {
+        "web": {
+          "href": "https://www.espn.com/soccer/story/_/id/44835154/europe-top-soccer-leagues-whats-stake-decided-premier-league-laliga-bundesliga-serie-ligue-1"
+        },
+        "mobile": {
+          "href": "http://m.espn.go.com/soccer/story?storyId=44835154"
+        },
+        "api": {
+          "self": {
+            "href": "https://content.core.api.espn.com/v1/sports/news/44835154"
+          }
+        },
+        "app": {
+          "sportscenter": {
+            "href": "sportscenter://x-callback-url/showStory?uid=44835154"
+          }
+        }
+      },
+      "byline": "Dale Johnson"
+    },
+    {
+      "id": 45159832,
+      "nowId": "1-45159832",
+      "contentKey": "45159832-1-6-1",
+      "dataSourceIdentifier": "8ba5ce0cf0cee",
+      "type": "Story",
+      "headline": "Xabi Alonso's rapid rise from rookie coach to Real Madrid",
+      "description": "Less than three years into his career as a top-level coach, Alonso is returning to Real Madrid, the most pressurized job in football. He's earned it.",
+      "lastModified": "2025-05-25T12:09:25Z",
+      "published": "2025-05-25T10:30:00Z",
+      "images": [
+        {
+          "dataSourceIdentifier": "5b4736652c7f2",
+          "id": 45287499,
+          "type": "header",
+          "name": "250525_soc_xabi-alonso [1296x729]",
+          "caption": "250525_soc_xabi-alonso",
+          "alt": "250525_soc_xabi-alonso",
+          "credit": "ESPN Illustration",
+          "height": 729,
+          "width": 1296,
+          "url": "https://a.espncdn.com/photo/2025/0523/250525_soc_xabi-alonso_16x9.jpg"
+        },
+        {
+          "dataSourceIdentifier": "d768f11a80dc0",
+          "id": 45175775,
+          "type": "header",
+          "name": "Xabi Alonso Real Madrid playing honours [1280x720]",
+          "credit": "ESPN",
+          "height": 720,
+          "width": 1280,
+          "url": "https://a.espncdn.com/photo/2025/0516/r1493791_1280x720_16-9.jpg"
+        },
+        {
+          "dataSourceIdentifier": "71edb8bd4752e",
+          "id": 45219949,
+          "type": "header",
+          "name": "Xabi Alonso Bayer Leverkusen achievements [1280x720]",
+          "credit": "ESPN",
+          "height": 720,
+          "width": 1280,
+          "url": "https://a.espncdn.com/photo/2025/0519/r1495182_1280x720_16-9.jpg"
+        },
+        {
+          "dataSourceIdentifier": "96e4d7590d495",
+          "id": 45173889,
+          "type": "header",
+          "name": "Bayer Leverkusen passing network [1200x675]",
+          "credit": "ESPN/TruMedia/Opta",
+          "height": 675,
+          "width": 1200,
+          "url": "https://a.espncdn.com/photo/2025/0516/r1493754_1200x675_16-9.png"
+        },
+        {
+          "type": "Media",
+          "name": "Rafa Benítez offers words of advice to Xabi Alonso ahead of Madrid move",
+          "caption": "Former Liverpool and Real Madrid manager Rafa Benítez gives his thoughts on Xabi Alonso's imminent move to Real Madrid.",
+          "height": 324,
+          "width": 576,
+          "url": "https://a.espncdn.com/media/motion/2025/0524/dm_250524_COM_SOC_Interview_Rafa_Benitez_offers_words_of_advice_to_Xabi_Alonso_ahead_of_Real_Madrid_move_GLO/dm_250524_COM_SOC_Interview_Rafa_Benitez_offers_words_of_advice_to_Xabi_Alonso_ahead_of_Real_Madrid_move_GLO.jpg"
+        }
+      ],
+      "categories": [
+        {
+          "id": 696279,
+          "type": "contributor",
+          "guid": "ee5ebeb8-b061-3613-a085-f51897e1cc59",
+          "description": "Alex Kirkland",
+          "slug": "alex-kirkland",
+          "contributor": {
+            "id": 3878,
+            "description": "Alex Kirkland",
+            "links": {
+              "web": {},
+              "mobile": {}
+            }
+          }
+        },
+        {
+          "id": 142494,
+          "type": "team",
+          "uid": "s:600~t:131",
+          "guid": "483ec574-cb09-6d8f-e308-302d5d695d70",
+          "description": "Bayer Leverkusen",
+          "sportId": 600,
+          "teamId": 131,
+          "team": {
+            "id": 131,
+            "description": "Bayer Leverkusen",
+            "links": {
+              "web": {
+                "teams": {
+                  "href": "https://www.espn.com/soccer/club/_/id/131/bayer-leverkusen"
+                }
+              },
+              "mobile": {
+                "teams": {
+                  "href": "https://www.espn.com/soccer/club/_/id/131/bayer-leverkusen"
+                }
+              }
+            }
+          }
+        },
+        {
+          "id": 142469,
+          "type": "team",
+          "uid": "s:600~t:89",
+          "guid": "b69b45f1-9c19-ea12-709f-fd54107d410d",
+          "description": "Real Sociedad",
+          "sportId": 600,
+          "teamId": 89,
+          "team": {
+            "id": 89,
+            "description": "Real Sociedad",
+            "links": {
+              "web": {
+                "teams": {
+                  "href": "https://www.espn.com/soccer/club/_/id/89/real-sociedad"
+                }
+              },
+              "mobile": {
+                "teams": {
+                  "href": "https://www.espn.com/soccer/club/_/id/89/real-sociedad"
+                }
+              }
+            }
+          }
+        },
+        {
+          "id": 696344,
+          "type": "contributor",
+          "guid": "7bdb57b2-bf36-360a-82d4-d694d6310771",
+          "description": "Bill Connelly",
+          "slug": "bill-connelly",
+          "contributor": {
+            "id": 3812,
+            "description": "Bill Connelly",
+            "links": {
+              "web": {},
+              "mobile": {}
+            }
+          }
+        },
+        {
+          "id": 142464,
+          "type": "team",
+          "uid": "s:600~t:86",
+          "guid": "66434654-a8ba-a04c-98e5-6bbd0dbbb780",
+          "description": "Real Madrid",
+          "sportId": 600,
+          "teamId": 86,
+          "team": {
+            "id": 86,
+            "description": "Real Madrid",
+            "links": {
+              "web": {
+                "teams": {
+                  "href": "https://www.espn.com/soccer/club/_/id/86/real-madrid"
+                }
+              },
+              "mobile": {
+                "teams": {
+                  "href": "https://www.espn.com/soccer/club/_/id/86/real-madrid"
+                }
+              }
+            }
+          }
+        },
+        {
+          "id": 137787,
+          "type": "league",
+          "uid": "s:600~l:740",
+          "guid": "cf7b0c51-7c48-3e9a-8abb-0c01b1a973a0",
+          "description": "Spanish LALIGA",
+          "sportId": 600,
+          "leagueId": 15,
+          "league": {
+            "id": 740,
+            "description": "Spanish LALIGA",
+            "abbreviation": "LALIGA",
+            "links": {
+              "web": {
+                "leagues": {
+                  "href": "https://www.espn.com/soccer/league/_/name/esp.1"
+                }
+              },
+              "mobile": {
+                "leagues": {
+                  "href": "https://www.espn.com/soccer/league/_/name/esp.1"
+                }
+              }
+            }
+          }
+        },
+        {
+          "id": 137790,
+          "type": "league",
+          "uid": "s:600~l:720",
+          "guid": "30244926-00c4-3f69-8946-f8421c97ff71",
+          "description": "German Bundesliga",
+          "sportId": 600,
+          "leagueId": 10,
+          "league": {
+            "id": 720,
+            "description": "German Bundesliga",
+            "abbreviation": "Bundesliga",
+            "links": {
+              "web": {
+                "leagues": {
+                  "href": "https://www.espn.com/soccer/league/_/name/ger.1"
+                }
+              },
+              "mobile": {
+                "leagues": {
+                  "href": "https://www.espn.com/soccer/league/_/name/ger.1"
+                }
+              }
+            }
+          }
+        },
+        {
+          "id": 81497,
+          "type": "league",
+          "uid": "s:600",
+          "guid": "119cfa41-71d4-39bf-a790-6273a52b0259",
+          "description": "Soccer",
+          "sportId": 600,
+          "leagueId": 600,
+          "league": {
+            "id": 600,
+            "description": "Soccer",
+            "links": {
+              "web": {
+                "leagues": {
+                  "href": "https://www.espn.com/soccer/"
+                }
+              },
+              "mobile": {
+                "leagues": {
+                  "href": "https://www.espn.com/soccer/"
+                }
+              }
+            }
+          }
+        },
+        {
+          "type": "guid",
+          "guid": "ee5ebeb8-b061-3613-a085-f51897e1cc59"
+        },
+        {
+          "type": "guid",
+          "guid": "483ec574-cb09-6d8f-e308-302d5d695d70"
+        },
+        {
+          "type": "guid",
+          "guid": "b69b45f1-9c19-ea12-709f-fd54107d410d"
+        },
+        {
+          "type": "guid",
+          "guid": "7bdb57b2-bf36-360a-82d4-d694d6310771"
+        },
+        {
+          "type": "guid",
+          "guid": "66434654-a8ba-a04c-98e5-6bbd0dbbb780"
+        },
+        {
+          "type": "guid",
+          "guid": "cf7b0c51-7c48-3e9a-8abb-0c01b1a973a0"
+        },
+        {
+          "type": "guid",
+          "guid": "30244926-00c4-3f69-8946-f8421c97ff71"
+        },
+        {
+          "type": "guid",
+          "guid": "119cfa41-71d4-39bf-a790-6273a52b0259"
+        }
+      ],
+      "premium": false,
+      "links": {
+        "web": {
+          "href": "https://www.espn.com/soccer/story/_/id/45159832/xabi-alonsos-rapid-rise-rookie-coach-real-madrid"
+        },
+        "mobile": {
+          "href": "http://m.espn.go.com/soccer/story?storyId=45159832"
+        },
+        "api": {
+          "self": {
+            "href": "https://content.core.api.espn.com/v1/sports/news/45159832"
+          }
+        },
+        "app": {
+          "sportscenter": {
+            "href": "sportscenter://x-callback-url/showStory?uid=45159832"
+          }
+        }
+      },
+      "byline": "Bill Connelly and Alex Kirkland"
+    },
+    {
+      "id": 44929786,
+      "nowId": "1-44929786",
+      "contentKey": "44929786-1-5-1",
+      "dataSourceIdentifier": "b0ee6b2a80694",
+      "type": "HeadlineNews",
+      "headline": "Real Madrid name Xabi Alonso as Carlo Ancelotti's successor",
+      "description": "Real Madrid have confirmed the appointment of Xabi Alonso as the club's new head coach until 2028.",
+      "lastModified": "2025-05-25T16:38:37Z",
+      "published": "2025-05-25T10:25:00Z",
+      "images": [
+        {
+          "dataSourceIdentifier": "d9f514caa3be0",
+          "id": 44929748,
+          "type": "header",
+          "name": "Bayer 04 Leverkusen head coach Xabi Alonso gestures prior to the Bundesliga match between Bayer 04 Leverkusen and VfL Bochum 1848 at BayArena\n [1296x729]",
+          "alt": "Bayer 04 Leverkusen head coach Xabi Alonso gestures prior to the Bundesliga match between Bayer 04 Leverkusen and VfL Bochum 1848 at BayArena\n",
+          "credit": "Rene Nijhuis/MB Media/Getty Images",
+          "height": 729,
+          "width": 1296,
+          "url": "https://a.espncdn.com/photo/2025/0430/r1485988_1296x729_16-9.jpg"
+        },
+        {
+          "type": "Media",
+          "name": "Rafa Benítez offers words of advice to Xabi Alonso ahead of Madrid move",
+          "caption": "Former Liverpool and Real Madrid manager Rafa Benítez gives his thoughts on Xabi Alonso's imminent move to Real Madrid.",
+          "height": 324,
+          "width": 576,
+          "url": "https://a.espncdn.com/media/motion/2025/0524/dm_250524_COM_SOC_Interview_Rafa_Benitez_offers_words_of_advice_to_Xabi_Alonso_ahead_of_Real_Madrid_move_GLO/dm_250524_COM_SOC_Interview_Rafa_Benitez_offers_words_of_advice_to_Xabi_Alonso_ahead_of_Real_Madrid_move_GLO.jpg"
+        }
+      ],
+      "categories": [
+        {
+          "id": 409224,
+          "type": "topic",
+          "guid": "52313677-19f8-b106-ec91-d8d17e6087fe",
+          "description": "news",
+          "sportId": 0,
+          "topicId": 781
+        },
+        {
+          "id": 696279,
+          "type": "contributor",
+          "guid": "ee5ebeb8-b061-3613-a085-f51897e1cc59",
+          "description": "Alex Kirkland",
+          "slug": "alex-kirkland",
+          "contributor": {
+            "id": 3878,
+            "description": "Alex Kirkland",
+            "links": {
+              "web": {},
+              "mobile": {}
+            }
+          }
+        },
+        {
+          "id": 142494,
+          "type": "team",
+          "uid": "s:600~t:131",
+          "guid": "483ec574-cb09-6d8f-e308-302d5d695d70",
+          "description": "Bayer Leverkusen",
+          "sportId": 600,
+          "teamId": 131,
+          "team": {
+            "id": 131,
+            "description": "Bayer Leverkusen",
+            "links": {
+              "web": {
+                "teams": {
+                  "href": "https://www.espn.com/soccer/club/_/id/131/bayer-leverkusen"
+                }
+              },
+              "mobile": {
+                "teams": {
+                  "href": "https://www.espn.com/soccer/club/_/id/131/bayer-leverkusen"
+                }
+              }
+            }
+          }
+        },
+        {
+          "id": 142464,
+          "type": "team",
+          "uid": "s:600~t:86",
+          "guid": "66434654-a8ba-a04c-98e5-6bbd0dbbb780",
+          "description": "Real Madrid",
+          "sportId": 600,
+          "teamId": 86,
+          "team": {
+            "id": 86,
+            "description": "Real Madrid",
+            "links": {
+              "web": {
+                "teams": {
+                  "href": "https://www.espn.com/soccer/club/_/id/86/real-madrid"
+                }
+              },
+              "mobile": {
+                "teams": {
+                  "href": "https://www.espn.com/soccer/club/_/id/86/real-madrid"
+                }
+              }
+            }
+          }
+        },
+        {
+          "id": 137787,
+          "type": "league",
+          "uid": "s:600~l:740",
+          "guid": "cf7b0c51-7c48-3e9a-8abb-0c01b1a973a0",
+          "description": "Spanish LALIGA",
+          "sportId": 600,
+          "leagueId": 15,
+          "league": {
+            "id": 740,
+            "description": "Spanish LALIGA",
+            "abbreviation": "LALIGA",
+            "links": {
+              "web": {
+                "leagues": {
+                  "href": "https://www.espn.com/soccer/league/_/name/esp.1"
+                }
+              },
+              "mobile": {
+                "leagues": {
+                  "href": "https://www.espn.com/soccer/league/_/name/esp.1"
+                }
+              }
+            }
+          }
+        },
+        {
+          "id": 137790,
+          "type": "league",
+          "uid": "s:600~l:720",
+          "guid": "30244926-00c4-3f69-8946-f8421c97ff71",
+          "description": "German Bundesliga",
+          "sportId": 600,
+          "leagueId": 10,
+          "league": {
+            "id": 720,
+            "description": "German Bundesliga",
+            "abbreviation": "Bundesliga",
+            "links": {
+              "web": {
+                "leagues": {
+                  "href": "https://www.espn.com/soccer/league/_/name/ger.1"
+                }
+              },
+              "mobile": {
+                "leagues": {
+                  "href": "https://www.espn.com/soccer/league/_/name/ger.1"
+                }
+              }
+            }
+          }
+        },
+        {
+          "id": 81497,
+          "type": "league",
+          "uid": "s:600",
+          "guid": "119cfa41-71d4-39bf-a790-6273a52b0259",
+          "description": "Soccer",
+          "sportId": 600,
+          "leagueId": 600,
+          "league": {
+            "id": 600,
+            "description": "Soccer",
+            "links": {
+              "web": {
+                "leagues": {
+                  "href": "https://www.espn.com/soccer/"
+                }
+              },
+              "mobile": {
+                "leagues": {
+                  "href": "https://www.espn.com/soccer/"
+                }
+              }
+            }
+          }
+        },
+        {
+          "type": "guid",
+          "guid": "52313677-19f8-b106-ec91-d8d17e6087fe"
+        },
+        {
+          "type": "guid",
+          "guid": "ee5ebeb8-b061-3613-a085-f51897e1cc59"
+        },
+        {
+          "type": "guid",
+          "guid": "483ec574-cb09-6d8f-e308-302d5d695d70"
+        },
+        {
+          "type": "guid",
+          "guid": "66434654-a8ba-a04c-98e5-6bbd0dbbb780"
+        },
+        {
+          "type": "guid",
+          "guid": "cf7b0c51-7c48-3e9a-8abb-0c01b1a973a0"
+        },
+        {
+          "type": "guid",
+          "guid": "30244926-00c4-3f69-8946-f8421c97ff71"
+        },
+        {
+          "type": "guid",
+          "guid": "119cfa41-71d4-39bf-a790-6273a52b0259"
+        }
+      ],
+      "premium": false,
+      "links": {
+        "web": {
+          "href": "https://www.espn.com/soccer/story/_/id/44929786/real-madrid-name-xabi-alonso-carlo-ancelotti-successor"
+        },
+        "mobile": {
+          "href": "http://m.espn.go.com/soccer/story?storyId=44929786"
+        },
+        "api": {
+          "self": {
+            "href": "https://content.core.api.espn.com/v1/sports/news/44929786"
+          }
+        },
+        "app": {
+          "sportscenter": {
+            "href": "sportscenter://x-callback-url/showStory?uid=44929786"
+          }
+        }
+      },
+      "byline": "Alex Kirkland and Rodrigo Faez"
+    },
+    {
+      "id": 45297676,
+      "nowId": "1-45297676",
+      "contentKey": "45297676-1-5-1",
+      "dataSourceIdentifier": "b86ddd07262d3",
+      "type": "HeadlineNews",
+      "headline": "Liverpool are frontrunners in race to sign Florian Wirtz - sources",
+      "description": "Liverpool are leading the race to sign Germany international Florian Wirtz from Bayer Leverkusen, sources have told ESPN.",
+      "lastModified": "2025-05-24T21:32:34Z",
+      "published": "2025-05-24T14:31:00Z",
+      "images": [
+        {
+          "dataSourceIdentifier": "142b3624d3654",
+          "id": 45297217,
+          "type": "header",
+          "name": "Florian Wirtz of Bayer 04 Leverkusen gestures during the Bundesliga match between Bayer 04 Leverkusen and 1. FC Union Berlin at BayArena\n [1296x729]",
+          "alt": "Florian Wirtz of Bayer 04 Leverkusen gestures during the Bundesliga match between Bayer 04 Leverkusen and 1. FC Union Berlin at BayArena\n",
+          "credit": "Lars Baron/Getty Images",
+          "height": 729,
+          "width": 1296,
+          "url": "https://a.espncdn.com/photo/2025/0524/r1497506_1296x729_16-9.jpg"
+        },
+        {
+          "type": "Media",
+          "name": "Salah: Ballon d'Or win would mean a lot",
+          "caption": "Mohamed Salah speaks about his Ballon d'Or hopes and explains why he signed a new Liverpool contract.",
+          "height": 324,
+          "width": 576,
+          "url": "https://a.espncdn.com/media/motion/2025/0523/dm_250523_COM_SOC_Interview_Salah_Ballon_dOr_win_would_mean_a_lot__20250523_GLOBAL/dm_250523_COM_SOC_Interview_Salah_Ballon_dOr_win_would_mean_a_lot__20250523_GLOBAL.jpg"
+        }
+      ],
+      "categories": [
+        {
+          "id": 518441,
+          "type": "topic",
+          "guid": "c20f7f80-f88e-4084-6567-d1bf00c52bf0",
+          "description": "soccer transfers",
+          "sportId": 0,
+          "topicId": 3
+        },
+        {
+          "id": 142295,
+          "type": "team",
+          "uid": "s:600~t:364",
+          "guid": "a47fbcec-c948-cf4c-9e41-3dfa37588c9c",
+          "description": "Liverpool",
+          "sportId": 600,
+          "teamId": 364,
+          "team": {
+            "id": 364,
+            "description": "Liverpool",
+            "links": {
+              "web": {
+                "teams": {
+                  "href": "https://www.espn.com/soccer/club/_/id/364/liverpool"
+                }
+              },
+              "mobile": {
+                "teams": {
+                  "href": "https://www.espn.com/soccer/club/_/id/364/liverpool"
+                }
+              }
+            }
+          }
+        },
+        {
+          "id": 142494,
+          "type": "team",
+          "uid": "s:600~t:131",
+          "guid": "483ec574-cb09-6d8f-e308-302d5d695d70",
+          "description": "Bayer Leverkusen",
+          "sportId": 600,
+          "teamId": 131,
+          "team": {
+            "id": 131,
+            "description": "Bayer Leverkusen",
+            "links": {
+              "web": {
+                "teams": {
+                  "href": "https://www.espn.com/soccer/club/_/id/131/bayer-leverkusen"
+                }
+              },
+              "mobile": {
+                "teams": {
+                  "href": "https://www.espn.com/soccer/club/_/id/131/bayer-leverkusen"
+                }
+              }
+            }
+          }
+        },
+        {
+          "id": 409224,
+          "type": "topic",
+          "guid": "52313677-19f8-b106-ec91-d8d17e6087fe",
+          "description": "news",
+          "sportId": 0,
+          "topicId": 781
+        },
+        {
+          "id": 696387,
+          "type": "contributor",
+          "guid": "4a1324bd-b752-366c-9bbe-ad2f04894226",
+          "description": "Mark Ogden",
+          "slug": "mark-ogden",
+          "contributor": {
+            "id": 2885,
+            "description": "Mark Ogden",
+            "links": {
+              "web": {},
+              "mobile": {}
+            }
+          }
+        },
+        {
+          "id": 137790,
+          "type": "league",
+          "uid": "s:600~l:720",
+          "guid": "30244926-00c4-3f69-8946-f8421c97ff71",
+          "description": "German Bundesliga",
+          "sportId": 600,
+          "leagueId": 10,
+          "league": {
+            "id": 720,
+            "description": "German Bundesliga",
+            "abbreviation": "Bundesliga",
+            "links": {
+              "web": {
+                "leagues": {
+                  "href": "https://www.espn.com/soccer/league/_/name/ger.1"
+                }
+              },
+              "mobile": {
+                "leagues": {
+                  "href": "https://www.espn.com/soccer/league/_/name/ger.1"
+                }
+              }
+            }
+          }
+        },
+        {
+          "id": 81497,
+          "type": "league",
+          "uid": "s:600",
+          "guid": "119cfa41-71d4-39bf-a790-6273a52b0259",
+          "description": "Soccer",
+          "sportId": 600,
+          "leagueId": 600,
+          "league": {
+            "id": 600,
+            "description": "Soccer",
+            "links": {
+              "web": {
+                "leagues": {
+                  "href": "https://www.espn.com/soccer/"
+                }
+              },
+              "mobile": {
+                "leagues": {
+                  "href": "https://www.espn.com/soccer/"
+                }
+              }
+            }
+          }
+        },
+        {
+          "id": 137781,
+          "type": "league",
+          "uid": "s:600~l:700",
+          "guid": "6949f3af-300c-35f1-beab-b95669eedd38",
+          "description": "English Premier League",
+          "sportId": 600,
+          "leagueId": 23,
+          "league": {
+            "id": 700,
+            "description": "English Premier League",
+            "abbreviation": "Premier League",
+            "links": {
+              "web": {
+                "leagues": {
+                  "href": "https://www.espn.com/soccer/league/_/name/eng.1"
+                }
+              },
+              "mobile": {
+                "leagues": {
+                  "href": "https://www.espn.com/soccer/league/_/name/eng.1"
+                }
+              }
+            }
+          }
+        },
+        {
+          "id": 695663,
+          "type": "contributor",
+          "guid": "bee1cd48-9d83-33b9-aff8-ea8a7543636a",
+          "description": "Beth Lindop",
+          "slug": "beth-lindop",
+          "contributor": {
+            "id": 4041,
+            "description": "Beth Lindop",
+            "links": {
+              "web": {},
+              "mobile": {}
+            }
+          }
+        },
+        {
+          "id": 436509,
+          "type": "athlete",
+          "uid": "s:600~a:303748",
+          "guid": "6fb5c533-f861-37b8-8315-0d57da82124f",
+          "description": "Florian Wirtz",
+          "sportId": 600,
+          "athleteId": 303748,
+          "athlete": {
+            "id": 303748,
+            "description": "Florian Wirtz",
+            "links": {
+              "web": {
+                "athletes": {
+                  "href": "https://www.espn.com/soccer/player/_/id/303748/florian-wirtz"
+                }
+              },
+              "mobile": {
+                "athletes": {
+                  "href": "https://www.espn.com/soccer/player/_/id/303748/florian-wirtz"
+                }
+              }
+            }
+          }
+        },
+        {
+          "type": "guid",
+          "guid": "c20f7f80-f88e-4084-6567-d1bf00c52bf0"
+        },
+        {
+          "type": "guid",
+          "guid": "a47fbcec-c948-cf4c-9e41-3dfa37588c9c"
+        },
+        {
+          "type": "guid",
+          "guid": "483ec574-cb09-6d8f-e308-302d5d695d70"
+        },
+        {
+          "type": "guid",
+          "guid": "52313677-19f8-b106-ec91-d8d17e6087fe"
+        },
+        {
+          "type": "guid",
+          "guid": "4a1324bd-b752-366c-9bbe-ad2f04894226"
+        },
+        {
+          "type": "guid",
+          "guid": "30244926-00c4-3f69-8946-f8421c97ff71"
+        },
+        {
+          "type": "guid",
+          "guid": "119cfa41-71d4-39bf-a790-6273a52b0259"
+        },
+        {
+          "type": "guid",
+          "guid": "6949f3af-300c-35f1-beab-b95669eedd38"
+        },
+        {
+          "type": "guid",
+          "guid": "bee1cd48-9d83-33b9-aff8-ea8a7543636a"
+        },
+        {
+          "type": "guid",
+          "guid": "6fb5c533-f861-37b8-8315-0d57da82124f"
+        }
+      ],
+      "premium": false,
+      "links": {
+        "web": {
+          "href": "https://www.espn.com/soccer/story/_/id/45297676/liverpool-frontrunners-race-sign-florian-wirtz-sources"
+        },
+        "mobile": {
+          "href": "http://m.espn.go.com/soccer/story?storyId=45297676"
+        },
+        "api": {
+          "self": {
+            "href": "https://content.core.api.espn.com/v1/sports/news/45297676"
+          }
+        },
+        "app": {
+          "sportscenter": {
+            "href": "sportscenter://x-callback-url/showStory?uid=45297676"
+          }
+        }
+      },
+      "byline": "Beth Lindop and Mark Ogden"
+    },
+    {
+      "id": 45274060,
+      "nowId": "1-45274060",
+      "contentKey": "45274060-1-6-1",
+      "dataSourceIdentifier": "964df4cbfe6b8",
+      "type": "Story",
+      "headline": "Transfer rumors, news: Liverpool could win race to sign Wirtz",
+      "description": "Bayer Leverkusen midfielder Florian Wirtz could make the switch to Liverpool. Transfer Talk has the latest news, gossip and rumors.",
+      "lastModified": "2025-05-23T18:31:38Z",
+      "published": "2025-05-23T18:31:00Z",
+      "images": [
+        {
+          "dataSourceIdentifier": "a411954672236",
+          "id": 45285716,
+          "type": "header",
+          "name": "Wirtz [1296x729]",
+          "credit": "(Photo by Pau Barrena/Getty Images)",
+          "height": 729,
+          "width": 1296,
+          "url": "https://a.espncdn.com/photo/2025/0523/r1497256_1296x729_16-9.jpg"
+        }
+      ],
+      "categories": [
+        {
+          "id": 518441,
+          "type": "topic",
+          "guid": "c20f7f80-f88e-4084-6567-d1bf00c52bf0",
+          "description": "soccer transfers",
+          "sportId": 0,
+          "topicId": 3
+        },
+        {
+          "id": 142494,
+          "type": "team",
+          "uid": "s:600~t:131",
+          "guid": "483ec574-cb09-6d8f-e308-302d5d695d70",
+          "description": "Bayer Leverkusen",
+          "sportId": 600,
+          "teamId": 131,
+          "team": {
+            "id": 131,
+            "description": "Bayer Leverkusen",
+            "links": {
+              "web": {
+                "teams": {
+                  "href": "https://www.espn.com/soccer/club/_/id/131/bayer-leverkusen"
+                }
+              },
+              "mobile": {
+                "teams": {
+                  "href": "https://www.espn.com/soccer/club/_/id/131/bayer-leverkusen"
+                }
+              }
+            }
+          }
+        },
+        {
+          "id": 137781,
+          "type": "league",
+          "uid": "s:600~l:700",
+          "guid": "6949f3af-300c-35f1-beab-b95669eedd38",
+          "description": "English Premier League",
+          "sportId": 600,
+          "leagueId": 23,
+          "league": {
+            "id": 700,
+            "description": "English Premier League",
+            "abbreviation": "Premier League",
+            "links": {
+              "web": {
+                "leagues": {
+                  "href": "https://www.espn.com/soccer/league/_/name/eng.1"
+                }
+              },
+              "mobile": {
+                "leagues": {
+                  "href": "https://www.espn.com/soccer/league/_/name/eng.1"
+                }
+              }
+            }
+          }
+        },
+        {
+          "id": 137790,
+          "type": "league",
+          "uid": "s:600~l:720",
+          "guid": "30244926-00c4-3f69-8946-f8421c97ff71",
+          "description": "German Bundesliga",
+          "sportId": 600,
+          "leagueId": 10,
+          "league": {
+            "id": 720,
+            "description": "German Bundesliga",
+            "abbreviation": "Bundesliga",
+            "links": {
+              "web": {
+                "leagues": {
+                  "href": "https://www.espn.com/soccer/league/_/name/ger.1"
+                }
+              },
+              "mobile": {
+                "leagues": {
+                  "href": "https://www.espn.com/soccer/league/_/name/ger.1"
+                }
+              }
+            }
+          }
+        },
+        {
+          "id": 597355,
+          "type": "topic",
+          "guid": "f9197630-65d3-54d8-60b3-72182b25d2ef",
+          "description": "blog - transfer talk",
+          "sportId": 0,
+          "topicId": 79
+        },
+        {
+          "id": 81497,
+          "type": "league",
+          "uid": "s:600",
+          "guid": "119cfa41-71d4-39bf-a790-6273a52b0259",
+          "description": "Soccer",
+          "sportId": 600,
+          "leagueId": 600,
+          "league": {
+            "id": 600,
+            "description": "Soccer",
+            "links": {
+              "web": {
+                "leagues": {
+                  "href": "https://www.espn.com/soccer/"
+                }
+              },
+              "mobile": {
+                "leagues": {
+                  "href": "https://www.espn.com/soccer/"
+                }
+              }
+            }
+          }
+        },
+        {
+          "id": 436509,
+          "type": "athlete",
+          "uid": "s:600~a:303748",
+          "guid": "6fb5c533-f861-37b8-8315-0d57da82124f",
+          "description": "Florian Wirtz",
+          "sportId": 600,
+          "athleteId": 303748,
+          "athlete": {
+            "id": 303748,
+            "description": "Florian Wirtz",
+            "links": {
+              "web": {
+                "athletes": {
+                  "href": "https://www.espn.com/soccer/player/_/id/303748/florian-wirtz"
+                }
+              },
+              "mobile": {
+                "athletes": {
+                  "href": "https://www.espn.com/soccer/player/_/id/303748/florian-wirtz"
+                }
+              }
+            }
+          }
+        },
+        {
+          "type": "guid",
+          "guid": "c20f7f80-f88e-4084-6567-d1bf00c52bf0"
+        },
+        {
+          "type": "guid",
+          "guid": "483ec574-cb09-6d8f-e308-302d5d695d70"
+        },
+        {
+          "type": "guid",
+          "guid": "6949f3af-300c-35f1-beab-b95669eedd38"
+        },
+        {
+          "type": "guid",
+          "guid": "30244926-00c4-3f69-8946-f8421c97ff71"
+        },
+        {
+          "type": "guid",
+          "guid": "f9197630-65d3-54d8-60b3-72182b25d2ef"
+        },
+        {
+          "type": "guid",
+          "guid": "119cfa41-71d4-39bf-a790-6273a52b0259"
+        },
+        {
+          "type": "guid",
+          "guid": "6fb5c533-f861-37b8-8315-0d57da82124f"
+        }
+      ],
+      "premium": false,
+      "links": {
+        "web": {
+          "href": "https://www.espn.com/soccer/story/_/id/45274060/transfer-rumors-news-manchester-united-lead-race-sign-crystal-palaces-jean-philippe-mateta"
+        },
+        "mobile": {
+          "href": "http://m.espn.go.com/soccer/story?storyId=45274060"
+        },
+        "api": {
+          "self": {
+            "href": "https://content.core.api.espn.com/v1/sports/news/45274060"
+          }
+        },
+        "app": {
+          "sportscenter": {
+            "href": "sportscenter://x-callback-url/showStory?uid=45274060"
+          }
+        }
+      },
+      "byline": "ESPN"
+    },
+    {
+      "id": 45234426,
+      "nowId": "1-45234426",
+      "contentKey": "45234426-1-6-1",
+      "dataSourceIdentifier": "b0007f8730118",
+      "type": "Story",
+      "headline": "De Bruyne, Sané, Messi, Ronaldo among top free agents in 2025",
+      "description": "These players have contracts that expire this summer, and there are some big names involved.",
+      "lastModified": "2025-05-23T11:14:04Z",
+      "published": "2025-05-23T08:00:00Z",
+      "images": [
+        {
+          "dataSourceIdentifier": "6aec5359e7807",
+          "id": 45011242,
+          "type": "header",
+          "name": "De Bruyne celeb Man City 250505 [1296x729]",
+          "credit": "James Gill - Danehouse/Getty Images",
+          "height": 729,
+          "width": 1296,
+          "url": "https://a.espncdn.com/photo/2025/0505/r1488492_1296x729_16-9.jpg"
+        },
+        {
+          "type": "Media",
+          "name": "How would Trent fit in at Real Madrid with Alonso in charge?",
+          "caption": "Gab Marcotti and Julien Laurens discuss how Trent Alexander-Arnold might fit in at Real Madrid if Xabi Alonso is named as Carlo Ancelotti's replacement.",
+          "height": 324,
+          "width": 576,
+          "url": "https://a.espncdn.com/media/motion/2025/0505/dm_250505_How_would_Trent_fit_in_at_Real_Madrid_with_Alonso_in_charge/dm_250505_How_would_Trent_fit_in_at_Real_Madrid_with_Alonso_in_charge.jpg"
+        }
+      ],
+      "categories": [
+        {
+          "id": 518441,
+          "type": "topic",
+          "guid": "c20f7f80-f88e-4084-6567-d1bf00c52bf0",
+          "description": "soccer transfers",
+          "sportId": 0,
+          "topicId": 3
+        },
+        {
+          "id": 137781,
+          "type": "league",
+          "uid": "s:600~l:700",
+          "guid": "6949f3af-300c-35f1-beab-b95669eedd38",
+          "description": "English Premier League",
+          "sportId": 600,
+          "leagueId": 23,
+          "league": {
+            "id": 700,
+            "description": "English Premier League",
+            "abbreviation": "Premier League",
+            "links": {
+              "web": {
+                "leagues": {
+                  "href": "https://www.espn.com/soccer/league/_/name/eng.1"
+                }
+              },
+              "mobile": {
+                "leagues": {
+                  "href": "https://www.espn.com/soccer/league/_/name/eng.1"
+                }
+              }
+            }
+          }
+        },
+        {
+          "id": 137798,
+          "type": "league",
+          "uid": "s:600~l:730",
+          "guid": "9c1e0753-2757-3b78-a6ed-1b595caf8191",
+          "description": "Italian Serie A",
+          "sportId": 600,
+          "leagueId": 12,
+          "league": {
+            "id": 730,
+            "description": "Italian Serie A",
+            "abbreviation": "Serie A",
+            "links": {
+              "web": {
+                "leagues": {
+                  "href": "https://www.espn.com/soccer/league/_/name/ita.1"
+                }
+              },
+              "mobile": {
+                "leagues": {
+                  "href": "https://www.espn.com/soccer/league/_/name/ita.1"
+                }
+              }
+            }
+          }
+        },
+        {
+          "id": 137787,
+          "type": "league",
+          "uid": "s:600~l:740",
+          "guid": "cf7b0c51-7c48-3e9a-8abb-0c01b1a973a0",
+          "description": "Spanish LALIGA",
+          "sportId": 600,
+          "leagueId": 15,
+          "league": {
+            "id": 740,
+            "description": "Spanish LALIGA",
+            "abbreviation": "LALIGA",
+            "links": {
+              "web": {
+                "leagues": {
+                  "href": "https://www.espn.com/soccer/league/_/name/esp.1"
+                }
+              },
+              "mobile": {
+                "leagues": {
+                  "href": "https://www.espn.com/soccer/league/_/name/esp.1"
+                }
+              }
+            }
+          }
+        },
+        {
+          "id": 137790,
+          "type": "league",
+          "uid": "s:600~l:720",
+          "guid": "30244926-00c4-3f69-8946-f8421c97ff71",
+          "description": "German Bundesliga",
+          "sportId": 600,
+          "leagueId": 10,
+          "league": {
+            "id": 720,
+            "description": "German Bundesliga",
+            "abbreviation": "Bundesliga",
+            "links": {
+              "web": {
+                "leagues": {
+                  "href": "https://www.espn.com/soccer/league/_/name/ger.1"
+                }
+              },
+              "mobile": {
+                "leagues": {
+                  "href": "https://www.espn.com/soccer/league/_/name/ger.1"
+                }
+              }
+            }
+          }
+        },
+        {
+          "id": 137799,
+          "type": "league",
+          "uid": "s:600~l:710",
+          "guid": "b7217910-7773-3ea8-bc69-30c19c579306",
+          "description": "French Ligue 1",
+          "sportId": 600,
+          "leagueId": 9,
+          "league": {
+            "id": 710,
+            "description": "French Ligue 1",
+            "abbreviation": "Ligue 1",
+            "links": {
+              "web": {
+                "leagues": {
+                  "href": "https://www.espn.com/soccer/league/_/name/fra.1"
+                }
+              },
+              "mobile": {
+                "leagues": {
+                  "href": "https://www.espn.com/soccer/league/_/name/fra.1"
+                }
+              }
+            }
+          }
+        },
+        {
+          "type": "guid",
+          "guid": "c20f7f80-f88e-4084-6567-d1bf00c52bf0"
+        },
+        {
+          "type": "guid",
+          "guid": "6949f3af-300c-35f1-beab-b95669eedd38"
+        },
+        {
+          "type": "guid",
+          "guid": "9c1e0753-2757-3b78-a6ed-1b595caf8191"
+        },
+        {
+          "type": "guid",
+          "guid": "cf7b0c51-7c48-3e9a-8abb-0c01b1a973a0"
+        },
+        {
+          "type": "guid",
+          "guid": "30244926-00c4-3f69-8946-f8421c97ff71"
+        },
+        {
+          "type": "guid",
+          "guid": "b7217910-7773-3ea8-bc69-30c19c579306"
+        }
+      ],
+      "premium": false,
+      "links": {
+        "web": {
+          "href": "https://www.espn.com/soccer/story/_/id/45234426/de-bruyne-sane-messi-ronaldo-top-free-agents-2025"
+        },
+        "mobile": {
+          "href": "http://m.espn.go.com/soccer/story?storyId=45234426"
+        },
+        "api": {
+          "self": {
+            "href": "https://content.core.api.espn.com/v1/sports/news/45234426"
+          }
+        },
+        "app": {
+          "sportscenter": {
+            "href": "sportscenter://x-callback-url/showStory?uid=45234426"
+          }
+        }
+      },
+      "byline": "Sam Tighe"
+    }
+  ]
+}

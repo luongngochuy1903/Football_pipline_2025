@@ -4,6 +4,7 @@
     "team": "PSG",
     "gross/w": "€ 346,154",
     "gross/y": "€ 18,000,000",
+    "signed": "Aug 12, 2023",
     "expiration": "Jun 30, 2028",
     "gross_remaining": "€ 72,000,000",
     "release_clause": ""
@@ -13,6 +14,7 @@
     "team": "PSG",
     "gross/w": "€ 314,615",
     "gross/y": "€ 16,360,000",
+    "signed": "Jan 17, 2025",
     "expiration": "Jun 30, 2029",
     "gross_remaining": "€ 81,800,000",
     "release_clause": ""
@@ -22,6 +24,7 @@
     "team": "PSG",
     "gross/w": "€ 258,654",
     "gross/y": "€ 13,450,000",
+    "signed": "May 19, 2023",
     "expiration": "Jun 30, 2028",
     "gross_remaining": "€ 53,800,000",
     "release_clause": ""
@@ -31,6 +34,7 @@
     "team": "PSG",
     "gross/w": "€ 253,846",
     "gross/y": "€ 13,200,000",
+    "signed": "Jul 9, 2023",
     "expiration": "Jun 30, 2028",
     "gross_remaining": "€ 52,800,000",
     "release_clause": ""
@@ -40,6 +44,7 @@
     "team": "PSG",
     "gross/w": "€ 253,846",
     "gross/y": "€ 13,200,000",
+    "signed": "Feb 7, 2025",
     "expiration": "Jun 30, 2029",
     "gross_remaining": "€ 66,000,000",
     "release_clause": ""
@@ -49,6 +54,7 @@
     "team": "PSG",
     "gross/w": "€ 244,808",
     "gross/y": "€ 12,730,000",
+    "signed": "Jul 14, 2021",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 25,460,000",
     "release_clause": ""
@@ -58,6 +64,7 @@
     "team": "PSG",
     "gross/w": "€ 219,231",
     "gross/y": "€ 11,400,000",
+    "signed": "Apr 27, 2024",
     "expiration": "Jun 30, 2029",
     "gross_remaining": "€ 57,000,000",
     "release_clause": ""
@@ -67,6 +74,7 @@
     "team": "PSG",
     "gross/w": "€ 209,615",
     "gross/y": "€ 10,900,000",
+    "signed": "Feb 7, 2025",
     "expiration": "Jun 30, 2029",
     "gross_remaining": "€ 54,500,000",
     "release_clause": ""
@@ -76,6 +84,7 @@
     "team": "PSG",
     "gross/w": "€ 192,308",
     "gross/y": "€ 10,000,000",
+    "signed": "Feb 7, 2025",
     "expiration": "Jun 30, 2029",
     "gross_remaining": "€ 50,000,000",
     "release_clause": ""
@@ -85,6 +94,7 @@
     "team": "PSG",
     "gross/w": "€ 157,308",
     "gross/y": "€ 8,180,000",
+    "signed": "Jul 6, 2023",
     "expiration": "Jun 30, 2028",
     "gross_remaining": "€ 32,720,000",
     "release_clause": ""
@@ -94,6 +104,7 @@
     "team": "PSG",
     "gross/w": "€ 147,692",
     "gross/y": "€ 7,680,000",
+    "signed": "Dec 20, 2023",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 15,360,000",
     "release_clause": ""
@@ -103,6 +114,7 @@
     "team": "PSG",
     "gross/w": "€ 139,808",
     "gross/y": "€ 7,270,000",
+    "signed": "Jul 6, 2023",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 14,540,000",
     "release_clause": ""
@@ -112,6 +124,7 @@
     "team": "PSG",
     "gross/w": "€ 126,923",
     "gross/y": "€ 6,600,000",
+    "signed": "Aug 31, 2023",
     "expiration": "Jun 30, 2028",
     "gross_remaining": "€ 26,400,000",
     "release_clause": ""
@@ -121,6 +134,7 @@
     "team": "Marseille",
     "gross/w": "€ 122,308",
     "gross/y": "€ 6,360,000",
+    "signed": "Sep 17, 2024",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 12,720,000",
     "release_clause": ""
@@ -130,17 +144,9 @@
     "team": "Marseille",
     "gross/w": "€ 118,846",
     "gross/y": "€ 6,180,000",
+    "signed": "Jul 22, 2024",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 6,180,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Alexandre Lacazette",
-    "team": "Lyon",
-    "gross/w": "€ 115,385",
-    "gross/y": "€ 6,000,000",
-    "expiration": "Jun 30, 2025",
-    "gross_remaining": "€ 6,000,000",
     "release_clause": ""
   },
   {
@@ -148,8 +154,19 @@
     "team": "PSG",
     "gross/w": "€ 115,385",
     "gross/y": "€ 6,000,000",
+    "signed": "Aug 17, 2024",
     "expiration": "Jun 30, 2029",
     "gross_remaining": "€ 30,000,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Alexandre Lacazette",
+    "team": "Lyon",
+    "gross/w": "€ 115,385",
+    "gross/y": "€ 6,000,000",
+    "signed": "Jul 1, 2022",
+    "expiration": "Jun 30, 2025",
+    "gross_remaining": "€ 6,000,000",
     "release_clause": ""
   },
   {
@@ -157,17 +174,9 @@
     "team": "PSG",
     "gross/w": "€ 105,769",
     "gross/y": "€ 5,500,000",
+    "signed": "Jan 1, 2024",
     "expiration": "Jun 30, 2028",
     "gross_remaining": "€ 22,000,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Ismaël Bennacer",
-    "team": "Marseille",
-    "gross/w": "€ 104,808",
-    "gross/y": "€ 5,450,000",
-    "expiration": "Jun 30, 2025",
-    "gross_remaining": "€ 5,450,000",
     "release_clause": ""
   },
   {
@@ -175,15 +184,7 @@
     "team": "Marseille",
     "gross/w": "€ 104,808",
     "gross/y": "€ 5,450,000",
-    "expiration": "Jun 30, 2027",
-    "gross_remaining": "€ 16,350,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Fabián Ruiz",
-    "team": "PSG",
-    "gross/w": "€ 104,808",
-    "gross/y": "€ 5,450,000",
+    "signed": "Jul 1, 2023",
     "expiration": "Jun 30, 2027",
     "gross_remaining": "€ 16,350,000",
     "release_clause": ""
@@ -193,6 +194,7 @@
     "team": "Marseille",
     "gross/w": "€ 104,808",
     "gross/y": "€ 5,450,000",
+    "signed": "Jul 18, 2024",
     "expiration": "Jun 30, 2029",
     "gross_remaining": "€ 27,250,000",
     "release_clause": ""
@@ -202,6 +204,17 @@
     "team": "Lyon",
     "gross/w": "€ 104,808",
     "gross/y": "€ 5,450,000",
+    "signed": "Jul 1, 2022",
+    "expiration": "Jun 30, 2027",
+    "gross_remaining": "€ 16,350,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Fabián Ruiz",
+    "team": "PSG",
+    "gross/w": "€ 104,808",
+    "gross/y": "€ 5,450,000",
+    "signed": "Aug 30, 2022",
     "expiration": "Jun 30, 2027",
     "gross_remaining": "€ 16,350,000",
     "release_clause": ""
@@ -211,17 +224,19 @@
     "team": "Lille",
     "gross/w": "€ 104,808",
     "gross/y": "€ 5,450,000",
+    "signed": "Sep 6, 2024",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 10,900,000",
     "release_clause": ""
   },
   {
-    "player_name": "João Neves",
-    "team": "PSG",
-    "gross/w": "€ 92,692",
-    "gross/y": "€ 4,820,000",
-    "expiration": "Jun 30, 2029",
-    "gross_remaining": "€ 24,100,000",
+    "player_name": "Ismaël Bennacer",
+    "team": "Marseille",
+    "gross/w": "€ 104,808",
+    "gross/y": "€ 5,450,000",
+    "signed": "Feb 3, 2025",
+    "expiration": "Jun 30, 2025",
+    "gross_remaining": "€ 5,450,000",
     "release_clause": ""
   },
   {
@@ -229,26 +244,19 @@
     "team": "Lyon",
     "gross/w": "€ 92,692",
     "gross/y": "€ 4,820,000",
+    "signed": "Jan 27, 2024",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 9,640,000",
     "release_clause": ""
   },
   {
-    "player_name": "Brice Samba",
-    "team": "Rennes",
-    "gross/w": "€ 87,500",
-    "gross/y": "€ 4,550,000",
-    "expiration": "Jun 30, 2029",
-    "gross_remaining": "€ 22,750,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Randal Kolo Muani",
+    "player_name": "João Neves",
     "team": "PSG",
-    "gross/w": "€ 87,500",
-    "gross/y": "€ 4,550,000",
-    "expiration": "Jun 30, 2028",
-    "gross_remaining": "€ 18,200,000",
+    "gross/w": "€ 92,692",
+    "gross/y": "€ 4,820,000",
+    "signed": "Aug 5, 2024",
+    "expiration": "Jun 30, 2029",
+    "gross_remaining": "€ 24,100,000",
     "release_clause": ""
   },
   {
@@ -256,6 +264,7 @@
     "team": "Rennes",
     "gross/w": "€ 87,500",
     "gross/y": "€ 4,550,000",
+    "signed": "Jan 1, 2025",
     "expiration": "Jun 30, 2029",
     "gross_remaining": "€ 22,750,000",
     "release_clause": ""
@@ -265,17 +274,29 @@
     "team": "Marseille",
     "gross/w": "€ 87,500",
     "gross/y": "€ 4,550,000",
+    "signed": "Jan 31, 2025",
     "expiration": "Jun 30, 2029",
     "gross_remaining": "€ 22,750,000",
     "release_clause": ""
   },
   {
-    "player_name": "Thomas Meunier",
-    "team": "Lille",
-    "gross/w": "€ 87,308",
-    "gross/y": "€ 4,540,000",
-    "expiration": "Jun 30, 2026",
-    "gross_remaining": "€ 9,080,000",
+    "player_name": "Randal Kolo Muani",
+    "team": "PSG",
+    "gross/w": "€ 87,500",
+    "gross/y": "€ 4,550,000",
+    "signed": "Sep 1, 2023",
+    "expiration": "Jun 30, 2028",
+    "gross_remaining": "€ 18,200,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Brice Samba",
+    "team": "Rennes",
+    "gross/w": "€ 87,500",
+    "gross/y": "€ 4,550,000",
+    "signed": "Jan 8, 2025",
+    "expiration": "Jun 30, 2029",
+    "gross_remaining": "€ 22,750,000",
     "release_clause": ""
   },
   {
@@ -283,8 +304,19 @@
     "team": "PSG",
     "gross/w": "€ 87,308",
     "gross/y": "€ 4,540,000",
+    "signed": "Aug 9, 2024",
     "expiration": "Jun 30, 2029",
     "gross_remaining": "€ 22,700,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Thomas Meunier",
+    "team": "Lille",
+    "gross/w": "€ 87,308",
+    "gross/y": "€ 4,540,000",
+    "signed": "Jul 19, 2024",
+    "expiration": "Jun 30, 2026",
+    "gross_remaining": "€ 9,080,000",
     "release_clause": ""
   },
   {
@@ -292,6 +324,7 @@
     "team": "PSG",
     "gross/w": "€ 84,231",
     "gross/y": "€ 4,380,000",
+    "signed": "Mar 16, 2021",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 4,380,000",
     "release_clause": ""
@@ -301,17 +334,9 @@
     "team": "Marseille",
     "gross/w": "€ 80,769",
     "gross/y": "€ 4,200,000",
+    "signed": "Aug 16, 2024",
     "expiration": "Jun 30, 2028",
     "gross_remaining": "€ 16,800,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Mitchel Bakker",
-    "team": "Lille",
-    "gross/w": "€ 76,923",
-    "gross/y": "€ 4,000,000",
-    "expiration": "Jun 30, 2025",
-    "gross_remaining": "€ 4,000,000",
     "release_clause": ""
   },
   {
@@ -319,8 +344,19 @@
     "team": "Lyon",
     "gross/w": "€ 76,923",
     "gross/y": "€ 4,000,000",
+    "signed": "Sep 21, 2024",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 8,000,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Mitchel Bakker",
+    "team": "Lille",
+    "gross/w": "€ 76,923",
+    "gross/y": "€ 4,000,000",
+    "signed": "Aug 30, 2024",
+    "expiration": "Jun 30, 2025",
+    "gross_remaining": "€ 4,000,000",
     "release_clause": ""
   },
   {
@@ -328,17 +364,9 @@
     "team": "Marseille",
     "gross/w": "€ 76,154",
     "gross/y": "€ 3,960,000",
+    "signed": "Sep 20, 2022",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 7,920,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Takumi Minamino",
-    "team": "Monaco",
-    "gross/w": "€ 75,192",
-    "gross/y": "€ 3,910,000",
-    "expiration": "Jun 30, 2027",
-    "gross_remaining": "€ 11,730,000",
     "release_clause": ""
   },
   {
@@ -346,8 +374,19 @@
     "team": "Monaco",
     "gross/w": "€ 75,192",
     "gross/y": "€ 3,910,000",
+    "signed": "Oct 4, 2024",
     "expiration": "Jun 30, 2029",
     "gross_remaining": "€ 19,550,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Takumi Minamino",
+    "team": "Monaco",
+    "gross/w": "€ 75,192",
+    "gross/y": "€ 3,910,000",
+    "signed": "Mar 4, 2025",
+    "expiration": "Jun 30, 2027",
+    "gross_remaining": "€ 11,730,000",
     "release_clause": ""
   },
   {
@@ -355,6 +394,7 @@
     "team": "Monaco",
     "gross/w": "€ 75,192",
     "gross/y": "€ 3,910,000",
+    "signed": "Aug 14, 2023",
     "expiration": "Jun 30, 2028",
     "gross_remaining": "€ 15,640,000",
     "release_clause": ""
@@ -364,6 +404,7 @@
     "team": "Nice",
     "gross/w": "€ 74,038",
     "gross/y": "€ 3,850,000",
+    "signed": "Sep 1, 2022",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 7,700,000",
     "release_clause": ""
@@ -373,8 +414,19 @@
     "team": "Marseille",
     "gross/w": "€ 73,846",
     "gross/y": "€ 3,840,000",
+    "signed": "Jul 15, 2022",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 3,840,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Kang-in Lee",
+    "team": "PSG",
+    "gross/w": "€ 70,000",
+    "gross/y": "€ 3,640,000",
+    "signed": "Jul 8, 2023",
+    "expiration": "Jun 30, 2028",
+    "gross_remaining": "€ 14,560,000",
     "release_clause": ""
   },
   {
@@ -382,6 +434,7 @@
     "team": "Lyon",
     "gross/w": "€ 70,000",
     "gross/y": "€ 3,640,000",
+    "signed": "Jul 23, 2022",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 3,640,000",
     "release_clause": ""
@@ -391,6 +444,17 @@
     "team": "Marseille",
     "gross/w": "€ 70,000",
     "gross/y": "€ 3,640,000",
+    "signed": "Jan 7, 2025",
+    "expiration": "Jun 30, 2026",
+    "gross_remaining": "€ 7,280,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Tanguy Ndombélé",
+    "team": "Nice",
+    "gross/w": "€ 70,000",
+    "gross/y": "€ 3,640,000",
+    "signed": "Jul 4, 2024",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 7,280,000",
     "release_clause": ""
@@ -400,35 +464,9 @@
     "team": "Lyon",
     "gross/w": "€ 70,000",
     "gross/y": "€ 3,640,000",
+    "signed": "Jul 4, 2024",
     "expiration": "Jun 30, 2028",
     "gross_remaining": "€ 14,560,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Tanguy Ndombélé",
-    "team": "Nice",
-    "gross/w": "€ 70,000",
-    "gross/y": "€ 3,640,000",
-    "expiration": "Jun 30, 2026",
-    "gross_remaining": "€ 7,280,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Kang-in Lee",
-    "team": "PSG",
-    "gross/w": "€ 70,000",
-    "gross/y": "€ 3,640,000",
-    "expiration": "Jun 30, 2028",
-    "gross_remaining": "€ 14,560,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Thiago Almada",
-    "team": "Lyon",
-    "gross/w": "€ 66,346",
-    "gross/y": "€ 3,450,000",
-    "expiration": "Jun 30, 2025",
-    "gross_remaining": "€ 3,450,000",
     "release_clause": ""
   },
   {
@@ -436,8 +474,19 @@
     "team": "Monaco",
     "gross/w": "€ 66,346",
     "gross/y": "€ 3,450,000",
+    "signed": "Jul 15, 2022",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 6,900,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Thiago Almada",
+    "team": "Lyon",
+    "gross/w": "€ 66,346",
+    "gross/y": "€ 3,450,000",
+    "signed": "Jan 15, 2025",
+    "expiration": "Jun 30, 2025",
+    "gross_remaining": "€ 3,450,000",
     "release_clause": ""
   },
   {
@@ -445,6 +494,7 @@
     "team": "Monaco",
     "gross/w": "€ 66,346",
     "gross/y": "€ 3,450,000",
+    "signed": "Jul 1, 2024",
     "expiration": "Jun 30, 2028",
     "gross_remaining": "€ 13,800,000",
     "release_clause": ""
@@ -454,17 +504,9 @@
     "team": "Nice",
     "gross/w": "€ 63,077",
     "gross/y": "€ 3,280,000",
+    "signed": "Jul 25, 2024",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 6,560,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Georges Mikautadze",
-    "team": "Lyon",
-    "gross/w": "€ 62,885",
-    "gross/y": "€ 3,270,000",
-    "expiration": "Jun 30, 2028",
-    "gross_remaining": "€ 13,080,000",
     "release_clause": ""
   },
   {
@@ -472,6 +514,17 @@
     "team": "PSG",
     "gross/w": "€ 62,885",
     "gross/y": "€ 3,270,000",
+    "signed": "Jan 1, 2024",
+    "expiration": "Jun 30, 2028",
+    "gross_remaining": "€ 13,080,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Georges Mikautadze",
+    "team": "Lyon",
+    "gross/w": "€ 62,885",
+    "gross/y": "€ 3,270,000",
+    "signed": "Jul 18, 2024",
     "expiration": "Jun 30, 2028",
     "gross_remaining": "€ 13,080,000",
     "release_clause": ""
@@ -481,6 +534,7 @@
     "team": "Lyon",
     "gross/w": "€ 62,885",
     "gross/y": "€ 3,270,000",
+    "signed": "Sep 4, 2024",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 6,540,000",
     "release_clause": ""
@@ -490,6 +544,7 @@
     "team": "Lille",
     "gross/w": "€ 61,538",
     "gross/y": "€ 3,200,000",
+    "signed": "Jul 22, 2023",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 3,200,000",
     "release_clause": ""
@@ -499,6 +554,7 @@
     "team": "Marseille",
     "gross/w": "€ 59,615",
     "gross/y": "€ 3,100,000",
+    "signed": "Jul 1, 2023",
     "expiration": "Jun 30, 2027",
     "gross_remaining": "€ 9,300,000",
     "release_clause": ""
@@ -508,6 +564,7 @@
     "team": "Monaco",
     "gross/w": "€ 59,615",
     "gross/y": "€ 3,100,000",
+    "signed": "Aug 1, 2023",
     "expiration": "Jun 30, 2028",
     "gross_remaining": "€ 12,400,000",
     "release_clause": ""
@@ -517,6 +574,7 @@
     "team": "PSG",
     "gross/w": "€ 59,423",
     "gross/y": "€ 3,090,000",
+    "signed": "Jul 1, 2024",
     "expiration": "Jun 30, 2029",
     "gross_remaining": "€ 15,450,000",
     "release_clause": ""
@@ -526,33 +584,7 @@
     "team": "Monaco",
     "gross/w": "€ 57,692",
     "gross/y": "€ 3,000,000",
-    "expiration": "Jun 30, 2025",
-    "gross_remaining": "€ 3,000,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Vanderson",
-    "team": "Monaco",
-    "gross/w": "€ 57,692",
-    "gross/y": "€ 3,000,000",
-    "expiration": "Jun 30, 2028",
-    "gross_remaining": "€ 12,000,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Neal Maupay",
-    "team": "Marseille",
-    "gross/w": "€ 57,692",
-    "gross/y": "€ 3,000,000",
-    "expiration": "Jun 30, 2025",
-    "gross_remaining": "€ 3,000,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Wahbi Khazri",
-    "team": "Montpellier",
-    "gross/w": "€ 57,692",
-    "gross/y": "€ 3,000,000",
+    "signed": "Jan 21, 2021",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 3,000,000",
     "release_clause": ""
@@ -562,6 +594,37 @@
     "team": "Nice",
     "gross/w": "€ 57,692",
     "gross/y": "€ 3,000,000",
+    "signed": "Aug 28, 2024",
+    "expiration": "Jun 30, 2025",
+    "gross_remaining": "€ 3,000,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Neal Maupay",
+    "team": "Marseille",
+    "gross/w": "€ 57,692",
+    "gross/y": "€ 3,000,000",
+    "signed": "Aug 30, 2024",
+    "expiration": "Jun 30, 2025",
+    "gross_remaining": "€ 3,000,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Vanderson",
+    "team": "Monaco",
+    "gross/w": "€ 57,692",
+    "gross/y": "€ 3,000,000",
+    "signed": "Feb 2, 2024",
+    "expiration": "Jun 30, 2028",
+    "gross_remaining": "€ 12,000,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Wahbi Khazri",
+    "team": "Montpellier",
+    "gross/w": "€ 57,692",
+    "gross/y": "€ 3,000,000",
+    "signed": "Jul 1, 2022",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 3,000,000",
     "release_clause": ""
@@ -571,6 +634,7 @@
     "team": "Rennes",
     "gross/w": "€ 55,769",
     "gross/y": "€ 2,900,000",
+    "signed": "Jan 27, 2025",
     "expiration": "Jun 30, 2027",
     "gross_remaining": "€ 8,700,000",
     "release_clause": ""
@@ -580,6 +644,7 @@
     "team": "Monaco",
     "gross/w": "€ 55,192",
     "gross/y": "€ 2,870,000",
+    "signed": "Aug 30, 2023",
     "expiration": "Jun 30, 2028",
     "gross_remaining": "€ 11,480,000",
     "release_clause": ""
@@ -589,17 +654,9 @@
     "team": "Nice",
     "gross/w": "€ 53,462",
     "gross/y": "€ 2,780,000",
+    "signed": "Jul 25, 2023",
     "expiration": "Jun 30, 2027",
     "gross_remaining": "€ 8,340,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Valentín Carboni",
-    "team": "Marseille",
-    "gross/w": "€ 52,500",
-    "gross/y": "€ 2,730,000",
-    "expiration": "Jun 30, 2025",
-    "gross_remaining": "€ 2,730,000",
     "release_clause": ""
   },
   {
@@ -607,8 +664,19 @@
     "team": "Marseille",
     "gross/w": "€ 52,500",
     "gross/y": "€ 2,730,000",
+    "signed": "Mar 7, 2025",
     "expiration": "Jun 30, 2028",
     "gross_remaining": "€ 10,920,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Valentín Carboni",
+    "team": "Marseille",
+    "gross/w": "€ 52,500",
+    "gross/y": "€ 2,730,000",
+    "signed": "Aug 7, 2024",
+    "expiration": "Jun 30, 2025",
+    "gross_remaining": "€ 2,730,000",
     "release_clause": ""
   },
   {
@@ -616,6 +684,7 @@
     "team": "Lens",
     "gross/w": "€ 52,500",
     "gross/y": "€ 2,730,000",
+    "signed": "Aug 9, 2024",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 2,730,000",
     "release_clause": ""
@@ -625,6 +694,7 @@
     "team": "Rennes",
     "gross/w": "€ 52,308",
     "gross/y": "€ 2,720,000",
+    "signed": "Jul 5, 2023",
     "expiration": "Jun 30, 2027",
     "gross_remaining": "€ 8,160,000",
     "release_clause": ""
@@ -634,6 +704,7 @@
     "team": "Lyon",
     "gross/w": "€ 52,308",
     "gross/y": "€ 2,720,000",
+    "signed": "Jul 7, 2024",
     "expiration": "Jun 30, 2028",
     "gross_remaining": "€ 10,880,000",
     "release_clause": ""
@@ -643,6 +714,7 @@
     "team": "Monaco",
     "gross/w": "€ 51,923",
     "gross/y": "€ 2,700,000",
+    "signed": "Aug 12, 2022",
     "expiration": "Jun 30, 2027",
     "gross_remaining": "€ 8,100,000",
     "release_clause": ""
@@ -652,6 +724,7 @@
     "team": "Nice",
     "gross/w": "€ 50,000",
     "gross/y": "€ 2,600,000",
+    "signed": "Jul 1, 2024",
     "expiration": "Jun 30, 2027",
     "gross_remaining": "€ 7,800,000",
     "release_clause": ""
@@ -661,6 +734,7 @@
     "team": "Montpellier",
     "gross/w": "€ 48,846",
     "gross/y": "€ 2,540,000",
+    "signed": "Jan 29, 2025",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 2,540,000",
     "release_clause": ""
@@ -670,6 +744,7 @@
     "team": "Marseille",
     "gross/w": "€ 48,846",
     "gross/y": "€ 2,540,000",
+    "signed": "Aug 11, 2024",
     "expiration": "Jun 30, 2027",
     "gross_remaining": "€ 7,620,000",
     "release_clause": ""
@@ -679,6 +754,7 @@
     "team": "Marseille",
     "gross/w": "€ 48,077",
     "gross/y": "€ 2,500,000",
+    "signed": "Jul 30, 2023",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 5,000,000",
     "release_clause": ""
@@ -688,6 +764,7 @@
     "team": "Nantes",
     "gross/w": "€ 46,154",
     "gross/y": "€ 2,400,000",
+    "signed": "Dec 22, 2023",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 4,800,000",
     "release_clause": ""
@@ -697,17 +774,9 @@
     "team": "Lyon",
     "gross/w": "€ 45,385",
     "gross/y": "€ 2,360,000",
+    "signed": "Jul 8, 2024",
     "expiration": "Jun 30, 2027",
     "gross_remaining": "€ 7,080,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Steve Mandanda",
-    "team": "Rennes",
-    "gross/w": "€ 43,846",
-    "gross/y": "€ 2,280,000",
-    "expiration": "Jun 30, 2025",
-    "gross_remaining": "€ 2,280,000",
     "release_clause": ""
   },
   {
@@ -715,6 +784,17 @@
     "team": "Nantes",
     "gross/w": "€ 43,846",
     "gross/y": "€ 2,280,000",
+    "signed": "Jan 1, 2025",
+    "expiration": "Jun 30, 2025",
+    "gross_remaining": "€ 2,280,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Steve Mandanda",
+    "team": "Rennes",
+    "gross/w": "€ 43,846",
+    "gross/y": "€ 2,280,000",
+    "signed": "Jan 8, 2024",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 2,280,000",
     "release_clause": ""
@@ -724,26 +804,9 @@
     "team": "Lyon",
     "gross/w": "€ 42,308",
     "gross/y": "€ 2,200,000",
+    "signed": "Aug 7, 2023",
     "expiration": "Jun 30, 2027",
     "gross_remaining": "€ 6,600,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Tanner Tessmann",
-    "team": "Lyon",
-    "gross/w": "€ 41,923",
-    "gross/y": "€ 2,180,000",
-    "expiration": "Jun 30, 2029",
-    "gross_remaining": "€ 10,900,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Romain Faivre",
-    "team": "Brest",
-    "gross/w": "€ 41,923",
-    "gross/y": "€ 2,180,000",
-    "expiration": "Jun 30, 2025",
-    "gross_remaining": "€ 2,180,000",
     "release_clause": ""
   },
   {
@@ -751,6 +814,7 @@
     "team": "Toulouse",
     "gross/w": "€ 41,923",
     "gross/y": "€ 2,180,000",
+    "signed": "Aug 29, 2024",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 2,180,000",
     "release_clause": ""
@@ -760,8 +824,29 @@
     "team": "Brest",
     "gross/w": "€ 41,923",
     "gross/y": "€ 2,180,000",
+    "signed": "Nov 17, 2023",
     "expiration": "Jun 30, 2027",
     "gross_remaining": "€ 6,540,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Romain Faivre",
+    "team": "Brest",
+    "gross/w": "€ 41,923",
+    "gross/y": "€ 2,180,000",
+    "signed": "Aug 16, 2024",
+    "expiration": "Jun 30, 2025",
+    "gross_remaining": "€ 2,180,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Tanner Tessmann",
+    "team": "Lyon",
+    "gross/w": "€ 41,923",
+    "gross/y": "€ 2,180,000",
+    "signed": "Aug 27, 2024",
+    "expiration": "Jun 30, 2029",
+    "gross_remaining": "€ 10,900,000",
     "release_clause": ""
   },
   {
@@ -769,6 +854,7 @@
     "team": "Lille",
     "gross/w": "€ 41,538",
     "gross/y": "€ 2,160,000",
+    "signed": "Jan 12, 2023",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 4,320,000",
     "release_clause": ""
@@ -778,6 +864,7 @@
     "team": "Brest",
     "gross/w": "€ 41,538",
     "gross/y": "€ 2,160,000",
+    "signed": "Jul 25, 2024",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 2,160,000",
     "release_clause": ""
@@ -787,6 +874,7 @@
     "team": "Nice",
     "gross/w": "€ 38,462",
     "gross/y": "€ 2,000,000",
+    "signed": "Jan 22, 2025",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 2,000,000",
     "release_clause": ""
@@ -796,17 +884,9 @@
     "team": "Brest",
     "gross/w": "€ 38,077",
     "gross/y": "€ 1,980,000",
+    "signed": "Aug 30, 2024",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 1,980,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Jonathan David",
-    "team": "Lille",
-    "gross/w": "€ 37,500",
-    "gross/y": "€ 1,950,000",
-    "expiration": "Jun 30, 2025",
-    "gross_remaining": "€ 1,950,000",
     "release_clause": ""
   },
   {
@@ -814,8 +894,19 @@
     "team": "Monaco",
     "gross/w": "€ 37,500",
     "gross/y": "€ 1,950,000",
+    "signed": "Aug 20, 2024",
     "expiration": "Jun 30, 2029",
     "gross_remaining": "€ 9,750,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Jonathan David",
+    "team": "Lille",
+    "gross/w": "€ 37,500",
+    "gross/y": "€ 1,950,000",
+    "signed": "Aug 11, 2020",
+    "expiration": "Jun 30, 2025",
+    "gross_remaining": "€ 1,950,000",
     "release_clause": ""
   },
   {
@@ -823,15 +914,27 @@
     "team": "Monaco",
     "gross/w": "€ 35,385",
     "gross/y": "€ 1,840,000",
+    "signed": "Aug 17, 2023",
     "expiration": "Jun 30, 2028",
     "gross_remaining": "€ 7,360,000",
     "release_clause": ""
   },
   {
-    "player_name": "Lilian Brassier",
-    "team": "Rennes",
+    "player_name": "Amar Dedic",
+    "team": "Marseille",
     "gross/w": "€ 35,000",
     "gross/y": "€ 1,820,000",
+    "signed": "Feb 3, 2025",
+    "expiration": "Jun 30, 2025",
+    "gross_remaining": "€ 1,820,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Miha Zajc",
+    "team": "Toulouse",
+    "gross/w": "€ 35,000",
+    "gross/y": "€ 1,820,000",
+    "signed": "Aug 30, 2024",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 1,820,000",
     "release_clause": ""
@@ -841,15 +944,17 @@
     "team": "Montpellier",
     "gross/w": "€ 35,000",
     "gross/y": "€ 1,820,000",
+    "signed": "Jan 26, 2023",
     "expiration": "Jun 30, 2027",
     "gross_remaining": "€ 5,460,000",
     "release_clause": ""
   },
   {
-    "player_name": "Miha Zajc",
-    "team": "Toulouse",
+    "player_name": "Lilian Brassier",
+    "team": "Rennes",
     "gross/w": "€ 35,000",
     "gross/y": "€ 1,820,000",
+    "signed": "Jan 31, 2025",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 1,820,000",
     "release_clause": ""
@@ -859,6 +964,7 @@
     "team": "Lens",
     "gross/w": "€ 35,000",
     "gross/y": "€ 1,820,000",
+    "signed": "Jul 1, 2023",
     "expiration": "Jun 30, 2027",
     "gross_remaining": "€ 5,460,000",
     "release_clause": ""
@@ -868,6 +974,7 @@
     "team": "Le Havre",
     "gross/w": "€ 35,000",
     "gross/y": "€ 1,820,000",
+    "signed": "Oct 4, 2024",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 1,820,000",
     "release_clause": ""
@@ -877,15 +984,7 @@
     "team": "Le Havre",
     "gross/w": "€ 35,000",
     "gross/y": "€ 1,820,000",
-    "expiration": "Jun 30, 2025",
-    "gross_remaining": "€ 1,820,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Amar Dedic",
-    "team": "Marseille",
-    "gross/w": "€ 35,000",
-    "gross/y": "€ 1,820,000",
+    "signed": "Jul 12, 2023",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 1,820,000",
     "release_clause": ""
@@ -895,6 +994,7 @@
     "team": "Auxerre",
     "gross/w": "€ 34,808",
     "gross/y": "€ 1,810,000",
+    "signed": "Aug 27, 2024",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 1,810,000",
     "release_clause": ""
@@ -904,6 +1004,7 @@
     "team": "Lille",
     "gross/w": "€ 34,615",
     "gross/y": "€ 1,800,000",
+    "signed": "May 18, 2024",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 1,800,000",
     "release_clause": ""
@@ -913,8 +1014,29 @@
     "team": "Nantes",
     "gross/w": "€ 34,038",
     "gross/y": "€ 1,770,000",
+    "signed": "Jul 1, 2023",
     "expiration": "Jun 30, 2027",
     "gross_remaining": "€ 5,310,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Keito Nakamura",
+    "team": "Reims",
+    "gross/w": "€ 31,538",
+    "gross/y": "€ 1,640,000",
+    "signed": "Aug 10, 2023",
+    "expiration": "Jun 30, 2028",
+    "gross_remaining": "€ 6,560,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Joseph Okumu",
+    "team": "Reims",
+    "gross/w": "€ 31,538",
+    "gross/y": "€ 1,640,000",
+    "signed": "Jul 22, 2023",
+    "expiration": "Jun 30, 2028",
+    "gross_remaining": "€ 6,560,000",
     "release_clause": ""
   },
   {
@@ -922,6 +1044,17 @@
     "team": "Lens",
     "gross/w": "€ 31,538",
     "gross/y": "€ 1,640,000",
+    "signed": "Apr 11, 2024",
+    "expiration": "Jun 30, 2028",
+    "gross_remaining": "€ 6,560,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Ruben Aguilar",
+    "team": "Lens",
+    "gross/w": "€ 31,538",
+    "gross/y": "€ 1,640,000",
+    "signed": "May 16, 2025",
     "expiration": "Jun 30, 2028",
     "gross_remaining": "€ 6,560,000",
     "release_clause": ""
@@ -931,26 +1064,9 @@
     "team": "Nantes",
     "gross/w": "€ 31,538",
     "gross/y": "€ 1,640,000",
+    "signed": "Jan 17, 2023",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 1,640,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Joseph Okumu",
-    "team": "Reims",
-    "gross/w": "€ 31,538",
-    "gross/y": "€ 1,640,000",
-    "expiration": "Jun 30, 2028",
-    "gross_remaining": "€ 6,560,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Keito Nakamura",
-    "team": "Reims",
-    "gross/w": "€ 31,538",
-    "gross/y": "€ 1,640,000",
-    "expiration": "Jun 30, 2028",
-    "gross_remaining": "€ 6,560,000",
     "release_clause": ""
   },
   {
@@ -958,6 +1074,7 @@
     "team": "Lille",
     "gross/w": "€ 30,000",
     "gross/y": "€ 1,560,000",
+    "signed": "Sep 12, 2024",
     "expiration": "Jun 30, 2028",
     "gross_remaining": "€ 6,240,000",
     "release_clause": ""
@@ -967,6 +1084,7 @@
     "team": "Strasbourg",
     "gross/w": "€ 29,808",
     "gross/y": "€ 1,550,000",
+    "signed": "Aug 30, 2024",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 1,550,000",
     "release_clause": ""
@@ -976,6 +1094,7 @@
     "team": "Strasbourg",
     "gross/w": "€ 29,808",
     "gross/y": "€ 1,550,000",
+    "signed": "Aug 21, 2024",
     "expiration": "Jun 30, 2029",
     "gross_remaining": "€ 7,750,000",
     "release_clause": ""
@@ -985,6 +1104,7 @@
     "team": "Lille",
     "gross/w": "€ 29,808",
     "gross/y": "€ 1,550,000",
+    "signed": "Feb 2, 2025",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 1,550,000",
     "release_clause": ""
@@ -994,6 +1114,7 @@
     "team": "Toulouse",
     "gross/w": "€ 29,615",
     "gross/y": "€ 1,540,000",
+    "signed": "Aug 16, 2024",
     "expiration": "Jun 30, 2027",
     "gross_remaining": "€ 4,620,000",
     "release_clause": ""
@@ -1003,6 +1124,7 @@
     "team": "Reims",
     "gross/w": "€ 28,846",
     "gross/y": "€ 1,500,000",
+    "signed": "Aug 11, 2023",
     "expiration": "Jun 30, 2028",
     "gross_remaining": "€ 6,000,000",
     "release_clause": ""
@@ -1012,6 +1134,7 @@
     "team": "Nantes",
     "gross/w": "€ 28,846",
     "gross/y": "€ 1,500,000",
+    "signed": "Sep 2, 2023",
     "expiration": "Jun 30, 2027",
     "gross_remaining": "€ 4,500,000",
     "release_clause": ""
@@ -1021,26 +1144,9 @@
     "team": "Auxerre",
     "gross/w": "€ 28,846",
     "gross/y": "€ 1,500,000",
+    "signed": "Aug 21, 2024",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 1,500,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Ruben Aguilar",
-    "team": "Lens",
-    "gross/w": "€ 28,846",
-    "gross/y": "€ 1,500,000",
-    "expiration": "Jun 30, 2026",
-    "gross_remaining": "€ 3,000,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Arnaud Kalimuendo",
-    "team": "Rennes",
-    "gross/w": "€ 28,846",
-    "gross/y": "€ 1,500,000",
-    "expiration": "Jun 30, 2027",
-    "gross_remaining": "€ 4,500,000",
     "release_clause": ""
   },
   {
@@ -1048,17 +1154,19 @@
     "team": "Strasbourg",
     "gross/w": "€ 28,846",
     "gross/y": "€ 1,500,000",
+    "signed": "Jan 24, 2025",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 1,500,000",
     "release_clause": ""
   },
   {
-    "player_name": "Djibril Sidibé",
-    "team": "Toulouse",
-    "gross/w": "€ 28,077",
-    "gross/y": "€ 1,460,000",
-    "expiration": "Jun 30, 2025",
-    "gross_remaining": "€ 1,460,000",
+    "player_name": "Arnaud Kalimuendo",
+    "team": "Rennes",
+    "gross/w": "€ 28,846",
+    "gross/y": "€ 1,500,000",
+    "signed": "Aug 11, 2022",
+    "expiration": "Jun 30, 2027",
+    "gross_remaining": "€ 4,500,000",
     "release_clause": ""
   },
   {
@@ -1066,6 +1174,17 @@
     "team": "Nantes",
     "gross/w": "€ 28,077",
     "gross/y": "€ 1,460,000",
+    "signed": "Jan 31, 2025",
+    "expiration": "Jun 30, 2025",
+    "gross_remaining": "€ 1,460,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Djibril Sidibé",
+    "team": "Toulouse",
+    "gross/w": "€ 28,077",
+    "gross/y": "€ 1,460,000",
+    "signed": "Aug 2, 2024",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 1,460,000",
     "release_clause": ""
@@ -1075,6 +1194,7 @@
     "team": "Lens",
     "gross/w": "€ 28,077",
     "gross/y": "€ 1,460,000",
+    "signed": "Jul 26, 2024",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 2,920,000",
     "release_clause": ""
@@ -1084,6 +1204,7 @@
     "team": "Rennes",
     "gross/w": "€ 28,077",
     "gross/y": "€ 1,460,000",
+    "signed": "Feb 3, 2025",
     "expiration": "Jun 30, 2028",
     "gross_remaining": "€ 5,840,000",
     "release_clause": ""
@@ -1093,6 +1214,7 @@
     "team": "Reims",
     "gross/w": "€ 28,077",
     "gross/y": "€ 1,460,000",
+    "signed": "Feb 3, 2025",
     "expiration": "Jun 30, 2027",
     "gross_remaining": "€ 4,380,000",
     "release_clause": ""
@@ -1102,6 +1224,7 @@
     "team": "Rennes",
     "gross/w": "€ 28,077",
     "gross/y": "€ 1,460,000",
+    "signed": "Aug 6, 2024",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 2,920,000",
     "release_clause": ""
@@ -1111,6 +1234,7 @@
     "team": "Lyon",
     "gross/w": "€ 28,077",
     "gross/y": "€ 1,460,000",
+    "signed": "Jul 5, 2024",
     "expiration": "Jun 30, 2029",
     "gross_remaining": "€ 7,300,000",
     "release_clause": ""
@@ -1120,8 +1244,19 @@
     "team": "Lens",
     "gross/w": "€ 27,885",
     "gross/y": "€ 1,450,000",
+    "signed": "Apr 9, 2025",
     "expiration": "Jun 30, 2028",
     "gross_remaining": "€ 5,800,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Al Musrati",
+    "team": "Monaco",
+    "gross/w": "€ 27,692",
+    "gross/y": "€ 1,440,000",
+    "signed": "Feb 3, 2025",
+    "expiration": "Jun 30, 2025",
+    "gross_remaining": "€ 1,440,000",
     "release_clause": ""
   },
   {
@@ -1129,6 +1264,7 @@
     "team": "Lille",
     "gross/w": "€ 27,692",
     "gross/y": "€ 1,440,000",
+    "signed": "May 4, 2023",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 1,440,000",
     "release_clause": ""
@@ -1138,17 +1274,9 @@
     "team": "Montpellier",
     "gross/w": "€ 27,692",
     "gross/y": "€ 1,440,000",
+    "signed": "Jan 25, 2022",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 2,880,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Al Musrati",
-    "team": "Monaco",
-    "gross/w": "€ 27,692",
-    "gross/y": "€ 1,440,000",
-    "expiration": "Jun 30, 2025",
-    "gross_remaining": "€ 1,440,000",
     "release_clause": ""
   },
   {
@@ -1156,17 +1284,9 @@
     "team": "Lens",
     "gross/w": "€ 26,154",
     "gross/y": "€ 1,360,000",
+    "signed": "Aug 22, 2024",
     "expiration": "Jun 30, 2028",
     "gross_remaining": "€ 5,440,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Ismaël Koné",
-    "team": "Rennes",
-    "gross/w": "€ 26,154",
-    "gross/y": "€ 1,360,000",
-    "expiration": "Jun 30, 2025",
-    "gross_remaining": "€ 1,360,000",
     "release_clause": ""
   },
   {
@@ -1174,6 +1294,17 @@
     "team": "Angers",
     "gross/w": "€ 26,154",
     "gross/y": "€ 1,360,000",
+    "signed": "Jun 21, 2023",
+    "expiration": "Jun 30, 2025",
+    "gross_remaining": "€ 1,360,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Ismaël Koné",
+    "team": "Rennes",
+    "gross/w": "€ 26,154",
+    "gross/y": "€ 1,360,000",
+    "signed": "Feb 3, 2025",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 1,360,000",
     "release_clause": ""
@@ -1183,6 +1314,17 @@
     "team": "Angers",
     "gross/w": "€ 25,385",
     "gross/y": "€ 1,320,000",
+    "signed": "Aug 31, 2023",
+    "expiration": "Jun 30, 2025",
+    "gross_remaining": "€ 1,320,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Nicolas Pallois",
+    "team": "Nantes",
+    "gross/w": "€ 25,385",
+    "gross/y": "€ 1,320,000",
+    "signed": "May 23, 2024",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 1,320,000",
     "release_clause": ""
@@ -1192,17 +1334,9 @@
     "team": "Monaco",
     "gross/w": "€ 25,385",
     "gross/y": "€ 1,320,000",
+    "signed": "May 20, 2024",
     "expiration": "Jun 30, 2028",
     "gross_remaining": "€ 5,280,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Nicolas Pallois",
-    "team": "Nantes",
-    "gross/w": "€ 25,385",
-    "gross/y": "€ 1,320,000",
-    "expiration": "Jun 30, 2025",
-    "gross_remaining": "€ 1,320,000",
     "release_clause": ""
   },
   {
@@ -1210,17 +1344,9 @@
     "team": "Montpellier",
     "gross/w": "€ 25,385",
     "gross/y": "€ 1,320,000",
+    "signed": "Jun 2, 2022",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 2,640,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Nampalys Mendy",
-    "team": "Lens",
-    "gross/w": "€ 25,000",
-    "gross/y": "€ 1,300,000",
-    "expiration": "Jun 30, 2025",
-    "gross_remaining": "€ 1,300,000",
     "release_clause": ""
   },
   {
@@ -1228,6 +1354,7 @@
     "team": "Rennes",
     "gross/w": "€ 25,000",
     "gross/y": "€ 1,300,000",
+    "signed": "Jan 22, 2024",
     "expiration": "Jun 30, 2028",
     "gross_remaining": "€ 5,200,000",
     "release_clause": ""
@@ -1237,17 +1364,19 @@
     "team": "Brest",
     "gross/w": "€ 25,000",
     "gross/y": "€ 1,300,000",
+    "signed": "Aug 21, 2024",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 1,300,000",
     "release_clause": ""
   },
   {
-    "player_name": "Lorenz Assignon",
-    "team": "Rennes",
-    "gross/w": "€ 24,615",
-    "gross/y": "€ 1,280,000",
-    "expiration": "Jun 30, 2028",
-    "gross_remaining": "€ 5,120,000",
+    "player_name": "Nampalys Mendy",
+    "team": "Lens",
+    "gross/w": "€ 25,000",
+    "gross/y": "€ 1,300,000",
+    "signed": "Sep 4, 2023",
+    "expiration": "Jun 30, 2025",
+    "gross_remaining": "€ 1,300,000",
     "release_clause": ""
   },
   {
@@ -1255,17 +1384,9 @@
     "team": "Le Havre",
     "gross/w": "€ 24,615",
     "gross/y": "€ 1,280,000",
+    "signed": "Jan 23, 2025",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 1,280,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Luis Henrique",
-    "team": "Marseille",
-    "gross/w": "€ 24,615",
-    "gross/y": "€ 1,280,000",
-    "expiration": "Jun 30, 2028",
-    "gross_remaining": "€ 5,120,000",
     "release_clause": ""
   },
   {
@@ -1273,17 +1394,9 @@
     "team": "Strasbourg",
     "gross/w": "€ 24,615",
     "gross/y": "€ 1,280,000",
+    "signed": "Nov 23, 2023",
     "expiration": "Jun 30, 2028",
     "gross_remaining": "€ 5,120,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Anthony Rouault",
-    "team": "Rennes",
-    "gross/w": "€ 24,615",
-    "gross/y": "€ 1,280,000",
-    "expiration": "Jun 30, 2029",
-    "gross_remaining": "€ 6,400,000",
     "release_clause": ""
   },
   {
@@ -1291,8 +1404,19 @@
     "team": "Lille",
     "gross/w": "€ 24,615",
     "gross/y": "€ 1,280,000",
+    "signed": "Aug 1, 2024",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 2,560,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Mama Baldé",
+    "team": "Brest",
+    "gross/w": "€ 24,615",
+    "gross/y": "€ 1,280,000",
+    "signed": "Aug 30, 2024",
+    "expiration": "Jun 30, 2027",
+    "gross_remaining": "€ 3,840,000",
     "release_clause": ""
   },
   {
@@ -1300,6 +1424,7 @@
     "team": "Rennes",
     "gross/w": "€ 24,615",
     "gross/y": "€ 1,280,000",
+    "signed": "Aug 25, 2024",
     "expiration": "Jun 30, 2028",
     "gross_remaining": "€ 5,120,000",
     "release_clause": ""
@@ -1309,17 +1434,39 @@
     "team": "Brest",
     "gross/w": "€ 24,615",
     "gross/y": "€ 1,280,000",
+    "signed": "Nov 7, 2024",
     "expiration": "Jun 30, 2027",
     "gross_remaining": "€ 3,840,000",
     "release_clause": ""
   },
   {
-    "player_name": "Mama Baldé",
-    "team": "Brest",
+    "player_name": "Luis Henrique",
+    "team": "Marseille",
     "gross/w": "€ 24,615",
     "gross/y": "€ 1,280,000",
-    "expiration": "Jun 30, 2027",
-    "gross_remaining": "€ 3,840,000",
+    "signed": "Aug 23, 2024",
+    "expiration": "Jun 30, 2028",
+    "gross_remaining": "€ 5,120,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Anthony Rouault",
+    "team": "Rennes",
+    "gross/w": "€ 24,615",
+    "gross/y": "€ 1,280,000",
+    "signed": "Feb 3, 2025",
+    "expiration": "Jun 30, 2029",
+    "gross_remaining": "€ 6,400,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Lorenz Assignon",
+    "team": "Rennes",
+    "gross/w": "€ 24,615",
+    "gross/y": "€ 1,280,000",
+    "signed": "Sep 13, 2024",
+    "expiration": "Jun 30, 2028",
+    "gross_remaining": "€ 5,120,000",
     "release_clause": ""
   },
   {
@@ -1327,6 +1474,7 @@
     "team": "Rennes",
     "gross/w": "€ 24,038",
     "gross/y": "€ 1,250,000",
+    "signed": "Aug 30, 2024",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 1,250,000",
     "release_clause": ""
@@ -1336,6 +1484,7 @@
     "team": "Reims",
     "gross/w": "€ 23,077",
     "gross/y": "€ 1,200,000",
+    "signed": "Jul 29, 2022",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 2,400,000",
     "release_clause": ""
@@ -1345,6 +1494,7 @@
     "team": "PSG",
     "gross/w": "€ 23,077",
     "gross/y": "€ 1,200,000",
+    "signed": "Jul 30, 2023",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 2,400,000",
     "release_clause": ""
@@ -1354,6 +1504,7 @@
     "team": "Nice",
     "gross/w": "€ 23,077",
     "gross/y": "€ 1,200,000",
+    "signed": "Feb 13, 2025",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 2,400,000",
     "release_clause": ""
@@ -1363,6 +1514,7 @@
     "team": "Lille",
     "gross/w": "€ 23,077",
     "gross/y": "€ 1,200,000",
+    "signed": "Jan 14, 2022",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 2,400,000",
     "release_clause": ""
@@ -1372,26 +1524,9 @@
     "team": "Marseille",
     "gross/w": "€ 23,077",
     "gross/y": "€ 1,200,000",
+    "signed": "Jan 26, 2024",
     "expiration": "Jun 30, 2028",
     "gross_remaining": "€ 4,800,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Mika Biereth",
-    "team": "Monaco",
-    "gross/w": "€ 22,115",
-    "gross/y": "€ 1,150,000",
-    "expiration": "Jun 30, 2029",
-    "gross_remaining": "€ 5,750,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Maghnes Akliouche",
-    "team": "Monaco",
-    "gross/w": "€ 22,115",
-    "gross/y": "€ 1,150,000",
-    "expiration": "Jun 30, 2028",
-    "gross_remaining": "€ 4,600,000",
     "release_clause": ""
   },
   {
@@ -1399,8 +1534,29 @@
     "team": "Nantes",
     "gross/w": "€ 22,115",
     "gross/y": "€ 1,150,000",
+    "signed": "Aug 28, 2024",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 1,150,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Maghnes Akliouche",
+    "team": "Monaco",
+    "gross/w": "€ 22,115",
+    "gross/y": "€ 1,150,000",
+    "signed": "Jul 25, 2024",
+    "expiration": "Jun 30, 2028",
+    "gross_remaining": "€ 4,600,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Mika Biereth",
+    "team": "Monaco",
+    "gross/w": "€ 22,115",
+    "gross/y": "€ 1,150,000",
+    "signed": "Jan 11, 2025",
+    "expiration": "Jun 30, 2029",
+    "gross_remaining": "€ 5,750,000",
     "release_clause": ""
   },
   {
@@ -1408,35 +1564,9 @@
     "team": "Lille",
     "gross/w": "€ 21,923",
     "gross/y": "€ 1,140,000",
+    "signed": "Jan 30, 2023",
     "expiration": "Jun 30, 2027",
     "gross_remaining": "€ 3,420,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Abdoulaye Touré",
-    "team": "Le Havre",
-    "gross/w": "€ 21,154",
-    "gross/y": "€ 1,100,000",
-    "expiration": "Jun 30, 2025",
-    "gross_remaining": "€ 1,100,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Faris Moumbagna",
-    "team": "Marseille",
-    "gross/w": "€ 21,154",
-    "gross/y": "€ 1,100,000",
-    "expiration": "Jun 30, 2028",
-    "gross_remaining": "€ 4,400,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Philipp Köhn",
-    "team": "Monaco",
-    "gross/w": "€ 21,154",
-    "gross/y": "€ 1,100,000",
-    "expiration": "Jun 30, 2028",
-    "gross_remaining": "€ 4,400,000",
     "release_clause": ""
   },
   {
@@ -1444,8 +1574,79 @@
     "team": "Lyon",
     "gross/w": "€ 21,154",
     "gross/y": "€ 1,100,000",
+    "signed": "Jul 6, 2023",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 2,200,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Faris Moumbagna",
+    "team": "Marseille",
+    "gross/w": "€ 21,154",
+    "gross/y": "€ 1,100,000",
+    "signed": "Jan 20, 2024",
+    "expiration": "Jun 30, 2028",
+    "gross_remaining": "€ 4,400,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Abdoulaye Touré",
+    "team": "Le Havre",
+    "gross/w": "€ 21,154",
+    "gross/y": "€ 1,100,000",
+    "signed": "Jul 26, 2023",
+    "expiration": "Jun 30, 2025",
+    "gross_remaining": "€ 1,100,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Philipp Köhn",
+    "team": "Monaco",
+    "gross/w": "€ 21,154",
+    "gross/y": "€ 1,100,000",
+    "signed": "Jul 15, 2023",
+    "expiration": "Jun 30, 2028",
+    "gross_remaining": "€ 4,400,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Romain Del Castillo",
+    "team": "Brest",
+    "gross/w": "€ 20,962",
+    "gross/y": "€ 1,090,000",
+    "signed": "Nov 17, 2023",
+    "expiration": "Jun 30, 2027",
+    "gross_remaining": "€ 3,270,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Sebastian Nanasi",
+    "team": "Strasbourg",
+    "gross/w": "€ 20,962",
+    "gross/y": "€ 1,090,000",
+    "signed": "Aug 23, 2024",
+    "expiration": "Jun 30, 2029",
+    "gross_remaining": "€ 5,450,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Melvin Bard",
+    "team": "Nice",
+    "gross/w": "€ 20,962",
+    "gross/y": "€ 1,090,000",
+    "signed": "Sep 2, 2024",
+    "expiration": "Jun 30, 2028",
+    "gross_remaining": "€ 4,360,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Yunis Abdelhamid",
+    "team": "St-Etienne",
+    "gross/w": "€ 20,962",
+    "gross/y": "€ 1,090,000",
+    "signed": "Jul 5, 2024",
+    "expiration": "Jun 30, 2025",
+    "gross_remaining": "€ 1,090,000",
     "release_clause": ""
   },
   {
@@ -1453,6 +1654,7 @@
     "team": "Reims",
     "gross/w": "€ 20,962",
     "gross/y": "€ 1,090,000",
+    "signed": "Jul 24, 2024",
     "expiration": "Jun 30, 2027",
     "gross_remaining": "€ 3,270,000",
     "release_clause": ""
@@ -1462,44 +1664,9 @@
     "team": "Brest",
     "gross/w": "€ 20,962",
     "gross/y": "€ 1,090,000",
+    "signed": "Jul 31, 2024",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 1,090,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Sebastian Nanasi",
-    "team": "Strasbourg",
-    "gross/w": "€ 20,962",
-    "gross/y": "€ 1,090,000",
-    "expiration": "Jun 30, 2029",
-    "gross_remaining": "€ 5,450,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Romain Del Castillo",
-    "team": "Brest",
-    "gross/w": "€ 20,962",
-    "gross/y": "€ 1,090,000",
-    "expiration": "Jun 30, 2027",
-    "gross_remaining": "€ 3,270,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Yunis Abdelhamid",
-    "team": "St-Etienne",
-    "gross/w": "€ 20,962",
-    "gross/y": "€ 1,090,000",
-    "expiration": "Jun 30, 2025",
-    "gross_remaining": "€ 1,090,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Melvin Bard",
-    "team": "Nice",
-    "gross/w": "€ 20,962",
-    "gross/y": "€ 1,090,000",
-    "expiration": "Jun 30, 2028",
-    "gross_remaining": "€ 4,360,000",
     "release_clause": ""
   },
   {
@@ -1507,6 +1674,7 @@
     "team": "Brest",
     "gross/w": "€ 20,769",
     "gross/y": "€ 1,080,000",
+    "signed": "Aug 30, 2024",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 1,080,000",
     "release_clause": ""
@@ -1516,6 +1684,7 @@
     "team": "Lens",
     "gross/w": "€ 20,769",
     "gross/y": "€ 1,080,000",
+    "signed": "Jan 12, 2023",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 2,160,000",
     "release_clause": ""
@@ -1525,6 +1694,7 @@
     "team": "Brest",
     "gross/w": "€ 20,000",
     "gross/y": "€ 1,040,000",
+    "signed": "Aug 29, 2024",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 1,040,000",
     "release_clause": ""
@@ -1534,6 +1704,7 @@
     "team": "Nice",
     "gross/w": "€ 19,615",
     "gross/y": "€ 1,020,000",
+    "signed": "Aug 29, 2022",
     "expiration": "Jun 30, 2027",
     "gross_remaining": "€ 3,060,000",
     "release_clause": ""
@@ -1543,15 +1714,17 @@
     "team": "Angers",
     "gross/w": "€ 19,615",
     "gross/y": "€ 1,020,000",
+    "signed": "Jul 1, 2023",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 2,040,000",
     "release_clause": ""
   },
   {
-    "player_name": "Nabil Bentaleb",
-    "team": "Lille",
+    "player_name": "Pol Lirola",
+    "team": "Marseille",
     "gross/w": "€ 19,231",
     "gross/y": "€ 1,000,000",
+    "signed": "Aug 23, 2021",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 2,000,000",
     "release_clause": ""
@@ -1561,6 +1734,17 @@
     "team": "Rennes",
     "gross/w": "€ 19,231",
     "gross/y": "€ 1,000,000",
+    "signed": "Aug 23, 2023",
+    "expiration": "Jun 30, 2026",
+    "gross_remaining": "€ 2,000,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Nabil Bentaleb",
+    "team": "Lille",
+    "gross/w": "€ 19,231",
+    "gross/y": "€ 1,000,000",
+    "signed": "Aug 28, 2023",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 2,000,000",
     "release_clause": ""
@@ -1570,17 +1754,9 @@
     "team": "Lille",
     "gross/w": "€ 19,231",
     "gross/y": "€ 1,000,000",
+    "signed": "Oct 29, 2024",
     "expiration": "Jun 30, 2029",
     "gross_remaining": "€ 5,000,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Pol Lirola",
-    "team": "Marseille",
-    "gross/w": "€ 19,231",
-    "gross/y": "€ 1,000,000",
-    "expiration": "Jun 30, 2026",
-    "gross_remaining": "€ 2,000,000",
     "release_clause": ""
   },
   {
@@ -1588,6 +1764,7 @@
     "team": "Lille",
     "gross/w": "€ 19,231",
     "gross/y": "€ 1,000,000",
+    "signed": "Jul 17, 2023",
     "expiration": "Jun 30, 2028",
     "gross_remaining": "€ 4,000,000",
     "release_clause": ""
@@ -1597,6 +1774,7 @@
     "team": "Lyon",
     "gross/w": "€ 19,231",
     "gross/y": "€ 1,000,000",
+    "signed": "Jan 10, 2024",
     "expiration": "Jun 30, 2028",
     "gross_remaining": "€ 4,000,000",
     "release_clause": ""
@@ -1606,6 +1784,7 @@
     "team": "Angers",
     "gross/w": "€ 18,462",
     "gross/y": "€ 960,000",
+    "signed": "Jul 1, 2022",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 960,000",
     "release_clause": ""
@@ -1615,17 +1794,9 @@
     "team": "Auxerre",
     "gross/w": "€ 18,269",
     "gross/y": "€ 950,000",
+    "signed": "Jan 7, 2025",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 950,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Youssouf Ndayishimiye",
-    "team": "Nice",
-    "gross/w": "€ 18,077",
-    "gross/y": "€ 940,000",
-    "expiration": "Jun 30, 2027",
-    "gross_remaining": "€ 2,820,000",
     "release_clause": ""
   },
   {
@@ -1633,6 +1804,17 @@
     "team": "Nantes",
     "gross/w": "€ 18,077",
     "gross/y": "€ 940,000",
+    "signed": "Sep 22, 2022",
+    "expiration": "Jun 30, 2027",
+    "gross_remaining": "€ 2,820,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Youssouf Ndayishimiye",
+    "team": "Nice",
+    "gross/w": "€ 18,077",
+    "gross/y": "€ 940,000",
+    "signed": "Jan 25, 2023",
     "expiration": "Jun 30, 2027",
     "gross_remaining": "€ 2,820,000",
     "release_clause": ""
@@ -1642,17 +1824,9 @@
     "team": "Monaco",
     "gross/w": "€ 17,692",
     "gross/y": "€ 920,000",
+    "signed": "Jul 30, 2024",
     "expiration": "Jun 30, 2029",
     "gross_remaining": "€ 4,600,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Osame Sahraoui",
-    "team": "Lille",
-    "gross/w": "€ 17,500",
-    "gross/y": "€ 910,000",
-    "expiration": "Jun 30, 2029",
-    "gross_remaining": "€ 4,550,000",
     "release_clause": ""
   },
   {
@@ -1660,17 +1834,19 @@
     "team": "Nantes",
     "gross/w": "€ 17,500",
     "gross/y": "€ 910,000",
+    "signed": "Jul 3, 2024",
     "expiration": "Jun 30, 2028",
     "gross_remaining": "€ 3,640,000",
     "release_clause": ""
   },
   {
-    "player_name": "Alexsandro",
-    "team": "Lille",
+    "player_name": "Marco Bizot",
+    "team": "Brest",
     "gross/w": "€ 17,500",
     "gross/y": "€ 910,000",
-    "expiration": "Jun 30, 2028",
-    "gross_remaining": "€ 3,640,000",
+    "signed": "Aug 1, 2023",
+    "expiration": "Jun 30, 2026",
+    "gross_remaining": "€ 1,820,000",
     "release_clause": ""
   },
   {
@@ -1678,6 +1854,7 @@
     "team": "Nantes",
     "gross/w": "€ 17,500",
     "gross/y": "€ 910,000",
+    "signed": "Jul 1, 2024",
     "expiration": "Jun 30, 2027",
     "gross_remaining": "€ 2,730,000",
     "release_clause": ""
@@ -1687,17 +1864,9 @@
     "team": "Brest",
     "gross/w": "€ 17,500",
     "gross/y": "€ 910,000",
+    "signed": "Aug 30, 2024",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 910,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Marco Bizot",
-    "team": "Brest",
-    "gross/w": "€ 17,500",
-    "gross/y": "€ 910,000",
-    "expiration": "Jun 30, 2026",
-    "gross_remaining": "€ 1,820,000",
     "release_clause": ""
   },
   {
@@ -1705,8 +1874,39 @@
     "team": "Nantes",
     "gross/w": "€ 17,500",
     "gross/y": "€ 910,000",
+    "signed": "Feb 10, 2024",
     "expiration": "Jun 30, 2028",
     "gross_remaining": "€ 3,640,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Alexsandro",
+    "team": "Lille",
+    "gross/w": "€ 17,500",
+    "gross/y": "€ 910,000",
+    "signed": "Jan 15, 2024",
+    "expiration": "Jun 30, 2028",
+    "gross_remaining": "€ 3,640,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Osame Sahraoui",
+    "team": "Lille",
+    "gross/w": "€ 17,500",
+    "gross/y": "€ 910,000",
+    "signed": "Aug 1, 2024",
+    "expiration": "Jun 30, 2029",
+    "gross_remaining": "€ 4,550,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Andy Diouf",
+    "team": "Lens",
+    "gross/w": "€ 17,308",
+    "gross/y": "€ 900,000",
+    "signed": "Jul 2, 2023",
+    "expiration": "Jun 30, 2028",
+    "gross_remaining": "€ 3,600,000",
     "release_clause": ""
   },
   {
@@ -1714,69 +1914,37 @@
     "team": "Reims",
     "gross/w": "€ 17,308",
     "gross/y": "€ 900,000",
+    "signed": "Aug 21, 2024",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 900,000",
     "release_clause": ""
   },
   {
-    "player_name": "Guéla Doué",
-    "team": "Strasbourg",
-    "gross/w": "€ 17,308",
-    "gross/y": "€ 900,000",
-    "expiration": "Jun 30, 2029",
-    "gross_remaining": "€ 4,500,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Félix Lemaréchal",
-    "team": "Strasbourg",
-    "gross/w": "€ 17,308",
-    "gross/y": "€ 900,000",
-    "expiration": "Jun 30, 2029",
-    "gross_remaining": "€ 4,500,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Jean-Eudes Aholou",
-    "team": "Angers",
-    "gross/w": "€ 17,308",
-    "gross/y": "€ 900,000",
-    "expiration": "Jun 30, 2026",
-    "gross_remaining": "€ 1,800,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Evann Guessand",
+    "player_name": "Terem Moffi",
     "team": "Nice",
     "gross/w": "€ 17,308",
     "gross/y": "€ 900,000",
-    "expiration": "Jun 30, 2028",
-    "gross_remaining": "€ 3,600,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Jim Allevinah",
-    "team": "Angers",
-    "gross/w": "€ 17,308",
-    "gross/y": "€ 900,000",
+    "signed": "Jul 1, 2023",
     "expiration": "Jun 30, 2027",
     "gross_remaining": "€ 2,700,000",
     "release_clause": ""
   },
   {
-    "player_name": "Jonathan Rowe",
-    "team": "Marseille",
+    "player_name": "Zuriko Davitashvili",
+    "team": "St-Etienne",
     "gross/w": "€ 17,308",
     "gross/y": "€ 900,000",
-    "expiration": "Jun 30, 2025",
-    "gross_remaining": "€ 900,000",
+    "signed": "Jul 11, 2024",
+    "expiration": "Jun 30, 2028",
+    "gross_remaining": "€ 3,600,000",
     "release_clause": ""
   },
   {
-    "player_name": "Abakar Sylla",
-    "team": "Strasbourg",
+    "player_name": "Lucas Perri",
+    "team": "Lyon",
     "gross/w": "€ 17,308",
     "gross/y": "€ 900,000",
+    "signed": "Jan 5, 2024",
     "expiration": "Jun 30, 2028",
     "gross_remaining": "€ 3,600,000",
     "release_clause": ""
@@ -1786,35 +1954,9 @@
     "team": "Nantes",
     "gross/w": "€ 17,308",
     "gross/y": "€ 900,000",
+    "signed": "Jan 25, 2024",
     "expiration": "Jun 30, 2028",
     "gross_remaining": "€ 3,600,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Douglas Augusto",
-    "team": "Nantes",
-    "gross/w": "€ 17,308",
-    "gross/y": "€ 900,000",
-    "expiration": "Jun 30, 2027",
-    "gross_remaining": "€ 2,700,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Lucas Perri",
-    "team": "Lyon",
-    "gross/w": "€ 17,308",
-    "gross/y": "€ 900,000",
-    "expiration": "Jun 30, 2028",
-    "gross_remaining": "€ 3,600,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Christopher Jullien",
-    "team": "Montpellier",
-    "gross/w": "€ 17,308",
-    "gross/y": "€ 900,000",
-    "expiration": "Jun 30, 2025",
-    "gross_remaining": "€ 900,000",
     "release_clause": ""
   },
   {
@@ -1822,26 +1964,39 @@
     "team": "Lens",
     "gross/w": "€ 17,308",
     "gross/y": "€ 900,000",
+    "signed": "Jan 21, 2025",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 900,000",
     "release_clause": ""
   },
   {
-    "player_name": "Carlos Andrés Gómez",
-    "team": "Rennes",
+    "player_name": "Jonathan Rowe",
+    "team": "Marseille",
     "gross/w": "€ 17,308",
     "gross/y": "€ 900,000",
-    "expiration": "Jun 30, 2029",
-    "gross_remaining": "€ 4,500,000",
+    "signed": "Aug 23, 2024",
+    "expiration": "Jun 30, 2025",
+    "gross_remaining": "€ 900,000",
     "release_clause": ""
   },
   {
-    "player_name": "Mohamed-Ali Cho",
-    "team": "Nice",
+    "player_name": "Ulisses Garcia",
+    "team": "Marseille",
     "gross/w": "€ 17,308",
     "gross/y": "€ 900,000",
+    "signed": "Jan 16, 2024",
     "expiration": "Jun 30, 2028",
     "gross_remaining": "€ 3,600,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Jean-Eudes Aholou",
+    "team": "Angers",
+    "gross/w": "€ 17,308",
+    "gross/y": "€ 900,000",
+    "signed": "Jul 1, 2024",
+    "expiration": "Jun 30, 2026",
+    "gross_remaining": "€ 1,800,000",
     "release_clause": ""
   },
   {
@@ -1849,51 +2004,37 @@
     "team": "Lille",
     "gross/w": "€ 17,308",
     "gross/y": "€ 900,000",
+    "signed": "Jul 13, 2022",
     "expiration": "Jun 30, 2027",
     "gross_remaining": "€ 2,700,000",
     "release_clause": ""
   },
   {
-    "player_name": "Bamba Dieng",
-    "team": "Angers",
-    "gross/w": "€ 17,308",
-    "gross/y": "€ 900,000",
-    "expiration": "Jun 30, 2025",
-    "gross_remaining": "€ 900,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Nikola Maksimović",
-    "team": "Montpellier",
-    "gross/w": "€ 17,308",
-    "gross/y": "€ 900,000",
-    "expiration": "Jun 30, 2025",
-    "gross_remaining": "€ 900,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Zuriko Davitashvili",
-    "team": "St-Etienne",
-    "gross/w": "€ 17,308",
-    "gross/y": "€ 900,000",
-    "expiration": "Jun 30, 2028",
-    "gross_remaining": "€ 3,600,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Andy Diouf",
-    "team": "Lens",
-    "gross/w": "€ 17,308",
-    "gross/y": "€ 900,000",
-    "expiration": "Jun 30, 2028",
-    "gross_remaining": "€ 3,600,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Andrey Santos",
+    "player_name": "Félix Lemaréchal",
     "team": "Strasbourg",
     "gross/w": "€ 17,308",
     "gross/y": "€ 900,000",
+    "signed": "Aug 13, 2024",
+    "expiration": "Jun 30, 2029",
+    "gross_remaining": "€ 4,500,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Sorba Thomas",
+    "team": "Nantes",
+    "gross/w": "€ 17,308",
+    "gross/y": "€ 900,000",
+    "signed": "Jul 30, 2024",
+    "expiration": "Jun 30, 2025",
+    "gross_remaining": "€ 900,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Christopher Jullien",
+    "team": "Montpellier",
+    "gross/w": "€ 17,308",
+    "gross/y": "€ 900,000",
+    "signed": "Aug 23, 2022",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 900,000",
     "release_clause": ""
@@ -1903,17 +2044,39 @@
     "team": "Reims",
     "gross/w": "€ 17,308",
     "gross/y": "€ 900,000",
+    "signed": "Feb 1, 2024",
     "expiration": "Jun 30, 2028",
     "gross_remaining": "€ 3,600,000",
     "release_clause": ""
   },
   {
-    "player_name": "Sorba Thomas",
-    "team": "Nantes",
+    "player_name": "Abakar Sylla",
+    "team": "Strasbourg",
     "gross/w": "€ 17,308",
     "gross/y": "€ 900,000",
+    "signed": "Jul 15, 2023",
+    "expiration": "Jun 30, 2028",
+    "gross_remaining": "€ 3,600,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Andrey Santos",
+    "team": "Strasbourg",
+    "gross/w": "€ 17,308",
+    "gross/y": "€ 900,000",
+    "signed": "Aug 2, 2024",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 900,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Guéla Doué",
+    "team": "Strasbourg",
+    "gross/w": "€ 17,308",
+    "gross/y": "€ 900,000",
+    "signed": "Jul 26, 2024",
+    "expiration": "Jun 30, 2029",
+    "gross_remaining": "€ 4,500,000",
     "release_clause": ""
   },
   {
@@ -1921,24 +2084,27 @@
     "team": "Rennes",
     "gross/w": "€ 17,308",
     "gross/y": "€ 900,000",
+    "signed": "Mar 28, 2025",
     "expiration": "Jun 30, 2029",
     "gross_remaining": "€ 4,500,000",
     "release_clause": ""
   },
   {
-    "player_name": "Terem Moffi",
-    "team": "Nice",
+    "player_name": "Nikola Maksimović",
+    "team": "Montpellier",
     "gross/w": "€ 17,308",
     "gross/y": "€ 900,000",
-    "expiration": "Jun 30, 2027",
-    "gross_remaining": "€ 2,700,000",
+    "signed": "Oct 31, 2024",
+    "expiration": "Jun 30, 2025",
+    "gross_remaining": "€ 900,000",
     "release_clause": ""
   },
   {
-    "player_name": "Ulisses Garcia",
-    "team": "Marseille",
+    "player_name": "Evann Guessand",
+    "team": "Nice",
     "gross/w": "€ 17,308",
     "gross/y": "€ 900,000",
+    "signed": "Aug 21, 2024",
     "expiration": "Jun 30, 2028",
     "gross_remaining": "€ 3,600,000",
     "release_clause": ""
@@ -1948,6 +2114,17 @@
     "team": "Strasbourg",
     "gross/w": "€ 17,308",
     "gross/y": "€ 900,000",
+    "signed": "Feb 2, 2025",
+    "expiration": "Jun 30, 2025",
+    "gross_remaining": "€ 900,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Bamba Dieng",
+    "team": "Angers",
+    "gross/w": "€ 17,308",
+    "gross/y": "€ 900,000",
+    "signed": "Aug 30, 2024",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 900,000",
     "release_clause": ""
@@ -1957,8 +2134,49 @@
     "team": "Le Havre",
     "gross/w": "€ 17,308",
     "gross/y": "€ 900,000",
+    "signed": "Jan 13, 2025",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 900,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Jim Allevinah",
+    "team": "Angers",
+    "gross/w": "€ 17,308",
+    "gross/y": "€ 900,000",
+    "signed": "Jul 1, 2024",
+    "expiration": "Jun 30, 2027",
+    "gross_remaining": "€ 2,700,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Douglas Augusto",
+    "team": "Nantes",
+    "gross/w": "€ 17,308",
+    "gross/y": "€ 900,000",
+    "signed": "Aug 12, 2023",
+    "expiration": "Jun 30, 2027",
+    "gross_remaining": "€ 2,700,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Mohamed-Ali Cho",
+    "team": "Nice",
+    "gross/w": "€ 17,308",
+    "gross/y": "€ 900,000",
+    "signed": "Jan 8, 2024",
+    "expiration": "Jun 30, 2028",
+    "gross_remaining": "€ 3,600,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Carlos Andrés Gómez",
+    "team": "Rennes",
+    "gross/w": "€ 17,308",
+    "gross/y": "€ 900,000",
+    "signed": "Aug 17, 2024",
+    "expiration": "Jun 30, 2029",
+    "gross_remaining": "€ 4,500,000",
     "release_clause": ""
   },
   {
@@ -1966,8 +2184,19 @@
     "team": "Reims",
     "gross/w": "€ 16,346",
     "gross/y": "€ 850,000",
+    "signed": "Jul 7, 2023",
     "expiration": "Jun 30, 2027",
     "gross_remaining": "€ 2,550,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Meschack Elia",
+    "team": "Nantes",
+    "gross/w": "€ 16,154",
+    "gross/y": "€ 840,000",
+    "signed": "Feb 3, 2025",
+    "expiration": "Jun 30, 2025",
+    "gross_remaining": "€ 840,000",
     "release_clause": ""
   },
   {
@@ -1975,6 +2204,7 @@
     "team": "Auxerre",
     "gross/w": "€ 16,154",
     "gross/y": "€ 840,000",
+    "signed": "Aug 28, 2023",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 1,680,000",
     "release_clause": ""
@@ -1984,17 +2214,9 @@
     "team": "St-Etienne",
     "gross/w": "€ 16,154",
     "gross/y": "€ 840,000",
+    "signed": "Jun 12, 2024",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 1,680,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Meschack Elia",
-    "team": "Nantes",
-    "gross/w": "€ 16,154",
-    "gross/y": "€ 840,000",
-    "expiration": "Jun 30, 2025",
-    "gross_remaining": "€ 840,000",
     "release_clause": ""
   },
   {
@@ -2002,35 +2224,9 @@
     "team": "Angers",
     "gross/w": "€ 15,769",
     "gross/y": "€ 820,000",
+    "signed": "Aug 17, 2024",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 1,640,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Mamadou Sarr",
-    "team": "Strasbourg",
-    "gross/w": "€ 15,769",
-    "gross/y": "€ 820,000",
-    "expiration": "Jun 30, 2029",
-    "gross_remaining": "€ 4,100,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Sinaly Diomandé",
-    "team": "Auxerre",
-    "gross/w": "€ 15,769",
-    "gross/y": "€ 820,000",
-    "expiration": "Jun 30, 2027",
-    "gross_remaining": "€ 2,460,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Hugo Magnetti",
-    "team": "Brest",
-    "gross/w": "€ 15,769",
-    "gross/y": "€ 820,000",
-    "expiration": "Jun 30, 2027",
-    "gross_remaining": "€ 2,460,000",
     "release_clause": ""
   },
   {
@@ -2038,6 +2234,37 @@
     "team": "Reims",
     "gross/w": "€ 15,769",
     "gross/y": "€ 820,000",
+    "signed": "Feb 3, 2025",
+    "expiration": "Jun 30, 2029",
+    "gross_remaining": "€ 4,100,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Hugo Magnetti",
+    "team": "Brest",
+    "gross/w": "€ 15,769",
+    "gross/y": "€ 820,000",
+    "signed": "Mar 4, 2024",
+    "expiration": "Jun 30, 2027",
+    "gross_remaining": "€ 2,460,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Sinaly Diomandé",
+    "team": "Auxerre",
+    "gross/w": "€ 15,769",
+    "gross/y": "€ 820,000",
+    "signed": "Aug 30, 2024",
+    "expiration": "Jun 30, 2027",
+    "gross_remaining": "€ 2,460,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Mamadou Sarr",
+    "team": "Strasbourg",
+    "gross/w": "€ 15,769",
+    "gross/y": "€ 820,000",
+    "signed": "Aug 22, 2024",
     "expiration": "Jun 30, 2029",
     "gross_remaining": "€ 4,100,000",
     "release_clause": ""
@@ -2047,6 +2274,7 @@
     "team": "Brest",
     "gross/w": "€ 15,385",
     "gross/y": "€ 800,000",
+    "signed": "Jul 19, 2023",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 800,000",
     "release_clause": ""
@@ -2056,6 +2284,7 @@
     "team": "Auxerre",
     "gross/w": "€ 15,000",
     "gross/y": "€ 780,000",
+    "signed": "Jul 31, 2023",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 1,560,000",
     "release_clause": ""
@@ -2065,6 +2294,7 @@
     "team": "St-Etienne",
     "gross/w": "€ 15,000",
     "gross/y": "€ 780,000",
+    "signed": "Jun 12, 2024",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 1,560,000",
     "release_clause": ""
@@ -2074,8 +2304,19 @@
     "team": "Lyon",
     "gross/w": "€ 14,423",
     "gross/y": "€ 750,000",
+    "signed": "Sep 1, 2023",
     "expiration": "Jun 30, 2027",
     "gross_remaining": "€ 2,250,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Emanuel Emegha",
+    "team": "Strasbourg",
+    "gross/w": "€ 14,423",
+    "gross/y": "€ 750,000",
+    "signed": "Jul 22, 2023",
+    "expiration": "Jun 30, 2028",
+    "gross_remaining": "€ 3,000,000",
     "release_clause": ""
   },
   {
@@ -2083,6 +2324,7 @@
     "team": "St-Etienne",
     "gross/w": "€ 14,423",
     "gross/y": "€ 750,000",
+    "signed": "Jun 12, 2024",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 1,500,000",
     "release_clause": ""
@@ -2092,134 +2334,9 @@
     "team": "Auxerre",
     "gross/w": "€ 14,423",
     "gross/y": "€ 750,000",
+    "signed": "Oct 3, 2024",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 1,500,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Emanuel Emegha",
-    "team": "Strasbourg",
-    "gross/w": "€ 14,423",
-    "gross/y": "€ 750,000",
-    "expiration": "Jun 30, 2028",
-    "gross_remaining": "€ 3,000,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Hervé Koffi",
-    "team": "Lens",
-    "gross/w": "€ 13,846",
-    "gross/y": "€ 720,000",
-    "expiration": "Jun 30, 2028",
-    "gross_remaining": "€ 2,880,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Kenny Lala",
-    "team": "Brest",
-    "gross/w": "€ 13,846",
-    "gross/y": "€ 720,000",
-    "expiration": "Jun 30, 2025",
-    "gross_remaining": "€ 720,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Augustine Boakye",
-    "team": "St-Etienne",
-    "gross/w": "€ 13,846",
-    "gross/y": "€ 720,000",
-    "expiration": "Jun 30, 2028",
-    "gross_remaining": "€ 2,880,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Paul Joly",
-    "team": "Auxerre",
-    "gross/w": "€ 13,846",
-    "gross/y": "€ 720,000",
-    "expiration": "Jun 30, 2027",
-    "gross_remaining": "€ 2,160,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Lucas Stassin",
-    "team": "St-Etienne",
-    "gross/w": "€ 13,846",
-    "gross/y": "€ 720,000",
-    "expiration": "Jun 30, 2028",
-    "gross_remaining": "€ 2,880,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Diego Moreira",
-    "team": "Strasbourg",
-    "gross/w": "€ 13,846",
-    "gross/y": "€ 720,000",
-    "expiration": "Jun 30, 2029",
-    "gross_remaining": "€ 3,600,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Pedro Chirivella",
-    "team": "Nantes",
-    "gross/w": "€ 13,846",
-    "gross/y": "€ 720,000",
-    "expiration": "Jun 30, 2026",
-    "gross_remaining": "€ 1,440,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Derek Cornelius",
-    "team": "Marseille",
-    "gross/w": "€ 13,846",
-    "gross/y": "€ 720,000",
-    "expiration": "Jun 30, 2028",
-    "gross_remaining": "€ 2,880,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Mohamed Abdelmonem",
-    "team": "Nice",
-    "gross/w": "€ 13,846",
-    "gross/y": "€ 720,000",
-    "expiration": "Jun 30, 2028",
-    "gross_remaining": "€ 2,880,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Moïse Bombito",
-    "team": "Nice",
-    "gross/w": "€ 13,846",
-    "gross/y": "€ 720,000",
-    "expiration": "Jun 30, 2028",
-    "gross_remaining": "€ 2,880,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Charlie Cresswell",
-    "team": "Toulouse",
-    "gross/w": "€ 13,846",
-    "gross/y": "€ 720,000",
-    "expiration": "Jun 30, 2028",
-    "gross_remaining": "€ 2,880,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Mickaël Nade",
-    "team": "St-Etienne",
-    "gross/w": "€ 13,846",
-    "gross/y": "€ 720,000",
-    "expiration": "Jun 30, 2028",
-    "gross_remaining": "€ 2,880,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Elisha Owusu",
-    "team": "Auxerre",
-    "gross/w": "€ 13,846",
-    "gross/y": "€ 720,000",
-    "expiration": "Jun 30, 2027",
-    "gross_remaining": "€ 2,160,000",
     "release_clause": ""
   },
   {
@@ -2227,26 +2344,19 @@
     "team": "Nantes",
     "gross/w": "€ 13,846",
     "gross/y": "€ 720,000",
+    "signed": "Jul 4, 2023",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 720,000",
     "release_clause": ""
   },
   {
-    "player_name": "Aïmen Moueffek",
-    "team": "St-Etienne",
+    "player_name": "Hervé Koffi",
+    "team": "Lens",
     "gross/w": "€ 13,846",
     "gross/y": "€ 720,000",
+    "signed": "Jul 1, 2024",
     "expiration": "Jun 30, 2028",
     "gross_remaining": "€ 2,880,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Johann Lepenant",
-    "team": "Nantes",
-    "gross/w": "€ 13,846",
-    "gross/y": "€ 720,000",
-    "expiration": "Jun 30, 2025",
-    "gross_remaining": "€ 720,000",
     "release_clause": ""
   },
   {
@@ -2254,6 +2364,7 @@
     "team": "Strasbourg",
     "gross/w": "€ 13,846",
     "gross/y": "€ 720,000",
+    "signed": "Jan 23, 2023",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 1,440,000",
     "release_clause": ""
@@ -2263,17 +2374,59 @@
     "team": "Nice",
     "gross/w": "€ 13,846",
     "gross/y": "€ 720,000",
+    "signed": "Feb 20, 2025",
     "expiration": "Jun 30, 2027",
     "gross_remaining": "€ 2,160,000",
     "release_clause": ""
   },
   {
-    "player_name": "Gabriel Osho",
-    "team": "Auxerre",
+    "player_name": "Lucas Stassin",
+    "team": "St-Etienne",
     "gross/w": "€ 13,846",
     "gross/y": "€ 720,000",
+    "signed": "Aug 30, 2024",
+    "expiration": "Jun 30, 2028",
+    "gross_remaining": "€ 2,880,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Aïmen Moueffek",
+    "team": "St-Etienne",
+    "gross/w": "€ 13,846",
+    "gross/y": "€ 720,000",
+    "signed": "Jul 3, 2024",
+    "expiration": "Jun 30, 2028",
+    "gross_remaining": "€ 2,880,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Kenny Lala",
+    "team": "Brest",
+    "gross/w": "€ 13,846",
+    "gross/y": "€ 720,000",
+    "signed": "Jul 12, 2023",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 720,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Derek Cornelius",
+    "team": "Marseille",
+    "gross/w": "€ 13,846",
+    "gross/y": "€ 720,000",
+    "signed": "Aug 4, 2024",
+    "expiration": "Jun 30, 2028",
+    "gross_remaining": "€ 2,880,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Diego Moreira",
+    "team": "Strasbourg",
+    "gross/w": "€ 13,846",
+    "gross/y": "€ 720,000",
+    "signed": "Aug 16, 2024",
+    "expiration": "Jun 30, 2029",
+    "gross_remaining": "€ 3,600,000",
     "release_clause": ""
   },
   {
@@ -2281,17 +2434,59 @@
     "team": "St-Etienne",
     "gross/w": "€ 13,846",
     "gross/y": "€ 720,000",
+    "signed": "Jun 3, 2024",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 1,440,000",
     "release_clause": ""
   },
   {
-    "player_name": "Matias Fernandez-Pardo",
-    "team": "Lille",
+    "player_name": "Moïse Bombito",
+    "team": "Nice",
     "gross/w": "€ 13,846",
     "gross/y": "€ 720,000",
-    "expiration": "Jun 30, 2029",
-    "gross_remaining": "€ 3,600,000",
+    "signed": "Aug 19, 2024",
+    "expiration": "Jun 30, 2028",
+    "gross_remaining": "€ 2,880,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Gabriel Osho",
+    "team": "Auxerre",
+    "gross/w": "€ 13,846",
+    "gross/y": "€ 720,000",
+    "signed": "Jul 11, 2024",
+    "expiration": "Jun 30, 2025",
+    "gross_remaining": "€ 720,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Mohamed Abdelmonem",
+    "team": "Nice",
+    "gross/w": "€ 13,846",
+    "gross/y": "€ 720,000",
+    "signed": "Aug 29, 2024",
+    "expiration": "Jun 30, 2028",
+    "gross_remaining": "€ 2,880,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Johann Lepenant",
+    "team": "Nantes",
+    "gross/w": "€ 13,846",
+    "gross/y": "€ 720,000",
+    "signed": "Aug 10, 2024",
+    "expiration": "Jun 30, 2025",
+    "gross_remaining": "€ 720,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Mickaël Nade",
+    "team": "St-Etienne",
+    "gross/w": "€ 13,846",
+    "gross/y": "€ 720,000",
+    "signed": "Jul 24, 2024",
+    "expiration": "Jun 30, 2028",
+    "gross_remaining": "€ 2,880,000",
     "release_clause": ""
   },
   {
@@ -2299,8 +2494,69 @@
     "team": "Strasbourg",
     "gross/w": "€ 13,846",
     "gross/y": "€ 720,000",
+    "signed": "Jul 2, 2024",
     "expiration": "Jun 30, 2029",
     "gross_remaining": "€ 3,600,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Augustine Boakye",
+    "team": "St-Etienne",
+    "gross/w": "€ 13,846",
+    "gross/y": "€ 720,000",
+    "signed": "Jul 13, 2024",
+    "expiration": "Jun 30, 2028",
+    "gross_remaining": "€ 2,880,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Elisha Owusu",
+    "team": "Auxerre",
+    "gross/w": "€ 13,846",
+    "gross/y": "€ 720,000",
+    "signed": "Jun 26, 2024",
+    "expiration": "Jun 30, 2027",
+    "gross_remaining": "€ 2,160,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Charlie Cresswell",
+    "team": "Toulouse",
+    "gross/w": "€ 13,846",
+    "gross/y": "€ 720,000",
+    "signed": "Jul 8, 2024",
+    "expiration": "Jun 30, 2028",
+    "gross_remaining": "€ 2,880,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Paul Joly",
+    "team": "Auxerre",
+    "gross/w": "€ 13,846",
+    "gross/y": "€ 720,000",
+    "signed": "Nov 29, 2024",
+    "expiration": "Jun 30, 2027",
+    "gross_remaining": "€ 2,160,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Matias Fernandez-Pardo",
+    "team": "Lille",
+    "gross/w": "€ 13,846",
+    "gross/y": "€ 720,000",
+    "signed": "Aug 30, 2024",
+    "expiration": "Jun 30, 2029",
+    "gross_remaining": "€ 3,600,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Pedro Chirivella",
+    "team": "Nantes",
+    "gross/w": "€ 13,846",
+    "gross/y": "€ 720,000",
+    "signed": "Apr 28, 2022",
+    "expiration": "Jun 30, 2026",
+    "gross_remaining": "€ 1,440,000",
     "release_clause": ""
   },
   {
@@ -2308,6 +2564,7 @@
     "team": "PSG",
     "gross/w": "€ 13,846",
     "gross/y": "€ 720,000",
+    "signed": "May 20, 2024",
     "expiration": "Jun 30, 2027",
     "gross_remaining": "€ 2,160,000",
     "release_clause": ""
@@ -2317,8 +2574,19 @@
     "team": "Lille",
     "gross/w": "€ 13,654",
     "gross/y": "€ 710,000",
+    "signed": "Aug 9, 2020",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 710,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Jubal",
+    "team": "Auxerre",
+    "gross/w": "€ 13,462",
+    "gross/y": "€ 700,000",
+    "signed": "Jul 22, 2022",
+    "expiration": "Jun 30, 2025",
+    "gross_remaining": "€ 700,000",
     "release_clause": ""
   },
   {
@@ -2326,6 +2594,7 @@
     "team": "Auxerre",
     "gross/w": "€ 13,462",
     "gross/y": "€ 700,000",
+    "signed": "Oct 3, 2024",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 1,400,000",
     "release_clause": ""
@@ -2335,6 +2604,7 @@
     "team": "Strasbourg",
     "gross/w": "€ 13,462",
     "gross/y": "€ 700,000",
+    "signed": "Aug 8, 2023",
     "expiration": "Jun 30, 2027",
     "gross_remaining": "€ 2,100,000",
     "release_clause": ""
@@ -2344,17 +2614,9 @@
     "team": "Reims",
     "gross/w": "€ 13,462",
     "gross/y": "€ 700,000",
+    "signed": "Jul 21, 2023",
     "expiration": "Jun 30, 2027",
     "gross_remaining": "€ 2,100,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Jubal",
-    "team": "Auxerre",
-    "gross/w": "€ 13,462",
-    "gross/y": "€ 700,000",
-    "expiration": "Jun 30, 2025",
-    "gross_remaining": "€ 700,000",
     "release_clause": ""
   },
   {
@@ -2362,6 +2624,7 @@
     "team": "Monaco",
     "gross/w": "€ 13,269",
     "gross/y": "€ 690,000",
+    "signed": "Dec 4, 2024",
     "expiration": "Jun 30, 2029",
     "gross_remaining": "€ 3,450,000",
     "release_clause": ""
@@ -2371,6 +2634,7 @@
     "team": "Monaco",
     "gross/w": "€ 13,269",
     "gross/y": "€ 690,000",
+    "signed": "Jul 25, 2024",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 690,000",
     "release_clause": ""
@@ -2380,6 +2644,7 @@
     "team": "Le Havre",
     "gross/w": "€ 13,077",
     "gross/y": "€ 680,000",
+    "signed": "Jan 31, 2025",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 680,000",
     "release_clause": ""
@@ -2389,6 +2654,7 @@
     "team": "St-Etienne",
     "gross/w": "€ 12,692",
     "gross/y": "€ 660,000",
+    "signed": "Jan 3, 2023",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 1,320,000",
     "release_clause": ""
@@ -2398,69 +2664,17 @@
     "team": "Nantes",
     "gross/w": "€ 12,500",
     "gross/y": "€ 650,000",
+    "signed": "Jan 25, 2025",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 650,000",
     "release_clause": ""
   },
   {
-    "player_name": "Guillaume Restes",
-    "team": "Toulouse",
+    "player_name": "Clément Akpa",
+    "team": "Auxerre",
     "gross/w": "€ 12,308",
     "gross/y": "€ 640,000",
-    "expiration": "Jun 30, 2028",
-    "gross_remaining": "€ 2,560,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Jeffrey de Lange",
-    "team": "Marseille",
-    "gross/w": "€ 12,308",
-    "gross/y": "€ 640,000",
-    "expiration": "Jun 30, 2027",
-    "gross_remaining": "€ 1,920,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Jordan James",
-    "team": "Rennes",
-    "gross/w": "€ 12,308",
-    "gross/y": "€ 640,000",
-    "expiration": "Jun 30, 2028",
-    "gross_remaining": "€ 2,560,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Igor Miladinovic",
-    "team": "St-Etienne",
-    "gross/w": "€ 12,308",
-    "gross/y": "€ 640,000",
-    "expiration": "Jun 30, 2028",
-    "gross_remaining": "€ 2,560,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Warmed Omari",
-    "team": "Lyon",
-    "gross/w": "€ 12,308",
-    "gross/y": "€ 640,000",
-    "expiration": "Jun 30, 2025",
-    "gross_remaining": "€ 640,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Gauthier Gallon",
-    "team": "Rennes",
-    "gross/w": "€ 12,308",
-    "gross/y": "€ 640,000",
-    "expiration": "Jun 30, 2027",
-    "gross_remaining": "€ 1,920,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Alaa Bellaarouch",
-    "team": "Strasbourg",
-    "gross/w": "€ 12,308",
-    "gross/y": "€ 640,000",
+    "signed": "Nov 15, 2024",
     "expiration": "Jun 30, 2027",
     "gross_remaining": "€ 1,920,000",
     "release_clause": ""
@@ -2470,26 +2684,9 @@
     "team": "Brest",
     "gross/w": "€ 12,308",
     "gross/y": "€ 640,000",
+    "signed": "Aug 30, 2024",
     "expiration": "Jun 30, 2029",
     "gross_remaining": "€ 3,200,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Kiki Kouyaté",
-    "team": "Montpellier",
-    "gross/w": "€ 12,308",
-    "gross/y": "€ 640,000",
-    "expiration": "Jun 30, 2026",
-    "gross_remaining": "€ 1,280,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Clément Akpa",
-    "team": "Auxerre",
-    "gross/w": "€ 12,308",
-    "gross/y": "€ 640,000",
-    "expiration": "Jun 30, 2027",
-    "gross_remaining": "€ 1,920,000",
     "release_clause": ""
   },
   {
@@ -2497,8 +2694,89 @@
     "team": "Lens",
     "gross/w": "€ 12,308",
     "gross/y": "€ 640,000",
+    "signed": "Aug 23, 2024",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 640,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Jeffrey de Lange",
+    "team": "Marseille",
+    "gross/w": "€ 12,308",
+    "gross/y": "€ 640,000",
+    "signed": "Aug 8, 2024",
+    "expiration": "Jun 30, 2027",
+    "gross_remaining": "€ 1,920,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Alaa Bellaarouch",
+    "team": "Strasbourg",
+    "gross/w": "€ 12,308",
+    "gross/y": "€ 640,000",
+    "signed": "Jan 11, 2024",
+    "expiration": "Jun 30, 2027",
+    "gross_remaining": "€ 1,920,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Jordan James",
+    "team": "Rennes",
+    "gross/w": "€ 12,308",
+    "gross/y": "€ 640,000",
+    "signed": "Aug 12, 2024",
+    "expiration": "Jun 30, 2028",
+    "gross_remaining": "€ 2,560,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Warmed Omari",
+    "team": "Lyon",
+    "gross/w": "€ 12,308",
+    "gross/y": "€ 640,000",
+    "signed": "Aug 30, 2024",
+    "expiration": "Jun 30, 2025",
+    "gross_remaining": "€ 640,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Igor Miladinovic",
+    "team": "St-Etienne",
+    "gross/w": "€ 12,308",
+    "gross/y": "€ 640,000",
+    "signed": "Aug 9, 2024",
+    "expiration": "Jun 30, 2028",
+    "gross_remaining": "€ 2,560,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Kiki Kouyaté",
+    "team": "Montpellier",
+    "gross/w": "€ 12,308",
+    "gross/y": "€ 640,000",
+    "signed": "Jan 20, 2023",
+    "expiration": "Jun 30, 2026",
+    "gross_remaining": "€ 1,280,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Gauthier Gallon",
+    "team": "Rennes",
+    "gross/w": "€ 12,308",
+    "gross/y": "€ 640,000",
+    "signed": "Sep 3, 2024",
+    "expiration": "Jun 30, 2027",
+    "gross_remaining": "€ 1,920,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Guillaume Restes",
+    "team": "Toulouse",
+    "gross/w": "€ 12,308",
+    "gross/y": "€ 640,000",
+    "signed": "Oct 31, 2023",
+    "expiration": "Jun 30, 2028",
+    "gross_remaining": "€ 2,560,000",
     "release_clause": ""
   },
   {
@@ -2506,35 +2784,29 @@
     "team": "Angers",
     "gross/w": "€ 12,115",
     "gross/y": "€ 630,000",
+    "signed": "Jul 18, 2022",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 1,260,000",
     "release_clause": ""
   },
   {
-    "player_name": "Ibrahima Niane",
-    "team": "Angers",
+    "player_name": "Aron Dønnum",
+    "team": "Toulouse",
     "gross/w": "€ 11,538",
     "gross/y": "€ 600,000",
+    "signed": "Sep 1, 2023",
+    "expiration": "Jun 30, 2028",
+    "gross_remaining": "€ 2,400,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Ibrahima Wadji",
+    "team": "St-Etienne",
+    "gross/w": "€ 11,538",
+    "gross/y": "€ 600,000",
+    "signed": "Aug 30, 2022",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 600,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Assane Dioussé",
-    "team": "Auxerre",
-    "gross/w": "€ 11,538",
-    "gross/y": "€ 600,000",
-    "expiration": "Jun 30, 2026",
-    "gross_remaining": "€ 1,200,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Hicham Boudaoui",
-    "team": "Nice",
-    "gross/w": "€ 11,538",
-    "gross/y": "€ 600,000",
-    "expiration": "Jun 30, 2027",
-    "gross_remaining": "€ 1,800,000",
     "release_clause": ""
   },
   {
@@ -2542,6 +2814,27 @@
     "team": "Monaco",
     "gross/w": "€ 11,538",
     "gross/y": "€ 600,000",
+    "signed": "Jan 25, 2024",
+    "expiration": "Jun 30, 2027",
+    "gross_remaining": "€ 1,800,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Assane Dioussé",
+    "team": "Auxerre",
+    "gross/w": "€ 11,538",
+    "gross/y": "€ 600,000",
+    "signed": "Aug 10, 2023",
+    "expiration": "Jun 30, 2026",
+    "gross_remaining": "€ 1,200,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Yehvann Diouf",
+    "team": "Reims",
+    "gross/w": "€ 11,538",
+    "gross/y": "€ 600,000",
+    "signed": "Mar 9, 2023",
     "expiration": "Jun 30, 2027",
     "gross_remaining": "€ 1,800,000",
     "release_clause": ""
@@ -2551,44 +2844,9 @@
     "team": "Strasbourg",
     "gross/w": "€ 11,538",
     "gross/y": "€ 600,000",
+    "signed": "Aug 16, 2024",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 1,200,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Ibrahima Wadji",
-    "team": "St-Etienne",
-    "gross/w": "€ 11,538",
-    "gross/y": "€ 600,000",
-    "expiration": "Jun 30, 2025",
-    "gross_remaining": "€ 600,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Gabriel Suazo",
-    "team": "Toulouse",
-    "gross/w": "€ 11,538",
-    "gross/y": "€ 600,000",
-    "expiration": "Jun 30, 2026",
-    "gross_remaining": "€ 1,200,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Aron Dønnum",
-    "team": "Toulouse",
-    "gross/w": "€ 11,538",
-    "gross/y": "€ 600,000",
-    "expiration": "Jun 30, 2028",
-    "gross_remaining": "€ 2,400,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Yehvann Diouf",
-    "team": "Reims",
-    "gross/w": "€ 11,538",
-    "gross/y": "€ 600,000",
-    "expiration": "Jun 30, 2027",
-    "gross_remaining": "€ 1,800,000",
     "release_clause": ""
   },
   {
@@ -2596,8 +2854,39 @@
     "team": "Lens",
     "gross/w": "€ 11,538",
     "gross/y": "€ 600,000",
+    "signed": "Jan 24, 2023",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 1,200,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Gabriel Suazo",
+    "team": "Toulouse",
+    "gross/w": "€ 11,538",
+    "gross/y": "€ 600,000",
+    "signed": "Jan 16, 2023",
+    "expiration": "Jun 30, 2026",
+    "gross_remaining": "€ 1,200,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Hicham Boudaoui",
+    "team": "Nice",
+    "gross/w": "€ 11,538",
+    "gross/y": "€ 600,000",
+    "signed": "Jan 25, 2023",
+    "expiration": "Jun 30, 2027",
+    "gross_remaining": "€ 1,800,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Ibrahima Niane",
+    "team": "Angers",
+    "gross/w": "€ 11,538",
+    "gross/y": "€ 600,000",
+    "signed": "Jul 1, 2023",
+    "expiration": "Jun 30, 2025",
+    "gross_remaining": "€ 600,000",
     "release_clause": ""
   },
   {
@@ -2605,17 +2894,9 @@
     "team": "Monaco",
     "gross/w": "€ 11,154",
     "gross/y": "€ 580,000",
+    "signed": "Aug 11, 2024",
     "expiration": "Jun 30, 2029",
     "gross_remaining": "€ 2,900,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Edan Diop",
-    "team": "Monaco",
-    "gross/w": "€ 10,962",
-    "gross/y": "€ 570,000",
-    "expiration": "Jun 30, 2028",
-    "gross_remaining": "€ 2,280,000",
     "release_clause": ""
   },
   {
@@ -2623,8 +2904,19 @@
     "team": "Toulouse",
     "gross/w": "€ 10,962",
     "gross/y": "€ 570,000",
+    "signed": "Aug 4, 2023",
     "expiration": "Jun 30, 2027",
     "gross_remaining": "€ 1,710,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Edan Diop",
+    "team": "Monaco",
+    "gross/w": "€ 10,962",
+    "gross/y": "€ 570,000",
+    "signed": "Aug 10, 2023",
+    "expiration": "Jun 30, 2028",
+    "gross_remaining": "€ 2,280,000",
     "release_clause": ""
   },
   {
@@ -2632,6 +2924,7 @@
     "team": "St-Etienne",
     "gross/w": "€ 10,769",
     "gross/y": "€ 560,000",
+    "signed": "Jan 28, 2025",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 560,000",
     "release_clause": ""
@@ -2641,6 +2934,7 @@
     "team": "Toulouse",
     "gross/w": "€ 10,577",
     "gross/y": "€ 550,000",
+    "signed": "Mar 29, 2024",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 550,000",
     "release_clause": ""
@@ -2650,107 +2944,9 @@
     "team": "Montpellier",
     "gross/w": "€ 10,577",
     "gross/y": "€ 550,000",
+    "signed": "Jul 1, 2023",
     "expiration": "Jun 30, 2028",
     "gross_remaining": "€ 2,200,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Pierrick Capelle",
-    "team": "Angers",
-    "gross/w": "€ 10,385",
-    "gross/y": "€ 540,000",
-    "expiration": "Jun 30, 2025",
-    "gross_remaining": "€ 540,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Yoram Zague",
-    "team": "PSG",
-    "gross/w": "€ 10,385",
-    "gross/y": "€ 540,000",
-    "expiration": "Jun 30, 2028",
-    "gross_remaining": "€ 2,160,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Deiver Machado",
-    "team": "Lens",
-    "gross/w": "€ 10,385",
-    "gross/y": "€ 540,000",
-    "expiration": "Jun 30, 2026",
-    "gross_remaining": "€ 1,080,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Patrik Carlgren",
-    "team": "Nantes",
-    "gross/w": "€ 10,385",
-    "gross/y": "€ 540,000",
-    "expiration": "Jun 30, 2026",
-    "gross_remaining": "€ 1,080,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Goduine Koyalipou",
-    "team": "Lens",
-    "gross/w": "€ 10,385",
-    "gross/y": "€ 540,000",
-    "expiration": "Jun 30, 2028",
-    "gross_remaining": "€ 2,160,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Ngal'ayel Mukau",
-    "team": "Lille",
-    "gross/w": "€ 10,385",
-    "gross/y": "€ 540,000",
-    "expiration": "Jun 30, 2028",
-    "gross_remaining": "€ 2,160,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Yvann Maçon",
-    "team": "St-Etienne",
-    "gross/w": "€ 10,385",
-    "gross/y": "€ 540,000",
-    "expiration": "Jun 30, 2025",
-    "gross_remaining": "€ 540,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Gautier Lloris",
-    "team": "Le Havre",
-    "gross/w": "€ 10,385",
-    "gross/y": "€ 540,000",
-    "expiration": "Jun 30, 2026",
-    "gross_remaining": "€ 1,080,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Ethan Mbappé",
-    "team": "Lille",
-    "gross/w": "€ 10,385",
-    "gross/y": "€ 540,000",
-    "expiration": "Jun 30, 2027",
-    "gross_remaining": "€ 1,620,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Florent Hanin",
-    "team": "Angers",
-    "gross/w": "€ 10,385",
-    "gross/y": "€ 540,000",
-    "expiration": "Jun 30, 2025",
-    "gross_remaining": "€ 540,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Wesley Saïd",
-    "team": "Lens",
-    "gross/w": "€ 10,385",
-    "gross/y": "€ 540,000",
-    "expiration": "Jun 30, 2026",
-    "gross_remaining": "€ 1,080,000",
     "release_clause": ""
   },
   {
@@ -2758,6 +2954,27 @@
     "team": "Le Havre",
     "gross/w": "€ 10,385",
     "gross/y": "€ 540,000",
+    "signed": "Sep 17, 2024",
+    "expiration": "Jun 30, 2026",
+    "gross_remaining": "€ 1,080,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Deiver Machado",
+    "team": "Lens",
+    "gross/w": "€ 10,385",
+    "gross/y": "€ 540,000",
+    "signed": "Jan 31, 2023",
+    "expiration": "Jun 30, 2026",
+    "gross_remaining": "€ 1,080,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Wesley Saïd",
+    "team": "Lens",
+    "gross/w": "€ 10,385",
+    "gross/y": "€ 540,000",
+    "signed": "Jan 17, 2023",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 1,080,000",
     "release_clause": ""
@@ -2767,17 +2984,99 @@
     "team": "St-Etienne",
     "gross/w": "€ 10,385",
     "gross/y": "€ 540,000",
+    "signed": "Feb 2, 2025",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 540,000",
     "release_clause": ""
   },
   {
-    "player_name": "Yassine Kechta",
-    "team": "Le Havre",
-    "gross/w": "€ 10,000",
-    "gross/y": "€ 520,000",
+    "player_name": "Patrik Carlgren",
+    "team": "Nantes",
+    "gross/w": "€ 10,385",
+    "gross/y": "€ 540,000",
+    "signed": "Aug 30, 2024",
     "expiration": "Jun 30, 2026",
-    "gross_remaining": "€ 1,040,000",
+    "gross_remaining": "€ 1,080,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Ethan Mbappé",
+    "team": "Lille",
+    "gross/w": "€ 10,385",
+    "gross/y": "€ 540,000",
+    "signed": "Jul 4, 2024",
+    "expiration": "Jun 30, 2027",
+    "gross_remaining": "€ 1,620,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Yoram Zague",
+    "team": "PSG",
+    "gross/w": "€ 10,385",
+    "gross/y": "€ 540,000",
+    "signed": "Feb 7, 2025",
+    "expiration": "Jun 30, 2028",
+    "gross_remaining": "€ 2,160,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Ngal'ayel Mukau",
+    "team": "Lille",
+    "gross/w": "€ 10,385",
+    "gross/y": "€ 540,000",
+    "signed": "Jul 11, 2024",
+    "expiration": "Jun 30, 2028",
+    "gross_remaining": "€ 2,160,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Goduine Koyalipou",
+    "team": "Lens",
+    "gross/w": "€ 10,385",
+    "gross/y": "€ 540,000",
+    "signed": "Jan 9, 2025",
+    "expiration": "Jun 30, 2028",
+    "gross_remaining": "€ 2,160,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Pierrick Capelle",
+    "team": "Angers",
+    "gross/w": "€ 10,385",
+    "gross/y": "€ 540,000",
+    "signed": "May 16, 2024",
+    "expiration": "Jun 30, 2025",
+    "gross_remaining": "€ 540,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Yvann Maçon",
+    "team": "St-Etienne",
+    "gross/w": "€ 10,385",
+    "gross/y": "€ 540,000",
+    "signed": "Jun 28, 2021",
+    "expiration": "Jun 30, 2025",
+    "gross_remaining": "€ 540,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Florent Hanin",
+    "team": "Angers",
+    "gross/w": "€ 10,385",
+    "gross/y": "€ 540,000",
+    "signed": "Jun 13, 2024",
+    "expiration": "Jun 30, 2025",
+    "gross_remaining": "€ 540,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Gautier Lloris",
+    "team": "Le Havre",
+    "gross/w": "€ 10,385",
+    "gross/y": "€ 540,000",
+    "signed": "Oct 17, 2023",
+    "expiration": "Jun 30, 2026",
+    "gross_remaining": "€ 1,080,000",
     "release_clause": ""
   },
   {
@@ -2785,8 +3084,19 @@
     "team": "Strasbourg",
     "gross/w": "€ 10,000",
     "gross/y": "€ 520,000",
+    "signed": "Jul 1, 2022",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 520,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Yassine Kechta",
+    "team": "Le Havre",
+    "gross/w": "€ 10,000",
+    "gross/y": "€ 520,000",
+    "signed": "Aug 4, 2023",
+    "expiration": "Jun 30, 2026",
+    "gross_remaining": "€ 1,040,000",
     "release_clause": ""
   },
   {
@@ -2794,24 +3104,17 @@
     "team": "Brest",
     "gross/w": "€ 9,808",
     "gross/y": "€ 510,000",
+    "signed": "Jul 1, 2022",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 510,000",
     "release_clause": ""
   },
   {
-    "player_name": "Bradley Locko",
-    "team": "Brest",
+    "player_name": "Modibo Sagnan",
+    "team": "Montpellier",
     "gross/w": "€ 9,615",
     "gross/y": "€ 500,000",
-    "expiration": "Jun 30, 2027",
-    "gross_remaining": "€ 1,500,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Oumar Diakité",
-    "team": "Reims",
-    "gross/w": "€ 9,615",
-    "gross/y": "€ 500,000",
+    "signed": "Feb 1, 2024",
     "expiration": "Jun 30, 2028",
     "gross_remaining": "€ 2,000,000",
     "release_clause": ""
@@ -2821,26 +3124,29 @@
     "team": "Toulouse",
     "gross/w": "€ 9,615",
     "gross/y": "€ 500,000",
+    "signed": "Jul 21, 2023",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 1,000,000",
     "release_clause": ""
   },
   {
-    "player_name": "Modibo Sagnan",
-    "team": "Montpellier",
+    "player_name": "Oumar Diakité",
+    "team": "Reims",
     "gross/w": "€ 9,615",
     "gross/y": "€ 500,000",
+    "signed": "Jul 1, 2023",
     "expiration": "Jun 30, 2028",
     "gross_remaining": "€ 2,000,000",
     "release_clause": ""
   },
   {
-    "player_name": "Gaëtan Perrin",
-    "team": "Auxerre",
-    "gross/w": "€ 9,231",
-    "gross/y": "€ 480,000",
-    "expiration": "Jun 30, 2026",
-    "gross_remaining": "€ 960,000",
+    "player_name": "Bradley Locko",
+    "team": "Brest",
+    "gross/w": "€ 9,615",
+    "gross/y": "€ 500,000",
+    "signed": "Jul 27, 2023",
+    "expiration": "Jun 30, 2027",
+    "gross_remaining": "€ 1,500,000",
     "release_clause": ""
   },
   {
@@ -2848,6 +3154,27 @@
     "team": "Brest",
     "gross/w": "€ 9,231",
     "gross/y": "€ 480,000",
+    "signed": "Jul 1, 2024",
+    "expiration": "Jun 30, 2027",
+    "gross_remaining": "€ 1,440,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Gaëtan Perrin",
+    "team": "Auxerre",
+    "gross/w": "€ 9,231",
+    "gross/y": "€ 480,000",
+    "signed": "Aug 4, 2023",
+    "expiration": "Jun 30, 2026",
+    "gross_remaining": "€ 960,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Saël Kumbedi",
+    "team": "Lyon",
+    "gross/w": "€ 9,231",
+    "gross/y": "€ 480,000",
+    "signed": "Apr 18, 2023",
     "expiration": "Jun 30, 2027",
     "gross_remaining": "€ 1,440,000",
     "release_clause": ""
@@ -2857,17 +3184,9 @@
     "team": "Reims",
     "gross/w": "€ 9,231",
     "gross/y": "€ 480,000",
+    "signed": "Aug 29, 2024",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 480,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Saël Kumbedi",
-    "team": "Lyon",
-    "gross/w": "€ 9,231",
-    "gross/y": "€ 480,000",
-    "expiration": "Jun 30, 2027",
-    "gross_remaining": "€ 1,440,000",
     "release_clause": ""
   },
   {
@@ -2875,26 +3194,9 @@
     "team": "St-Etienne",
     "gross/w": "€ 9,038",
     "gross/y": "€ 470,000",
+    "signed": "Jan 6, 2023",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 940,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Valentin Atangana",
-    "team": "Reims",
-    "gross/w": "€ 8,846",
-    "gross/y": "€ 460,000",
-    "expiration": "Jun 30, 2027",
-    "gross_remaining": "€ 1,380,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Timothée Pembélé",
-    "team": "Le Havre",
-    "gross/w": "€ 8,846",
-    "gross/y": "€ 460,000",
-    "expiration": "Jun 30, 2025",
-    "gross_remaining": "€ 460,000",
     "release_clause": ""
   },
   {
@@ -2902,8 +3204,39 @@
     "team": "Reims",
     "gross/w": "€ 8,846",
     "gross/y": "€ 460,000",
+    "signed": "Nov 20, 2024",
     "expiration": "Jun 30, 2029",
     "gross_remaining": "€ 2,300,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Timothée Pembélé",
+    "team": "Le Havre",
+    "gross/w": "€ 8,846",
+    "gross/y": "€ 460,000",
+    "signed": "Aug 30, 2024",
+    "expiration": "Jun 30, 2025",
+    "gross_remaining": "€ 460,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Valentin Atangana",
+    "team": "Reims",
+    "gross/w": "€ 8,846",
+    "gross/y": "€ 460,000",
+    "signed": "Dec 19, 2024",
+    "expiration": "Jun 30, 2027",
+    "gross_remaining": "€ 1,380,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Nathan Zézé",
+    "team": "Nantes",
+    "gross/w": "€ 8,654",
+    "gross/y": "€ 450,000",
+    "signed": "Mar 17, 2024",
+    "expiration": "Jun 30, 2028",
+    "gross_remaining": "€ 1,800,000",
     "release_clause": ""
   },
   {
@@ -2911,26 +3244,19 @@
     "team": "Lens",
     "gross/w": "€ 8,654",
     "gross/y": "€ 450,000",
+    "signed": "Aug 2, 2024",
     "expiration": "Jun 30, 2028",
     "gross_remaining": "€ 1,800,000",
     "release_clause": ""
   },
   {
-    "player_name": "Nidal Celik",
+    "player_name": "Jhoanner Chávez",
     "team": "Lens",
     "gross/w": "€ 8,654",
     "gross/y": "€ 450,000",
-    "expiration": "Jun 30, 2029",
-    "gross_remaining": "€ 2,250,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Cristian Cásseres Jr",
-    "team": "Toulouse",
-    "gross/w": "€ 8,654",
-    "gross/y": "€ 450,000",
-    "expiration": "Jun 30, 2027",
-    "gross_remaining": "€ 1,350,000",
+    "signed": "Jul 1, 2024",
+    "expiration": "Jun 30, 2028",
+    "gross_remaining": "€ 1,800,000",
     "release_clause": ""
   },
   {
@@ -2938,6 +3264,47 @@
     "team": "Rennes",
     "gross/w": "€ 8,654",
     "gross/y": "€ 450,000",
+    "signed": "Feb 3, 2025",
+    "expiration": "Jun 30, 2029",
+    "gross_remaining": "€ 2,250,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Donovan Léon",
+    "team": "Auxerre",
+    "gross/w": "€ 8,654",
+    "gross/y": "€ 450,000",
+    "signed": "Jan 17, 2025",
+    "expiration": "Jun 30, 2027",
+    "gross_remaining": "€ 1,350,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Cristian Cásseres Jr",
+    "team": "Toulouse",
+    "gross/w": "€ 8,654",
+    "gross/y": "€ 450,000",
+    "signed": "Jul 7, 2023",
+    "expiration": "Jun 30, 2027",
+    "gross_remaining": "€ 1,350,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Lamine Fomba",
+    "team": "St-Etienne",
+    "gross/w": "€ 8,654",
+    "gross/y": "€ 450,000",
+    "signed": "Jun 3, 2024",
+    "expiration": "Jun 30, 2026",
+    "gross_remaining": "€ 900,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Nidal Celik",
+    "team": "Lens",
+    "gross/w": "€ 8,654",
+    "gross/y": "€ 450,000",
+    "signed": "Feb 3, 2025",
     "expiration": "Jun 30, 2029",
     "gross_remaining": "€ 2,250,000",
     "release_clause": ""
@@ -2947,44 +3314,9 @@
     "team": "St-Etienne",
     "gross/w": "€ 8,654",
     "gross/y": "€ 450,000",
+    "signed": "Aug 22, 2024",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 900,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Donovan Léon",
-    "team": "Auxerre",
-    "gross/w": "€ 8,654",
-    "gross/y": "€ 450,000",
-    "expiration": "Jun 30, 2027",
-    "gross_remaining": "€ 1,350,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Nathan Zézé",
-    "team": "Nantes",
-    "gross/w": "€ 8,654",
-    "gross/y": "€ 450,000",
-    "expiration": "Jun 30, 2028",
-    "gross_remaining": "€ 1,800,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Lamine Fomba",
-    "team": "St-Etienne",
-    "gross/w": "€ 8,654",
-    "gross/y": "€ 450,000",
-    "expiration": "Jun 30, 2026",
-    "gross_remaining": "€ 900,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Jhoanner Chávez",
-    "team": "Lens",
-    "gross/w": "€ 8,654",
-    "gross/y": "€ 450,000",
-    "expiration": "Jun 30, 2028",
-    "gross_remaining": "€ 1,800,000",
     "release_clause": ""
   },
   {
@@ -2992,6 +3324,7 @@
     "team": "Angers",
     "gross/w": "€ 8,077",
     "gross/y": "€ 420,000",
+    "signed": "Jun 21, 2023",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 420,000",
     "release_clause": ""
@@ -3001,24 +3334,7 @@
     "team": "Nice",
     "gross/w": "€ 8,077",
     "gross/y": "€ 420,000",
-    "expiration": "Jun 30, 2026",
-    "gross_remaining": "€ 840,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Arouna Sangante",
-    "team": "Le Havre",
-    "gross/w": "€ 8,077",
-    "gross/y": "€ 420,000",
-    "expiration": "Jun 30, 2026",
-    "gross_remaining": "€ 840,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Ibrahim Sissoko",
-    "team": "St-Etienne",
-    "gross/w": "€ 8,077",
-    "gross/y": "€ 420,000",
+    "signed": "Jan 28, 2024",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 840,000",
     "release_clause": ""
@@ -3028,8 +3344,49 @@
     "team": "St-Etienne",
     "gross/w": "€ 8,077",
     "gross/y": "€ 420,000",
+    "signed": "Aug 30, 2022",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 420,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Ibrahim Sissoko",
+    "team": "St-Etienne",
+    "gross/w": "€ 8,077",
+    "gross/y": "€ 420,000",
+    "signed": "Jul 6, 2023",
+    "expiration": "Jun 30, 2026",
+    "gross_remaining": "€ 840,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Arouna Sangante",
+    "team": "Le Havre",
+    "gross/w": "€ 8,077",
+    "gross/y": "€ 420,000",
+    "signed": "Jul 27, 2023",
+    "expiration": "Jun 30, 2026",
+    "gross_remaining": "€ 840,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Gabriel Gudmundsson",
+    "team": "Lille",
+    "gross/w": "€ 7,692",
+    "gross/y": "€ 400,000",
+    "signed": "Aug 31, 2021",
+    "expiration": "Jun 30, 2026",
+    "gross_remaining": "€ 800,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Issiaga Sylla",
+    "team": "Montpellier",
+    "gross/w": "€ 7,692",
+    "gross/y": "€ 400,000",
+    "signed": "Jan 31, 2023",
+    "expiration": "Jun 30, 2025",
+    "gross_remaining": "€ 400,000",
     "release_clause": ""
   },
   {
@@ -3037,6 +3394,7 @@
     "team": "Le Havre",
     "gross/w": "€ 7,692",
     "gross/y": "€ 400,000",
+    "signed": "Jan 17, 2025",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 400,000",
     "release_clause": ""
@@ -3046,8 +3404,19 @@
     "team": "Monaco",
     "gross/w": "€ 7,692",
     "gross/y": "€ 400,000",
+    "signed": "Nov 1, 2023",
     "expiration": "Jun 30, 2028",
     "gross_remaining": "€ 1,600,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Yann Gboho",
+    "team": "Toulouse",
+    "gross/w": "€ 7,692",
+    "gross/y": "€ 400,000",
+    "signed": "Jan 8, 2024",
+    "expiration": "Jun 30, 2026",
+    "gross_remaining": "€ 800,000",
     "release_clause": ""
   },
   {
@@ -3055,15 +3424,7 @@
     "team": "Le Havre",
     "gross/w": "€ 7,692",
     "gross/y": "€ 400,000",
-    "expiration": "Jun 30, 2025",
-    "gross_remaining": "€ 400,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Issiaga Sylla",
-    "team": "Montpellier",
-    "gross/w": "€ 7,692",
-    "gross/y": "€ 400,000",
+    "signed": "Jul 1, 2023",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 400,000",
     "release_clause": ""
@@ -3073,24 +3434,7 @@
     "team": "Strasbourg",
     "gross/w": "€ 7,692",
     "gross/y": "€ 400,000",
-    "expiration": "Jun 30, 2026",
-    "gross_remaining": "€ 800,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Yann Gboho",
-    "team": "Toulouse",
-    "gross/w": "€ 7,692",
-    "gross/y": "€ 400,000",
-    "expiration": "Jun 30, 2026",
-    "gross_remaining": "€ 800,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Gabriel Gudmundsson",
-    "team": "Lille",
-    "gross/w": "€ 7,692",
-    "gross/y": "€ 400,000",
+    "signed": "Jan 29, 2022",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 800,000",
     "release_clause": ""
@@ -3100,15 +3444,7 @@
     "team": "Brest",
     "gross/w": "€ 7,500",
     "gross/y": "€ 390,000",
-    "expiration": "Jun 30, 2025",
-    "gross_remaining": "€ 390,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Pablo Rosario",
-    "team": "Nice",
-    "gross/w": "€ 7,500",
-    "gross/y": "€ 390,000",
+    "signed": "Jul 24, 2024",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 390,000",
     "release_clause": ""
@@ -3118,24 +3454,27 @@
     "team": "Angers",
     "gross/w": "€ 7,500",
     "gross/y": "€ 390,000",
+    "signed": "Jul 1, 2024",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 780,000",
     "release_clause": ""
   },
   {
-    "player_name": "Saad Agouzoul",
-    "team": "Auxerre",
-    "gross/w": "€ 6,923",
-    "gross/y": "€ 360,000",
-    "expiration": "Jun 30, 2026",
-    "gross_remaining": "€ 720,000",
+    "player_name": "Pablo Rosario",
+    "team": "Nice",
+    "gross/w": "€ 7,500",
+    "gross/y": "€ 390,000",
+    "signed": "Jul 27, 2021",
+    "expiration": "Jun 30, 2025",
+    "gross_remaining": "€ 390,000",
     "release_clause": ""
   },
   {
-    "player_name": "Vincent Sierro",
-    "team": "Toulouse",
+    "player_name": "Marcin Bulka",
+    "team": "Nice",
     "gross/w": "€ 6,923",
     "gross/y": "€ 360,000",
+    "signed": "Jul 1, 2022",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 720,000",
     "release_clause": ""
@@ -3145,35 +3484,9 @@
     "team": "St-Etienne",
     "gross/w": "€ 6,923",
     "gross/y": "€ 360,000",
+    "signed": "Aug 21, 2024",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 720,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Théo Sainte-Luce",
-    "team": "Montpellier",
-    "gross/w": "€ 6,923",
-    "gross/y": "€ 360,000",
-    "expiration": "Jun 30, 2025",
-    "gross_remaining": "€ 360,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Djaoui Cissé",
-    "team": "Rennes",
-    "gross/w": "€ 6,923",
-    "gross/y": "€ 360,000",
-    "expiration": "Jun 30, 2029",
-    "gross_remaining": "€ 1,800,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Lasso Coulibaly",
-    "team": "Auxerre",
-    "gross/w": "€ 6,923",
-    "gross/y": "€ 360,000",
-    "expiration": "Jun 30, 2028",
-    "gross_remaining": "€ 1,440,000",
     "release_clause": ""
   },
   {
@@ -3181,17 +3494,9 @@
     "team": "Lyon",
     "gross/w": "€ 6,923",
     "gross/y": "€ 360,000",
+    "signed": "Jan 20, 2025",
     "expiration": "Jun 30, 2028",
     "gross_remaining": "€ 1,440,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Marcin Bulka",
-    "team": "Nice",
-    "gross/w": "€ 6,923",
-    "gross/y": "€ 360,000",
-    "expiration": "Jun 30, 2026",
-    "gross_remaining": "€ 720,000",
     "release_clause": ""
   },
   {
@@ -3199,8 +3504,59 @@
     "team": "Le Havre",
     "gross/w": "€ 6,923",
     "gross/y": "€ 360,000",
+    "signed": "Aug 28, 2024",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 360,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Saad Agouzoul",
+    "team": "Auxerre",
+    "gross/w": "€ 6,923",
+    "gross/y": "€ 360,000",
+    "signed": "Jul 6, 2023",
+    "expiration": "Jun 30, 2026",
+    "gross_remaining": "€ 720,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Vincent Sierro",
+    "team": "Toulouse",
+    "gross/w": "€ 6,923",
+    "gross/y": "€ 360,000",
+    "signed": "Jan 23, 2023",
+    "expiration": "Jun 30, 2026",
+    "gross_remaining": "€ 720,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Djaoui Cissé",
+    "team": "Rennes",
+    "gross/w": "€ 6,923",
+    "gross/y": "€ 360,000",
+    "signed": "Apr 1, 2025",
+    "expiration": "Jun 30, 2029",
+    "gross_remaining": "€ 1,800,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Théo Sainte-Luce",
+    "team": "Montpellier",
+    "gross/w": "€ 6,923",
+    "gross/y": "€ 360,000",
+    "signed": "Jul 1, 2022",
+    "expiration": "Jun 30, 2025",
+    "gross_remaining": "€ 360,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Lasso Coulibaly",
+    "team": "Auxerre",
+    "gross/w": "€ 6,923",
+    "gross/y": "€ 360,000",
+    "signed": "Jul 1, 2024",
+    "expiration": "Jun 30, 2028",
+    "gross_remaining": "€ 1,440,000",
     "release_clause": ""
   },
   {
@@ -3208,17 +3564,9 @@
     "team": "Angers",
     "gross/w": "€ 6,923",
     "gross/y": "€ 360,000",
+    "signed": "Jul 31, 2024",
     "expiration": "Jun 30, 2027",
     "gross_remaining": "€ 1,080,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Ludovic Butelle",
-    "team": "Reims",
-    "gross/w": "€ 6,731",
-    "gross/y": "€ 350,000",
-    "expiration": "Jun 30, 2025",
-    "gross_remaining": "€ 350,000",
     "release_clause": ""
   },
   {
@@ -3226,6 +3574,17 @@
     "team": "Le Havre",
     "gross/w": "€ 6,731",
     "gross/y": "€ 350,000",
+    "signed": "Oct 7, 2021",
+    "expiration": "Jun 30, 2025",
+    "gross_remaining": "€ 350,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Ludovic Butelle",
+    "team": "Reims",
+    "gross/w": "€ 6,731",
+    "gross/y": "€ 350,000",
+    "signed": "May 23, 2024",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 350,000",
     "release_clause": ""
@@ -3235,6 +3594,7 @@
     "team": "Auxerre",
     "gross/w": "€ 6,346",
     "gross/y": "€ 330,000",
+    "signed": "Jul 16, 2024",
     "expiration": "Jun 30, 2028",
     "gross_remaining": "€ 1,320,000",
     "release_clause": ""
@@ -3244,17 +3604,9 @@
     "team": "Le Havre",
     "gross/w": "€ 6,346",
     "gross/y": "€ 330,000",
+    "signed": "Jul 17, 2023",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 660,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Oualid El Hajjam",
-    "team": "Le Havre",
-    "gross/w": "€ 6,154",
-    "gross/y": "€ 320,000",
-    "expiration": "Jun 30, 2026",
-    "gross_remaining": "€ 640,000",
     "release_clause": ""
   },
   {
@@ -3262,15 +3614,27 @@
     "team": "Strasbourg",
     "gross/w": "€ 6,154",
     "gross/y": "€ 320,000",
+    "signed": "Jul 9, 2024",
     "expiration": "Jun 30, 2029",
     "gross_remaining": "€ 1,600,000",
     "release_clause": ""
   },
   {
-    "player_name": "Alexandre Olliero",
+    "player_name": "Malcolm Jeng",
     "team": "Reims",
     "gross/w": "€ 6,154",
     "gross/y": "€ 320,000",
+    "signed": "Jan 12, 2025",
+    "expiration": "Jun 30, 2029",
+    "gross_remaining": "€ 1,600,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Oualid El Hajjam",
+    "team": "Le Havre",
+    "gross/w": "€ 6,154",
+    "gross/y": "€ 320,000",
+    "signed": "Nov 10, 2023",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 640,000",
     "release_clause": ""
@@ -3280,17 +3644,9 @@
     "team": "Montpellier",
     "gross/w": "€ 6,154",
     "gross/y": "€ 320,000",
+    "signed": "Dec 4, 2023",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 640,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Malcolm Jeng",
-    "team": "Reims",
-    "gross/w": "€ 6,154",
-    "gross/y": "€ 320,000",
-    "expiration": "Jun 30, 2029",
-    "gross_remaining": "€ 1,600,000",
     "release_clause": ""
   },
   {
@@ -3298,44 +3654,19 @@
     "team": "Brest",
     "gross/w": "€ 6,154",
     "gross/y": "€ 320,000",
+    "signed": "Aug 14, 2024",
     "expiration": "Jun 30, 2027",
     "gross_remaining": "€ 960,000",
     "release_clause": ""
   },
   {
-    "player_name": "Zakaria Aboukhlal",
-    "team": "Toulouse",
-    "gross/w": "€ 5,769",
-    "gross/y": "€ 300,000",
+    "player_name": "Alexandre Olliero",
+    "team": "Reims",
+    "gross/w": "€ 6,154",
+    "gross/y": "€ 320,000",
+    "signed": "Jan 31, 2023",
     "expiration": "Jun 30, 2026",
-    "gross_remaining": "€ 600,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Kjetil Haug",
-    "team": "Toulouse",
-    "gross/w": "€ 5,769",
-    "gross/y": "€ 300,000",
-    "expiration": "Jun 30, 2026",
-    "gross_remaining": "€ 600,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Mahdi Camara",
-    "team": "Brest",
-    "gross/w": "€ 5,769",
-    "gross/y": "€ 300,000",
-    "expiration": "Jun 30, 2026",
-    "gross_remaining": "€ 600,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Arthur Desmas",
-    "team": "Le Havre",
-    "gross/w": "€ 5,769",
-    "gross/y": "€ 300,000",
-    "expiration": "Jun 30, 2025",
-    "gross_remaining": "€ 300,000",
+    "gross_remaining": "€ 640,000",
     "release_clause": ""
   },
   {
@@ -3343,6 +3674,27 @@
     "team": "Montpellier",
     "gross/w": "€ 5,769",
     "gross/y": "€ 300,000",
+    "signed": "Feb 3, 2025",
+    "expiration": "Jun 30, 2025",
+    "gross_remaining": "€ 300,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Zakaria Aboukhlal",
+    "team": "Toulouse",
+    "gross/w": "€ 5,769",
+    "gross/y": "€ 300,000",
+    "signed": "Jul 1, 2022",
+    "expiration": "Jun 30, 2026",
+    "gross_remaining": "€ 600,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Josué Casimir",
+    "team": "Le Havre",
+    "gross/w": "€ 5,769",
+    "gross/y": "€ 300,000",
+    "signed": "Aug 29, 2022",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 300,000",
     "release_clause": ""
@@ -3352,26 +3704,39 @@
     "team": "Montpellier",
     "gross/w": "€ 5,769",
     "gross/y": "€ 300,000",
+    "signed": "Feb 3, 2023",
     "expiration": "Jun 30, 2027",
     "gross_remaining": "€ 900,000",
     "release_clause": ""
   },
   {
-    "player_name": "Josué Casimir",
+    "player_name": "Kjetil Haug",
+    "team": "Toulouse",
+    "gross/w": "€ 5,769",
+    "gross/y": "€ 300,000",
+    "signed": "Jul 1, 2022",
+    "expiration": "Jun 30, 2026",
+    "gross_remaining": "€ 600,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Arthur Desmas",
     "team": "Le Havre",
     "gross/w": "€ 5,769",
     "gross/y": "€ 300,000",
+    "signed": "Jul 1, 2022",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 300,000",
     "release_clause": ""
   },
   {
-    "player_name": "Ayanda Sishuba",
-    "team": "Rennes",
-    "gross/w": "€ 5,385",
-    "gross/y": "€ 280,000",
-    "expiration": "Jun 30, 2029",
-    "gross_remaining": "€ 1,400,000",
+    "player_name": "Mahdi Camara",
+    "team": "Brest",
+    "gross/w": "€ 5,769",
+    "gross/y": "€ 300,000",
+    "signed": "Jul 1, 2023",
+    "expiration": "Jun 30, 2026",
+    "gross_remaining": "€ 600,000",
     "release_clause": ""
   },
   {
@@ -3379,6 +3744,17 @@
     "team": "Reims",
     "gross/w": "€ 5,385",
     "gross/y": "€ 280,000",
+    "signed": "Jan 12, 2025",
+    "expiration": "Jun 30, 2029",
+    "gross_remaining": "€ 1,400,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Ayanda Sishuba",
+    "team": "Rennes",
+    "gross/w": "€ 5,385",
+    "gross/y": "€ 280,000",
+    "signed": "Feb 3, 2025",
     "expiration": "Jun 30, 2029",
     "gross_remaining": "€ 1,400,000",
     "release_clause": ""
@@ -3388,35 +3764,9 @@
     "team": "Lens",
     "gross/w": "€ 5,385",
     "gross/y": "€ 280,000",
+    "signed": "Jan 28, 2025",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 280,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Estéban Lepaul",
-    "team": "Angers",
-    "gross/w": "€ 5,192",
-    "gross/y": "€ 270,000",
-    "expiration": "Jun 30, 2027",
-    "gross_remaining": "€ 810,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Ayyoub Bouaddi",
-    "team": "Lille",
-    "gross/w": "€ 5,192",
-    "gross/y": "€ 270,000",
-    "expiration": "Jun 30, 2027",
-    "gross_remaining": "€ 810,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Bilal Nadir",
-    "team": "Marseille",
-    "gross/w": "€ 5,192",
-    "gross/y": "€ 270,000",
-    "expiration": "Jun 30, 2026",
-    "gross_remaining": "€ 540,000",
     "release_clause": ""
   },
   {
@@ -3424,17 +3774,9 @@
     "team": "Strasbourg",
     "gross/w": "€ 5,192",
     "gross/y": "€ 270,000",
+    "signed": "Jul 27, 2023",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 540,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Rémy Descamps",
-    "team": "Lyon",
-    "gross/w": "€ 5,192",
-    "gross/y": "€ 270,000",
-    "expiration": "Jun 30, 2027",
-    "gross_remaining": "€ 810,000",
     "release_clause": ""
   },
   {
@@ -3442,8 +3784,29 @@
     "team": "Angers",
     "gross/w": "€ 5,192",
     "gross/y": "€ 270,000",
+    "signed": "May 16, 2024",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 270,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Estéban Lepaul",
+    "team": "Angers",
+    "gross/w": "€ 5,192",
+    "gross/y": "€ 270,000",
+    "signed": "Jan 25, 2024",
+    "expiration": "Jun 30, 2027",
+    "gross_remaining": "€ 810,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Rémy Descamps",
+    "team": "Lyon",
+    "gross/w": "€ 5,192",
+    "gross/y": "€ 270,000",
+    "signed": "Aug 23, 2024",
+    "expiration": "Jun 30, 2027",
+    "gross_remaining": "€ 810,000",
     "release_clause": ""
   },
   {
@@ -3451,17 +3814,29 @@
     "team": "Auxerre",
     "gross/w": "€ 5,192",
     "gross/y": "€ 270,000",
+    "signed": "Feb 19, 2025",
     "expiration": "Jun 30, 2028",
     "gross_remaining": "€ 1,080,000",
     "release_clause": ""
   },
   {
-    "player_name": "Emmanuel Sabbi",
-    "team": "Le Havre",
-    "gross/w": "€ 5,000",
-    "gross/y": "€ 260,000",
+    "player_name": "Bilal Nadir",
+    "team": "Marseille",
+    "gross/w": "€ 5,192",
+    "gross/y": "€ 270,000",
+    "signed": "Mar 13, 2024",
+    "expiration": "Jun 30, 2026",
+    "gross_remaining": "€ 540,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Ayyoub Bouaddi",
+    "team": "Lille",
+    "gross/w": "€ 5,192",
+    "gross/y": "€ 270,000",
+    "signed": "Jun 10, 2024",
     "expiration": "Jun 30, 2027",
-    "gross_remaining": "€ 780,000",
+    "gross_remaining": "€ 810,000",
     "release_clause": ""
   },
   {
@@ -3469,26 +3844,19 @@
     "team": "Auxerre",
     "gross/w": "€ 5,000",
     "gross/y": "€ 260,000",
+    "signed": "Jan 29, 2025",
     "expiration": "Jun 30, 2028",
     "gross_remaining": "€ 1,040,000",
     "release_clause": ""
   },
   {
-    "player_name": "Vito Mannone",
-    "team": "Lille",
-    "gross/w": "€ 4,808",
-    "gross/y": "€ 250,000",
-    "expiration": "Jun 30, 2025",
-    "gross_remaining": "€ 250,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Issa Soumaré",
+    "player_name": "Emmanuel Sabbi",
     "team": "Le Havre",
-    "gross/w": "€ 4,808",
-    "gross/y": "€ 250,000",
-    "expiration": "Jun 30, 2026",
-    "gross_remaining": "€ 500,000",
+    "gross/w": "€ 5,000",
+    "gross/y": "€ 260,000",
+    "signed": "Aug 10, 2023",
+    "expiration": "Jun 30, 2027",
+    "gross_remaining": "€ 780,000",
     "release_clause": ""
   },
   {
@@ -3496,6 +3864,7 @@
     "team": "St-Etienne",
     "gross/w": "€ 4,808",
     "gross/y": "€ 250,000",
+    "signed": "Aug 5, 2021",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 250,000",
     "release_clause": ""
@@ -3505,15 +3874,47 @@
     "team": "Le Havre",
     "gross/w": "€ 4,808",
     "gross/y": "€ 250,000",
+    "signed": "Jul 5, 2024",
     "expiration": "Jun 30, 2027",
     "gross_remaining": "€ 750,000",
     "release_clause": ""
   },
   {
-    "player_name": "Warren Kamanzi",
-    "team": "Toulouse",
+    "player_name": "Issa Soumaré",
+    "team": "Le Havre",
+    "gross/w": "€ 4,808",
+    "gross/y": "€ 250,000",
+    "signed": "Jul 4, 2023",
+    "expiration": "Jun 30, 2026",
+    "gross_remaining": "€ 500,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Vito Mannone",
+    "team": "Lille",
+    "gross/w": "€ 4,808",
+    "gross/y": "€ 250,000",
+    "signed": "Aug 29, 2023",
+    "expiration": "Jun 30, 2025",
+    "gross_remaining": "€ 250,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Yahia Fofana",
+    "team": "Angers",
     "gross/w": "€ 4,615",
     "gross/y": "€ 240,000",
+    "signed": "Jul 1, 2022",
+    "expiration": "Jun 30, 2026",
+    "gross_remaining": "€ 480,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Christopher Wooh",
+    "team": "Rennes",
+    "gross/w": "€ 4,615",
+    "gross/y": "€ 240,000",
+    "signed": "Sep 1, 2022",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 480,000",
     "release_clause": ""
@@ -3523,26 +3924,9 @@
     "team": "Lens",
     "gross/w": "€ 4,615",
     "gross/y": "€ 240,000",
+    "signed": "Aug 6, 2024",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 240,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Louis Mouton",
-    "team": "St-Etienne",
-    "gross/w": "€ 4,615",
-    "gross/y": "€ 240,000",
-    "expiration": "Jun 30, 2025",
-    "gross_remaining": "€ 240,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Shavy Babicka",
-    "team": "Toulouse",
-    "gross/w": "€ 4,615",
-    "gross/y": "€ 240,000",
-    "expiration": "Jun 30, 2027",
-    "gross_remaining": "€ 720,000",
     "release_clause": ""
   },
   {
@@ -3550,6 +3934,7 @@
     "team": "St-Etienne",
     "gross/w": "€ 4,615",
     "gross/y": "€ 240,000",
+    "signed": "Jul 9, 2024",
     "expiration": "Jun 30, 2028",
     "gross_remaining": "€ 960,000",
     "release_clause": ""
@@ -3559,26 +3944,9 @@
     "team": "Rennes",
     "gross/w": "€ 4,615",
     "gross/y": "€ 240,000",
+    "signed": "Aug 6, 2024",
     "expiration": "Jun 30, 2027",
     "gross_remaining": "€ 720,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Christopher Wooh",
-    "team": "Rennes",
-    "gross/w": "€ 4,615",
-    "gross/y": "€ 240,000",
-    "expiration": "Jun 30, 2026",
-    "gross_remaining": "€ 480,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Yahia Fofana",
-    "team": "Angers",
-    "gross/w": "€ 4,615",
-    "gross/y": "€ 240,000",
-    "expiration": "Jun 30, 2026",
-    "gross_remaining": "€ 480,000",
     "release_clause": ""
   },
   {
@@ -3586,17 +3954,39 @@
     "team": "Auxerre",
     "gross/w": "€ 4,615",
     "gross/y": "€ 240,000",
+    "signed": "Jul 25, 2023",
     "expiration": "Jun 30, 2027",
     "gross_remaining": "€ 720,000",
     "release_clause": ""
   },
   {
-    "player_name": "Jeremy Agbonifo",
-    "team": "Lens",
-    "gross/w": "€ 4,231",
-    "gross/y": "€ 220,000",
+    "player_name": "Warren Kamanzi",
+    "team": "Toulouse",
+    "gross/w": "€ 4,615",
+    "gross/y": "€ 240,000",
+    "signed": "Jan 2, 2023",
+    "expiration": "Jun 30, 2026",
+    "gross_remaining": "€ 480,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Louis Mouton",
+    "team": "St-Etienne",
+    "gross/w": "€ 4,615",
+    "gross/y": "€ 240,000",
+    "signed": "Jul 1, 2022",
     "expiration": "Jun 30, 2025",
-    "gross_remaining": "€ 220,000",
+    "gross_remaining": "€ 240,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Shavy Babicka",
+    "team": "Toulouse",
+    "gross/w": "€ 4,615",
+    "gross/y": "€ 240,000",
+    "signed": "Jan 18, 2024",
+    "expiration": "Jun 30, 2027",
+    "gross_remaining": "€ 720,000",
     "release_clause": ""
   },
   {
@@ -3604,6 +3994,7 @@
     "team": "Rennes",
     "gross/w": "€ 4,231",
     "gross/y": "€ 220,000",
+    "signed": "Aug 27, 2021",
     "expiration": "Jun 30, 2027",
     "gross_remaining": "€ 660,000",
     "release_clause": ""
@@ -3613,8 +4004,19 @@
     "team": "Le Havre",
     "gross/w": "€ 4,231",
     "gross/y": "€ 220,000",
+    "signed": "Mar 7, 2025",
     "expiration": "Jun 30, 2027",
     "gross_remaining": "€ 660,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Jeremy Agbonifo",
+    "team": "Lens",
+    "gross/w": "€ 4,231",
+    "gross/y": "€ 220,000",
+    "signed": "Jan 29, 2025",
+    "expiration": "Jun 30, 2025",
+    "gross_remaining": "€ 220,000",
     "release_clause": ""
   },
   {
@@ -3622,6 +4024,7 @@
     "team": "Le Havre",
     "gross/w": "€ 4,038",
     "gross/y": "€ 210,000",
+    "signed": "Jul 13, 2022",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 210,000",
     "release_clause": ""
@@ -3631,17 +4034,9 @@
     "team": "St-Etienne",
     "gross/w": "€ 3,846",
     "gross/y": "€ 200,000",
+    "signed": "Aug 30, 2024",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 200,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Ousmane Camara",
-    "team": "Angers",
-    "gross/w": "€ 3,462",
-    "gross/y": "€ 180,000",
-    "expiration": "Jun 30, 2026",
-    "gross_remaining": "€ 360,000",
     "release_clause": ""
   },
   {
@@ -3649,6 +4044,7 @@
     "team": "Angers",
     "gross/w": "€ 3,462",
     "gross/y": "€ 180,000",
+    "signed": "Jul 12, 2024",
     "expiration": "Jun 30, 2027",
     "gross_remaining": "€ 540,000",
     "release_clause": ""
@@ -3658,6 +4054,7 @@
     "team": "Angers",
     "gross/w": "€ 3,462",
     "gross/y": "€ 180,000",
+    "signed": "Jul 1, 2022",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 180,000",
     "release_clause": ""
@@ -3667,6 +4064,7 @@
     "team": "Montpellier",
     "gross/w": "€ 3,462",
     "gross/y": "€ 180,000",
+    "signed": "Mar 4, 2024",
     "expiration": "Jun 30, 2027",
     "gross_remaining": "€ 540,000",
     "release_clause": ""
@@ -3676,8 +4074,19 @@
     "team": "Lille",
     "gross/w": "€ 3,462",
     "gross/y": "€ 180,000",
+    "signed": "Aug 30, 2024",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 180,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Ousmane Camara",
+    "team": "Angers",
+    "gross/w": "€ 3,462",
+    "gross/y": "€ 180,000",
+    "signed": "Aug 16, 2022",
+    "expiration": "Jun 30, 2026",
+    "gross_remaining": "€ 360,000",
     "release_clause": ""
   },
   {
@@ -3685,35 +4094,9 @@
     "team": "Le Havre",
     "gross/w": "€ 3,269",
     "gross/y": "€ 170,000",
+    "signed": "Aug 29, 2024",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 170,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Belmin Dizdarevic",
-    "team": "Montpellier",
-    "gross/w": "€ 3,077",
-    "gross/y": "€ 160,000",
-    "expiration": "Jun 30, 2028",
-    "gross_remaining": "€ 640,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Amidou Doumbouya",
-    "team": "Nice",
-    "gross/w": "€ 3,077",
-    "gross/y": "€ 160,000",
-    "expiration": "Jun 30, 2026",
-    "gross_remaining": "€ 320,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Ümit Akdağ",
-    "team": "Toulouse",
-    "gross/w": "€ 3,077",
-    "gross/y": "€ 160,000",
-    "expiration": "Jun 30, 2025",
-    "gross_remaining": "€ 160,000",
     "release_clause": ""
   },
   {
@@ -3721,8 +4104,49 @@
     "team": "Marseille",
     "gross/w": "€ 3,077",
     "gross/y": "€ 160,000",
+    "signed": "Jul 1, 2022",
     "expiration": "Jun 30, 2027",
     "gross_remaining": "€ 480,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Ümit Akdağ",
+    "team": "Toulouse",
+    "gross/w": "€ 3,077",
+    "gross/y": "€ 160,000",
+    "signed": "Aug 23, 2024",
+    "expiration": "Jun 30, 2025",
+    "gross_remaining": "€ 160,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Amidou Doumbouya",
+    "team": "Nice",
+    "gross/w": "€ 3,077",
+    "gross/y": "€ 160,000",
+    "signed": "Aug 29, 2023",
+    "expiration": "Jun 30, 2026",
+    "gross_remaining": "€ 320,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Belmin Dizdarevic",
+    "team": "Montpellier",
+    "gross/w": "€ 3,077",
+    "gross/y": "€ 160,000",
+    "signed": "Jul 7, 2023",
+    "expiration": "Jun 30, 2028",
+    "gross_remaining": "€ 640,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Neil El Aynaoui",
+    "team": "Lens",
+    "gross/w": "€ 2,885",
+    "gross/y": "€ 150,000",
+    "signed": "Jul 1, 2023",
+    "expiration": "Jun 30, 2027",
+    "gross_remaining": "€ 450,000",
     "release_clause": ""
   },
   {
@@ -3730,6 +4154,7 @@
     "team": "Rennes",
     "gross/w": "€ 2,885",
     "gross/y": "€ 150,000",
+    "signed": "May 17, 2024",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 150,000",
     "release_clause": ""
@@ -3739,6 +4164,7 @@
     "team": "Angers",
     "gross/w": "€ 2,885",
     "gross/y": "€ 150,000",
+    "signed": "Jul 1, 2023",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 300,000",
     "release_clause": ""
@@ -3748,42 +4174,27 @@
     "team": "Angers",
     "gross/w": "€ 2,885",
     "gross/y": "€ 150,000",
+    "signed": "Aug 30, 2022",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 150,000",
     "release_clause": ""
   },
   {
-    "player_name": "Neil El Aynaoui",
-    "team": "Lens",
-    "gross/w": "€ 2,885",
-    "gross/y": "€ 150,000",
-    "expiration": "Jun 30, 2027",
-    "gross_remaining": "€ 450,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "John Patrick",
-    "team": "Reims",
+    "player_name": "Gaël Lafont",
+    "team": "Marseille",
     "gross/w": "€ 2,692",
     "gross/y": "€ 140,000",
-    "expiration": "Jun 30, 2029",
-    "gross_remaining": "€ 700,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Falaye Sacko",
-    "team": "Montpellier",
-    "gross/w": "€ 2,692",
-    "gross/y": "€ 140,000",
+    "signed": "Jul 1, 2024",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 280,000",
     "release_clause": ""
   },
   {
-    "player_name": "Keyliane Abdallah",
-    "team": "Marseille",
+    "player_name": "Justin Lacombe",
+    "team": "Toulouse",
     "gross/w": "€ 2,692",
     "gross/y": "€ 140,000",
+    "signed": "Apr 10, 2024",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 280,000",
     "release_clause": ""
@@ -3793,35 +4204,29 @@
     "team": "Auxerre",
     "gross/w": "€ 2,692",
     "gross/y": "€ 140,000",
+    "signed": "Jul 10, 2024",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 140,000",
     "release_clause": ""
   },
   {
-    "player_name": "Mamadou Diakhon",
+    "player_name": "Falaye Sacko",
+    "team": "Montpellier",
+    "gross/w": "€ 2,692",
+    "gross/y": "€ 140,000",
+    "signed": "Jul 1, 2023",
+    "expiration": "Jun 30, 2026",
+    "gross_remaining": "€ 280,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "John Patrick",
     "team": "Reims",
     "gross/w": "€ 2,692",
     "gross/y": "€ 140,000",
-    "expiration": "Jun 30, 2026",
-    "gross_remaining": "€ 280,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Darryl Bakola",
-    "team": "Marseille",
-    "gross/w": "€ 2,692",
-    "gross/y": "€ 140,000",
-    "expiration": "Jun 30, 2027",
-    "gross_remaining": "€ 420,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Gaël Lafont",
-    "team": "Marseille",
-    "gross/w": "€ 2,692",
-    "gross/y": "€ 140,000",
-    "expiration": "Jun 30, 2026",
-    "gross_remaining": "€ 280,000",
+    "signed": "Jan 15, 2025",
+    "expiration": "Jun 30, 2029",
+    "gross_remaining": "€ 700,000",
     "release_clause": ""
   },
   {
@@ -3829,24 +4234,17 @@
     "team": "Auxerre",
     "gross/w": "€ 2,692",
     "gross/y": "€ 140,000",
+    "signed": "Jul 12, 2024",
     "expiration": "Jun 30, 2028",
     "gross_remaining": "€ 560,000",
     "release_clause": ""
   },
   {
-    "player_name": "Justin Lacombe",
-    "team": "Toulouse",
+    "player_name": "Keyliane Abdallah",
+    "team": "Marseille",
     "gross/w": "€ 2,692",
     "gross/y": "€ 140,000",
-    "expiration": "Jun 30, 2026",
-    "gross_remaining": "€ 280,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Hugo Barbet",
-    "team": "Nantes",
-    "gross/w": "€ 2,692",
-    "gross/y": "€ 140,000",
+    "signed": "Jul 1, 2023",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 280,000",
     "release_clause": ""
@@ -3856,204 +4254,47 @@
     "team": "Reims",
     "gross/w": "€ 2,692",
     "gross/y": "€ 140,000",
+    "signed": "Jul 1, 2024",
     "expiration": "Jun 30, 2028",
     "gross_remaining": "€ 560,000",
     "release_clause": ""
   },
   {
-    "player_name": "Ylies Aradj",
-    "team": "Toulouse",
-    "gross/w": "€ 2,308",
-    "gross/y": "€ 120,000",
-    "expiration": "Jun 30, 2026",
-    "gross_remaining": "€ 240,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Aloïs Confais",
-    "team": "Le Havre",
-    "gross/w": "€ 2,308",
-    "gross/y": "€ 120,000",
-    "expiration": "Jun 30, 2025",
-    "gross_remaining": "€ 120,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Samuel Amo-Ameyaw",
-    "team": "Strasbourg",
-    "gross/w": "€ 2,308",
-    "gross/y": "€ 120,000",
-    "expiration": "Jun 30, 2025",
-    "gross_remaining": "€ 120,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Teddy Boulhendi",
-    "team": "Nice",
-    "gross/w": "€ 2,308",
-    "gross/y": "€ 120,000",
-    "expiration": "Jun 30, 2025",
-    "gross_remaining": "€ 120,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Ange Loic N'Gatta",
-    "team": "Auxerre",
-    "gross/w": "€ 2,308",
-    "gross/y": "€ 120,000",
-    "expiration": "Jun 30, 2025",
-    "gross_remaining": "€ 120,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Dimitry Bertaud",
-    "team": "Montpellier",
-    "gross/w": "€ 2,308",
-    "gross/y": "€ 120,000",
-    "expiration": "Jun 30, 2025",
-    "gross_remaining": "€ 120,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Antoine Mendy",
-    "team": "Nice",
-    "gross/w": "€ 2,308",
-    "gross/y": "€ 120,000",
-    "expiration": "Jun 30, 2028",
-    "gross_remaining": "€ 480,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Rabby Nzingoula",
-    "team": "Montpellier",
-    "gross/w": "€ 2,308",
-    "gross/y": "€ 120,000",
-    "expiration": "Jun 30, 2025",
-    "gross_remaining": "€ 120,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Yoni Gomis",
-    "team": "Strasbourg",
-    "gross/w": "€ 2,308",
-    "gross/y": "€ 120,000",
-    "expiration": "Jun 30, 2029",
-    "gross_remaining": "€ 600,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Tidiane Diallo",
-    "team": "Strasbourg",
-    "gross/w": "€ 2,308",
-    "gross/y": "€ 120,000",
+    "player_name": "Darryl Bakola",
+    "team": "Marseille",
+    "gross/w": "€ 2,692",
+    "gross/y": "€ 140,000",
+    "signed": "Sep 3, 2024",
     "expiration": "Jun 30, 2027",
-    "gross_remaining": "€ 360,000",
+    "gross_remaining": "€ 420,000",
     "release_clause": ""
   },
   {
-    "player_name": "Tom Louchet",
-    "team": "Nice",
-    "gross/w": "€ 2,308",
-    "gross/y": "€ 120,000",
-    "expiration": "Jun 30, 2026",
-    "gross_remaining": "€ 240,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Tom Pouilly",
-    "team": "Lens",
-    "gross/w": "€ 2,308",
-    "gross/y": "€ 120,000",
-    "expiration": "Jun 30, 2027",
-    "gross_remaining": "€ 360,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Himad Abdelli",
-    "team": "Angers",
-    "gross/w": "€ 2,308",
-    "gross/y": "€ 120,000",
-    "expiration": "Jun 30, 2026",
-    "gross_remaining": "€ 240,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Melvin Zinga",
-    "team": "Angers",
-    "gross/w": "€ 2,308",
-    "gross/y": "€ 120,000",
-    "expiration": "Jun 30, 2026",
-    "gross_remaining": "€ 240,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Dehmaine Tabibou",
+    "player_name": "Hugo Barbet",
     "team": "Nantes",
-    "gross/w": "€ 2,308",
-    "gross/y": "€ 120,000",
+    "gross/w": "€ 2,692",
+    "gross/y": "€ 140,000",
+    "signed": "Sep 25, 2024",
     "expiration": "Jun 30, 2026",
-    "gross_remaining": "€ 240,000",
+    "gross_remaining": "€ 280,000",
     "release_clause": ""
   },
   {
-    "player_name": "Victor Orakpo",
-    "team": "Nice",
-    "gross/w": "€ 2,308",
-    "gross/y": "€ 120,000",
-    "expiration": "Jun 30, 2028",
-    "gross_remaining": "€ 480,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Othmane Maamma",
-    "team": "Montpellier",
-    "gross/w": "€ 2,308",
-    "gross/y": "€ 120,000",
-    "expiration": "Jun 30, 2027",
-    "gross_remaining": "€ 360,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Glenn Ngosso",
-    "team": "Montpellier",
-    "gross/w": "€ 2,308",
-    "gross/y": "€ 120,000",
-    "expiration": "Jun 30, 2025",
-    "gross_remaining": "€ 120,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Ibrahim Mbaye",
-    "team": "PSG",
-    "gross/w": "€ 2,308",
-    "gross/y": "€ 120,000",
+    "player_name": "Mamadou Diakhon",
+    "team": "Reims",
+    "gross/w": "€ 2,692",
+    "gross/y": "€ 140,000",
+    "signed": "Jul 1, 2023",
     "expiration": "Jun 30, 2026",
-    "gross_remaining": "€ 240,000",
+    "gross_remaining": "€ 280,000",
     "release_clause": ""
   },
   {
-    "player_name": "Joris Chotard",
-    "team": "Montpellier",
+    "player_name": "Nhoa Sangui",
+    "team": "Reims",
     "gross/w": "€ 2,308",
     "gross/y": "€ 120,000",
-    "expiration": "Jun 30, 2026",
-    "gross_remaining": "€ 240,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Mahamadou Nagida",
-    "team": "Rennes",
-    "gross/w": "€ 2,308",
-    "gross/y": "€ 120,000",
-    "expiration": "Jun 30, 2028",
-    "gross_remaining": "€ 480,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Emmanuel Biumla",
-    "team": "Angers",
-    "gross/w": "€ 2,308",
-    "gross/y": "€ 120,000",
+    "signed": "Jul 1, 2024",
     "expiration": "Jun 30, 2027",
     "gross_remaining": "€ 360,000",
     "release_clause": ""
@@ -4063,17 +4304,9 @@
     "team": "Montpellier",
     "gross/w": "€ 2,308",
     "gross/y": "€ 120,000",
+    "signed": "Jan 29, 2025",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 120,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Nhoa Sangui",
-    "team": "Reims",
-    "gross/w": "€ 2,308",
-    "gross/y": "€ 120,000",
-    "expiration": "Jun 30, 2027",
-    "gross_remaining": "€ 360,000",
     "release_clause": ""
   },
   {
@@ -4081,8 +4314,19 @@
     "team": "Nice",
     "gross/w": "€ 2,308",
     "gross/y": "€ 120,000",
+    "signed": "Oct 25, 2024",
     "expiration": "Jun 30, 2029",
     "gross_remaining": "€ 600,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Rabby Nzingoula",
+    "team": "Montpellier",
+    "gross/w": "€ 2,308",
+    "gross/y": "€ 120,000",
+    "signed": "Aug 28, 2024",
+    "expiration": "Jun 30, 2025",
+    "gross_remaining": "€ 120,000",
     "release_clause": ""
   },
   {
@@ -4090,6 +4334,197 @@
     "team": "Auxerre",
     "gross/w": "€ 2,308",
     "gross/y": "€ 120,000",
+    "signed": "Jul 1, 2024",
+    "expiration": "Jun 30, 2026",
+    "gross_remaining": "€ 240,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Antoine Mendy",
+    "team": "Nice",
+    "gross/w": "€ 2,308",
+    "gross/y": "€ 120,000",
+    "signed": "Aug 26, 2024",
+    "expiration": "Jun 30, 2028",
+    "gross_remaining": "€ 480,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Ange Loic N'Gatta",
+    "team": "Auxerre",
+    "gross/w": "€ 2,308",
+    "gross/y": "€ 120,000",
+    "signed": "Aug 11, 2023",
+    "expiration": "Jun 30, 2025",
+    "gross_remaining": "€ 120,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Samuel Amo-Ameyaw",
+    "team": "Strasbourg",
+    "gross/w": "€ 2,308",
+    "gross/y": "€ 120,000",
+    "signed": "Feb 3, 2025",
+    "expiration": "Jun 30, 2025",
+    "gross_remaining": "€ 120,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Ibrahim Mbaye",
+    "team": "PSG",
+    "gross/w": "€ 2,308",
+    "gross/y": "€ 120,000",
+    "signed": "Jul 1, 2024",
+    "expiration": "Jun 30, 2026",
+    "gross_remaining": "€ 240,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Himad Abdelli",
+    "team": "Angers",
+    "gross/w": "€ 2,308",
+    "gross/y": "€ 120,000",
+    "signed": "Jul 1, 2022",
+    "expiration": "Jun 30, 2026",
+    "gross_remaining": "€ 240,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Enzo Tchato",
+    "team": "Montpellier",
+    "gross/w": "€ 2,308",
+    "gross/y": "€ 120,000",
+    "signed": "May 28, 2024",
+    "expiration": "Jun 30, 2027",
+    "gross_remaining": "€ 360,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Aloïs Confais",
+    "team": "Le Havre",
+    "gross/w": "€ 2,308",
+    "gross/y": "€ 120,000",
+    "signed": "Aug 17, 2022",
+    "expiration": "Jun 30, 2025",
+    "gross_remaining": "€ 120,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Hamzat Ojediran",
+    "team": "Lens",
+    "gross/w": "€ 2,308",
+    "gross/y": "€ 120,000",
+    "signed": "Aug 8, 2024",
+    "expiration": "Jun 30, 2028",
+    "gross_remaining": "€ 480,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Teddy Boulhendi",
+    "team": "Nice",
+    "gross/w": "€ 2,308",
+    "gross/y": "€ 120,000",
+    "signed": "Mar 21, 2023",
+    "expiration": "Jun 30, 2025",
+    "gross_remaining": "€ 120,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Emmanuel Biumla",
+    "team": "Angers",
+    "gross/w": "€ 2,308",
+    "gross/y": "€ 120,000",
+    "signed": "Jul 31, 2024",
+    "expiration": "Jun 30, 2027",
+    "gross_remaining": "€ 360,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Joris Chotard",
+    "team": "Montpellier",
+    "gross/w": "€ 2,308",
+    "gross/y": "€ 120,000",
+    "signed": "Jun 29, 2022",
+    "expiration": "Jun 30, 2026",
+    "gross_remaining": "€ 240,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Melvin Zinga",
+    "team": "Angers",
+    "gross/w": "€ 2,308",
+    "gross/y": "€ 120,000",
+    "signed": "Sep 23, 2024",
+    "expiration": "Jun 30, 2026",
+    "gross_remaining": "€ 240,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Glenn Ngosso",
+    "team": "Montpellier",
+    "gross/w": "€ 2,308",
+    "gross/y": "€ 120,000",
+    "signed": "Jul 1, 2024",
+    "expiration": "Jun 30, 2025",
+    "gross_remaining": "€ 120,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Tidiane Diallo",
+    "team": "Strasbourg",
+    "gross/w": "€ 2,308",
+    "gross/y": "€ 120,000",
+    "signed": "May 22, 2024",
+    "expiration": "Jun 30, 2027",
+    "gross_remaining": "€ 360,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Tom Louchet",
+    "team": "Nice",
+    "gross/w": "€ 2,308",
+    "gross/y": "€ 120,000",
+    "signed": "Jul 1, 2023",
+    "expiration": "Jun 30, 2026",
+    "gross_remaining": "€ 240,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Tom Pouilly",
+    "team": "Lens",
+    "gross/w": "€ 2,308",
+    "gross/y": "€ 120,000",
+    "signed": "Feb 26, 2025",
+    "expiration": "Jun 30, 2027",
+    "gross_remaining": "€ 360,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Victor Orakpo",
+    "team": "Nice",
+    "gross/w": "€ 2,308",
+    "gross/y": "€ 120,000",
+    "signed": "Aug 26, 2024",
+    "expiration": "Jun 30, 2028",
+    "gross_remaining": "€ 480,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Mahamadou Nagida",
+    "team": "Rennes",
+    "gross/w": "€ 2,308",
+    "gross/y": "€ 120,000",
+    "signed": "Jul 1, 2024",
+    "expiration": "Jun 30, 2028",
+    "gross_remaining": "€ 480,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Dehmaine Tabibou",
+    "team": "Nantes",
+    "gross/w": "€ 2,308",
+    "gross/y": "€ 120,000",
+    "signed": "Jul 1, 2024",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 240,000",
     "release_clause": ""
@@ -4099,26 +4534,9 @@
     "team": "Strasbourg",
     "gross/w": "€ 2,308",
     "gross/y": "€ 120,000",
+    "signed": "Dec 23, 2024",
     "expiration": "Jun 30, 2029",
     "gross_remaining": "€ 600,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Enzo Tchato",
-    "team": "Montpellier",
-    "gross/w": "€ 2,308",
-    "gross/y": "€ 120,000",
-    "expiration": "Jun 30, 2027",
-    "gross_remaining": "€ 360,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Hamzat Ojediran",
-    "team": "Lens",
-    "gross/w": "€ 2,308",
-    "gross/y": "€ 120,000",
-    "expiration": "Jun 30, 2028",
-    "gross_remaining": "€ 480,000",
     "release_clause": ""
   },
   {
@@ -4126,15 +4544,7 @@
     "team": "Reims",
     "gross/w": "€ 2,308",
     "gross/y": "€ 120,000",
-    "expiration": "Jun 30, 2027",
-    "gross_remaining": "€ 360,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Yann Lienard",
-    "team": "Monaco",
-    "gross/w": "€ 2,308",
-    "gross/y": "€ 120,000",
+    "signed": "Jul 1, 2024",
     "expiration": "Jun 30, 2027",
     "gross_remaining": "€ 360,000",
     "release_clause": ""
@@ -4144,8 +4554,59 @@
     "team": "Rennes",
     "gross/w": "€ 2,308",
     "gross/y": "€ 120,000",
+    "signed": "Mar 10, 2023",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 240,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Yann Lienard",
+    "team": "Monaco",
+    "gross/w": "€ 2,308",
+    "gross/y": "€ 120,000",
+    "signed": "Aug 17, 2023",
+    "expiration": "Jun 30, 2027",
+    "gross_remaining": "€ 360,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Ylies Aradj",
+    "team": "Toulouse",
+    "gross/w": "€ 2,308",
+    "gross/y": "€ 120,000",
+    "signed": "Jul 1, 2023",
+    "expiration": "Jun 30, 2026",
+    "gross_remaining": "€ 240,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Yoni Gomis",
+    "team": "Strasbourg",
+    "gross/w": "€ 2,308",
+    "gross/y": "€ 120,000",
+    "signed": "Aug 29, 2024",
+    "expiration": "Jun 30, 2029",
+    "gross_remaining": "€ 600,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Dimitry Bertaud",
+    "team": "Montpellier",
+    "gross/w": "€ 2,308",
+    "gross/y": "€ 120,000",
+    "signed": "Sep 24, 2021",
+    "expiration": "Jun 30, 2025",
+    "gross_remaining": "€ 120,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Othmane Maamma",
+    "team": "Montpellier",
+    "gross/w": "€ 2,308",
+    "gross/y": "€ 120,000",
+    "signed": "Jul 1, 2024",
+    "expiration": "Jun 30, 2027",
+    "gross_remaining": "€ 360,000",
     "release_clause": ""
   },
   {
@@ -4153,6 +4614,7 @@
     "team": "Nantes",
     "gross/w": "€ 1,923",
     "gross/y": "€ 100,000",
+    "signed": "Nov 1, 2024",
     "expiration": "Jun 30, 2028",
     "gross_remaining": "€ 400,000",
     "release_clause": ""
@@ -4162,6 +4624,7 @@
     "team": "Brest",
     "gross/w": "€ 1,923",
     "gross/y": "€ 100,000",
+    "signed": "Jul 1, 2024",
     "expiration": "Jun 30, 2025",
     "gross_remaining": "€ 100,000",
     "release_clause": ""
@@ -4171,42 +4634,7 @@
     "team": "Angers",
     "gross/w": "€ 1,923",
     "gross/y": "€ 100,000",
-    "expiration": "Jun 30, 2028",
-    "gross_remaining": "€ 400,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Justin-Noël Kalumba",
-    "team": "Angers",
-    "gross/w": "€ 1,923",
-    "gross/y": "€ 100,000",
-    "expiration": "Jun 30, 2026",
-    "gross_remaining": "€ 200,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Tom Negrel",
-    "team": "Auxerre",
-    "gross/w": "€ 1,923",
-    "gross/y": "€ 100,000",
-    "expiration": "Jun 30, 2026",
-    "gross_remaining": "€ 200,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Luck Zogbé",
-    "team": "Brest",
-    "gross/w": "€ 1,923",
-    "gross/y": "€ 100,000",
-    "expiration": "Jun 30, 2027",
-    "gross_remaining": "€ 300,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Louis Leroux",
-    "team": "Nantes",
-    "gross/w": "€ 1,923",
-    "gross/y": "€ 100,000",
+    "signed": "Sep 12, 2024",
     "expiration": "Jun 30, 2028",
     "gross_remaining": "€ 400,000",
     "release_clause": ""
@@ -4216,6 +4644,47 @@
     "team": "Auxerre",
     "gross/w": "€ 1,923",
     "gross/y": "€ 100,000",
+    "signed": "Jul 1, 2024",
+    "expiration": "Jun 30, 2026",
+    "gross_remaining": "€ 200,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Louis Leroux",
+    "team": "Nantes",
+    "gross/w": "€ 1,923",
+    "gross/y": "€ 100,000",
+    "signed": "Nov 1, 2024",
+    "expiration": "Jun 30, 2028",
+    "gross_remaining": "€ 400,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Justin-Noël Kalumba",
+    "team": "Angers",
+    "gross/w": "€ 1,923",
+    "gross/y": "€ 100,000",
+    "signed": "Jul 1, 2023",
+    "expiration": "Jun 30, 2026",
+    "gross_remaining": "€ 200,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Luck Zogbé",
+    "team": "Brest",
+    "gross/w": "€ 1,923",
+    "gross/y": "€ 100,000",
+    "signed": "Oct 26, 2023",
+    "expiration": "Jun 30, 2027",
+    "gross_remaining": "€ 300,000",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Tom Negrel",
+    "team": "Auxerre",
+    "gross/w": "€ 1,923",
+    "gross/y": "€ 100,000",
+    "signed": "Jul 10, 2024",
     "expiration": "Jun 30, 2026",
     "gross_remaining": "€ 200,000",
     "release_clause": ""
@@ -4225,6 +4694,7 @@
     "team": "Brest",
     "gross/w": "€ 1,731",
     "gross/y": "€ 90,000",
+    "signed": "Jan 24, 2025",
     "expiration": "Jun 30, 2029",
     "gross_remaining": "€ 450,000",
     "release_clause": ""
@@ -4234,17 +4704,9 @@
     "team": "Auxerre",
     "gross/w": "€ 1,731",
     "gross/y": "€ 90,000",
+    "signed": "Sep 2, 2024",
     "expiration": "Jun 30, 2029",
     "gross_remaining": "€ 450,000",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Ismaïl Bouneb",
-    "team": "Le Havre",
-    "gross/w": "€ 1,538",
-    "gross/y": "€ 80,000",
-    "expiration": "Jun 30, 2028",
-    "gross_remaining": "€ 320,000",
     "release_clause": ""
   },
   {
@@ -4252,6 +4714,7 @@
     "team": "Angers",
     "gross/w": "€ 1,538",
     "gross/y": "€ 80,000",
+    "signed": "Jul 1, 2024",
     "expiration": "Jun 30, 2027",
     "gross_remaining": "€ 240,000",
     "release_clause": ""
@@ -4261,26 +4724,19 @@
     "team": "Le Havre",
     "gross/w": "€ 1,538",
     "gross/y": "€ 80,000",
+    "signed": "Jul 4, 2024",
     "expiration": "Jun 30, 2028",
     "gross_remaining": "€ 320,000",
     "release_clause": ""
   },
   {
-    "player_name": "Nordi Mukiele",
-    "team": "PSG",
-    "gross/w": "",
-    "gross/y": "",
-    "expiration": "Jun 30, 2027",
-    "gross_remaining": "",
-    "release_clause": ""
-  },
-  {
-    "player_name": "Przemyslaw Frankowski",
-    "team": "Lens",
-    "gross/w": "",
-    "gross/y": "",
+    "player_name": "Ismaïl Bouneb",
+    "team": "Le Havre",
+    "gross/w": "€ 1,538",
+    "gross/y": "€ 80,000",
+    "signed": "Jul 3, 2024",
     "expiration": "Jun 30, 2028",
-    "gross_remaining": "",
+    "gross_remaining": "€ 320,000",
     "release_clause": ""
   },
   {
@@ -4288,6 +4744,7 @@
     "team": "PSG",
     "gross/w": "",
     "gross/y": "",
+    "signed": "Jan 25, 2024",
     "expiration": "Jun 30, 2028",
     "gross_remaining": "",
     "release_clause": ""
@@ -4297,6 +4754,27 @@
     "team": "PSG",
     "gross/w": "",
     "gross/y": "",
+    "signed": "Sep 1, 2022",
+    "expiration": "Jun 30, 2027",
+    "gross_remaining": "",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Przemyslaw Frankowski",
+    "team": "Lens",
+    "gross/w": "",
+    "gross/y": "",
+    "signed": "Jul 28, 2023",
+    "expiration": "Jun 30, 2028",
+    "gross_remaining": "",
+    "release_clause": ""
+  },
+  {
+    "player_name": "Nordi Mukiele",
+    "team": "PSG",
+    "gross/w": "",
+    "gross/y": "",
+    "signed": "Jul 26, 2022",
     "expiration": "Jun 30, 2027",
     "gross_remaining": "",
     "release_clause": ""

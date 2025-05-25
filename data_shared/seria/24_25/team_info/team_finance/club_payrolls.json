@@ -10,12 +10,12 @@
   },
   {
     "team": "Juventus",
-    "gross/w": "€ 2,140,577",
-    "gross/y": "€ 111,310,000",
+    "gross/w": "€ 2,097,308",
+    "gross/y": "€ 109,060,000",
     "gross_keeper": "€ 7,040,000",
     "gross_defense": "€ 27,920,000",
     "gross_midfield": "€ 25,950,000",
-    "gross_forward": "€ 50,400,000"
+    "gross_forward": "€ 48,150,000"
   },
   {
     "team": "AC Milan",
@@ -55,19 +55,19 @@
   },
   {
     "team": "Torino",
-    "gross/w": "€ 1,017,885",
-    "gross/y": "€ 52,930,000",
+    "gross/w": "€ 1,007,115",
+    "gross/y": "€ 52,370,000",
     "gross_keeper": "€ 2,420,000",
     "gross_defense": "€ 12,150,000",
-    "gross_midfield": "€ 18,890,000",
+    "gross_midfield": "€ 18,330,000",
     "gross_forward": "€ 19,470,000"
   },
   {
     "team": "Fiorentina",
-    "gross/w": "€ 982,308",
-    "gross/y": "€ 51,080,000",
+    "gross/w": "€ 1,000,000",
+    "gross/y": "€ 52,000,000",
     "gross_keeper": "€ 4,820,000",
-    "gross_defense": "€ 17,030,000",
+    "gross_defense": "€ 17,950,000",
     "gross_midfield": "€ 15,560,000",
     "gross_forward": "€ 13,670,000"
   },

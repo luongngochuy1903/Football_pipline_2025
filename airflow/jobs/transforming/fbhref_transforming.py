@@ -24,7 +24,7 @@ def transformPayroll():
         .withColumn("month", lit(today.month)) \
         .withColumn("day", lit(today.day))
         transform_df.printSchema()
-        transform_df.write.mode("append").partitionBy("year", "month", "year").json(f"s3a://trusted/{team}")
+        transform_df.write.mode("append").partitionBy("year", "month", "day").json(f"s3a://trusted/{team}")
         print(f"Complete loading to Trusted/{team} !")
 
 def transformPlayer():
@@ -46,7 +46,7 @@ def transformPlayer():
             .withColumn("month", lit(today.month)) \
             .withColumn("day", lit(today.day))
             transform_df.printSchema()
-            transform_df.write.mode("append").partitionBy("year", "month", "year").json(f"s3a://trusted/{player}/{attribute}")
+            transform_df.write.mode("append").partitionBy("year", "month", "day").json(f"s3a://trusted/{player}/{attribute}")
             print(f"Complete loading to Trusted/{player}/{attribute} !")
 
 transformPayroll()

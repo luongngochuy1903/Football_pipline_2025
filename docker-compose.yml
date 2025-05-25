@@ -11,7 +11,6 @@ x-airflow-common: &airflow-common
     - PYTHONPATH=/opt/airflow
   volumes:
     - /var/run/docker.sock:/var/run/docker.sock
-    - ./duckdb_volume:/opt/duckdb_data
     - ./airflow/jobs:/opt/airflow/jobs
     - ./airflow/dags:/opt/airflow/dags
     - ./logs:/opt/airflow/logs
@@ -110,7 +109,6 @@ services:
       SPARK_MODE: master
     volumes:
       - ./data_shared:/opt/shared
-      - ./duckdb_volume:/opt/duckdb_data
       - ./airflow/jobs:/opt/spark_jobs
       - ./spark/spark-config/spark-defaults.conf:/opt/bitnami/spark/conf/spark-defaults.conf
     depends_on:
@@ -133,7 +131,6 @@ services:
       SPARK_WORKER_CORES: 1
     volumes:
       - ./data_shared:/opt/shared
-      - ./duckdb_volume:/opt/duckdb_data
       - ./airflow/jobs:/opt/spark_jobs
       - ./spark/spark-config/spark-defaults.conf:/opt/bitnami/spark/conf/spark-defaults.conf
     depends_on:
@@ -168,6 +165,18 @@ services:
       - '8086:8080'
     volumes:
       - ./etc:/usr/lib/trino/etc:ro
+    networks:
+      - lake-network
+  
+  duckdb:
+    build:
+      context: ./duckdb
+      dockerfile: Dockerfile
+    hostname: duckdb
+    container_name: duckdb
+    volumes:
+      - ./duckdb/volume:/app/volume
+      - ./duckdb/src:/app/src
     networks:
       - lake-network
   
