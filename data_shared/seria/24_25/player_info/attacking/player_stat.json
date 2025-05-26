@@ -478,15 +478,6 @@
   },
   {
     "team_name": "Atalanta",
-    "player_name": "Marten de Roon",
-    "SCA": "73",
-    "SCA90": "2.15",
-    "GCA": "14",
-    "GCA90": "0.41",
-    "passlive": "12"
-  },
-  {
-    "team_name": "Atalanta",
     "player_name": "Marco Carnesecchi",
     "SCA": "5",
     "SCA90": "0.15",
@@ -496,38 +487,56 @@
   },
   {
     "team_name": "Atalanta",
+    "player_name": "Marten de Roon",
+    "SCA": "73",
+    "SCA90": "2.15",
+    "GCA": "14",
+    "GCA90": "0.41",
+    "passlive": "12"
+  },
+  {
+    "team_name": "Atalanta",
     "player_name": "Éderson",
     "SCA": "98",
-    "SCA90": "3.10",
+    "SCA90": "3.06",
     "GCA": "10",
-    "GCA90": "0.32",
+    "GCA90": "0.31",
     "passlive": "9"
   },
   {
     "team_name": "Atalanta",
     "player_name": "Berat Djimsiti",
     "SCA": "30",
-    "SCA90": "1.06",
+    "SCA90": "1.02",
     "GCA": "7",
-    "GCA90": "0.25",
+    "GCA90": "0.24",
     "passlive": "5"
   },
   {
     "team_name": "Atalanta",
     "player_name": "Mateo Retegui",
-    "SCA": "72",
-    "SCA90": "2.83",
-    "GCA": "13",
-    "GCA90": "0.51",
-    "passlive": "10"
+    "SCA": "76",
+    "SCA90": "2.87",
+    "GCA": "14",
+    "GCA90": "0.53",
+    "passlive": "11"
   },
   {
     "team_name": "Atalanta",
     "player_name": "Ademola Lookman",
-    "SCA": "133",
-    "SCA90": "5.44",
+    "SCA": "135",
+    "SCA90": "5.41",
     "GCA": "15",
-    "GCA90": "0.61",
+    "GCA90": "0.60",
+    "passlive": "10"
+  },
+  {
+    "team_name": "Atalanta",
+    "player_name": "Raoul Bellanova",
+    "SCA": "56",
+    "SCA90": "2.10",
+    "GCA": "11",
+    "GCA90": "0.41",
     "passlive": "10"
   },
   {
@@ -541,15 +550,6 @@
   },
   {
     "team_name": "Atalanta",
-    "player_name": "Raoul Bellanova",
-    "SCA": "53",
-    "SCA90": "2.05",
-    "GCA": "10",
-    "GCA90": "0.39",
-    "passlive": "9"
-  },
-  {
-    "team_name": "Atalanta",
     "player_name": "Davide Zappacosta",
     "SCA": "53",
     "SCA90": "2.31",
@@ -560,11 +560,11 @@
   {
     "team_name": "Atalanta",
     "player_name": "Charles De Ketelaere",
-    "SCA": "85",
-    "SCA90": "3.87",
-    "GCA": "12",
-    "GCA90": "0.55",
-    "passlive": "9"
+    "SCA": "88",
+    "SCA90": "3.83",
+    "GCA": "14",
+    "GCA90": "0.61",
+    "passlive": "11"
   },
   {
     "team_name": "Atalanta",
@@ -588,9 +588,9 @@
     "team_name": "Atalanta",
     "player_name": "Mario Pašalić",
     "SCA": "71",
-    "SCA90": "3.30",
+    "SCA90": "3.25",
     "GCA": "9",
-    "GCA90": "0.42",
+    "GCA90": "0.41",
     "passlive": "8"
   },
   {
@@ -605,17 +605,17 @@
   {
     "team_name": "Atalanta",
     "player_name": "Matteo Ruggeri",
-    "SCA": "38",
-    "SCA90": "2.06",
+    "SCA": "39",
+    "SCA90": "2.00",
     "GCA": "4",
-    "GCA90": "0.22",
+    "GCA90": "0.21",
     "passlive": "4"
   },
   {
     "team_name": "Atalanta",
     "player_name": "Odilon Kossounou",
-    "SCA": "5",
-    "SCA90": "0.43",
+    "SCA": "7",
+    "SCA90": "0.56",
     "GCA": "0",
     "GCA90": "0.00",
     "passlive": "0"
@@ -623,10 +623,10 @@
   {
     "team_name": "Atalanta",
     "player_name": "Marco Brescianini",
-    "SCA": "23",
-    "SCA90": "2.21",
+    "SCA": "26",
+    "SCA90": "2.37",
     "GCA": "6",
-    "GCA90": "0.58",
+    "GCA90": "0.55",
     "passlive": "4"
   },
   {
@@ -642,18 +642,18 @@
     "team_name": "Atalanta",
     "player_name": "Juan Cuadrado",
     "SCA": "37",
-    "SCA90": "4.09",
+    "SCA90": "4.00",
     "GCA": "3",
-    "GCA90": "0.33",
+    "GCA90": "0.32",
     "passlive": "1"
   },
   {
     "team_name": "Atalanta",
     "player_name": "Stefan Posch",
     "SCA": "5",
-    "SCA90": "1.32",
+    "SCA90": "1.16",
     "GCA": "1",
-    "GCA90": "0.26",
+    "GCA90": "0.23",
     "passlive": "0"
   },
   {
@@ -667,9 +667,9 @@
   },
   {
     "team_name": "Atalanta",
-    "player_name": "Rui Patrício",
-    "SCA": "0",
-    "SCA90": "0.00",
+    "player_name": "Ibrahim Sulemana",
+    "SCA": "3",
+    "SCA90": "0.95",
     "GCA": "0",
     "GCA90": "0.00",
     "passlive": "0"
@@ -694,6 +694,15 @@
   },
   {
     "team_name": "Atalanta",
+    "player_name": "Rui Patrício",
+    "SCA": "0",
+    "SCA90": "0.00",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Atalanta",
     "player_name": "Rafael Tolói",
     "SCA": "7",
     "SCA90": "1.35",
@@ -703,27 +712,18 @@
   },
   {
     "team_name": "Atalanta",
-    "player_name": "Ibrahim Sulemana",
-    "SCA": "2",
-    "SCA90": "0.80",
-    "GCA": "0",
-    "GCA90": "0.00",
-    "passlive": "0"
-  },
-  {
-    "team_name": "Atalanta",
     "player_name": "Daniel Maldini",
-    "SCA": "8",
-    "SCA90": "3.38",
+    "SCA": "9",
+    "SCA90": "3.14",
     "GCA": "1",
-    "GCA90": "0.42",
+    "GCA90": "0.35",
     "passlive": "1"
   },
   {
     "team_name": "Atalanta",
     "player_name": "Marco Palestra",
     "SCA": "8",
-    "SCA90": "4.02",
+    "SCA90": "3.21",
     "GCA": "0",
     "GCA90": "0.00",
     "passlive": "0"
@@ -803,8 +803,8 @@
   {
     "team_name": "Juventus",
     "player_name": "Manuel Locatelli",
-    "SCA": "97",
-    "SCA90": "3.20",
+    "SCA": "98",
+    "SCA90": "3.13",
     "GCA": "8",
     "GCA90": "0.26",
     "passlive": "6"
@@ -821,19 +821,28 @@
   {
     "team_name": "Juventus",
     "player_name": "Kenan Yıldız",
-    "SCA": "124",
-    "SCA90": "4.83",
-    "GCA": "9",
-    "GCA90": "0.35",
-    "passlive": "6"
+    "SCA": "130",
+    "SCA90": "4.87",
+    "GCA": "10",
+    "GCA90": "0.37",
+    "passlive": "7"
   },
   {
     "team_name": "Juventus",
     "player_name": "Weston McKennie",
     "SCA": "60",
-    "SCA90": "2.35",
+    "SCA90": "2.34",
     "GCA": "9",
     "GCA90": "0.35",
+    "passlive": "9"
+  },
+  {
+    "team_name": "Juventus",
+    "player_name": "Khéphren Thuram",
+    "SCA": "56",
+    "SCA90": "2.17",
+    "GCA": "10",
+    "GCA90": "0.39",
     "passlive": "9"
   },
   {
@@ -856,20 +865,11 @@
   },
   {
     "team_name": "Juventus",
-    "player_name": "Khéphren Thuram",
-    "SCA": "53",
-    "SCA90": "2.13",
-    "GCA": "10",
-    "GCA90": "0.40",
-    "passlive": "9"
-  },
-  {
-    "team_name": "Juventus",
     "player_name": "Andrea Cambiaso",
-    "SCA": "83",
-    "SCA90": "3.48",
-    "GCA": "8",
-    "GCA90": "0.34",
+    "SCA": "85",
+    "SCA90": "3.45",
+    "GCA": "9",
+    "GCA90": "0.36",
     "passlive": "7"
   },
   {
@@ -884,71 +884,71 @@
   {
     "team_name": "Juventus",
     "player_name": "Nicolás González",
-    "SCA": "45",
-    "SCA90": "2.43",
+    "SCA": "47",
+    "SCA90": "2.42",
     "GCA": "4",
-    "GCA90": "0.22",
+    "GCA90": "0.21",
     "passlive": "3"
   },
   {
     "team_name": "Juventus",
     "player_name": "Dušan Vlahović",
     "SCA": "41",
-    "SCA90": "2.09",
+    "SCA90": "2.07",
     "GCA": "8",
-    "GCA90": "0.41",
+    "GCA90": "0.40",
     "passlive": "5"
   },
   {
     "team_name": "Juventus",
     "player_name": "Nicolò Savona",
     "SCA": "29",
-    "SCA90": "1.60",
+    "SCA90": "1.51",
     "GCA": "2",
-    "GCA90": "0.11",
+    "GCA90": "0.10",
     "passlive": "2"
   },
   {
     "team_name": "Juventus",
     "player_name": "Timothy Weah",
     "SCA": "36",
-    "SCA90": "1.99",
+    "SCA90": "1.98",
     "GCA": "3",
-    "GCA90": "0.17",
+    "GCA90": "0.16",
     "passlive": "2"
   },
   {
     "team_name": "Juventus",
     "player_name": "Randal Kolo Muani",
-    "SCA": "23",
-    "SCA90": "1.91",
+    "SCA": "27",
+    "SCA90": "2.09",
     "GCA": "3",
-    "GCA90": "0.25",
-    "passlive": "1"
-  },
-  {
-    "team_name": "Juventus",
-    "player_name": "Renato Veiga",
-    "SCA": "9",
-    "SCA90": "0.77",
-    "GCA": "1",
-    "GCA90": "0.09",
+    "GCA90": "0.23",
     "passlive": "1"
   },
   {
     "team_name": "Juventus",
     "player_name": "Francisco Conceição",
-    "SCA": "58",
-    "SCA90": "4.16",
-    "GCA": "7",
-    "GCA90": "0.50",
-    "passlive": "4"
+    "SCA": "64",
+    "SCA90": "4.30",
+    "GCA": "9",
+    "GCA90": "0.60",
+    "passlive": "5"
+  },
+  {
+    "team_name": "Juventus",
+    "player_name": "Renato Veiga",
+    "SCA": "9",
+    "SCA90": "0.74",
+    "GCA": "1",
+    "GCA90": "0.08",
+    "passlive": "1"
   },
   {
     "team_name": "Juventus",
     "player_name": "Lloyd Kelly",
-    "SCA": "10",
-    "SCA90": "0.98",
+    "SCA": "12",
+    "SCA90": "1.07",
     "GCA": "0",
     "GCA90": "0.00",
     "passlive": "0"
@@ -1020,9 +1020,9 @@
     "team_name": "Juventus",
     "player_name": "Alberto costa",
     "SCA": "7",
-    "SCA90": "2.02",
+    "SCA90": "1.76",
     "GCA": "1",
-    "GCA90": "0.29",
+    "GCA90": "0.25",
     "passlive": "1"
   },
   {
@@ -1065,7 +1065,7 @@
     "team_name": "Roma",
     "player_name": "Obite N'Dicka",
     "SCA": "33",
-    "SCA90": "0.89",
+    "SCA90": "0.87",
     "GCA": "3",
     "GCA90": "0.08",
     "passlive": "1"
@@ -1073,8 +1073,8 @@
   {
     "team_name": "Roma",
     "player_name": "Mile Svilar",
-    "SCA": "5",
-    "SCA90": "0.14",
+    "SCA": "6",
+    "SCA90": "0.16",
     "GCA": "0",
     "GCA90": "0.00",
     "passlive": "0"
@@ -1082,8 +1082,8 @@
   {
     "team_name": "Roma",
     "player_name": "Angeliño",
-    "SCA": "86",
-    "SCA90": "2.51",
+    "SCA": "89",
+    "SCA90": "2.52",
     "GCA": "7",
     "GCA90": "0.20",
     "passlive": "6"
@@ -1092,7 +1092,7 @@
     "team_name": "Roma",
     "player_name": "Gianluca Mancini",
     "SCA": "41",
-    "SCA90": "1.21",
+    "SCA90": "1.17",
     "GCA": "2",
     "GCA90": "0.06",
     "passlive": "2"
@@ -1100,10 +1100,10 @@
   {
     "team_name": "Roma",
     "player_name": "Manu Koné",
-    "SCA": "63",
-    "SCA90": "2.28",
+    "SCA": "67",
+    "SCA90": "2.34",
     "GCA": "6",
-    "GCA90": "0.22",
+    "GCA90": "0.21",
     "passlive": "3"
   },
   {
@@ -1118,29 +1118,29 @@
   {
     "team_name": "Roma",
     "player_name": "Zeki Çelik",
-    "SCA": "34",
-    "SCA90": "1.41",
-    "GCA": "3",
-    "GCA90": "0.12",
-    "passlive": "3"
+    "SCA": "38",
+    "SCA90": "1.51",
+    "GCA": "4",
+    "GCA90": "0.16",
+    "passlive": "4"
   },
   {
     "team_name": "Roma",
     "player_name": "Bryan Cristante",
-    "SCA": "46",
-    "SCA90": "2.12",
-    "GCA": "4",
-    "GCA90": "0.18",
-    "passlive": "4"
+    "SCA": "51",
+    "SCA90": "2.24",
+    "GCA": "5",
+    "GCA90": "0.22",
+    "passlive": "5"
   },
   {
     "team_name": "Roma",
     "player_name": "Matìas Soulé",
-    "SCA": "86",
-    "SCA90": "4.57",
-    "GCA": "7",
-    "GCA90": "0.37",
-    "passlive": "4"
+    "SCA": "90",
+    "SCA90": "4.55",
+    "GCA": "8",
+    "GCA90": "0.40",
+    "passlive": "5"
   },
   {
     "team_name": "Roma",
@@ -1153,6 +1153,15 @@
   },
   {
     "team_name": "Roma",
+    "player_name": "Alexis Saelemaekers",
+    "SCA": "55",
+    "SCA90": "3.57",
+    "GCA": "10",
+    "GCA90": "0.65",
+    "passlive": "5"
+  },
+  {
+    "team_name": "Roma",
     "player_name": "Paulo Dybala",
     "SCA": "84",
     "SCA90": "5.34",
@@ -1162,29 +1171,20 @@
   },
   {
     "team_name": "Roma",
-    "player_name": "Alexis Saelemaekers",
-    "SCA": "52",
-    "SCA90": "3.61",
-    "GCA": "9",
-    "GCA90": "0.62",
-    "passlive": "5"
-  },
-  {
-    "team_name": "Roma",
     "player_name": "Leandro Paredes",
-    "SCA": "47",
-    "SCA90": "3.29",
+    "SCA": "48",
+    "SCA90": "3.15",
     "GCA": "2",
-    "GCA90": "0.14",
+    "GCA90": "0.13",
     "passlive": "1"
   },
   {
     "team_name": "Roma",
     "player_name": "Stephan El Shaarawy",
     "SCA": "47",
-    "SCA90": "3.92",
+    "SCA90": "3.85",
     "GCA": "9",
-    "GCA90": "0.75",
+    "GCA90": "0.74",
     "passlive": "7"
   },
   {
@@ -1198,21 +1198,21 @@
   },
   {
     "team_name": "Roma",
+    "player_name": "Eldor Shomurodov",
+    "SCA": "32",
+    "SCA90": "2.62",
+    "GCA": "7",
+    "GCA90": "0.57",
+    "passlive": "7"
+  },
+  {
+    "team_name": "Roma",
     "player_name": "Mats Hummels",
     "SCA": "8",
     "SCA90": "0.79",
     "GCA": "1",
     "GCA90": "0.10",
     "passlive": "1"
-  },
-  {
-    "team_name": "Roma",
-    "player_name": "Eldor Shomurodov",
-    "SCA": "29",
-    "SCA90": "2.54",
-    "GCA": "7",
-    "GCA90": "0.61",
-    "passlive": "7"
   },
   {
     "team_name": "Roma",
@@ -1314,253 +1314,10 @@
     "passlive": "0"
   },
   {
-    "team_name": "Lazio",
-    "player_name": "Mattéo Guendouzi",
-    "SCA": "110",
-    "SCA90": "3.11",
-    "GCA": "7",
-    "GCA90": "0.20",
-    "passlive": "7"
-  },
-  {
-    "team_name": "Lazio",
-    "player_name": "Mattia Zaccagni",
-    "SCA": "101",
-    "SCA90": "3.49",
-    "GCA": "9",
-    "GCA90": "0.31",
-    "passlive": "7"
-  },
-  {
-    "team_name": "Lazio",
-    "player_name": "Mario Gila",
-    "SCA": "35",
-    "SCA90": "1.19",
-    "GCA": "1",
-    "GCA90": "0.03",
-    "passlive": "1"
-  },
-  {
-    "team_name": "Lazio",
-    "player_name": "Nicolò Rovella",
-    "SCA": "68",
-    "SCA90": "2.31",
-    "GCA": "3",
-    "GCA90": "0.10",
-    "passlive": "3"
-  },
-  {
-    "team_name": "Lazio",
-    "player_name": "Alessio Romagnoli",
-    "SCA": "25",
-    "SCA90": "0.87",
-    "GCA": "1",
-    "GCA90": "0.03",
-    "passlive": "1"
-  },
-  {
-    "team_name": "Lazio",
-    "player_name": "Ivan Provedel",
-    "SCA": "13",
-    "SCA90": "0.45",
-    "GCA": "0",
-    "GCA90": "0.00",
-    "passlive": "0"
-  },
-  {
-    "team_name": "Lazio",
-    "player_name": "Gustav Isaksen",
-    "SCA": "91",
-    "SCA90": "3.78",
-    "GCA": "9",
-    "GCA90": "0.37",
-    "passlive": "6"
-  },
-  {
-    "team_name": "Lazio",
-    "player_name": "Valentín Castellanos",
-    "SCA": "71",
-    "SCA90": "2.79",
-    "GCA": "14",
-    "GCA90": "0.55",
-    "passlive": "7"
-  },
-  {
-    "team_name": "Lazio",
-    "player_name": "Boulaye Dia",
-    "SCA": "53",
-    "SCA90": "2.28",
-    "GCA": "8",
-    "GCA90": "0.34",
-    "passlive": "7"
-  },
-  {
-    "team_name": "Lazio",
-    "player_name": "Adam Marušić",
-    "SCA": "32",
-    "SCA90": "1.26",
-    "GCA": "3",
-    "GCA90": "0.12",
-    "passlive": "1"
-  },
-  {
-    "team_name": "Lazio",
-    "player_name": "Nuno Tavares",
-    "SCA": "58",
-    "SCA90": "3.24",
-    "GCA": "11",
-    "GCA90": "0.61",
-    "passlive": "7"
-  },
-  {
-    "team_name": "Lazio",
-    "player_name": "Manuel Lazzari",
-    "SCA": "36",
-    "SCA90": "2.30",
-    "GCA": "2",
-    "GCA90": "0.13",
-    "passlive": "2"
-  },
-  {
-    "team_name": "Lazio",
-    "player_name": "Fisayo Dele-Bashiru",
-    "SCA": "24",
-    "SCA90": "2.28",
-    "GCA": "1",
-    "GCA90": "0.09",
-    "passlive": "1"
-  },
-  {
-    "team_name": "Lazio",
-    "player_name": "Luca Pellegrini",
-    "SCA": "43",
-    "SCA90": "3.69",
-    "GCA": "12",
-    "GCA90": "1.03",
-    "passlive": "7"
-  },
-  {
-    "team_name": "Lazio",
-    "player_name": "Tijjani Noslin",
-    "SCA": "25",
-    "SCA90": "2.66",
-    "GCA": "4",
-    "GCA90": "0.43",
-    "passlive": "3"
-  },
-  {
-    "team_name": "Lazio",
-    "player_name": "Christos Mandas",
-    "SCA": "2",
-    "SCA90": "0.25",
-    "GCA": "1",
-    "GCA90": "0.12",
-    "passlive": "1"
-  },
-  {
-    "team_name": "Lazio",
-    "player_name": "Matías Vecino",
-    "SCA": "22",
-    "SCA90": "2.29",
-    "GCA": "4",
-    "GCA90": "0.42",
-    "passlive": "3"
-  },
-  {
-    "team_name": "Lazio",
-    "player_name": "Samuel Gigot",
-    "SCA": "6",
-    "SCA90": "0.79",
-    "GCA": "1",
-    "GCA90": "0.13",
-    "passlive": "1"
-  },
-  {
-    "team_name": "Lazio",
-    "player_name": "Pedro",
-    "SCA": "45",
-    "SCA90": "3.84",
-    "GCA": "3",
-    "GCA90": "0.26",
-    "passlive": "3"
-  },
-  {
-    "team_name": "Lazio",
-    "player_name": "Loum Tchaouna",
-    "SCA": "25",
-    "SCA90": "3.40",
-    "GCA": "6",
-    "GCA90": "0.82",
-    "passlive": "5"
-  },
-  {
-    "team_name": "Lazio",
-    "player_name": "Patric",
-    "SCA": "11",
-    "SCA90": "1.63",
-    "GCA": "0",
-    "GCA90": "0.00",
-    "passlive": "0"
-  },
-  {
-    "team_name": "Lazio",
-    "player_name": "Elseid Hysaj",
-    "SCA": "8",
-    "SCA90": "1.90",
-    "GCA": "3",
-    "GCA90": "0.71",
-    "passlive": "3"
-  },
-  {
-    "team_name": "Lazio",
-    "player_name": "Nicolò Casale",
-    "SCA": "0",
-    "SCA90": "0.00",
-    "GCA": "0",
-    "GCA90": "0.00",
-    "passlive": "0"
-  },
-  {
-    "team_name": "Lazio",
-    "player_name": "Reda Belahyane",
-    "SCA": "0",
-    "SCA90": "0.00",
-    "GCA": "0",
-    "GCA90": "0.00",
-    "passlive": "0"
-  },
-  {
-    "team_name": "Lazio",
-    "player_name": "Gaetano Castrovilli",
-    "SCA": "3",
-    "SCA90": "1.84",
-    "GCA": "0",
-    "GCA90": "0.00",
-    "passlive": "0"
-  },
-  {
-    "team_name": "Lazio",
-    "player_name": "Oliver Nielsen",
-    "SCA": "0",
-    "SCA90": "0.00",
-    "GCA": "0",
-    "GCA90": "0.00",
-    "passlive": "0"
-  },
-  {
-    "team_name": "Lazio",
-    "player_name": "Arijon Ibrahimović",
-    "SCA": "1",
-    "SCA90": "11.25",
-    "GCA": "0",
-    "GCA90": "0.00",
-    "passlive": "0"
-  },
-  {
     "team_name": "Fiorentina",
     "player_name": "David de Gea",
-    "SCA": "9",
-    "SCA90": "0.26",
+    "SCA": "10",
+    "SCA90": "0.29",
     "GCA": "3",
     "GCA90": "0.09",
     "passlive": "2"
@@ -1568,44 +1325,44 @@
   {
     "team_name": "Fiorentina",
     "player_name": "Dodô",
-    "SCA": "74",
-    "SCA90": "2.20",
+    "SCA": "75",
+    "SCA90": "2.17",
     "GCA": "11",
-    "GCA90": "0.33",
+    "GCA90": "0.32",
     "passlive": "7"
   },
   {
     "team_name": "Fiorentina",
     "player_name": "Luca Ranieri",
-    "SCA": "24",
-    "SCA90": "0.72",
-    "GCA": "5",
-    "GCA90": "0.15",
-    "passlive": "5"
+    "SCA": "28",
+    "SCA90": "0.82",
+    "GCA": "6",
+    "GCA90": "0.18",
+    "passlive": "6"
   },
   {
     "team_name": "Fiorentina",
     "player_name": "Moise Kean",
-    "SCA": "55",
-    "SCA90": "1.89",
-    "GCA": "6",
-    "GCA90": "0.21",
+    "SCA": "57",
+    "SCA90": "1.90",
+    "GCA": "7",
+    "GCA90": "0.23",
     "passlive": "2"
   },
   {
     "team_name": "Fiorentina",
     "player_name": "Robin Gosens",
-    "SCA": "60",
-    "SCA90": "2.22",
-    "GCA": "13",
-    "GCA90": "0.48",
-    "passlive": "7"
+    "SCA": "66",
+    "SCA90": "2.36",
+    "GCA": "14",
+    "GCA90": "0.50",
+    "passlive": "8"
   },
   {
     "team_name": "Fiorentina",
     "player_name": "Pietro Comuzzo",
-    "SCA": "18",
-    "SCA90": "0.76",
+    "SCA": "20",
+    "SCA90": "0.82",
     "GCA": "1",
     "GCA90": "0.04",
     "passlive": "1"
@@ -1622,19 +1379,19 @@
   {
     "team_name": "Fiorentina",
     "player_name": "Rolando Mandragora",
-    "SCA": "52",
-    "SCA90": "2.54",
+    "SCA": "56",
+    "SCA90": "2.61",
     "GCA": "5",
-    "GCA90": "0.24",
+    "GCA90": "0.23",
     "passlive": "3"
   },
   {
     "team_name": "Fiorentina",
     "player_name": "Lucas Beltrán",
     "SCA": "63",
-    "SCA90": "3.03",
+    "SCA90": "2.90",
     "GCA": "9",
-    "GCA90": "0.43",
+    "GCA90": "0.41",
     "passlive": "8"
   },
   {
@@ -1667,10 +1424,10 @@
   {
     "team_name": "Fiorentina",
     "player_name": "Albert Guðmundsson",
-    "SCA": "37",
-    "SCA90": "2.66",
+    "SCA": "39",
+    "SCA90": "2.76",
     "GCA": "5",
-    "GCA90": "0.36",
+    "GCA90": "0.35",
     "passlive": "3"
   },
   {
@@ -1686,10 +1443,19 @@
     "team_name": "Fiorentina",
     "player_name": "Marin Pongračić",
     "SCA": "12",
-    "SCA90": "0.80",
+    "SCA90": "0.79",
     "GCA": "1",
     "GCA90": "0.07",
     "passlive": "1"
+  },
+  {
+    "team_name": "Fiorentina",
+    "player_name": "Pablo Marí",
+    "SCA": "10",
+    "SCA90": "0.82",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
   },
   {
     "team_name": "Fiorentina",
@@ -1698,15 +1464,6 @@
     "SCA90": "1.12",
     "GCA": "2",
     "GCA90": "0.16",
-    "passlive": "0"
-  },
-  {
-    "team_name": "Fiorentina",
-    "player_name": "Pablo Marí",
-    "SCA": "6",
-    "SCA90": "0.54",
-    "GCA": "0",
-    "GCA90": "0.00",
     "passlive": "0"
   },
   {
@@ -1721,19 +1478,19 @@
   {
     "team_name": "Fiorentina",
     "player_name": "Amir Richardson",
-    "SCA": "17",
-    "SCA90": "1.49",
-    "GCA": "3",
-    "GCA90": "0.26",
-    "passlive": "2"
+    "SCA": "19",
+    "SCA90": "1.56",
+    "GCA": "4",
+    "GCA90": "0.33",
+    "passlive": "3"
   },
   {
     "team_name": "Fiorentina",
     "player_name": "Nicolò Fagioli",
-    "SCA": "27",
-    "SCA90": "2.79",
-    "GCA": "3",
-    "GCA90": "0.31",
+    "SCA": "43",
+    "SCA90": "4.02",
+    "GCA": "4",
+    "GCA90": "0.37",
     "passlive": "3"
   },
   {
@@ -1793,8 +1550,8 @@
   {
     "team_name": "Fiorentina",
     "player_name": "Cher Ndour",
-    "SCA": "9",
-    "SCA90": "2.03",
+    "SCA": "10",
+    "SCA90": "2.22",
     "GCA": "0",
     "GCA90": "0.00",
     "passlive": "0"
@@ -1899,307 +1656,244 @@
     "passlive": "0"
   },
   {
-    "team_name": "Bologna",
-    "player_name": "Remo Freuler",
-    "SCA": "72",
-    "SCA90": "2.07",
+    "team_name": "Lazio",
+    "player_name": "Mattéo Guendouzi",
+    "SCA": "118",
+    "SCA90": "3.25",
+    "GCA": "7",
+    "GCA90": "0.19",
+    "passlive": "7"
+  },
+  {
+    "team_name": "Lazio",
+    "player_name": "Mattia Zaccagni",
+    "SCA": "107",
+    "SCA90": "3.59",
+    "GCA": "9",
+    "GCA90": "0.30",
+    "passlive": "7"
+  },
+  {
+    "team_name": "Lazio",
+    "player_name": "Mario Gila",
+    "SCA": "38",
+    "SCA90": "1.25",
+    "GCA": "1",
+    "GCA90": "0.03",
+    "passlive": "1"
+  },
+  {
+    "team_name": "Lazio",
+    "player_name": "Nicolò Rovella",
+    "SCA": "71",
+    "SCA90": "2.35",
     "GCA": "3",
-    "GCA90": "0.09",
-    "passlive": "2"
+    "GCA90": "0.10",
+    "passlive": "3"
   },
   {
-    "team_name": "Bologna",
-    "player_name": "Sam Beukema",
-    "SCA": "36",
-    "SCA90": "1.08",
-    "GCA": "6",
-    "GCA90": "0.18",
-    "passlive": "4"
+    "team_name": "Lazio",
+    "player_name": "Alessio Romagnoli",
+    "SCA": "27",
+    "SCA90": "0.91",
+    "GCA": "1",
+    "GCA90": "0.03",
+    "passlive": "1"
   },
   {
-    "team_name": "Bologna",
-    "player_name": "Jhon Lucumí",
-    "SCA": "32",
-    "SCA90": "1.14",
-    "GCA": "2",
-    "GCA90": "0.07",
-    "passlive": "2"
-  },
-  {
-    "team_name": "Bologna",
-    "player_name": "Łukasz Skorupski",
-    "SCA": "4",
-    "SCA90": "0.15",
+    "team_name": "Lazio",
+    "player_name": "Ivan Provedel",
+    "SCA": "13",
+    "SCA90": "0.45",
     "GCA": "0",
     "GCA90": "0.00",
     "passlive": "0"
   },
   {
-    "team_name": "Bologna",
-    "player_name": "Santiago Castro",
-    "SCA": "68",
-    "SCA90": "2.73",
-    "GCA": "11",
-    "GCA90": "0.44",
-    "passlive": "8"
-  },
-  {
-    "team_name": "Bologna",
-    "player_name": "Juan Miranda",
-    "SCA": "96",
+    "team_name": "Lazio",
+    "player_name": "Gustav Isaksen",
+    "SCA": "93",
     "SCA90": "3.79",
-    "GCA": "13",
-    "GCA90": "0.51",
-    "passlive": "11"
-  },
-  {
-    "team_name": "Bologna",
-    "player_name": "Dan Ndoye",
-    "SCA": "84",
-    "SCA90": "3.68",
     "GCA": "9",
-    "GCA90": "0.39",
-    "passlive": "8"
-  },
-  {
-    "team_name": "Bologna",
-    "player_name": "Jens Odgaard",
-    "SCA": "45",
-    "SCA90": "2.08",
-    "GCA": "6",
-    "GCA90": "0.28",
-    "passlive": "4"
-  },
-  {
-    "team_name": "Bologna",
-    "player_name": "Riccardo Orsolini",
-    "SCA": "57",
-    "SCA90": "2.87",
-    "GCA": "5",
-    "GCA90": "0.25",
-    "passlive": "4"
-  },
-  {
-    "team_name": "Bologna",
-    "player_name": "Benjamín Domínguez",
-    "SCA": "41",
-    "SCA90": "2.88",
-    "GCA": "7",
-    "GCA90": "0.49",
+    "GCA90": "0.37",
     "passlive": "6"
   },
   {
-    "team_name": "Bologna",
-    "player_name": "",
-    "SCA": "",
-    "SCA90": "",
-    "GCA": "",
-    "GCA90": "",
-    "passlive": ""
+    "team_name": "Lazio",
+    "player_name": "Valentín Castellanos",
+    "SCA": "73",
+    "SCA90": "2.76",
+    "GCA": "14",
+    "GCA90": "0.53",
+    "passlive": "7"
   },
   {
-    "team_name": "Bologna",
-    "player_name": "Player",
-    "SCA": "",
-    "SCA90": "",
-    "GCA": "",
-    "GCA90": "",
-    "passlive": ""
+    "team_name": "Lazio",
+    "player_name": "Boulaye Dia",
+    "SCA": "55",
+    "SCA90": "2.27",
+    "GCA": "8",
+    "GCA90": "0.33",
+    "passlive": "7"
   },
   {
-    "team_name": "Bologna",
-    "player_name": "Nikola Moro",
-    "SCA": "48",
-    "SCA90": "3.56",
-    "GCA": "6",
-    "GCA90": "0.44",
-    "passlive": "3"
-  },
-  {
-    "team_name": "Bologna",
-    "player_name": "Tommaso Pobega",
-    "SCA": "26",
-    "SCA90": "2.07",
+    "team_name": "Lazio",
+    "player_name": "Adam Marušić",
+    "SCA": "33",
+    "SCA90": "1.27",
     "GCA": "3",
-    "GCA90": "0.24",
+    "GCA90": "0.12",
+    "passlive": "1"
+  },
+  {
+    "team_name": "Lazio",
+    "player_name": "Nuno Tavares",
+    "SCA": "63",
+    "SCA90": "3.37",
+    "GCA": "11",
+    "GCA90": "0.59",
+    "passlive": "7"
+  },
+  {
+    "team_name": "Lazio",
+    "player_name": "Manuel Lazzari",
+    "SCA": "36",
+    "SCA90": "2.30",
+    "GCA": "2",
+    "GCA90": "0.13",
     "passlive": "2"
   },
   {
-    "team_name": "Bologna",
-    "player_name": "Lorenzo De Silvestri",
-    "SCA": "14",
-    "SCA90": "1.24",
-    "GCA": "2",
-    "GCA90": "0.18",
-    "passlive": "1"
-  },
-  {
-    "team_name": "Bologna",
-    "player_name": "Thijs Dallinga",
-    "SCA": "27",
-    "SCA90": "2.11",
-    "GCA": "5",
-    "GCA90": "0.39",
-    "passlive": "3"
-  },
-  {
-    "team_name": "Bologna",
-    "player_name": "Emil Holm",
-    "SCA": "27",
-    "SCA90": "2.23",
-    "GCA": "2",
-    "GCA90": "0.17",
-    "passlive": "1"
-  },
-  {
-    "team_name": "Bologna",
-    "player_name": "Charalambos Lykogiannis",
-    "SCA": "32",
-    "SCA90": "2.95",
-    "GCA": "5",
-    "GCA90": "0.46",
-    "passlive": "4"
-  },
-  {
-    "team_name": "Bologna",
-    "player_name": "Federico Ravaglia",
-    "SCA": "3",
-    "SCA90": "0.28",
-    "GCA": "0",
-    "GCA90": "0.00",
-    "passlive": "0"
-  },
-  {
-    "team_name": "Bologna",
-    "player_name": "Giovanni Fabbian",
-    "SCA": "18",
-    "SCA90": "1.60",
-    "GCA": "0",
-    "GCA90": "0.00",
-    "passlive": "0"
-  },
-  {
-    "team_name": "Bologna",
-    "player_name": "Lewis Ferguson",
-    "SCA": "27",
-    "SCA90": "2.72",
+    "team_name": "Lazio",
+    "player_name": "Fisayo Dele-Bashiru",
+    "SCA": "24",
+    "SCA90": "2.28",
     "GCA": "1",
-    "GCA90": "0.10",
+    "GCA90": "0.09",
     "passlive": "1"
   },
   {
-    "team_name": "Bologna",
-    "player_name": "Nicolò Casale",
-    "SCA": "10",
-    "SCA90": "1.11",
+    "team_name": "Lazio",
+    "player_name": "Luca Pellegrini",
+    "SCA": "46",
+    "SCA90": "3.88",
+    "GCA": "12",
+    "GCA90": "1.01",
+    "passlive": "7"
+  },
+  {
+    "team_name": "Lazio",
+    "player_name": "Christos Mandas",
+    "SCA": "2",
+    "SCA90": "0.22",
     "GCA": "1",
     "GCA90": "0.11",
     "passlive": "1"
   },
   {
-    "team_name": "Bologna",
-    "player_name": "",
-    "SCA": "",
-    "SCA90": "",
-    "GCA": "",
-    "GCA90": "",
-    "passlive": ""
+    "team_name": "Lazio",
+    "player_name": "Tijjani Noslin",
+    "SCA": "26",
+    "SCA90": "2.72",
+    "GCA": "4",
+    "GCA90": "0.42",
+    "passlive": "3"
   },
   {
-    "team_name": "Bologna",
-    "player_name": "Player",
-    "SCA": "",
-    "SCA90": "",
-    "GCA": "",
-    "GCA90": "",
-    "passlive": ""
+    "team_name": "Lazio",
+    "player_name": "Matías Vecino",
+    "SCA": "22",
+    "SCA90": "2.25",
+    "GCA": "4",
+    "GCA90": "0.41",
+    "passlive": "3"
   },
   {
-    "team_name": "Bologna",
-    "player_name": "Michel Aebischer",
-    "SCA": "16",
-    "SCA90": "2.12",
-    "GCA": "0",
-    "GCA90": "0.00",
-    "passlive": "0"
-  },
-  {
-    "team_name": "Bologna",
-    "player_name": "Stefan Posch",
-    "SCA": "18",
-    "SCA90": "2.26",
+    "team_name": "Lazio",
+    "player_name": "Samuel Gigot",
+    "SCA": "6",
+    "SCA90": "0.79",
     "GCA": "1",
     "GCA90": "0.13",
     "passlive": "1"
   },
   {
-    "team_name": "Bologna",
-    "player_name": "Davide Calabria",
-    "SCA": "23",
-    "SCA90": "3.36",
+    "team_name": "Lazio",
+    "player_name": "Pedro",
+    "SCA": "50",
+    "SCA90": "4.09",
     "GCA": "3",
-    "GCA90": "0.44",
+    "GCA90": "0.25",
     "passlive": "3"
   },
   {
-    "team_name": "Bologna",
-    "player_name": "Martin Erlic",
-    "SCA": "4",
-    "SCA90": "1.08",
-    "GCA": "1",
-    "GCA90": "0.27",
+    "team_name": "Lazio",
+    "player_name": "Loum Tchaouna",
+    "SCA": "25",
+    "SCA90": "3.40",
+    "GCA": "6",
+    "GCA90": "0.82",
+    "passlive": "5"
+  },
+  {
+    "team_name": "Lazio",
+    "player_name": "Patric",
+    "SCA": "11",
+    "SCA90": "1.63",
+    "GCA": "0",
+    "GCA90": "0.00",
     "passlive": "0"
   },
   {
-    "team_name": "Bologna",
-    "player_name": "Nicolò Cambiaghi",
-    "SCA": "29",
-    "SCA90": "4.47",
-    "GCA": "8",
-    "GCA90": "1.23",
-    "passlive": "6"
-  },
-  {
-    "team_name": "Bologna",
-    "player_name": "Jesper Karlsson",
+    "team_name": "Lazio",
+    "player_name": "Elseid Hysaj",
     "SCA": "9",
-    "SCA90": "2.72",
-    "GCA": "1",
-    "GCA90": "0.30",
-    "passlive": "1"
+    "SCA90": "1.91",
+    "GCA": "3",
+    "GCA90": "0.64",
+    "passlive": "3"
   },
   {
-    "team_name": "Bologna",
-    "player_name": "Kacper Urbanski",
-    "SCA": "8",
-    "SCA90": "2.91",
+    "team_name": "Lazio",
+    "player_name": "Nicolò Casale",
+    "SCA": "0",
+    "SCA90": "0.00",
     "GCA": "0",
     "GCA90": "0.00",
     "passlive": "0"
   },
   {
-    "team_name": "Bologna",
-    "player_name": "Samuel Iling-Junior",
-    "SCA": "7",
-    "SCA90": "5.29",
+    "team_name": "Lazio",
+    "player_name": "Reda Belahyane",
+    "SCA": "0",
+    "SCA90": "0.00",
     "GCA": "0",
     "GCA90": "0.00",
     "passlive": "0"
   },
   {
-    "team_name": "Bologna",
-    "player_name": "Oussama El Azzouzi",
-    "SCA": "2",
-    "SCA90": "9.47",
-    "GCA": "0",
-    "GCA90": "0.00",
-    "passlive": "0"
-  },
-  {
-    "team_name": "Bologna",
-    "player_name": "Estanis",
+    "team_name": "Lazio",
+    "player_name": "Gaetano Castrovilli",
     "SCA": "3",
-    "SCA90": "30.00",
+    "SCA90": "1.84",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Lazio",
+    "player_name": "Oliver Nielsen",
+    "SCA": "0",
+    "SCA90": "0.00",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Lazio",
+    "player_name": "Arijon Ibrahimović",
+    "SCA": "1",
+    "SCA90": "11.25",
     "GCA": "0",
     "GCA90": "0.00",
     "passlive": "0"
@@ -2208,7 +1902,7 @@
     "team_name": "Milan",
     "player_name": "Mike Maignan",
     "SCA": "6",
-    "SCA90": "0.17",
+    "SCA90": "0.16",
     "GCA": "0",
     "GCA90": "0.00",
     "passlive": "0"
@@ -2216,10 +1910,10 @@
   {
     "team_name": "Milan",
     "player_name": "Tijjani Reijnders",
-    "SCA": "110",
-    "SCA90": "3.26",
+    "SCA": "117",
+    "SCA90": "3.37",
     "GCA": "10",
-    "GCA90": "0.30",
+    "GCA90": "0.29",
     "passlive": "5"
   },
   {
@@ -2235,7 +1929,7 @@
     "team_name": "Milan",
     "player_name": "Youssouf Fofana",
     "SCA": "62",
-    "SCA90": "2.24",
+    "SCA90": "2.23",
     "GCA": "6",
     "GCA90": "0.22",
     "passlive": "6"
@@ -2243,11 +1937,11 @@
   {
     "team_name": "Milan",
     "player_name": "Christian Pulisic",
-    "SCA": "114",
-    "SCA90": "4.29",
-    "GCA": "13",
-    "GCA90": "0.49",
-    "passlive": "5"
+    "SCA": "125",
+    "SCA90": "4.54",
+    "GCA": "14",
+    "GCA90": "0.51",
+    "passlive": "6"
   },
   {
     "team_name": "Milan",
@@ -2262,7 +1956,7 @@
     "team_name": "Milan",
     "player_name": "Matteo Gabbia",
     "SCA": "22",
-    "SCA90": "0.96",
+    "SCA90": "0.92",
     "GCA": "3",
     "GCA90": "0.13",
     "passlive": "1"
@@ -2270,10 +1964,10 @@
   {
     "team_name": "Milan",
     "player_name": "Strahinja Pavlović",
-    "SCA": "26",
-    "SCA90": "1.32",
+    "SCA": "29",
+    "SCA90": "1.40",
     "GCA": "3",
-    "GCA90": "0.15",
+    "GCA90": "0.14",
     "passlive": "1"
   },
   {
@@ -2287,12 +1981,12 @@
   },
   {
     "team_name": "Milan",
-    "player_name": "Yunus Musah",
-    "SCA": "44",
-    "SCA90": "2.60",
-    "GCA": "4",
-    "GCA90": "0.24",
-    "passlive": "4"
+    "player_name": "Fikayo Tomori",
+    "SCA": "22",
+    "SCA90": "1.24",
+    "GCA": "3",
+    "GCA90": "0.17",
+    "passlive": "3"
   },
   {
     "team_name": "Milan",
@@ -2314,12 +2008,12 @@
   },
   {
     "team_name": "Milan",
-    "player_name": "Fikayo Tomori",
-    "SCA": "20",
-    "SCA90": "1.20",
-    "GCA": "3",
-    "GCA90": "0.18",
-    "passlive": "3"
+    "player_name": "Yunus Musah",
+    "SCA": "45",
+    "SCA90": "2.58",
+    "GCA": "4",
+    "GCA90": "0.23",
+    "passlive": "4"
   },
   {
     "team_name": "Milan",
@@ -2334,9 +2028,9 @@
     "team_name": "Milan",
     "player_name": "Alejandro Jiménez",
     "SCA": "34",
-    "SCA90": "2.48",
+    "SCA90": "2.42",
     "GCA": "4",
-    "GCA90": "0.29",
+    "GCA90": "0.28",
     "passlive": "3"
   },
   {
@@ -2360,28 +2054,28 @@
   {
     "team_name": "Milan",
     "player_name": "Ruben Loftus-Cheek",
-    "SCA": "32",
-    "SCA90": "3.04",
+    "SCA": "34",
+    "SCA90": "2.95",
+    "GCA": "2",
+    "GCA90": "0.17",
+    "passlive": "1"
+  },
+  {
+    "team_name": "Milan",
+    "player_name": "Samuel Chukwueze",
+    "SCA": "49",
+    "SCA90": "4.77",
     "GCA": "2",
     "GCA90": "0.19",
     "passlive": "1"
   },
   {
     "team_name": "Milan",
-    "player_name": "Samuel Chukwueze",
-    "SCA": "44",
-    "SCA90": "4.50",
-    "GCA": "1",
-    "GCA90": "0.10",
-    "passlive": "1"
-  },
-  {
-    "team_name": "Milan",
     "player_name": "João Félix",
-    "SCA": "29",
-    "SCA90": "3.83",
-    "GCA": "5",
-    "GCA90": "0.66",
+    "SCA": "35",
+    "SCA90": "4.14",
+    "GCA": "6",
+    "GCA90": "0.71",
     "passlive": "4"
   },
   {
@@ -2422,18 +2116,18 @@
   },
   {
     "team_name": "Milan",
-    "player_name": "Filippo Terracciano",
-    "SCA": "4",
-    "SCA90": "0.67",
+    "player_name": "Luka Jović",
+    "SCA": "16",
+    "SCA90": "2.59",
     "GCA": "0",
     "GCA90": "0.00",
     "passlive": "0"
   },
   {
     "team_name": "Milan",
-    "player_name": "Luka Jović",
-    "SCA": "16",
-    "SCA90": "2.82",
+    "player_name": "Filippo Terracciano",
+    "SCA": "4",
+    "SCA90": "0.67",
     "GCA": "0",
     "GCA90": "0.00",
     "passlive": "0"
@@ -2477,10 +2171,10 @@
   {
     "team_name": "Milan",
     "player_name": "Francesco Camarda",
-    "SCA": "3",
-    "SCA90": "1.67",
-    "GCA": "0",
-    "GCA90": "0.00",
+    "SCA": "7",
+    "SCA90": "3.04",
+    "GCA": "1",
+    "GCA90": "0.43",
     "passlive": "0"
   },
   {
@@ -2497,6 +2191,15 @@
     "player_name": "Riccardo Sottil",
     "SCA": "5",
     "SCA90": "3.60",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Milan",
+    "player_name": "Davide Bartesaghi",
+    "SCA": "2",
+    "SCA90": "1.53",
     "GCA": "0",
     "GCA90": "0.00",
     "passlive": "0"
@@ -2521,16 +2224,16 @@
   },
   {
     "team_name": "Milan",
-    "player_name": "Davide Bartesaghi",
-    "SCA": "1",
-    "SCA90": "1.55",
+    "player_name": "Kevin Zeroli",
+    "SCA": "0",
+    "SCA90": "0.00",
     "GCA": "0",
     "GCA90": "0.00",
     "passlive": "0"
   },
   {
     "team_name": "Milan",
-    "player_name": "Kevin Zeroli",
+    "player_name": "Alessandro Florenzi",
     "SCA": "0",
     "SCA90": "0.00",
     "GCA": "0",
@@ -2542,6 +2245,312 @@
     "player_name": "Bob Murphy Omoregbe",
     "SCA": "0",
     "SCA90": "0.00",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Bologna",
+    "player_name": "Remo Freuler",
+    "SCA": "74",
+    "SCA90": "2.08",
+    "GCA": "3",
+    "GCA90": "0.08",
+    "passlive": "2"
+  },
+  {
+    "team_name": "Bologna",
+    "player_name": "Sam Beukema",
+    "SCA": "36",
+    "SCA90": "1.08",
+    "GCA": "6",
+    "GCA90": "0.18",
+    "passlive": "4"
+  },
+  {
+    "team_name": "Bologna",
+    "player_name": "Jhon Lucumí",
+    "SCA": "34",
+    "SCA90": "1.17",
+    "GCA": "2",
+    "GCA90": "0.07",
+    "passlive": "2"
+  },
+  {
+    "team_name": "Bologna",
+    "player_name": "Łukasz Skorupski",
+    "SCA": "4",
+    "SCA90": "0.15",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Bologna",
+    "player_name": "Santiago Castro",
+    "SCA": "69",
+    "SCA90": "2.71",
+    "GCA": "11",
+    "GCA90": "0.43",
+    "passlive": "8"
+  },
+  {
+    "team_name": "Bologna",
+    "player_name": "Dan Ndoye",
+    "SCA": "88",
+    "SCA90": "3.70",
+    "GCA": "9",
+    "GCA90": "0.38",
+    "passlive": "8"
+  },
+  {
+    "team_name": "Bologna",
+    "player_name": "Juan Miranda",
+    "SCA": "96",
+    "SCA90": "3.79",
+    "GCA": "13",
+    "GCA90": "0.51",
+    "passlive": "11"
+  },
+  {
+    "team_name": "Bologna",
+    "player_name": "Jens Odgaard",
+    "SCA": "45",
+    "SCA90": "2.08",
+    "GCA": "6",
+    "GCA90": "0.28",
+    "passlive": "4"
+  },
+  {
+    "team_name": "Bologna",
+    "player_name": "Riccardo Orsolini",
+    "SCA": "59",
+    "SCA90": "2.83",
+    "GCA": "5",
+    "GCA90": "0.24",
+    "passlive": "4"
+  },
+  {
+    "team_name": "Bologna",
+    "player_name": "Benjamín Domínguez",
+    "SCA": "41",
+    "SCA90": "2.88",
+    "GCA": "7",
+    "GCA90": "0.49",
+    "passlive": "6"
+  },
+  {
+    "team_name": "Bologna",
+    "player_name": "",
+    "SCA": "",
+    "SCA90": "",
+    "GCA": "",
+    "GCA90": "",
+    "passlive": ""
+  },
+  {
+    "team_name": "Bologna",
+    "player_name": "Player",
+    "SCA": "",
+    "SCA90": "",
+    "GCA": "",
+    "GCA90": "",
+    "passlive": ""
+  },
+  {
+    "team_name": "Bologna",
+    "player_name": "Nikola Moro",
+    "SCA": "48",
+    "SCA90": "3.56",
+    "GCA": "6",
+    "GCA90": "0.44",
+    "passlive": "3"
+  },
+  {
+    "team_name": "Bologna",
+    "player_name": "Tommaso Pobega",
+    "SCA": "27",
+    "SCA90": "2.06",
+    "GCA": "4",
+    "GCA90": "0.31",
+    "passlive": "3"
+  },
+  {
+    "team_name": "Bologna",
+    "player_name": "Lorenzo De Silvestri",
+    "SCA": "14",
+    "SCA90": "1.19",
+    "GCA": "2",
+    "GCA90": "0.17",
+    "passlive": "1"
+  },
+  {
+    "team_name": "Bologna",
+    "player_name": "Emil Holm",
+    "SCA": "28",
+    "SCA90": "2.22",
+    "GCA": "2",
+    "GCA90": "0.16",
+    "passlive": "1"
+  },
+  {
+    "team_name": "Bologna",
+    "player_name": "Charalambos Lykogiannis",
+    "SCA": "33",
+    "SCA90": "2.83",
+    "GCA": "5",
+    "GCA90": "0.43",
+    "passlive": "4"
+  },
+  {
+    "team_name": "Bologna",
+    "player_name": "Thijs Dallinga",
+    "SCA": "27",
+    "SCA90": "2.11",
+    "GCA": "5",
+    "GCA90": "0.39",
+    "passlive": "3"
+  },
+  {
+    "team_name": "Bologna",
+    "player_name": "Federico Ravaglia",
+    "SCA": "4",
+    "SCA90": "0.34",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Bologna",
+    "player_name": "Lewis Ferguson",
+    "SCA": "32",
+    "SCA90": "2.93",
+    "GCA": "1",
+    "GCA90": "0.09",
+    "passlive": "1"
+  },
+  {
+    "team_name": "Bologna",
+    "player_name": "Giovanni Fabbian",
+    "SCA": "19",
+    "SCA90": "1.67",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Bologna",
+    "player_name": "Nicolò Casale",
+    "SCA": "12",
+    "SCA90": "1.20",
+    "GCA": "2",
+    "GCA90": "0.20",
+    "passlive": "2"
+  },
+  {
+    "team_name": "Bologna",
+    "player_name": "",
+    "SCA": "",
+    "SCA90": "",
+    "GCA": "",
+    "GCA90": "",
+    "passlive": ""
+  },
+  {
+    "team_name": "Bologna",
+    "player_name": "Player",
+    "SCA": "",
+    "SCA90": "",
+    "GCA": "",
+    "GCA90": "",
+    "passlive": ""
+  },
+  {
+    "team_name": "Bologna",
+    "player_name": "Michel Aebischer",
+    "SCA": "18",
+    "SCA90": "2.23",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Bologna",
+    "player_name": "Stefan Posch",
+    "SCA": "18",
+    "SCA90": "2.26",
+    "GCA": "1",
+    "GCA90": "0.13",
+    "passlive": "1"
+  },
+  {
+    "team_name": "Bologna",
+    "player_name": "Davide Calabria",
+    "SCA": "24",
+    "SCA90": "3.42",
+    "GCA": "3",
+    "GCA90": "0.43",
+    "passlive": "3"
+  },
+  {
+    "team_name": "Bologna",
+    "player_name": "Martin Erlic",
+    "SCA": "4",
+    "SCA90": "1.08",
+    "GCA": "1",
+    "GCA90": "0.27",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Bologna",
+    "player_name": "Nicolò Cambiaghi",
+    "SCA": "30",
+    "SCA90": "4.36",
+    "GCA": "8",
+    "GCA90": "1.16",
+    "passlive": "6"
+  },
+  {
+    "team_name": "Bologna",
+    "player_name": "Jesper Karlsson",
+    "SCA": "9",
+    "SCA90": "2.72",
+    "GCA": "1",
+    "GCA90": "0.30",
+    "passlive": "1"
+  },
+  {
+    "team_name": "Bologna",
+    "player_name": "Kacper Urbanski",
+    "SCA": "8",
+    "SCA90": "2.91",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Bologna",
+    "player_name": "Samuel Iling-Junior",
+    "SCA": "7",
+    "SCA90": "5.29",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Bologna",
+    "player_name": "Oussama El Azzouzi",
+    "SCA": "2",
+    "SCA90": "9.47",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Bologna",
+    "player_name": "Estanis",
+    "SCA": "3",
+    "SCA90": "30.00",
     "GCA": "0",
     "GCA90": "0.00",
     "passlive": "0"
@@ -2945,8 +2954,8 @@
   {
     "team_name": "Torino",
     "player_name": "Vanja Milinković-Savić",
-    "SCA": "9",
-    "SCA90": "0.25",
+    "SCA": "10",
+    "SCA90": "0.27",
     "GCA": "0",
     "GCA90": "0.00",
     "passlive": "0"
@@ -2954,8 +2963,8 @@
   {
     "team_name": "Torino",
     "player_name": "Samuele Ricci",
-    "SCA": "45",
-    "SCA90": "1.47",
+    "SCA": "48",
+    "SCA90": "1.53",
     "GCA": "4",
     "GCA90": "0.13",
     "passlive": "4"
@@ -2972,17 +2981,17 @@
   {
     "team_name": "Torino",
     "player_name": "Che Adams",
-    "SCA": "62",
-    "SCA90": "2.18",
+    "SCA": "63",
+    "SCA90": "2.14",
     "GCA": "5",
-    "GCA90": "0.18",
+    "GCA90": "0.17",
     "passlive": "4"
   },
   {
     "team_name": "Torino",
     "player_name": "Guillermo Maripán",
-    "SCA": "18",
-    "SCA90": "0.72",
+    "SCA": "19",
+    "SCA90": "0.73",
     "GCA": "2",
     "GCA90": "0.08",
     "passlive": "2"
@@ -2990,44 +2999,44 @@
   {
     "team_name": "Torino",
     "player_name": "Valentino Lazaro",
-    "SCA": "49",
-    "SCA90": "1.99",
+    "SCA": "52",
+    "SCA90": "2.03",
     "GCA": "8",
-    "GCA90": "0.32",
+    "GCA90": "0.31",
     "passlive": "5"
   },
   {
     "team_name": "Torino",
     "player_name": "Nikola Vlašić",
-    "SCA": "69",
-    "SCA90": "3.07",
+    "SCA": "70",
+    "SCA90": "2.98",
     "GCA": "8",
-    "GCA90": "0.36",
+    "GCA90": "0.34",
     "passlive": "6"
-  },
-  {
-    "team_name": "Torino",
-    "player_name": "Sebastian Walukiewicz",
-    "SCA": "16",
-    "SCA90": "0.88",
-    "GCA": "1",
-    "GCA90": "0.05",
-    "passlive": "1"
   },
   {
     "team_name": "Torino",
     "player_name": "Adam Masina",
     "SCA": "21",
-    "SCA90": "1.02",
+    "SCA90": "0.98",
     "GCA": "4",
     "GCA90": "0.19",
     "passlive": "2"
   },
   {
     "team_name": "Torino",
+    "player_name": "Sebastian Walukiewicz",
+    "SCA": "16",
+    "SCA90": "0.87",
+    "GCA": "1",
+    "GCA90": "0.05",
+    "passlive": "1"
+  },
+  {
+    "team_name": "Torino",
     "player_name": "Karol Linetty",
     "SCA": "24",
-    "SCA90": "1.42",
+    "SCA90": "1.40",
     "GCA": "2",
     "GCA90": "0.12",
     "passlive": "1"
@@ -3063,7 +3072,7 @@
     "team_name": "Torino",
     "player_name": "Gvidas Gineitis",
     "SCA": "39",
-    "SCA90": "2.51",
+    "SCA90": "2.45",
     "GCA": "2",
     "GCA90": "0.13",
     "passlive": "1"
@@ -3088,6 +3097,24 @@
   },
   {
     "team_name": "Torino",
+    "player_name": "Cristiano Biraghi",
+    "SCA": "41",
+    "SCA90": "3.19",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Torino",
+    "player_name": "Cesare Casadei",
+    "SCA": "19",
+    "SCA90": "1.68",
+    "GCA": "2",
+    "GCA90": "0.18",
+    "passlive": "2"
+  },
+  {
+    "team_name": "Torino",
     "player_name": "Mërgim Vojvoda",
     "SCA": "27",
     "SCA90": "2.20",
@@ -3097,29 +3124,11 @@
   },
   {
     "team_name": "Torino",
-    "player_name": "Cristiano Biraghi",
-    "SCA": "38",
-    "SCA90": "3.20",
-    "GCA": "0",
-    "GCA90": "0.00",
-    "passlive": "0"
-  },
-  {
-    "team_name": "Torino",
-    "player_name": "Cesare Casadei",
-    "SCA": "19",
-    "SCA90": "1.78",
-    "GCA": "2",
-    "GCA90": "0.19",
-    "passlive": "2"
-  },
-  {
-    "team_name": "Torino",
     "player_name": "Elif Elmas",
-    "SCA": "28",
-    "SCA90": "2.68",
+    "SCA": "29",
+    "SCA90": "2.56",
     "GCA": "3",
-    "GCA90": "0.29",
+    "GCA90": "0.26",
     "passlive": "1"
   },
   {
@@ -3179,8 +3188,8 @@
   {
     "team_name": "Torino",
     "player_name": "Ali Dembélé",
-    "SCA": "5",
-    "SCA90": "1.36",
+    "SCA": "7",
+    "SCA90": "1.62",
     "GCA": "0",
     "GCA90": "0.00",
     "passlive": "0"
@@ -3215,10 +3224,10 @@
   {
     "team_name": "Torino",
     "player_name": "Sergiu Perciun",
-    "SCA": "6",
-    "SCA90": "4.54",
+    "SCA": "8",
+    "SCA90": "4.77",
     "GCA": "1",
-    "GCA90": "0.76",
+    "GCA90": "0.60",
     "passlive": "1"
   },
   {
@@ -3226,6 +3235,15 @@
     "player_name": "Alessio Cacciamani",
     "SCA": "1",
     "SCA90": "2.90",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Torino",
+    "player_name": "Tommaso Gabellini",
+    "SCA": "0",
+    "SCA90": "0.00",
     "GCA": "0",
     "GCA90": "0.00",
     "passlive": "0"
@@ -3252,16 +3270,16 @@
     "team_name": "Udinese",
     "player_name": "Jesper Karlström",
     "SCA": "59",
-    "SCA90": "1.72",
+    "SCA90": "1.67",
     "GCA": "3",
-    "GCA90": "0.09",
+    "GCA90": "0.08",
     "passlive": "3"
   },
   {
     "team_name": "Udinese",
     "player_name": "Jaka Bijol",
-    "SCA": "29",
-    "SCA90": "0.89",
+    "SCA": "30",
+    "SCA90": "0.91",
     "GCA": "1",
     "GCA90": "0.03",
     "passlive": "0"
@@ -3278,8 +3296,8 @@
   {
     "team_name": "Udinese",
     "player_name": "Kingsley Ehizibue",
-    "SCA": "50",
-    "SCA90": "1.87",
+    "SCA": "51",
+    "SCA90": "1.84",
     "GCA": "2",
     "GCA90": "0.07",
     "passlive": "1"
@@ -3287,10 +3305,19 @@
   {
     "team_name": "Udinese",
     "player_name": "Lorenzo Lucca",
-    "SCA": "30",
-    "SCA90": "1.19",
-    "GCA": "3",
-    "GCA90": "0.12",
+    "SCA": "33",
+    "SCA90": "1.26",
+    "GCA": "4",
+    "GCA90": "0.15",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Udinese",
+    "player_name": "Maduka Okoye",
+    "SCA": "1",
+    "SCA90": "0.04",
+    "GCA": "0",
+    "GCA90": "0.00",
     "passlive": "0"
   },
   {
@@ -3304,15 +3331,6 @@
   },
   {
     "team_name": "Udinese",
-    "player_name": "Maduka Okoye",
-    "SCA": "1",
-    "SCA90": "0.04",
-    "GCA": "0",
-    "GCA90": "0.00",
-    "passlive": "0"
-  },
-  {
-    "team_name": "Udinese",
     "player_name": "Florian Thauvin",
     "SCA": "93",
     "SCA90": "4.28",
@@ -3323,10 +3341,10 @@
   {
     "team_name": "Udinese",
     "player_name": "Jurgen Ekkelenkamp",
-    "SCA": "37",
-    "SCA90": "1.85",
+    "SCA": "38",
+    "SCA90": "1.81",
     "GCA": "6",
-    "GCA90": "0.30",
+    "GCA90": "0.29",
     "passlive": "4"
   },
   {
@@ -3360,9 +3378,9 @@
     "team_name": "Udinese",
     "player_name": "Oumar Solet",
     "SCA": "33",
-    "SCA90": "1.88",
+    "SCA90": "1.78",
     "GCA": "3",
-    "GCA90": "0.17",
+    "GCA90": "0.16",
     "passlive": "1"
   },
   {
@@ -3377,35 +3395,35 @@
   {
     "team_name": "Udinese",
     "player_name": "Jordan Zemura",
-    "SCA": "28",
-    "SCA90": "1.90",
-    "GCA": "3",
-    "GCA90": "0.20",
+    "SCA": "30",
+    "SCA90": "1.91",
+    "GCA": "4",
+    "GCA90": "0.25",
     "passlive": "3"
   },
   {
     "team_name": "Udinese",
-    "player_name": "Razvan Sava",
-    "SCA": "0",
-    "SCA90": "0.00",
+    "player_name": "Arthur Atta",
+    "SCA": "46",
+    "SCA90": "3.31",
+    "GCA": "2",
+    "GCA90": "0.14",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Udinese",
+    "player_name": "Christian Kabasele",
+    "SCA": "12",
+    "SCA90": "0.93",
     "GCA": "0",
     "GCA90": "0.00",
     "passlive": "0"
   },
   {
     "team_name": "Udinese",
-    "player_name": "Arthur Atta",
-    "SCA": "41",
-    "SCA90": "3.14",
-    "GCA": "2",
-    "GCA90": "0.15",
-    "passlive": "0"
-  },
-  {
-    "team_name": "Udinese",
-    "player_name": "Christian Kabasele",
-    "SCA": "11",
-    "SCA90": "0.93",
+    "player_name": "Razvan Sava",
+    "SCA": "0",
+    "SCA90": "0.00",
     "GCA": "0",
     "GCA90": "0.00",
     "passlive": "0"
@@ -3432,7 +3450,7 @@
     "team_name": "Udinese",
     "player_name": "Keinan Davis",
     "SCA": "35",
-    "SCA90": "2.99",
+    "SCA90": "2.95",
     "GCA": "2",
     "GCA90": "0.17",
     "passlive": "0"
@@ -3441,7 +3459,7 @@
     "team_name": "Udinese",
     "player_name": "Oier Zarraga",
     "SCA": "15",
-    "SCA90": "1.58",
+    "SCA90": "1.51",
     "GCA": "0",
     "GCA90": "0.00",
     "passlive": "0"
@@ -3466,6 +3484,15 @@
   },
   {
     "team_name": "Udinese",
+    "player_name": "Alexis Sánchez",
+    "SCA": "18",
+    "SCA90": "3.71",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Udinese",
     "player_name": "Brenner",
     "SCA": "11",
     "SCA90": "2.56",
@@ -3475,18 +3502,9 @@
   },
   {
     "team_name": "Udinese",
-    "player_name": "Alexis Sánchez",
-    "SCA": "15",
-    "SCA90": "3.50",
-    "GCA": "0",
-    "GCA90": "0.00",
-    "passlive": "0"
-  },
-  {
-    "team_name": "Udinese",
     "player_name": "Iker Bravo",
     "SCA": "14",
-    "SCA90": "1.89",
+    "SCA90": "1.85",
     "GCA": "0",
     "GCA90": "0.00",
     "passlive": "0"
@@ -3555,6 +3573,15 @@
     "passlive": "0"
   },
   {
+    "team_name": "Udinese",
+    "player_name": "Matteo Palma",
+    "SCA": "0",
+    "SCA90": "0.00",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
     "team_name": "Genoa",
     "player_name": "Morten Frendrup",
     "SCA": "53",
@@ -3565,21 +3592,21 @@
   },
   {
     "team_name": "Genoa",
+    "player_name": "Aarón Martín",
+    "SCA": "95",
+    "SCA90": "2.77",
+    "GCA": "13",
+    "GCA90": "0.38",
+    "passlive": "8"
+  },
+  {
+    "team_name": "Genoa",
     "player_name": "Johan Vásquez",
     "SCA": "25",
     "SCA90": "0.74",
     "GCA": "0",
     "GCA90": "0.00",
     "passlive": "0"
-  },
-  {
-    "team_name": "Genoa",
-    "player_name": "Aarón Martín",
-    "SCA": "93",
-    "SCA90": "2.79",
-    "GCA": "11",
-    "GCA90": "0.33",
-    "passlive": "7"
   },
   {
     "team_name": "Genoa",
@@ -3601,21 +3628,21 @@
   },
   {
     "team_name": "Genoa",
-    "player_name": "Stefano Sabelli",
-    "SCA": "37",
-    "SCA90": "1.64",
-    "GCA": "2",
-    "GCA90": "0.09",
-    "passlive": "2"
-  },
-  {
-    "team_name": "Genoa",
     "player_name": "Koni De Winter",
     "SCA": "15",
-    "SCA90": "0.66",
+    "SCA90": "0.63",
     "GCA": "1",
     "GCA90": "0.04",
     "passlive": "1"
+  },
+  {
+    "team_name": "Genoa",
+    "player_name": "Stefano Sabelli",
+    "SCA": "38",
+    "SCA90": "1.66",
+    "GCA": "2",
+    "GCA90": "0.09",
+    "passlive": "2"
   },
   {
     "team_name": "Genoa",
@@ -3675,7 +3702,7 @@
     "team_name": "Genoa",
     "player_name": "Mattia Bani",
     "SCA": "7",
-    "SCA90": "0.44",
+    "SCA90": "0.42",
     "GCA": "2",
     "GCA90": "0.12",
     "passlive": "1"
@@ -3684,19 +3711,19 @@
     "team_name": "Genoa",
     "player_name": "Patrizio Masini",
     "SCA": "24",
-    "SCA90": "1.49",
+    "SCA90": "1.40",
     "GCA": "3",
-    "GCA90": "0.19",
+    "GCA90": "0.18",
     "passlive": "2"
   },
   {
     "team_name": "Genoa",
     "player_name": "Vitinha",
-    "SCA": "40",
-    "SCA90": "2.84",
-    "GCA": "2",
-    "GCA90": "0.14",
-    "passlive": "2"
+    "SCA": "41",
+    "SCA90": "2.78",
+    "GCA": "3",
+    "GCA90": "0.20",
+    "passlive": "3"
   },
   {
     "team_name": "Genoa",
@@ -3709,30 +3736,30 @@
   },
   {
     "team_name": "Genoa",
+    "player_name": "Junior Messias",
+    "SCA": "23",
+    "SCA90": "2.44",
+    "GCA": "3",
+    "GCA90": "0.32",
+    "passlive": "2"
+  },
+  {
+    "team_name": "Genoa",
+    "player_name": "Brooke Norton-Cuffy",
+    "SCA": "13",
+    "SCA90": "1.63",
+    "GCA": "3",
+    "GCA90": "0.38",
+    "passlive": "3"
+  },
+  {
+    "team_name": "Genoa",
     "player_name": "Alessandro Vogliacco",
     "SCA": "6",
     "SCA90": "0.76",
     "GCA": "0",
     "GCA90": "0.00",
     "passlive": "0"
-  },
-  {
-    "team_name": "Genoa",
-    "player_name": "Junior Messias",
-    "SCA": "22",
-    "SCA90": "2.61",
-    "GCA": "2",
-    "GCA90": "0.24",
-    "passlive": "1"
-  },
-  {
-    "team_name": "Genoa",
-    "player_name": "Brooke Norton-Cuffy",
-    "SCA": "13",
-    "SCA90": "1.83",
-    "GCA": "3",
-    "GCA90": "0.42",
-    "passlive": "3"
   },
   {
     "team_name": "Genoa",
@@ -3746,10 +3773,10 @@
   {
     "team_name": "Genoa",
     "player_name": "Jeff Ekhator",
-    "SCA": "20",
-    "SCA90": "2.43",
+    "SCA": "21",
+    "SCA90": "2.46",
     "GCA": "2",
-    "GCA90": "0.24",
+    "GCA90": "0.23",
     "passlive": "1"
   },
   {
@@ -3782,10 +3809,10 @@
   {
     "team_name": "Genoa",
     "player_name": "Caleb Ekuban",
-    "SCA": "13",
-    "SCA90": "2.22",
+    "SCA": "14",
+    "SCA90": "2.27",
     "GCA": "3",
-    "GCA90": "0.51",
+    "GCA90": "0.49",
     "passlive": "3"
   },
   {
@@ -3793,24 +3820,6 @@
     "player_name": "Honest Ahanor",
     "SCA": "5",
     "SCA90": "1.67",
-    "GCA": "0",
-    "GCA90": "0.00",
-    "passlive": "0"
-  },
-  {
-    "team_name": "Genoa",
-    "player_name": "Maxwel Cornet",
-    "SCA": "8",
-    "SCA90": "3.04",
-    "GCA": "1",
-    "GCA90": "0.38",
-    "passlive": "1"
-  },
-  {
-    "team_name": "Genoa",
-    "player_name": "Lior Kasa",
-    "SCA": "5",
-    "SCA90": "1.97",
     "GCA": "0",
     "GCA90": "0.00",
     "passlive": "0"
@@ -3828,16 +3837,25 @@
     "team_name": "Genoa",
     "player_name": "Jean Onana",
     "SCA": "4",
-    "SCA90": "1.68",
+    "SCA90": "1.18",
     "GCA": "0",
     "GCA90": "0.00",
     "passlive": "0"
   },
   {
     "team_name": "Genoa",
-    "player_name": "Emil Bohinen",
+    "player_name": "Maxwel Cornet",
+    "SCA": "8",
+    "SCA90": "2.93",
+    "GCA": "1",
+    "GCA90": "0.37",
+    "passlive": "1"
+  },
+  {
+    "team_name": "Genoa",
+    "player_name": "Lior Kasa",
     "SCA": "5",
-    "SCA90": "2.69",
+    "SCA90": "1.97",
     "GCA": "0",
     "GCA90": "0.00",
     "passlive": "0"
@@ -3853,12 +3871,21 @@
   },
   {
     "team_name": "Genoa",
-    "player_name": "Filippo Melegoni",
-    "SCA": "1",
-    "SCA90": "1.01",
+    "player_name": "Lorenzo Venturino",
+    "SCA": "6",
+    "SCA90": "3.23",
     "GCA": "1",
-    "GCA90": "1.01",
-    "passlive": "1"
+    "GCA90": "0.54",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Genoa",
+    "player_name": "Emil Bohinen",
+    "SCA": "5",
+    "SCA90": "2.69",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
   },
   {
     "team_name": "Genoa",
@@ -3880,18 +3907,18 @@
   },
   {
     "team_name": "Genoa",
-    "player_name": "Alessandro Marcandalli",
-    "SCA": "0",
-    "SCA90": "0.00",
-    "GCA": "0",
-    "GCA90": "0.00",
-    "passlive": "0"
+    "player_name": "Filippo Melegoni",
+    "SCA": "1",
+    "SCA90": "1.01",
+    "GCA": "1",
+    "GCA90": "1.01",
+    "passlive": "1"
   },
   {
     "team_name": "Genoa",
-    "player_name": "Lorenzo Venturino",
-    "SCA": "5",
-    "SCA90": "4.29",
+    "player_name": "Alessandro Marcandalli",
+    "SCA": "0",
+    "SCA90": "0.00",
     "GCA": "0",
     "GCA90": "0.00",
     "passlive": "0"
@@ -3925,7 +3952,340 @@
   },
   {
     "team_name": "Genoa",
+    "player_name": "Daniele Sommariva",
+    "SCA": "0",
+    "SCA90": "0.00",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Genoa",
     "player_name": "Federico Accornero",
+    "SCA": "0",
+    "SCA90": "0.00",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Hellas Verona",
+    "player_name": "Lorenzo Montipò",
+    "SCA": "5",
+    "SCA90": "0.14",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Hellas Verona",
+    "player_name": "Jackson Tchatchoua",
+    "SCA": "60",
+    "SCA90": "1.71",
+    "GCA": "3",
+    "GCA90": "0.09",
+    "passlive": "3"
+  },
+  {
+    "team_name": "Hellas Verona",
+    "player_name": "Diego Coppola",
+    "SCA": "10",
+    "SCA90": "0.31",
+    "GCA": "1",
+    "GCA90": "0.03",
+    "passlive": "1"
+  },
+  {
+    "team_name": "Hellas Verona",
+    "player_name": "Ondrej Duda",
+    "SCA": "73",
+    "SCA90": "2.74",
+    "GCA": "7",
+    "GCA90": "0.26",
+    "passlive": "5"
+  },
+  {
+    "team_name": "Hellas Verona",
+    "player_name": "Tomáš Suslov",
+    "SCA": "74",
+    "SCA90": "3.20",
+    "GCA": "4",
+    "GCA90": "0.17",
+    "passlive": "1"
+  },
+  {
+    "team_name": "Hellas Verona",
+    "player_name": "Amin Sarr",
+    "SCA": "45",
+    "SCA90": "2.13",
+    "GCA": "4",
+    "GCA90": "0.19",
+    "passlive": "2"
+  },
+  {
+    "team_name": "Hellas Verona",
+    "player_name": "Domagoj Bradarić",
+    "SCA": "47",
+    "SCA90": "2.19",
+    "GCA": "1",
+    "GCA90": "0.05",
+    "passlive": "1"
+  },
+  {
+    "team_name": "Hellas Verona",
+    "player_name": "Paweł Dawidowicz",
+    "SCA": "8",
+    "SCA90": "0.39",
+    "GCA": "1",
+    "GCA90": "0.05",
+    "passlive": "1"
+  },
+  {
+    "team_name": "Hellas Verona",
+    "player_name": "Daniele Ghilardi",
+    "SCA": "16",
+    "SCA90": "0.71",
+    "GCA": "1",
+    "GCA90": "0.04",
+    "passlive": "1"
+  },
+  {
+    "team_name": "Hellas Verona",
+    "player_name": "Casper Tengstedt",
+    "SCA": "24",
+    "SCA90": "1.42",
+    "GCA": "3",
+    "GCA90": "0.18",
+    "passlive": "2"
+  },
+  {
+    "team_name": "Hellas Verona",
+    "player_name": "",
+    "SCA": "",
+    "SCA90": "",
+    "GCA": "",
+    "GCA90": "",
+    "passlive": ""
+  },
+  {
+    "team_name": "Hellas Verona",
+    "player_name": "Player",
+    "SCA": "",
+    "SCA90": "",
+    "GCA": "",
+    "GCA90": "",
+    "passlive": ""
+  },
+  {
+    "team_name": "Hellas Verona",
+    "player_name": "Reda Belahyane",
+    "SCA": "41",
+    "SCA90": "2.23",
+    "GCA": "3",
+    "GCA90": "0.16",
+    "passlive": "2"
+  },
+  {
+    "team_name": "Hellas Verona",
+    "player_name": "Darko Lazović",
+    "SCA": "23",
+    "SCA90": "1.42",
+    "GCA": "4",
+    "GCA90": "0.25",
+    "passlive": "1"
+  },
+  {
+    "team_name": "Hellas Verona",
+    "player_name": "Suat Serdar",
+    "SCA": "29",
+    "SCA90": "1.90",
+    "GCA": "1",
+    "GCA90": "0.07",
+    "passlive": "1"
+  },
+  {
+    "team_name": "Hellas Verona",
+    "player_name": "Nicolás Valentini",
+    "SCA": "11",
+    "SCA90": "0.88",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Hellas Verona",
+    "player_name": "Daniel Mosquera",
+    "SCA": "43",
+    "SCA90": "2.82",
+    "GCA": "3",
+    "GCA90": "0.20",
+    "passlive": "2"
+  },
+  {
+    "team_name": "Hellas Verona",
+    "player_name": "Giangiacomo Magnani",
+    "SCA": "4",
+    "SCA90": "0.34",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Hellas Verona",
+    "player_name": "Flavius Daniliuc",
+    "SCA": "11",
+    "SCA90": "0.98",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Hellas Verona",
+    "player_name": "Dailon Livramento",
+    "SCA": "19",
+    "SCA90": "1.82",
+    "GCA": "4",
+    "GCA90": "0.38",
+    "passlive": "2"
+  },
+  {
+    "team_name": "Hellas Verona",
+    "player_name": "Grigoris Kastanos",
+    "SCA": "24",
+    "SCA90": "2.47",
+    "GCA": "2",
+    "GCA90": "0.21",
+    "passlive": "1"
+  },
+  {
+    "team_name": "Hellas Verona",
+    "player_name": "Cheikh Tidiane Niasse",
+    "SCA": "12",
+    "SCA90": "1.43",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Hellas Verona",
+    "player_name": "",
+    "SCA": "",
+    "SCA90": "",
+    "GCA": "",
+    "GCA90": "",
+    "passlive": ""
+  },
+  {
+    "team_name": "Hellas Verona",
+    "player_name": "Player",
+    "SCA": "",
+    "SCA90": "",
+    "GCA": "",
+    "GCA90": "",
+    "passlive": ""
+  },
+  {
+    "team_name": "Hellas Verona",
+    "player_name": "Antoine Bernede",
+    "SCA": "22",
+    "SCA90": "3.33",
+    "GCA": "1",
+    "GCA90": "0.15",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Hellas Verona",
+    "player_name": "Martin Frese",
+    "SCA": "10",
+    "SCA90": "1.64",
+    "GCA": "1",
+    "GCA90": "0.16",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Hellas Verona",
+    "player_name": "Abdou Harroui",
+    "SCA": "15",
+    "SCA90": "2.92",
+    "GCA": "3",
+    "GCA90": "0.58",
+    "passlive": "3"
+  },
+  {
+    "team_name": "Hellas Verona",
+    "player_name": "Daniel Bandeira",
+    "SCA": "6",
+    "SCA90": "1.33",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Hellas Verona",
+    "player_name": "Davide Faraoni",
+    "SCA": "3",
+    "SCA90": "1.04",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Hellas Verona",
+    "player_name": "Simone Perilli",
+    "SCA": "0",
+    "SCA90": "0.00",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Hellas Verona",
+    "player_name": "Daniel Oyegoke",
+    "SCA": "0",
+    "SCA90": "0.00",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Hellas Verona",
+    "player_name": "Mathis Lambourde",
+    "SCA": "2",
+    "SCA90": "2.00",
+    "GCA": "1",
+    "GCA90": "1.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Hellas Verona",
+    "player_name": "Faride Alidou",
+    "SCA": "2",
+    "SCA90": "2.54",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Hellas Verona",
+    "player_name": "Junior Ajayi",
+    "SCA": "0",
+    "SCA90": "0.00",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Hellas Verona",
+    "player_name": "Alphadjo Cissè",
+    "SCA": "1",
+    "SCA90": "10.00",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Hellas Verona",
+    "player_name": "Yllan Okou",
     "SCA": "0",
     "SCA90": "0.00",
     "GCA": "0",
@@ -4185,334 +4545,10 @@
     "passlive": "0"
   },
   {
-    "team_name": "Hellas Verona",
-    "player_name": "Lorenzo Montipò",
-    "SCA": "5",
-    "SCA90": "0.14",
-    "GCA": "0",
-    "GCA90": "0.00",
-    "passlive": "0"
-  },
-  {
-    "team_name": "Hellas Verona",
-    "player_name": "Jackson Tchatchoua",
-    "SCA": "59",
-    "SCA90": "1.73",
-    "GCA": "2",
-    "GCA90": "0.06",
-    "passlive": "2"
-  },
-  {
-    "team_name": "Hellas Verona",
-    "player_name": "Diego Coppola",
-    "SCA": "10",
-    "SCA90": "0.32",
-    "GCA": "1",
-    "GCA90": "0.03",
-    "passlive": "1"
-  },
-  {
-    "team_name": "Hellas Verona",
-    "player_name": "Ondrej Duda",
-    "SCA": "71",
-    "SCA90": "2.77",
-    "GCA": "6",
-    "GCA90": "0.23",
-    "passlive": "4"
-  },
-  {
-    "team_name": "Hellas Verona",
-    "player_name": "Tomáš Suslov",
-    "SCA": "74",
-    "SCA90": "3.30",
-    "GCA": "4",
-    "GCA90": "0.18",
-    "passlive": "1"
-  },
-  {
-    "team_name": "Hellas Verona",
-    "player_name": "Amin Sarr",
-    "SCA": "44",
-    "SCA90": "2.15",
-    "GCA": "3",
-    "GCA90": "0.15",
-    "passlive": "1"
-  },
-  {
-    "team_name": "Hellas Verona",
-    "player_name": "Domagoj Bradarić",
-    "SCA": "45",
-    "SCA90": "2.19",
-    "GCA": "1",
-    "GCA90": "0.05",
-    "passlive": "1"
-  },
-  {
-    "team_name": "Hellas Verona",
-    "player_name": "Paweł Dawidowicz",
-    "SCA": "8",
-    "SCA90": "0.41",
-    "GCA": "1",
-    "GCA90": "0.05",
-    "passlive": "1"
-  },
-  {
-    "team_name": "Hellas Verona",
-    "player_name": "Daniele Ghilardi",
-    "SCA": "16",
-    "SCA90": "0.74",
-    "GCA": "1",
-    "GCA90": "0.05",
-    "passlive": "1"
-  },
-  {
-    "team_name": "Hellas Verona",
-    "player_name": "Casper Tengstedt",
-    "SCA": "24",
-    "SCA90": "1.42",
-    "GCA": "3",
-    "GCA90": "0.18",
-    "passlive": "2"
-  },
-  {
-    "team_name": "Hellas Verona",
-    "player_name": "",
-    "SCA": "",
-    "SCA90": "",
-    "GCA": "",
-    "GCA90": "",
-    "passlive": ""
-  },
-  {
-    "team_name": "Hellas Verona",
-    "player_name": "Player",
-    "SCA": "",
-    "SCA90": "",
-    "GCA": "",
-    "GCA90": "",
-    "passlive": ""
-  },
-  {
-    "team_name": "Hellas Verona",
-    "player_name": "Reda Belahyane",
-    "SCA": "41",
-    "SCA90": "2.23",
-    "GCA": "3",
-    "GCA90": "0.16",
-    "passlive": "2"
-  },
-  {
-    "team_name": "Hellas Verona",
-    "player_name": "Darko Lazović",
-    "SCA": "23",
-    "SCA90": "1.42",
-    "GCA": "4",
-    "GCA90": "0.25",
-    "passlive": "1"
-  },
-  {
-    "team_name": "Hellas Verona",
-    "player_name": "Suat Serdar",
-    "SCA": "28",
-    "SCA90": "1.95",
-    "GCA": "1",
-    "GCA90": "0.07",
-    "passlive": "1"
-  },
-  {
-    "team_name": "Hellas Verona",
-    "player_name": "Daniel Mosquera",
-    "SCA": "42",
-    "SCA90": "2.82",
-    "GCA": "3",
-    "GCA90": "0.20",
-    "passlive": "2"
-  },
-  {
-    "team_name": "Hellas Verona",
-    "player_name": "Nicolás Valentini",
-    "SCA": "11",
-    "SCA90": "0.95",
-    "GCA": "0",
-    "GCA90": "0.00",
-    "passlive": "0"
-  },
-  {
-    "team_name": "Hellas Verona",
-    "player_name": "Giangiacomo Magnani",
-    "SCA": "4",
-    "SCA90": "0.34",
-    "GCA": "0",
-    "GCA90": "0.00",
-    "passlive": "0"
-  },
-  {
-    "team_name": "Hellas Verona",
-    "player_name": "Flavius Daniliuc",
-    "SCA": "11",
-    "SCA90": "0.98",
-    "GCA": "0",
-    "GCA90": "0.00",
-    "passlive": "0"
-  },
-  {
-    "team_name": "Hellas Verona",
-    "player_name": "Dailon Livramento",
-    "SCA": "18",
-    "SCA90": "1.78",
-    "GCA": "3",
-    "GCA90": "0.30",
-    "passlive": "1"
-  },
-  {
-    "team_name": "Hellas Verona",
-    "player_name": "Grigoris Kastanos",
-    "SCA": "24",
-    "SCA90": "2.47",
-    "GCA": "2",
-    "GCA90": "0.21",
-    "passlive": "1"
-  },
-  {
-    "team_name": "Hellas Verona",
-    "player_name": "Cheikh Tidiane Niasse",
-    "SCA": "12",
-    "SCA90": "1.43",
-    "GCA": "0",
-    "GCA90": "0.00",
-    "passlive": "0"
-  },
-  {
-    "team_name": "Hellas Verona",
-    "player_name": "",
-    "SCA": "",
-    "SCA90": "",
-    "GCA": "",
-    "GCA90": "",
-    "passlive": ""
-  },
-  {
-    "team_name": "Hellas Verona",
-    "player_name": "Player",
-    "SCA": "",
-    "SCA90": "",
-    "GCA": "",
-    "GCA90": "",
-    "passlive": ""
-  },
-  {
-    "team_name": "Hellas Verona",
-    "player_name": "Antoine Bernede",
-    "SCA": "22",
-    "SCA90": "3.39",
-    "GCA": "1",
-    "GCA90": "0.15",
-    "passlive": "0"
-  },
-  {
-    "team_name": "Hellas Verona",
-    "player_name": "Martin Frese",
-    "SCA": "10",
-    "SCA90": "1.66",
-    "GCA": "1",
-    "GCA90": "0.17",
-    "passlive": "0"
-  },
-  {
-    "team_name": "Hellas Verona",
-    "player_name": "Abdou Harroui",
-    "SCA": "15",
-    "SCA90": "2.92",
-    "GCA": "3",
-    "GCA90": "0.58",
-    "passlive": "3"
-  },
-  {
-    "team_name": "Hellas Verona",
-    "player_name": "Daniel Bandeira",
-    "SCA": "6",
-    "SCA90": "1.33",
-    "GCA": "0",
-    "GCA90": "0.00",
-    "passlive": "0"
-  },
-  {
-    "team_name": "Hellas Verona",
-    "player_name": "Davide Faraoni",
-    "SCA": "3",
-    "SCA90": "1.04",
-    "GCA": "0",
-    "GCA90": "0.00",
-    "passlive": "0"
-  },
-  {
-    "team_name": "Hellas Verona",
-    "player_name": "Simone Perilli",
-    "SCA": "0",
-    "SCA90": "0.00",
-    "GCA": "0",
-    "GCA90": "0.00",
-    "passlive": "0"
-  },
-  {
-    "team_name": "Hellas Verona",
-    "player_name": "Daniel Oyegoke",
-    "SCA": "0",
-    "SCA90": "0.00",
-    "GCA": "0",
-    "GCA90": "0.00",
-    "passlive": "0"
-  },
-  {
-    "team_name": "Hellas Verona",
-    "player_name": "Mathis Lambourde",
-    "SCA": "2",
-    "SCA90": "2.00",
-    "GCA": "1",
-    "GCA90": "1.00",
-    "passlive": "0"
-  },
-  {
-    "team_name": "Hellas Verona",
-    "player_name": "Faride Alidou",
-    "SCA": "2",
-    "SCA90": "2.54",
-    "GCA": "0",
-    "GCA90": "0.00",
-    "passlive": "0"
-  },
-  {
-    "team_name": "Hellas Verona",
-    "player_name": "Junior Ajayi",
-    "SCA": "0",
-    "SCA90": "0.00",
-    "GCA": "0",
-    "GCA90": "0.00",
-    "passlive": "0"
-  },
-  {
-    "team_name": "Hellas Verona",
-    "player_name": "Alphadjo Cissè",
-    "SCA": "1",
-    "SCA90": "10.00",
-    "GCA": "0",
-    "GCA90": "0.00",
-    "passlive": "0"
-  },
-  {
-    "team_name": "Hellas Verona",
-    "player_name": "Yllan Okou",
-    "SCA": "0",
-    "SCA90": "0.00",
-    "GCA": "0",
-    "GCA90": "0.00",
-    "passlive": "0"
-  },
-  {
     "team_name": "Parma",
     "player_name": "Zion Suzuki",
     "SCA": "9",
-    "SCA90": "0.25",
+    "SCA90": "0.24",
     "GCA": "1",
     "GCA90": "0.03",
     "passlive": "1"
@@ -4520,7 +4556,7 @@
   {
     "team_name": "Parma",
     "player_name": "Simon Sohm",
-    "SCA": "76",
+    "SCA": "78",
     "SCA90": "2.35",
     "GCA": "3",
     "GCA90": "0.09",
@@ -4529,17 +4565,17 @@
   {
     "team_name": "Parma",
     "player_name": "Emanuele Valeri",
-    "SCA": "74",
-    "SCA90": "2.36",
+    "SCA": "75",
+    "SCA90": "2.35",
     "GCA": "10",
-    "GCA90": "0.32",
+    "GCA90": "0.31",
     "passlive": "8"
   },
   {
     "team_name": "Parma",
     "player_name": "Enrico Del Prato",
-    "SCA": "30",
-    "SCA90": "0.95",
+    "SCA": "32",
+    "SCA90": "0.98",
     "GCA": "1",
     "GCA90": "0.03",
     "passlive": "0"
@@ -4547,20 +4583,11 @@
   {
     "team_name": "Parma",
     "player_name": "Ange-Yoan Bonny",
-    "SCA": "61",
-    "SCA90": "2.25",
-    "GCA": "7",
-    "GCA90": "0.26",
-    "passlive": "3"
-  },
-  {
-    "team_name": "Parma",
-    "player_name": "Dennis Man",
-    "SCA": "80",
-    "SCA90": "3.61",
-    "GCA": "7",
-    "GCA90": "0.32",
-    "passlive": "5"
+    "SCA": "67",
+    "SCA90": "2.39",
+    "GCA": "8",
+    "GCA90": "0.28",
+    "passlive": "4"
   },
   {
     "team_name": "Parma",
@@ -4575,10 +4602,19 @@
     "team_name": "Parma",
     "player_name": "Botond Balogh",
     "SCA": "8",
-    "SCA90": "0.37",
+    "SCA90": "0.35",
     "GCA": "2",
     "GCA90": "0.09",
     "passlive": "2"
+  },
+  {
+    "team_name": "Parma",
+    "player_name": "Dennis Man",
+    "SCA": "80",
+    "SCA90": "3.61",
+    "GCA": "7",
+    "GCA90": "0.32",
+    "passlive": "5"
   },
   {
     "team_name": "Parma",
@@ -4591,12 +4627,12 @@
   },
   {
     "team_name": "Parma",
-    "player_name": "Adrian Bernabe",
-    "SCA": "53",
-    "SCA90": "3.48",
-    "GCA": "3",
-    "GCA90": "0.20",
-    "passlive": "3"
+    "player_name": "Lautaro Valenti",
+    "SCA": "11",
+    "SCA90": "0.64",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
   },
   {
     "team_name": "Parma",
@@ -4618,12 +4654,12 @@
   },
   {
     "team_name": "Parma",
-    "player_name": "Lautaro Valenti",
-    "SCA": "11",
-    "SCA90": "0.68",
-    "GCA": "0",
-    "GCA90": "0.00",
-    "passlive": "0"
+    "player_name": "Adrian Bernabe",
+    "SCA": "58",
+    "SCA90": "3.59",
+    "GCA": "4",
+    "GCA90": "0.25",
+    "passlive": "4"
   },
   {
     "team_name": "Parma",
@@ -4637,10 +4673,10 @@
   {
     "team_name": "Parma",
     "player_name": "Hernani",
-    "SCA": "41",
-    "SCA90": "2.88",
+    "SCA": "43",
+    "SCA90": "2.92",
     "GCA": "5",
-    "GCA90": "0.35",
+    "GCA90": "0.34",
     "passlive": "2"
   },
   {
@@ -4664,10 +4700,10 @@
   {
     "team_name": "Parma",
     "player_name": "Antoine Hainaut",
-    "SCA": "17",
-    "SCA90": "1.32",
+    "SCA": "19",
+    "SCA90": "1.42",
     "GCA": "2",
-    "GCA90": "0.16",
+    "GCA90": "0.15",
     "passlive": "2"
   },
   {
@@ -4691,19 +4727,19 @@
   {
     "team_name": "Parma",
     "player_name": "Mateo Pellegrino",
-    "SCA": "12",
-    "SCA90": "1.67",
-    "GCA": "2",
-    "GCA90": "0.28",
-    "passlive": "2"
+    "SCA": "20",
+    "SCA90": "2.44",
+    "GCA": "3",
+    "GCA90": "0.37",
+    "passlive": "3"
   },
   {
     "team_name": "Parma",
     "player_name": "Nahuel Estévez",
-    "SCA": "12",
-    "SCA90": "1.68",
-    "GCA": "0",
-    "GCA90": "0.00",
+    "SCA": "13",
+    "SCA90": "1.78",
+    "GCA": "1",
+    "GCA90": "0.14",
     "passlive": "0"
   },
   {
@@ -4727,8 +4763,8 @@
   {
     "team_name": "Parma",
     "player_name": "Alessandro Circati",
-    "SCA": "2",
-    "SCA90": "0.40",
+    "SCA": "3",
+    "SCA90": "0.50",
     "GCA": "0",
     "GCA90": "0.00",
     "passlive": "0"
@@ -4745,10 +4781,10 @@
   {
     "team_name": "Parma",
     "player_name": "Jacob Ondrejka",
-    "SCA": "13",
-    "SCA90": "3.10",
+    "SCA": "14",
+    "SCA90": "2.99",
     "GCA": "1",
-    "GCA90": "0.24",
+    "GCA90": "0.21",
     "passlive": "0"
   },
   {
@@ -4836,7 +4872,7 @@
     "team_name": "Lecce",
     "player_name": "Federico Baschirotto",
     "SCA": "17",
-    "SCA90": "0.46",
+    "SCA90": "0.45",
     "GCA": "1",
     "GCA90": "0.03",
     "passlive": "0"
@@ -4845,7 +4881,7 @@
     "team_name": "Lecce",
     "player_name": "Wladimiro Falcone",
     "SCA": "11",
-    "SCA90": "0.30",
+    "SCA90": "0.29",
     "GCA": "1",
     "GCA90": "0.03",
     "passlive": "1"
@@ -4853,35 +4889,35 @@
   {
     "team_name": "Lecce",
     "player_name": "Nikola Krstović",
-    "SCA": "85",
-    "SCA90": "2.58",
-    "GCA": "6",
-    "GCA90": "0.18",
-    "passlive": "5"
+    "SCA": "87",
+    "SCA90": "2.56",
+    "GCA": "7",
+    "GCA90": "0.21",
+    "passlive": "6"
   },
   {
     "team_name": "Lecce",
     "player_name": "Antonino Gallo",
-    "SCA": "71",
-    "SCA90": "2.54",
+    "SCA": "72",
+    "SCA90": "2.48",
     "GCA": "3",
-    "GCA90": "0.11",
+    "GCA90": "0.10",
     "passlive": "3"
   },
   {
     "team_name": "Lecce",
     "player_name": "Frederic Guilbert",
-    "SCA": "44",
-    "SCA90": "1.69",
+    "SCA": "45",
+    "SCA90": "1.66",
     "GCA": "2",
-    "GCA90": "0.08",
+    "GCA90": "0.07",
     "passlive": "2"
   },
   {
     "team_name": "Lecce",
     "player_name": "Lassana Coulibaly",
-    "SCA": "43",
-    "SCA90": "1.50",
+    "SCA": "46",
+    "SCA90": "1.55",
     "GCA": "2",
     "GCA90": "0.07",
     "passlive": "1"
@@ -4890,7 +4926,7 @@
     "team_name": "Lecce",
     "player_name": "Kialonda",
     "SCA": "15",
-    "SCA90": "0.66",
+    "SCA90": "0.63",
     "GCA": "1",
     "GCA90": "0.04",
     "passlive": "1"
@@ -4907,8 +4943,8 @@
   {
     "team_name": "Lecce",
     "player_name": "Santiago Pierotti",
-    "SCA": "49",
-    "SCA90": "2.33",
+    "SCA": "50",
+    "SCA90": "2.32",
     "GCA": "2",
     "GCA90": "0.09",
     "passlive": "2"
@@ -4942,21 +4978,21 @@
   },
   {
     "team_name": "Lecce",
+    "player_name": "Ylber Ramadani",
+    "SCA": "35",
+    "SCA90": "1.74",
+    "GCA": "4",
+    "GCA90": "0.20",
+    "passlive": "4"
+  },
+  {
+    "team_name": "Lecce",
     "player_name": "Balthazar Pierret",
     "SCA": "39",
     "SCA90": "2.04",
     "GCA": "0",
     "GCA90": "0.00",
     "passlive": "0"
-  },
-  {
-    "team_name": "Lecce",
-    "player_name": "Ylber Ramadani",
-    "SCA": "35",
-    "SCA90": "1.82",
-    "GCA": "4",
-    "GCA90": "0.21",
-    "passlive": "4"
   },
   {
     "team_name": "Lecce",
@@ -4979,10 +5015,10 @@
   {
     "team_name": "Lecce",
     "player_name": "Þórir Jóhann Helgason",
-    "SCA": "38",
+    "SCA": "39",
     "SCA90": "3.04",
     "GCA": "7",
-    "GCA90": "0.56",
+    "GCA90": "0.55",
     "passlive": "5"
   },
   {
@@ -4997,10 +5033,10 @@
   {
     "team_name": "Lecce",
     "player_name": "Medon Berisha",
-    "SCA": "27",
-    "SCA90": "3.69",
+    "SCA": "29",
+    "SCA90": "3.64",
     "GCA": "2",
-    "GCA90": "0.27",
+    "GCA90": "0.25",
     "passlive": "2"
   },
   {
@@ -5015,8 +5051,8 @@
   {
     "team_name": "Lecce",
     "player_name": "Jesper Karlsson",
-    "SCA": "14",
-    "SCA90": "2.88",
+    "SCA": "18",
+    "SCA90": "3.26",
     "GCA": "0",
     "GCA90": "0.00",
     "passlive": "0"
@@ -5052,7 +5088,7 @@
     "team_name": "Lecce",
     "player_name": "Mohamed Kaba",
     "SCA": "10",
-    "SCA90": "2.14",
+    "SCA90": "1.99",
     "GCA": "0",
     "GCA90": "0.00",
     "passlive": "0"
@@ -5061,9 +5097,9 @@
     "team_name": "Lecce",
     "player_name": "Danilo Veiga",
     "SCA": "14",
-    "SCA90": "3.55",
+    "SCA90": "3.38",
     "GCA": "1",
-    "GCA90": "0.25",
+    "GCA90": "0.24",
     "passlive": "0"
   },
   {
@@ -5150,7 +5186,7 @@
   {
     "team_name": "Empoli",
     "player_name": "Emmanuel Gyasi",
-    "SCA": "39",
+    "SCA": "40",
     "SCA90": "1.12",
     "GCA": "5",
     "GCA90": "0.14",
@@ -5159,8 +5195,8 @@
   {
     "team_name": "Empoli",
     "player_name": "Giuseppe Pezzella",
-    "SCA": "56",
-    "SCA90": "1.81",
+    "SCA": "59",
+    "SCA90": "1.85",
     "GCA": "5",
     "GCA90": "0.16",
     "passlive": "5"
@@ -5168,8 +5204,8 @@
   {
     "team_name": "Empoli",
     "player_name": "Devis Vásquez",
-    "SCA": "5",
-    "SCA90": "0.16",
+    "SCA": "6",
+    "SCA90": "0.19",
     "GCA": "0",
     "GCA90": "0.00",
     "passlive": "0"
@@ -5177,8 +5213,8 @@
   {
     "team_name": "Empoli",
     "player_name": "Mattia Viti",
-    "SCA": "21",
-    "SCA90": "0.76",
+    "SCA": "23",
+    "SCA90": "0.80",
     "GCA": "0",
     "GCA90": "0.00",
     "passlive": "0"
@@ -5187,7 +5223,7 @@
     "team_name": "Empoli",
     "player_name": "Saba Goglichidze",
     "SCA": "12",
-    "SCA90": "0.44",
+    "SCA90": "0.43",
     "GCA": "2",
     "GCA90": "0.07",
     "passlive": "2"
@@ -5195,8 +5231,8 @@
   {
     "team_name": "Empoli",
     "player_name": "Ardian Ismajli",
-    "SCA": "7",
-    "SCA90": "0.26",
+    "SCA": "8",
+    "SCA90": "0.29",
     "GCA": "1",
     "GCA90": "0.04",
     "passlive": "1"
@@ -5204,37 +5240,37 @@
   {
     "team_name": "Empoli",
     "player_name": "Liam Henderson",
-    "SCA": "57",
-    "SCA90": "2.25",
+    "SCA": "59",
+    "SCA90": "2.27",
     "GCA": "5",
-    "GCA90": "0.20",
+    "GCA90": "0.19",
     "passlive": "4"
   },
   {
     "team_name": "Empoli",
     "player_name": "Sebastiano Esposito",
-    "SCA": "76",
-    "SCA90": "3.04",
-    "GCA": "5",
-    "GCA90": "0.20",
+    "SCA": "78",
+    "SCA90": "3.01",
+    "GCA": "6",
+    "GCA90": "0.23",
     "passlive": "0"
   },
   {
     "team_name": "Empoli",
-    "player_name": "Lorenzo Colombo",
-    "SCA": "54",
-    "SCA90": "2.21",
-    "GCA": "3",
-    "GCA90": "0.12",
+    "player_name": "Alberto Grassi",
+    "SCA": "27",
+    "SCA90": "1.10",
+    "GCA": "2",
+    "GCA90": "0.08",
     "passlive": "1"
   },
   {
     "team_name": "Empoli",
-    "player_name": "Alberto Grassi",
-    "SCA": "23",
-    "SCA90": "0.97",
-    "GCA": "2",
-    "GCA90": "0.08",
+    "player_name": "Lorenzo Colombo",
+    "SCA": "55",
+    "SCA90": "2.21",
+    "GCA": "3",
+    "GCA90": "0.12",
     "passlive": "1"
   },
   {
@@ -5258,10 +5294,10 @@
   {
     "team_name": "Empoli",
     "player_name": "Liberato Cacace",
-    "SCA": "53",
-    "SCA90": "2.20",
+    "SCA": "54",
+    "SCA90": "2.18",
     "GCA": "4",
-    "GCA90": "0.17",
+    "GCA90": "0.16",
     "passlive": "2"
   },
   {
@@ -5276,19 +5312,19 @@
   {
     "team_name": "Empoli",
     "player_name": "Jacopo Fazzini",
-    "SCA": "44",
-    "SCA90": "3.06",
+    "SCA": "49",
+    "SCA90": "3.19",
     "GCA": "7",
-    "GCA90": "0.49",
+    "GCA90": "0.46",
     "passlive": "7"
   },
   {
     "team_name": "Empoli",
     "player_name": "Faustino Anjorin",
     "SCA": "32",
-    "SCA90": "2.66",
+    "SCA90": "2.59",
     "GCA": "5",
-    "GCA90": "0.42",
+    "GCA90": "0.40",
     "passlive": "4"
   },
   {
@@ -5304,7 +5340,7 @@
     "team_name": "Empoli",
     "player_name": "Ola Solbakken",
     "SCA": "12",
-    "SCA90": "1.45",
+    "SCA90": "1.42",
     "GCA": "1",
     "GCA90": "0.12",
     "passlive": "1"
@@ -5367,7 +5403,7 @@
     "team_name": "Empoli",
     "player_name": "Junior Sambia",
     "SCA": "11",
-    "SCA90": "2.62",
+    "SCA90": "2.56",
     "GCA": "0",
     "GCA90": "0.00",
     "passlive": "0"
@@ -5412,9 +5448,9 @@
     "team_name": "Empoli",
     "player_name": "Ismael Konate",
     "SCA": "3",
-    "SCA90": "2.50",
+    "SCA90": "2.31",
     "GCA": "1",
-    "GCA90": "0.83",
+    "GCA90": "0.77",
     "passlive": "1"
   },
   {
@@ -5501,17 +5537,26 @@
   {
     "team_name": "Venezia",
     "player_name": "Hans Nicolussi Caviglia",
-    "SCA": "62",
-    "SCA90": "2.01",
-    "GCA": "3",
-    "GCA90": "0.10",
-    "passlive": "0"
+    "SCA": "66",
+    "SCA90": "2.08",
+    "GCA": "4",
+    "GCA90": "0.13",
+    "passlive": "1"
+  },
+  {
+    "team_name": "Venezia",
+    "player_name": "Mikael Ellertsson",
+    "SCA": "46",
+    "SCA90": "1.68",
+    "GCA": "5",
+    "GCA90": "0.18",
+    "passlive": "4"
   },
   {
     "team_name": "Venezia",
     "player_name": "Gaetano Oristanio",
-    "SCA": "68",
-    "SCA90": "2.66",
+    "SCA": "69",
+    "SCA90": "2.68",
     "GCA": "7",
     "GCA90": "0.27",
     "passlive": "4"
@@ -5524,15 +5569,6 @@
     "GCA": "2",
     "GCA90": "0.07",
     "passlive": "1"
-  },
-  {
-    "team_name": "Venezia",
-    "player_name": "Mikael Ellertsson",
-    "SCA": "45",
-    "SCA90": "1.70",
-    "GCA": "5",
-    "GCA90": "0.19",
-    "passlive": "4"
   },
   {
     "team_name": "Venezia",
@@ -5555,19 +5591,19 @@
   {
     "team_name": "Venezia",
     "player_name": "Fali Candé",
-    "SCA": "13",
-    "SCA90": "0.81",
+    "SCA": "14",
+    "SCA90": "0.82",
     "GCA": "3",
-    "GCA90": "0.19",
+    "GCA90": "0.18",
     "passlive": "2"
   },
   {
     "team_name": "Venezia",
     "player_name": "Alessio Zerbin",
-    "SCA": "41",
-    "SCA90": "2.58",
+    "SCA": "42",
+    "SCA90": "2.49",
     "GCA": "2",
-    "GCA90": "0.13",
+    "GCA90": "0.12",
     "passlive": "1"
   },
   {
@@ -5599,6 +5635,15 @@
   },
   {
     "team_name": "Venezia",
+    "player_name": "Ionuț Radu",
+    "SCA": "7",
+    "SCA90": "0.47",
+    "GCA": "1",
+    "GCA90": "0.07",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Venezia",
     "player_name": "Michael Svoboda",
     "SCA": "16",
     "SCA90": "1.10",
@@ -5608,30 +5653,39 @@
   },
   {
     "team_name": "Venezia",
-    "player_name": "Ionuț Radu",
-    "SCA": "4",
-    "SCA90": "0.29",
-    "GCA": "0",
-    "GCA90": "0.00",
-    "passlive": "0"
-  },
-  {
-    "team_name": "Venezia",
     "player_name": "Ridgeciano Haps",
-    "SCA": "18",
-    "SCA90": "1.24",
-    "GCA": "0",
-    "GCA90": "0.00",
-    "passlive": "0"
+    "SCA": "20",
+    "SCA90": "1.31",
+    "GCA": "2",
+    "GCA90": "0.13",
+    "passlive": "2"
   },
   {
     "team_name": "Venezia",
     "player_name": "Kike Pérez",
-    "SCA": "30",
-    "SCA90": "2.47",
+    "SCA": "31",
+    "SCA90": "2.50",
     "GCA": "2",
     "GCA90": "0.16",
     "passlive": "1"
+  },
+  {
+    "team_name": "Venezia",
+    "player_name": "Joël Schingtienne",
+    "SCA": "10",
+    "SCA90": "0.80",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Venezia",
+    "player_name": "Marin Šverko",
+    "SCA": "13",
+    "SCA90": "1.05",
+    "GCA": "1",
+    "GCA90": "0.08",
+    "passlive": "0"
   },
   {
     "team_name": "Venezia",
@@ -5653,38 +5707,20 @@
   },
   {
     "team_name": "Venezia",
-    "player_name": "Marin Šverko",
-    "SCA": "13",
-    "SCA90": "1.12",
-    "GCA": "1",
-    "GCA90": "0.09",
-    "passlive": "0"
-  },
-  {
-    "team_name": "Venezia",
-    "player_name": "Joël Schingtienne",
-    "SCA": "10",
-    "SCA90": "0.87",
-    "GCA": "0",
-    "GCA90": "0.00",
-    "passlive": "0"
-  },
-  {
-    "team_name": "Venezia",
     "player_name": "John Yeboah",
-    "SCA": "48",
-    "SCA90": "3.80",
+    "SCA": "53",
+    "SCA90": "3.89",
     "GCA": "3",
-    "GCA90": "0.24",
+    "GCA90": "0.22",
     "passlive": "2"
   },
   {
     "team_name": "Venezia",
     "player_name": "Issa Doumbia",
-    "SCA": "16",
-    "SCA90": "1.67",
+    "SCA": "17",
+    "SCA90": "1.63",
     "GCA": "2",
-    "GCA90": "0.21",
+    "GCA90": "0.19",
     "passlive": "2"
   },
   {
@@ -5735,17 +5771,17 @@
   {
     "team_name": "Venezia",
     "player_name": "Christian Gytkjær",
-    "SCA": "13",
-    "SCA90": "1.60",
+    "SCA": "14",
+    "SCA90": "1.67",
     "GCA": "2",
-    "GCA90": "0.25",
+    "GCA90": "0.24",
     "passlive": "0"
   },
   {
     "team_name": "Venezia",
     "player_name": "Daniel Fila",
     "SCA": "15",
-    "SCA90": "3.18",
+    "SCA90": "2.74",
     "GCA": "0",
     "GCA90": "0.00",
     "passlive": "0"
@@ -5754,7 +5790,7 @@
     "team_name": "Venezia",
     "player_name": "Alessandro Marcandalli",
     "SCA": "1",
-    "SCA90": "0.26",
+    "SCA90": "0.25",
     "GCA": "0",
     "GCA90": "0.00",
     "passlive": "0"
@@ -5762,8 +5798,8 @@
   {
     "team_name": "Venezia",
     "player_name": "Mirko Marić",
-    "SCA": "8",
-    "SCA90": "2.05",
+    "SCA": "9",
+    "SCA90": "2.27",
     "GCA": "0",
     "GCA90": "0.00",
     "passlive": "0"
@@ -5871,18 +5907,18 @@
     "team_name": "Monza",
     "player_name": "Giorgos Kyriakopoulos",
     "SCA": "70",
-    "SCA90": "2.29",
+    "SCA90": "2.21",
     "GCA": "6",
-    "GCA90": "0.20",
+    "GCA90": "0.19",
     "passlive": "4"
   },
   {
     "team_name": "Monza",
     "player_name": "Pedro Pereira",
     "SCA": "35",
-    "SCA90": "1.22",
+    "SCA90": "1.18",
     "GCA": "4",
-    "GCA90": "0.14",
+    "GCA90": "0.13",
     "passlive": "4"
   },
   {
@@ -5897,8 +5933,8 @@
   {
     "team_name": "Monza",
     "player_name": "Alessandro Bianco",
-    "SCA": "36",
-    "SCA90": "1.29",
+    "SCA": "38",
+    "SCA90": "1.32",
     "GCA": "0",
     "GCA90": "0.00",
     "passlive": "0"
@@ -5914,21 +5950,21 @@
   },
   {
     "team_name": "Monza",
+    "player_name": "Andrea Carboni",
+    "SCA": "11",
+    "SCA90": "0.45",
+    "GCA": "2",
+    "GCA90": "0.08",
+    "passlive": "2"
+  },
+  {
+    "team_name": "Monza",
     "player_name": "Dany Mota",
     "SCA": "55",
     "SCA90": "2.35",
     "GCA": "3",
     "GCA90": "0.13",
     "passlive": "3"
-  },
-  {
-    "team_name": "Monza",
-    "player_name": "Andrea Carboni",
-    "SCA": "11",
-    "SCA90": "0.47",
-    "GCA": "2",
-    "GCA90": "0.09",
-    "passlive": "2"
   },
   {
     "team_name": "Monza",
@@ -5951,10 +5987,10 @@
   {
     "team_name": "Monza",
     "player_name": "Gianluca Caprari",
-    "SCA": "60",
-    "SCA90": "3.41",
+    "SCA": "63",
+    "SCA90": "3.43",
     "GCA": "5",
-    "GCA90": "0.28",
+    "GCA90": "0.27",
     "passlive": "5"
   },
   {
@@ -5978,10 +6014,10 @@
   {
     "team_name": "Monza",
     "player_name": "Samuele Birindelli",
-    "SCA": "34",
-    "SCA90": "2.22",
+    "SCA": "35",
+    "SCA90": "2.15",
     "GCA": "2",
-    "GCA90": "0.13",
+    "GCA90": "0.12",
     "passlive": "1"
   },
   {
@@ -6004,6 +6040,15 @@
   },
   {
     "team_name": "Monza",
+    "player_name": "Patrick Ciurria",
+    "SCA": "26",
+    "SCA90": "2.11",
+    "GCA": "2",
+    "GCA90": "0.16",
+    "passlive": "1"
+  },
+  {
+    "team_name": "Monza",
     "player_name": "Danilo D'Ambrosio",
     "SCA": "8",
     "SCA90": "0.66",
@@ -6013,20 +6058,20 @@
   },
   {
     "team_name": "Monza",
-    "player_name": "Patrick Ciurria",
-    "SCA": "24",
-    "SCA90": "2.07",
-    "GCA": "2",
-    "GCA90": "0.17",
-    "passlive": "1"
+    "player_name": "Jean-Daniel Akpa-Akpro",
+    "SCA": "12",
+    "SCA90": "1.12",
+    "GCA": "1",
+    "GCA90": "0.09",
+    "passlive": "0"
   },
   {
     "team_name": "Monza",
-    "player_name": "Jean-Daniel Akpa-Akpro",
-    "SCA": "12",
-    "SCA90": "1.23",
-    "GCA": "1",
-    "GCA90": "0.10",
+    "player_name": "Luca Caldirola",
+    "SCA": "5",
+    "SCA90": "0.51",
+    "GCA": "0",
+    "GCA90": "0.00",
     "passlive": "0"
   },
   {
@@ -6040,15 +6085,6 @@
   },
   {
     "team_name": "Monza",
-    "player_name": "Luca Caldirola",
-    "SCA": "4",
-    "SCA90": "0.45",
-    "GCA": "0",
-    "GCA90": "0.00",
-    "passlive": "0"
-  },
-  {
-    "team_name": "Monza",
     "player_name": "Semuel Pizzignacco",
     "SCA": "0",
     "SCA90": "0.00",
@@ -6058,11 +6094,11 @@
   },
   {
     "team_name": "Monza",
-    "player_name": "Gaetano Castrovilli",
-    "SCA": "15",
-    "SCA90": "2.35",
-    "GCA": "2",
-    "GCA90": "0.31",
+    "player_name": "Keita Baldé",
+    "SCA": "21",
+    "SCA90": "2.97",
+    "GCA": "0",
+    "GCA90": "0.00",
     "passlive": "0"
   },
   {
@@ -6085,11 +6121,11 @@
   },
   {
     "team_name": "Monza",
-    "player_name": "Keita Baldé",
-    "SCA": "21",
-    "SCA90": "3.38",
-    "GCA": "0",
-    "GCA90": "0.00",
+    "player_name": "Gaetano Castrovilli",
+    "SCA": "15",
+    "SCA90": "2.27",
+    "GCA": "2",
+    "GCA90": "0.30",
     "passlive": "0"
   },
   {
@@ -6159,7 +6195,7 @@
     "team_name": "Monza",
     "player_name": "Andrea Petagna",
     "SCA": "2",
-    "SCA90": "0.56",
+    "SCA90": "0.54",
     "GCA": "0",
     "GCA90": "0.00",
     "passlive": "0"
@@ -6167,11 +6203,29 @@
   {
     "team_name": "Monza",
     "player_name": "Stefano Sensi",
-    "SCA": "13",
-    "SCA90": "4.59",
+    "SCA": "15",
+    "SCA90": "4.89",
     "GCA": "0",
     "GCA90": "0.00",
     "passlive": "0"
+  },
+  {
+    "team_name": "Monza",
+    "player_name": "",
+    "SCA": "",
+    "SCA90": "",
+    "GCA": "",
+    "GCA90": "",
+    "passlive": ""
+  },
+  {
+    "team_name": "Monza",
+    "player_name": "Player",
+    "SCA": "",
+    "SCA90": "",
+    "GCA": "",
+    "GCA90": "",
+    "passlive": ""
   },
   {
     "team_name": "Monza",
@@ -6212,6 +6266,15 @@
   {
     "team_name": "Monza",
     "player_name": "Mattia Valoti",
+    "SCA": "0",
+    "SCA90": "0.00",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Monza",
+    "player_name": "Andrea Mazza",
     "SCA": "0",
     "SCA90": "0.00",
     "GCA": "0",

@@ -25,12 +25,12 @@ def team_read_from_json():
 }
 
     for league_code, shared in shared_map.items():
-        df = spark.read.json(shared)
+        df = spark.read.option("multiline","true").json(shared)
         df.printSchema()
         for key, path in path_map.items():
                 if key == league_code:
+                    today = date.today()
                     if not checking_duplicated(spark, "trusted", df, path, ["point"]):
-                        today = date.today()
                         print("Starting loading to Raw Zone task")
                         df = df.withColumn("year", lit(today.year)) \
                         .withColumn("month", lit(today.month)) \
@@ -61,13 +61,13 @@ def player_read_from_json():
 
     for league_code, shared in shared_map.items():
         for attribute in attribute_map:
-            df = spark.read.json(f"{shared}/{attribute}/player_stat.json")
+            df = spark.read.option("multiline","true").json(f"{shared}/{attribute}/player_stat.json")
             df.printSchema()
             for key, path in path_map.items():
                 if key == league_code:
+                    today = date.today()
                     complete_path = f"{path}/{attribute}"
                     if not checking_duplicated(spark, "trusted", df, complete_path, ["SCA", "GCA"]):
-                        today = date.today()
                         print("Starting loading to Raw Zone task")
                         df = df.withColumn("year", lit(today.year)) \
                         .withColumn("month", lit(today.month)) \

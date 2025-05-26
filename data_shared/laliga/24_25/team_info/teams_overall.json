@@ -8,7 +8,7 @@
   {
     "team_name": "Real Madrid",
     "rank": "2",
-    "point": "81",
+    "point": "84",
     "manager": "Carlo Ancelotti"
   },
   {
@@ -38,25 +38,25 @@
   {
     "team_name": "Celta Vigo",
     "rank": "7",
-    "point": "52",
+    "point": "55",
     "manager": "Claudio Giráldez"
   },
   {
     "team_name": "Rayo Vallecano",
     "rank": "8",
-    "point": "51",
+    "point": "52",
     "manager": "Iñigo Pérez"
   },
   {
     "team_name": "Osasuna",
     "rank": "9",
-    "point": "51",
+    "point": "52",
     "manager": "Vicente Moreno"
   },
   {
     "team_name": "Mallorca",
     "rank": "10",
-    "point": "47",
+    "point": "48",
     "manager": "Jagoba Arrasate"
   },
   {
@@ -78,33 +78,33 @@
     "manager": "Pepe Bordalás"
   },
   {
-    "team_name": "Alavés",
+    "team_name": "Espanyol",
     "rank": "14",
-    "point": "41",
+    "point": "42",
+    "manager": "Manolo González"
+  },
+  {
+    "team_name": "Alavés",
+    "rank": "15",
+    "point": "42",
     "manager": "Eduardo Coudet"
   },
   {
     "team_name": "Girona",
-    "rank": "15",
+    "rank": "16",
     "point": "41",
     "manager": "Michel"
   },
   {
     "team_name": "Sevilla",
-    "rank": "16",
+    "rank": "17",
     "point": "41",
     "manager": "Joaquín Caparrós"
   },
   {
-    "team_name": "Espanyol",
-    "rank": "17",
-    "point": "39",
-    "manager": "Manolo González"
-  },
-  {
     "team_name": "Leganés",
     "rank": "18",
-    "point": "37",
+    "point": "40",
     "manager": "Borja Jiménez"
   },
   {

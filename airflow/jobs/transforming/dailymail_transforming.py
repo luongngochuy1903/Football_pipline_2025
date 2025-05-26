@@ -16,7 +16,7 @@ def transformDailymail():
     ]
     for news in news_map:
         today = date.today()
-        df_news = spark.read.option("multiline","true").json(f"s3a://raw/{news}/year={today.year}/month={today.month}/day={today.day}")
+        df_news = spark.read.json(f"s3a://raw/{news}/year={today.year}/month={today.month}/day={today.day}")
         df_news = df_news.withColumn("Published", to_date(substring(col("Published"), 1, 10), "yyyy-mm-dd"))
         transform_df = handle_null(spark, df_news)
         print("Starting transforming to Trusted Zone task")

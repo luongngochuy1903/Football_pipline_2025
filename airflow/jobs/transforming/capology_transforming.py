@@ -1,5 +1,5 @@
 from pyspark.sql import SparkSession
-from pyspark.sql.functions import lit, to_date, regexp_replace, col
+from pyspark.sql.functions import lit, to_date, regexp_replace, col, trim
 from modules.module_null import handle_null
 from datetime import date
 
@@ -17,10 +17,10 @@ def transformPayroll():
     ]
     for pay in payroll_map:
         today = date.today()
-        df_pay = spark.read.option("multiline","true").json(f"s3a://raw/{pay}/year={today.year}/month={today.month}/day={today.day}")
+        df_pay = spark.read.json(f"s3a://raw/{pay}/year={today.year}/month={today.month}/day={today.day}")
         for col_name in df_pay.columns:
             if col_name != "team":
-                df_pay = df_pay.withColumn(col_name, regexp_replace(col(col_name), "[€,]", "").cast("double"))
+                df_pay = df_pay.withColumn(col_name, trim(regexp_replace(col(col_name), "[€,]", "")))
 
         transform_df = handle_null(spark, df_pay)
         print("Starting transforming to Trusted Zone task")
@@ -41,10 +41,10 @@ def transformTransfer():
     ]
     for pay in transfer_map:
         today = date.today()
-        df_pay = spark.read.option("multiline","true").json(f"s3a://raw/{pay}/year={today.year}/month={today.month}/day={today.day}")
+        df_pay = spark.read.json(f"s3a://raw/{pay}/year={today.year}/month={today.month}/day={today.day}")
         for col_name in df_pay.columns:
             if col_name != "team":
-                df_pay = df_pay.withColumn(col_name, regexp_replace(col(col_name), "[€,]", "").cast("double"))
+                df_pay = df_pay.withColumn(col_name, regexp_replace(col(col_name), "[€,]", ""))
         transform_df = handle_null(spark, df_pay)
         print("Starting transforming to Trusted Zone task")
         transform_df = transform_df.withColumn("year", lit(today.year)) \
@@ -65,7 +65,7 @@ def transformSalary():
     ]
     for pay in salary_map:
         today = date.today()
-        df_pay = spark.read.option("multiline","true").json(f"s3a://raw/{pay}/year={today.year}/month={today.month}/day={today.day}")
+        df_pay = spark.read.json(f"s3a://raw/{pay}/year={today.year}/month={today.month}/day={today.day}")
         print("Starting transforming to Trusted Zone task")
         df_pay = df_pay.withColumn("signed", to_date(col("signed"), "MMM d, yyyy")) \
             .withColumn("expiration", to_date(col("expiration"), "MMM d, yyyy")) \

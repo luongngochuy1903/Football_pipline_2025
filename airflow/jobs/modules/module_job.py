@@ -7,9 +7,10 @@ from pyspark.sql.functions import col, to_json, struct, md5
 import logging
 
 def checking_duplicated(spark, target, raw_df, address, list_value):
-    if not get_latest_partition_date(target, address):
+    latest = get_latest_partition_date(target, address)
+    if not latest:
         return False
-    year, month, day = get_latest_partition_date(target, address)
+    year, month, day = latest
     trusted_df = spark.read.json(f"s3a://{target}/{address}/year={year}/month={month}/day={day}")
     def hash_column(df, columns):
         return df.select(md5(to_json(struct(*[col(f"`{c}`") for c in columns]))).alias("hash")) \
@@ -56,3 +57,15 @@ def get_latest_partition_date(bucket, prefix):
             return None
         latest = max(partitions)
         return latest.year, latest.month, latest.day
+
+def get_updated_news(spark, target, raw_df, address):
+    latest = get_latest_partition_date(target, address)
+    if not latest:
+        return raw_df
+    year, month, day = latest
+    trusted_df = spark.read.json(f"s3a://{target}/{address}/year={year}/month={month}/day={day}")
+    trustedcheck_df = trusted_df.withColumn("hashing_df", md5(col("url")))
+    rawcheck_df = raw_df.withColumn("hashing_df", md5(col("url")))
+    exist_hashes = set(row["hashing_df"] for row in trustedcheck_df.select(col("hashing_df")).collect())
+    df_new = rawcheck_df.filter(~col("hashing_df").isin(exist_hashes))
+    return df_new

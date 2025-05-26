@@ -84,10 +84,10 @@ class Scraping:
                 for tag in tag_button:
                     tag_list.append(tag.text.strip())
                 this_data = {
-                    "Headlines":headlines,
-                    "Published":time_published,
-                    "Url": news,
-                    "Tags":tag_list
+                    "headline":headlines,
+                    "published":time_published,
+                    "url": news,
+                    "categories":tag_list
                 }
                 print(this_data)
                 news_list.append(this_data)

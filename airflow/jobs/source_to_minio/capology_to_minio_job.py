@@ -25,7 +25,7 @@ def payrolls_read_from_json():
 }
 
     for league_code, shared in shared_map.items():
-        df = spark.read.json(shared)
+        df = spark.read.option("multiline","true").json(shared)
         df.printSchema()
         for key, path in path_map.items():
             if key == league_code:
@@ -54,7 +54,7 @@ def transfer_read_from_json():
 }
 
     for league_code, shared in shared_map.items():
-        df = spark.read.json(shared)
+        df = spark.read.option("multiline","true").json(shared)
         df.printSchema()
         for key, path in path_map.items():
             if key == league_code:
@@ -83,7 +83,7 @@ def salary_read_from_json():
 }
 
     for league_code, shared in shared_map.items():
-        df = spark.read.json(shared)
+        df = spark.read.option("multiline","true").json(shared)
         df.printSchema()
         for key, path in path_map.items():
             if key == league_code:

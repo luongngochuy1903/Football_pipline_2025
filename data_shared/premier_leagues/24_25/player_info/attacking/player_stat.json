@@ -3763,6 +3763,15 @@
   },
   {
     "team_name": "Manchester Utd",
+    "player_name": "Bruno Fernandes",
+    "SCA": "193",
+    "SCA90": "5.76",
+    "GCA": "13",
+    "GCA90": "0.39",
+    "passlive": "10"
+  },
+  {
+    "team_name": "Manchester Utd",
     "player_name": "André Onana",
     "SCA": "4",
     "SCA90": "0.12",
@@ -3772,18 +3781,9 @@
   },
   {
     "team_name": "Manchester Utd",
-    "player_name": "Bruno Fernandes",
-    "SCA": "181",
-    "SCA90": "5.56",
-    "GCA": "12",
-    "GCA90": "0.37",
-    "passlive": "9"
-  },
-  {
-    "team_name": "Manchester Utd",
     "player_name": "Noussair Mazraoui",
-    "SCA": "52",
-    "SCA90": "1.66",
+    "SCA": "56",
+    "SCA90": "1.78",
     "GCA": "1",
     "GCA90": "0.03",
     "passlive": "1"
@@ -3792,7 +3792,7 @@
     "team_name": "Manchester Utd",
     "player_name": "Diogo Dalot",
     "SCA": "74",
-    "SCA90": "2.39",
+    "SCA90": "2.37",
     "GCA": "5",
     "GCA90": "0.16",
     "passlive": "3"
@@ -3818,10 +3818,10 @@
   {
     "team_name": "Manchester Utd",
     "player_name": "Rasmus Højlund",
-    "SCA": "33",
-    "SCA90": "1.54",
+    "SCA": "34",
+    "SCA90": "1.53",
     "GCA": "1",
-    "GCA90": "0.05",
+    "GCA90": "0.04",
     "passlive": "0"
   },
   {
@@ -3835,21 +3835,21 @@
   },
   {
     "team_name": "Manchester Utd",
+    "player_name": "Amad Diallo",
+    "SCA": "97",
+    "SCA90": "4.59",
+    "GCA": "18",
+    "GCA90": "0.85",
+    "passlive": "7"
+  },
+  {
+    "team_name": "Manchester Utd",
     "player_name": "Lisandro Martínez",
     "SCA": "26",
     "SCA90": "1.34",
     "GCA": "2",
     "GCA90": "0.10",
     "passlive": "2"
-  },
-  {
-    "team_name": "Manchester Utd",
-    "player_name": "Amad Diallo",
-    "SCA": "93",
-    "SCA90": "4.62",
-    "GCA": "17",
-    "GCA90": "0.84",
-    "passlive": "7"
   },
   {
     "team_name": "Manchester Utd",
@@ -3871,30 +3871,30 @@
   },
   {
     "team_name": "Manchester Utd",
-    "player_name": "Kobbie Mainoo",
-    "SCA": "31",
-    "SCA90": "1.74",
-    "GCA": "2",
-    "GCA90": "0.11",
-    "passlive": "2"
-  },
-  {
-    "team_name": "Manchester Utd",
     "player_name": "Harry Maguire",
     "SCA": "19",
-    "SCA90": "1.02",
+    "SCA90": "0.97",
     "GCA": "0",
     "GCA90": "0.00",
     "passlive": "0"
   },
   {
     "team_name": "Manchester Utd",
-    "player_name": "Casemiro",
-    "SCA": "49",
-    "SCA90": "3.14",
+    "player_name": "Kobbie Mainoo",
+    "SCA": "35",
+    "SCA90": "1.91",
     "GCA": "3",
-    "GCA90": "0.19",
+    "GCA90": "0.16",
     "passlive": "3"
+  },
+  {
+    "team_name": "Manchester Utd",
+    "player_name": "Casemiro",
+    "SCA": "53",
+    "SCA90": "3.19",
+    "GCA": "4",
+    "GCA90": "0.24",
+    "passlive": "4"
   },
   {
     "team_name": "Manchester Utd",
@@ -3926,26 +3926,26 @@
   {
     "team_name": "Manchester Utd",
     "player_name": "Christian Eriksen",
-    "SCA": "52",
-    "SCA90": "4.51",
+    "SCA": "56",
+    "SCA90": "4.74",
     "GCA": "7",
-    "GCA90": "0.61",
+    "GCA90": "0.59",
     "passlive": "5"
   },
   {
     "team_name": "Manchester Utd",
     "player_name": "Patrick Dorgu",
-    "SCA": "16",
-    "SCA90": "1.91",
+    "SCA": "23",
+    "SCA90": "2.46",
     "GCA": "1",
-    "GCA90": "0.12",
+    "GCA90": "0.11",
     "passlive": "0"
   },
   {
     "team_name": "Manchester Utd",
     "player_name": "Mason Mount",
-    "SCA": "18",
-    "SCA90": "2.91",
+    "SCA": "22",
+    "SCA90": "3.18",
     "GCA": "0",
     "GCA90": "0.00",
     "passlive": "0"
@@ -3954,7 +3954,7 @@
     "team_name": "Manchester Utd",
     "player_name": "Victor Lindelöf",
     "SCA": "4",
-    "SCA90": "0.59",
+    "SCA90": "0.51",
     "GCA": "0",
     "GCA90": "0.00",
     "passlive": "0"
@@ -3979,6 +3979,15 @@
   },
   {
     "team_name": "Manchester Utd",
+    "player_name": "Altay Bayındır",
+    "SCA": "0",
+    "SCA90": "0.00",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Manchester Utd",
     "player_name": "Luke Shaw",
     "SCA": "10",
     "SCA90": "2.58",
@@ -3999,16 +4008,16 @@
     "team_name": "Manchester Utd",
     "player_name": "Jonny Evans",
     "SCA": "2",
-    "SCA90": "0.62",
+    "SCA90": "0.57",
     "GCA": "0",
     "GCA90": "0.00",
     "passlive": "0"
   },
   {
     "team_name": "Manchester Utd",
-    "player_name": "Altay Bayındır",
-    "SCA": "0",
-    "SCA90": "0.00",
+    "player_name": "Ayden Heaven",
+    "SCA": "3",
+    "SCA90": "1.59",
     "GCA": "0",
     "GCA90": "0.00",
     "passlive": "0"
@@ -4035,16 +4044,7 @@
     "team_name": "Manchester Utd",
     "player_name": "Chidozie Obi-Martin",
     "SCA": "2",
-    "SCA90": "1.16",
-    "GCA": "0",
-    "GCA90": "0.00",
-    "passlive": "0"
-  },
-  {
-    "team_name": "Manchester Utd",
-    "player_name": "Ayden Heaven",
-    "SCA": "2",
-    "SCA90": "1.71",
+    "SCA90": "1.09",
     "GCA": "0",
     "GCA90": "0.00",
     "passlive": "0"
@@ -4079,10 +4079,10 @@
   {
     "team_name": "Tottenham",
     "player_name": "Pedro Porro",
-    "SCA": "107",
-    "SCA90": "3.82",
+    "SCA": "108",
+    "SCA90": "3.72",
     "GCA": "8",
-    "GCA90": "0.29",
+    "GCA90": "0.28",
     "passlive": "4"
   },
   {
@@ -4098,27 +4098,18 @@
     "team_name": "Tottenham",
     "player_name": "Dominic Solanke",
     "SCA": "37",
-    "SCA90": "1.56",
+    "SCA90": "1.51",
     "GCA": "8",
-    "GCA90": "0.34",
+    "GCA90": "0.33",
     "passlive": "6"
-  },
-  {
-    "team_name": "Tottenham",
-    "player_name": "Son Heung-min",
-    "SCA": "117",
-    "SCA90": "4.99",
-    "GCA": "15",
-    "GCA90": "0.64",
-    "passlive": "13"
   },
   {
     "team_name": "Tottenham",
     "player_name": "Brennan Johnson",
     "SCA": "46",
-    "SCA90": "1.98",
+    "SCA90": "1.90",
     "GCA": "7",
-    "GCA90": "0.30",
+    "GCA90": "0.29",
     "passlive": "5"
   },
   {
@@ -4132,21 +4123,30 @@
   },
   {
     "team_name": "Tottenham",
+    "player_name": "Son Heung-min",
+    "SCA": "117",
+    "SCA90": "4.99",
+    "GCA": "15",
+    "GCA90": "0.64",
+    "passlive": "13"
+  },
+  {
+    "team_name": "Tottenham",
     "player_name": "Destiny Udogie",
-    "SCA": "35",
-    "SCA90": "1.72",
+    "SCA": "36",
+    "SCA90": "1.68",
     "GCA": "3",
-    "GCA90": "0.15",
+    "GCA90": "0.14",
     "passlive": "2"
   },
   {
     "team_name": "Tottenham",
     "player_name": "Pape Matar Sarr",
-    "SCA": "44",
+    "SCA": "45",
     "SCA90": "2.12",
-    "GCA": "6",
-    "GCA90": "0.29",
-    "passlive": "4"
+    "GCA": "7",
+    "GCA90": "0.33",
+    "passlive": "5"
   },
   {
     "team_name": "Tottenham",
@@ -4161,9 +4161,9 @@
     "team_name": "Tottenham",
     "player_name": "Rodrigo Bentancur",
     "SCA": "45",
-    "SCA90": "2.56",
+    "SCA90": "2.46",
     "GCA": "3",
-    "GCA90": "0.17",
+    "GCA90": "0.16",
     "passlive": "3"
   },
   {
@@ -4196,8 +4196,8 @@
   {
     "team_name": "Tottenham",
     "player_name": "Archie Gray",
-    "SCA": "5",
-    "SCA90": "0.27",
+    "SCA": "6",
+    "SCA90": "0.31",
     "GCA": "0",
     "GCA90": "0.00",
     "passlive": "0"
@@ -4215,7 +4215,7 @@
     "team_name": "Tottenham",
     "player_name": "Yves Bissouma",
     "SCA": "16",
-    "SCA90": "1.04",
+    "SCA90": "1.02",
     "GCA": "0",
     "GCA90": "0.00",
     "passlive": "0"
@@ -4224,7 +4224,7 @@
     "team_name": "Tottenham",
     "player_name": "Ben Davies",
     "SCA": "8",
-    "SCA90": "0.55",
+    "SCA90": "0.54",
     "GCA": "0",
     "GCA90": "0.00",
     "passlive": "0"
@@ -4240,6 +4240,15 @@
   },
   {
     "team_name": "Tottenham",
+    "player_name": "Micky van de Ven",
+    "SCA": "11",
+    "SCA90": "0.98",
+    "GCA": "2",
+    "GCA90": "0.18",
+    "passlive": "2"
+  },
+  {
+    "team_name": "Tottenham",
     "player_name": "Lucas Bergvall",
     "SCA": "22",
     "SCA90": "1.63",
@@ -4249,27 +4258,18 @@
   },
   {
     "team_name": "Tottenham",
-    "player_name": "Micky van de Ven",
-    "SCA": "11",
-    "SCA90": "1.04",
-    "GCA": "2",
-    "GCA90": "0.19",
-    "passlive": "2"
-  },
-  {
-    "team_name": "Tottenham",
     "player_name": "Mathys Tel",
-    "SCA": "25",
-    "SCA90": "2.72",
-    "GCA": "1",
-    "GCA90": "0.11",
+    "SCA": "28",
+    "SCA90": "2.77",
+    "GCA": "2",
+    "GCA90": "0.20",
     "passlive": "1"
   },
   {
     "team_name": "Tottenham",
     "player_name": "Wilson Odobert",
     "SCA": "16",
-    "SCA90": "1.79",
+    "SCA90": "1.70",
     "GCA": "1",
     "GCA90": "0.11",
     "passlive": "1"
@@ -4296,9 +4296,9 @@
     "team_name": "Tottenham",
     "player_name": "Kevin Danso",
     "SCA": "9",
-    "SCA90": "1.08",
+    "SCA90": "0.96",
     "GCA": "2",
-    "GCA90": "0.24",
+    "GCA90": "0.21",
     "passlive": "2"
   },
   {
@@ -4332,9 +4332,9 @@
     "team_name": "Tottenham",
     "player_name": "Richarlison",
     "SCA": "8",
-    "SCA90": "1.50",
+    "SCA90": "1.43",
     "GCA": "1",
-    "GCA90": "0.19",
+    "GCA90": "0.18",
     "passlive": "1"
   },
   {
@@ -4404,7 +4404,7 @@
     "team_name": "Leicester City",
     "player_name": "James Justin",
     "SCA": "33",
-    "SCA90": "1.05",
+    "SCA90": "1.02",
     "GCA": "2",
     "GCA90": "0.06",
     "passlive": "2"
@@ -4413,7 +4413,7 @@
     "team_name": "Leicester City",
     "player_name": "Wout Faes",
     "SCA": "17",
-    "SCA90": "0.56",
+    "SCA90": "0.54",
     "GCA": "0",
     "GCA90": "0.00",
     "passlive": "0"
@@ -4421,8 +4421,8 @@
   {
     "team_name": "Leicester City",
     "player_name": "Victor Bernth Kristiansen",
-    "SCA": "41",
-    "SCA90": "1.54",
+    "SCA": "42",
+    "SCA90": "1.52",
     "GCA": "3",
     "GCA90": "0.11",
     "passlive": "3"
@@ -4458,16 +4458,16 @@
     "team_name": "Leicester City",
     "player_name": "Boubakary Soumaré",
     "SCA": "35",
-    "SCA90": "1.51",
+    "SCA90": "1.45",
     "GCA": "3",
-    "GCA90": "0.13",
+    "GCA90": "0.12",
     "passlive": "3"
   },
   {
     "team_name": "Leicester City",
     "player_name": "Conor Coady",
     "SCA": "6",
-    "SCA90": "0.33",
+    "SCA90": "0.32",
     "GCA": "0",
     "GCA90": "0.00",
     "passlive": "0"
@@ -4475,10 +4475,10 @@
   {
     "team_name": "Leicester City",
     "player_name": "Jordan Ayew",
-    "SCA": "39",
-    "SCA90": "2.27",
+    "SCA": "41",
+    "SCA90": "2.25",
     "GCA": "2",
-    "GCA90": "0.12",
+    "GCA90": "0.11",
     "passlive": "1"
   },
   {
@@ -4530,9 +4530,18 @@
     "team_name": "Leicester City",
     "player_name": "Facundo Buonanotte",
     "SCA": "51",
-    "SCA90": "3.05",
+    "SCA90": "3.01",
     "GCA": "5",
     "GCA90": "0.30",
+    "passlive": "1"
+  },
+  {
+    "team_name": "Leicester City",
+    "player_name": "Luke Thomas",
+    "SCA": "16",
+    "SCA90": "1.30",
+    "GCA": "1",
+    "GCA90": "0.08",
     "passlive": "1"
   },
   {
@@ -4546,18 +4555,9 @@
   },
   {
     "team_name": "Leicester City",
-    "player_name": "Luke Thomas",
-    "SCA": "15",
-    "SCA90": "1.30",
-    "GCA": "1",
-    "GCA90": "0.09",
-    "passlive": "1"
-  },
-  {
-    "team_name": "Leicester City",
     "player_name": "Oliver Skipp",
     "SCA": "15",
-    "SCA90": "1.28",
+    "SCA90": "1.20",
     "GCA": "0",
     "GCA90": "0.00",
     "passlive": "0"
@@ -4573,20 +4573,20 @@
   },
   {
     "team_name": "Leicester City",
+    "player_name": "Kasey McAteer",
+    "SCA": "20",
+    "SCA90": "2.11",
+    "GCA": "2",
+    "GCA90": "0.21",
+    "passlive": "1"
+  },
+  {
+    "team_name": "Leicester City",
     "player_name": "Bobby De Cordova-Reid",
     "SCA": "13",
     "SCA90": "1.57",
     "GCA": "3",
     "GCA90": "0.36",
-    "passlive": "1"
-  },
-  {
-    "team_name": "Leicester City",
-    "player_name": "Kasey McAteer",
-    "SCA": "20",
-    "SCA90": "2.35",
-    "GCA": "2",
-    "GCA90": "0.23",
     "passlive": "1"
   },
   {
@@ -4609,6 +4609,15 @@
   },
   {
     "team_name": "Leicester City",
+    "player_name": "Patson Daka",
+    "SCA": "10",
+    "SCA90": "1.23",
+    "GCA": "1",
+    "GCA90": "0.12",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Leicester City",
     "player_name": "Abdul Fatawu Issahaku",
     "SCA": "17",
     "SCA90": "2.64",
@@ -4618,18 +4627,9 @@
   },
   {
     "team_name": "Leicester City",
-    "player_name": "Patson Daka",
-    "SCA": "10",
-    "SCA90": "1.36",
-    "GCA": "1",
-    "GCA90": "0.14",
-    "passlive": "0"
-  },
-  {
-    "team_name": "Leicester City",
     "player_name": "Ricardo Pereira",
     "SCA": "3",
-    "SCA90": "0.73",
+    "SCA90": "0.70",
     "GCA": "0",
     "GCA90": "0.00",
     "passlive": "0"
@@ -4664,8 +4664,8 @@
   {
     "team_name": "Leicester City",
     "player_name": "Jeremy Monga",
-    "SCA": "1",
-    "SCA90": "0.97",
+    "SCA": "2",
+    "SCA90": "1.61",
     "GCA": "0",
     "GCA90": "0.00",
     "passlive": "0"
@@ -4682,6 +4682,15 @@
   {
     "team_name": "Leicester City",
     "player_name": "Jake Evans",
+    "SCA": "0",
+    "SCA90": "0.00",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Leicester City",
+    "player_name": "Olabade Aluko",
     "SCA": "0",
     "SCA90": "0.00",
     "GCA": "0",
@@ -4710,34 +4719,34 @@
     "team_name": "Ipswich Town",
     "player_name": "Dara O'Shea",
     "SCA": "24",
-    "SCA90": "0.71",
+    "SCA90": "0.69",
     "GCA": "4",
     "GCA90": "0.12",
     "passlive": "4"
   },
   {
     "team_name": "Ipswich Town",
-    "player_name": "Liam Delap",
-    "SCA": "62",
-    "SCA90": "2.17",
-    "GCA": "7",
-    "GCA90": "0.25",
+    "player_name": "Leif Davis",
+    "SCA": "93",
+    "SCA90": "3.05",
+    "GCA": "4",
+    "GCA90": "0.13",
     "passlive": "3"
   },
   {
     "team_name": "Ipswich Town",
-    "player_name": "Leif Davis",
-    "SCA": "90",
-    "SCA90": "3.05",
-    "GCA": "4",
-    "GCA90": "0.14",
+    "player_name": "Liam Delap",
+    "SCA": "62",
+    "SCA90": "2.15",
+    "GCA": "7",
+    "GCA90": "0.24",
     "passlive": "3"
   },
   {
     "team_name": "Ipswich Town",
     "player_name": "Sam Morsy",
-    "SCA": "50",
-    "SCA90": "1.69",
+    "SCA": "51",
+    "SCA90": "1.67",
     "GCA": "2",
     "GCA90": "0.07",
     "passlive": "2"
@@ -4745,35 +4754,35 @@
   {
     "team_name": "Ipswich Town",
     "player_name": "Omari Hutchinson",
-    "SCA": "78",
+    "SCA": "81",
     "SCA90": "2.82",
     "GCA": "6",
-    "GCA90": "0.22",
+    "GCA90": "0.21",
     "passlive": "6"
   },
   {
     "team_name": "Ipswich Town",
     "player_name": "Jacob Greaves",
-    "SCA": "17",
-    "SCA90": "0.72",
-    "GCA": "0",
-    "GCA90": "0.00",
-    "passlive": "0"
+    "SCA": "20",
+    "SCA90": "0.82",
+    "GCA": "1",
+    "GCA90": "0.04",
+    "passlive": "1"
   },
   {
     "team_name": "Ipswich Town",
     "player_name": "Jens Cajuste",
-    "SCA": "33",
-    "SCA90": "1.58",
-    "GCA": "1",
-    "GCA90": "0.05",
-    "passlive": "0"
+    "SCA": "36",
+    "SCA90": "1.65",
+    "GCA": "2",
+    "GCA90": "0.09",
+    "passlive": "1"
   },
   {
     "team_name": "Ipswich Town",
     "player_name": "Axel Tuanzebe",
-    "SCA": "17",
-    "SCA90": "0.94",
+    "SCA": "19",
+    "SCA90": "1.00",
     "GCA": "2",
     "GCA90": "0.11",
     "passlive": "2"
@@ -4844,8 +4853,8 @@
   {
     "team_name": "Ipswich Town",
     "player_name": "Sammie Szmodics",
-    "SCA": "9",
-    "SCA90": "0.83",
+    "SCA": "10",
+    "SCA90": "0.91",
     "GCA": "0",
     "GCA90": "0.00",
     "passlive": "0"
@@ -4862,10 +4871,10 @@
   {
     "team_name": "Ipswich Town",
     "player_name": "Jack Clarke",
-    "SCA": "48",
-    "SCA90": "3.73",
+    "SCA": "50",
+    "SCA90": "3.81",
     "GCA": "5",
-    "GCA90": "0.39",
+    "GCA90": "0.38",
     "passlive": "4"
   },
   {
@@ -4889,8 +4898,8 @@
   {
     "team_name": "Ipswich Town",
     "player_name": "Conor Chaplin",
-    "SCA": "21",
-    "SCA90": "2.40",
+    "SCA": "22",
+    "SCA90": "2.32",
     "GCA": "1",
     "GCA90": "0.11",
     "passlive": "1"
@@ -4898,10 +4907,10 @@
   {
     "team_name": "Ipswich Town",
     "player_name": "Nathan Broadhead",
-    "SCA": "19",
-    "SCA90": "2.74",
+    "SCA": "22",
+    "SCA90": "2.82",
     "GCA": "2",
-    "GCA90": "0.29",
+    "GCA90": "0.26",
     "passlive": "1"
   },
   {
@@ -4926,10 +4935,19 @@
     "team_name": "Ipswich Town",
     "player_name": "Christian Walton",
     "SCA": "2",
-    "SCA90": "0.33",
+    "SCA90": "0.29",
     "GCA": "0",
     "GCA90": "0.00",
     "passlive": "0"
+  },
+  {
+    "team_name": "Ipswich Town",
+    "player_name": "George Hirst",
+    "SCA": "9",
+    "SCA90": "1.22",
+    "GCA": "3",
+    "GCA90": "0.41",
+    "passlive": "2"
   },
   {
     "team_name": "Ipswich Town",
@@ -4944,18 +4962,9 @@
     "team_name": "Ipswich Town",
     "player_name": "Jack Taylor",
     "SCA": "22",
-    "SCA90": "2.34",
+    "SCA90": "2.30",
     "GCA": "2",
     "GCA90": "0.21",
-    "passlive": "2"
-  },
-  {
-    "team_name": "Ipswich Town",
-    "player_name": "George Hirst",
-    "SCA": "8",
-    "SCA90": "1.21",
-    "GCA": "3",
-    "GCA90": "0.45",
     "passlive": "2"
   },
   {
@@ -5032,21 +5041,21 @@
   },
   {
     "team_name": "Southampton",
+    "player_name": "Mateus Fernandes",
+    "SCA": "78",
+    "SCA90": "2.41",
+    "GCA": "7",
+    "GCA90": "0.22",
+    "passlive": "4"
+  },
+  {
+    "team_name": "Southampton",
     "player_name": "Kyle Walker-Peters",
     "SCA": "63",
     "SCA90": "1.94",
     "GCA": "7",
     "GCA90": "0.22",
     "passlive": "5"
-  },
-  {
-    "team_name": "Southampton",
-    "player_name": "Mateus Fernandes",
-    "SCA": "73",
-    "SCA90": "2.33",
-    "GCA": "6",
-    "GCA90": "0.19",
-    "passlive": "4"
   },
   {
     "team_name": "Southampton",
@@ -5059,15 +5068,6 @@
   },
   {
     "team_name": "Southampton",
-    "player_name": "Jan Bednarek",
-    "SCA": "16",
-    "SCA90": "0.57",
-    "GCA": "0",
-    "GCA90": "0.00",
-    "passlive": "0"
-  },
-  {
-    "team_name": "Southampton",
     "player_name": "Aaron Ramsdale",
     "SCA": "3",
     "SCA90": "0.10",
@@ -5077,11 +5077,20 @@
   },
   {
     "team_name": "Southampton",
+    "player_name": "Jan Bednarek",
+    "SCA": "16",
+    "SCA90": "0.57",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Southampton",
     "player_name": "Flynn Downes",
     "SCA": "31",
-    "SCA90": "1.35",
+    "SCA90": "1.30",
     "GCA": "2",
-    "GCA90": "0.09",
+    "GCA90": "0.08",
     "passlive": "1"
   },
   {
@@ -5104,20 +5113,20 @@
   },
   {
     "team_name": "Southampton",
+    "player_name": "Lesley Ugochukwu",
+    "SCA": "24",
+    "SCA90": "1.30",
+    "GCA": "1",
+    "GCA90": "0.05",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Southampton",
     "player_name": "Ryan Manning",
     "SCA": "50",
     "SCA90": "3.08",
     "GCA": "3",
     "GCA90": "0.18",
-    "passlive": "0"
-  },
-  {
-    "team_name": "Southampton",
-    "player_name": "Lesley Ugochukwu",
-    "SCA": "23",
-    "SCA90": "1.32",
-    "GCA": "1",
-    "GCA90": "0.06",
     "passlive": "0"
   },
   {
@@ -5140,6 +5149,15 @@
   },
   {
     "team_name": "Southampton",
+    "player_name": "Kamaldeen Sulemana",
+    "SCA": "30",
+    "SCA90": "1.93",
+    "GCA": "3",
+    "GCA90": "0.19",
+    "passlive": "1"
+  },
+  {
+    "team_name": "Southampton",
     "player_name": "Jack Stephens",
     "SCA": "13",
     "SCA90": "0.84",
@@ -5149,18 +5167,9 @@
   },
   {
     "team_name": "Southampton",
-    "player_name": "Kamaldeen Sulemana",
-    "SCA": "28",
-    "SCA90": "1.90",
-    "GCA": "3",
-    "GCA90": "0.20",
-    "passlive": "1"
-  },
-  {
-    "team_name": "Southampton",
     "player_name": "Yukinari Sugawara",
     "SCA": "39",
-    "SCA90": "2.39",
+    "SCA90": "2.25",
     "GCA": "1",
     "GCA90": "0.06",
     "passlive": "1"
@@ -5178,7 +5187,7 @@
     "team_name": "Southampton",
     "player_name": "Cameron Archer",
     "SCA": "20",
-    "SCA90": "1.26",
+    "SCA90": "1.25",
     "GCA": "0",
     "GCA90": "0.00",
     "passlive": "0"
@@ -5196,7 +5205,7 @@
     "team_name": "Southampton",
     "player_name": "Paul Onuachu",
     "SCA": "9",
-    "SCA90": "0.79",
+    "SCA90": "0.77",
     "GCA": "1",
     "GCA90": "0.09",
     "passlive": "1"
@@ -5205,7 +5214,7 @@
     "team_name": "Southampton",
     "player_name": "Nathan Wood-Gordon",
     "SCA": "3",
-    "SCA90": "0.40",
+    "SCA90": "0.35",
     "GCA": "0",
     "GCA90": "0.00",
     "passlive": "0"
@@ -5214,19 +5223,19 @@
     "team_name": "Southampton",
     "player_name": "William Smallbone",
     "SCA": "16",
-    "SCA90": "2.12",
+    "SCA90": "2.09",
     "GCA": "0",
     "GCA90": "0.00",
     "passlive": "0"
   },
   {
     "team_name": "Southampton",
-    "player_name": "Alex McCarthy",
-    "SCA": "0",
-    "SCA90": "0.00",
-    "GCA": "0",
-    "GCA90": "0.00",
-    "passlive": "0"
+    "player_name": "Welington",
+    "SCA": "7",
+    "SCA90": "1.31",
+    "GCA": "1",
+    "GCA90": "0.19",
+    "passlive": "1"
   },
   {
     "team_name": "Southampton",
@@ -5248,12 +5257,12 @@
   },
   {
     "team_name": "Southampton",
-    "player_name": "Welington",
-    "SCA": "7",
-    "SCA90": "1.61",
-    "GCA": "1",
-    "GCA90": "0.23",
-    "passlive": "1"
+    "player_name": "Alex McCarthy",
+    "SCA": "0",
+    "SCA90": "0.00",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
   },
   {
     "team_name": "Southampton",
@@ -5275,6 +5284,15 @@
   },
   {
     "team_name": "Southampton",
+    "player_name": "Ross Stewart",
+    "SCA": "5",
+    "SCA90": "1.16",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Southampton",
     "player_name": "Ryan Fraser",
     "SCA": "5",
     "SCA90": "1.47",
@@ -5284,12 +5302,12 @@
   },
   {
     "team_name": "Southampton",
-    "player_name": "Ross Stewart",
-    "SCA": "4",
-    "SCA90": "1.13",
-    "GCA": "0",
-    "GCA90": "0.00",
-    "passlive": "0"
+    "player_name": "Charlie Taylor",
+    "SCA": "2",
+    "SCA90": "0.51",
+    "GCA": "1",
+    "GCA90": "0.25",
+    "passlive": "1"
   },
   {
     "team_name": "Southampton",
@@ -5311,15 +5329,6 @@
   },
   {
     "team_name": "Southampton",
-    "player_name": "Charlie Taylor",
-    "SCA": "2",
-    "SCA90": "0.68",
-    "GCA": "1",
-    "GCA90": "0.34",
-    "passlive": "1"
-  },
-  {
-    "team_name": "Southampton",
     "player_name": "Albert Grønbaek",
     "SCA": "2",
     "SCA90": "1.26",
@@ -5329,11 +5338,11 @@
   },
   {
     "team_name": "Southampton",
-    "player_name": "Maxwel Cornet",
-    "SCA": "0",
-    "SCA90": "0.00",
-    "GCA": "0",
-    "GCA90": "0.00",
+    "player_name": "Jay Robinson",
+    "SCA": "7",
+    "SCA90": "4.60",
+    "GCA": "1",
+    "GCA90": "0.66",
     "passlive": "0"
   },
   {
@@ -5356,6 +5365,15 @@
   },
   {
     "team_name": "Southampton",
+    "player_name": "Maxwel Cornet",
+    "SCA": "0",
+    "SCA90": "0.00",
+    "GCA": "0",
+    "GCA90": "0.00",
+    "passlive": "0"
+  },
+  {
+    "team_name": "Southampton",
     "player_name": "Samuel Edozie",
     "SCA": "4",
     "SCA90": "5.54",
@@ -5365,18 +5383,18 @@
   },
   {
     "team_name": "Southampton",
-    "player_name": "Jay Robinson",
-    "SCA": "5",
-    "SCA90": "7.63",
+    "player_name": "Samuel Amo-Ameyaw",
+    "SCA": "2",
+    "SCA90": "6.43",
     "GCA": "0",
     "GCA90": "0.00",
     "passlive": "0"
   },
   {
     "team_name": "Southampton",
-    "player_name": "Samuel Amo-Ameyaw",
-    "SCA": "2",
-    "SCA90": "6.43",
+    "player_name": "Joachim Kayi Sanda",
+    "SCA": "0",
+    "SCA90": "0.00",
     "GCA": "0",
     "GCA90": "0.00",
     "passlive": "0"
@@ -5395,15 +5413,6 @@
     "player_name": "Carlos Alcaraz",
     "SCA": "1",
     "SCA90": "9.00",
-    "GCA": "0",
-    "GCA90": "0.00",
-    "passlive": "0"
-  },
-  {
-    "team_name": "Southampton",
-    "player_name": "Joachim Kayi Sanda",
-    "SCA": "0",
-    "SCA90": "0.00",
     "GCA": "0",
     "GCA90": "0.00",
     "passlive": "0"

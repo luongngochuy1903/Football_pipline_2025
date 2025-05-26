@@ -15,13 +15,6 @@ def transformEspn():
         "bundesliga/24_25/league",
         "seriea/24_25/league"
     ]
-    news_map = [
-        "premierleague/24_25/news/espn",
-        "laliga/24_25/news/espn",
-        "ligue1/24_25/news/espn",
-        "bundesliga/24_25/news/espn",
-        "seriea/24_25/news/espn"
-    ]
     for league in league_map:
         today = date.today()
         df_league = spark.read.option("multiline","true").json(f"s3a://raw/{league}/year={today.year}/month={today.month}/day={today.day}")
@@ -34,17 +27,5 @@ def transformEspn():
         transform_df.printSchema()
         transform_df.write.mode("append").partitionBy("year", "month", "day").json(f"s3a://trusted/{league}")
         print(f"Complete loading to Trusted/{league} !")
-    
-    for news in news_map:
-        today = date.today()
-        df_news = spark.read.option("multiline","true").json(f"s3a://raw/{news}/year={today.year}/month={today.month}/day={today.day}")
-        transform_df = handle_null(spark, df_news)
-        print("Starting transforming to Trusted Zone task")
-        transform_df = transform_df.withColumn("year", lit(today.year)) \
-        .withColumn("month", lit(today.month)) \
-        .withColumn("day", lit(today.day))
-        transform_df.printSchema()
-        transform_df.write.mode("append").partitionBy("year", "month", "day").json(f"s3a://trusted/{news}")
-        print(f"Complete loading to Trusted/{news} !")
 
 transformEspn()

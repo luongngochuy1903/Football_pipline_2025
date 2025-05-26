@@ -36,22 +36,22 @@
     "manager": "Marco Baroni"
   },
   {
-    "team_name": "Fiorentina",
+    "team_name": "Milan",
     "rank": "7",
+    "point": "63",
+    "manager": "Sergio  Conceição"
+  },
+  {
+    "team_name": "Fiorentina",
+    "rank": "8",
     "point": "62",
     "manager": "Raffaele Palladino"
   },
   {
     "team_name": "Bologna",
-    "rank": "8",
+    "rank": "9",
     "point": "62",
     "manager": "Vincenzo Italiano"
-  },
-  {
-    "team_name": "Milan",
-    "rank": "9",
-    "point": "60",
-    "manager": "Sergio  Conceição"
   },
   {
     "team_name": "Como",
@@ -74,7 +74,7 @@
   {
     "team_name": "Genoa",
     "rank": "13",
-    "point": "40",
+    "point": "43",
     "manager": "Patrick Vieira"
   },
   {

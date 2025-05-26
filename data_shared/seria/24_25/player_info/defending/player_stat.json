@@ -531,16 +531,6 @@
   },
   {
     "team_name": "Atalanta",
-    "player_name": "Marten de Roon",
-    "tkl": "74",
-    "tklWon": "48",
-    "tkl_pct": "45.5",
-    "interception": "47",
-    "blocks": "40",
-    "errors": "1"
-  },
-  {
-    "team_name": "Atalanta",
     "player_name": "Marco Carnesecchi",
     "tkl": "0",
     "tklWon": "0",
@@ -551,22 +541,32 @@
   },
   {
     "team_name": "Atalanta",
+    "player_name": "Marten de Roon",
+    "tkl": "74",
+    "tklWon": "48",
+    "tkl_pct": "45.5",
+    "interception": "47",
+    "blocks": "40",
+    "errors": "1"
+  },
+  {
+    "team_name": "Atalanta",
     "player_name": "Éderson",
-    "tkl": "51",
-    "tklWon": "31",
+    "tkl": "52",
+    "tklWon": "32",
     "tkl_pct": "64.7",
     "interception": "35",
-    "blocks": "29",
+    "blocks": "30",
     "errors": "1"
   },
   {
     "team_name": "Atalanta",
     "player_name": "Berat Djimsiti",
-    "tkl": "50",
-    "tklWon": "31",
-    "tkl_pct": "71.8",
+    "tkl": "53",
+    "tklWon": "33",
+    "tkl_pct": "72.5",
     "interception": "40",
-    "blocks": "33",
+    "blocks": "34",
     "errors": "2"
   },
   {
@@ -586,8 +586,18 @@
     "tklWon": "15",
     "tkl_pct": "57.9",
     "interception": "3",
-    "blocks": "18",
+    "blocks": "19",
     "errors": "1"
+  },
+  {
+    "team_name": "Atalanta",
+    "player_name": "Raoul Bellanova",
+    "tkl": "24",
+    "tklWon": "14",
+    "tkl_pct": "61.9",
+    "interception": "18",
+    "blocks": "12",
+    "errors": "0"
   },
   {
     "team_name": "Atalanta",
@@ -598,16 +608,6 @@
     "interception": "31",
     "blocks": "31",
     "errors": "2"
-  },
-  {
-    "team_name": "Atalanta",
-    "player_name": "Raoul Bellanova",
-    "tkl": "23",
-    "tklWon": "13",
-    "tkl_pct": "60.0",
-    "interception": "18",
-    "blocks": "12",
-    "errors": "0"
   },
   {
     "team_name": "Atalanta",
@@ -622,12 +622,12 @@
   {
     "team_name": "Atalanta",
     "player_name": "Charles De Ketelaere",
-    "tkl": "12",
-    "tklWon": "8",
+    "tkl": "13",
+    "tklWon": "9",
     "tkl_pct": "26.7",
     "interception": "3",
-    "blocks": "13",
-    "errors": "0"
+    "blocks": "14",
+    "errors": "1"
   },
   {
     "team_name": "Atalanta",
@@ -654,9 +654,9 @@
     "player_name": "Mario Pašalić",
     "tkl": "26",
     "tklWon": "16",
-    "tkl_pct": "44.0",
+    "tkl_pct": "42.3",
     "interception": "12",
-    "blocks": "21",
+    "blocks": "22",
     "errors": "1"
   },
   {
@@ -674,19 +674,19 @@
     "player_name": "Matteo Ruggeri",
     "tkl": "39",
     "tklWon": "24",
-    "tkl_pct": "67.6",
-    "interception": "19",
-    "blocks": "28",
+    "tkl_pct": "64.1",
+    "interception": "22",
+    "blocks": "30",
     "errors": "1"
   },
   {
     "team_name": "Atalanta",
     "player_name": "Odilon Kossounou",
-    "tkl": "14",
-    "tklWon": "9",
-    "tkl_pct": "45.5",
+    "tkl": "16",
+    "tklWon": "11",
+    "tkl_pct": "42.9",
     "interception": "12",
-    "blocks": "14",
+    "blocks": "16",
     "errors": "1"
   },
   {
@@ -722,9 +722,9 @@
   {
     "team_name": "Atalanta",
     "player_name": "Stefan Posch",
-    "tkl": "14",
-    "tklWon": "10",
-    "tkl_pct": "87.5",
+    "tkl": "18",
+    "tklWon": "11",
+    "tkl_pct": "88.9",
     "interception": "4",
     "blocks": "5",
     "errors": "0"
@@ -741,12 +741,12 @@
   },
   {
     "team_name": "Atalanta",
-    "player_name": "Rui Patrício",
-    "tkl": "0",
-    "tklWon": "0",
-    "tkl_pct": "",
+    "player_name": "Ibrahim Sulemana",
+    "tkl": "9",
+    "tklWon": "4",
+    "tkl_pct": "25.0",
     "interception": "0",
-    "blocks": "0",
+    "blocks": "2",
     "errors": "0"
   },
   {
@@ -771,6 +771,16 @@
   },
   {
     "team_name": "Atalanta",
+    "player_name": "Rui Patrício",
+    "tkl": "0",
+    "tklWon": "0",
+    "tkl_pct": "",
+    "interception": "0",
+    "blocks": "0",
+    "errors": "0"
+  },
+  {
+    "team_name": "Atalanta",
     "player_name": "Rafael Tolói",
     "tkl": "10",
     "tklWon": "5",
@@ -781,32 +791,22 @@
   },
   {
     "team_name": "Atalanta",
-    "player_name": "Ibrahim Sulemana",
-    "tkl": "8",
-    "tklWon": "4",
-    "tkl_pct": "33.3",
-    "interception": "0",
-    "blocks": "1",
-    "errors": "0"
-  },
-  {
-    "team_name": "Atalanta",
     "player_name": "Daniel Maldini",
     "tkl": "2",
     "tklWon": "2",
     "tkl_pct": "50.0",
-    "interception": "1",
+    "interception": "2",
     "blocks": "1",
     "errors": "0"
   },
   {
     "team_name": "Atalanta",
     "player_name": "Marco Palestra",
-    "tkl": "5",
+    "tkl": "6",
     "tklWon": "4",
     "tkl_pct": "100.0",
     "interception": "2",
-    "blocks": "3",
+    "blocks": "4",
     "errors": "0"
   },
   {
@@ -892,11 +892,11 @@
   {
     "team_name": "Juventus",
     "player_name": "Manuel Locatelli",
-    "tkl": "69",
-    "tklWon": "47",
-    "tkl_pct": "60.0",
+    "tkl": "72",
+    "tklWon": "49",
+    "tkl_pct": "57.1",
     "interception": "23",
-    "blocks": "55",
+    "blocks": "58",
     "errors": "0"
   },
   {
@@ -905,18 +905,18 @@
     "tkl": "0",
     "tklWon": "0",
     "tkl_pct": "",
-    "interception": "0",
+    "interception": "1",
     "blocks": "0",
     "errors": "0"
   },
   {
     "team_name": "Juventus",
     "player_name": "Kenan Yıldız",
-    "tkl": "52",
+    "tkl": "53",
     "tklWon": "29",
-    "tkl_pct": "53.3",
+    "tkl_pct": "54.8",
     "interception": "5",
-    "blocks": "24",
+    "blocks": "26",
     "errors": "3"
   },
   {
@@ -928,6 +928,16 @@
     "interception": "14",
     "blocks": "28",
     "errors": "0"
+  },
+  {
+    "team_name": "Juventus",
+    "player_name": "Khéphren Thuram",
+    "tkl": "43",
+    "tklWon": "21",
+    "tkl_pct": "56.3",
+    "interception": "14",
+    "blocks": "32",
+    "errors": "2"
   },
   {
     "team_name": "Juventus",
@@ -951,22 +961,12 @@
   },
   {
     "team_name": "Juventus",
-    "player_name": "Khéphren Thuram",
-    "tkl": "39",
-    "tklWon": "18",
-    "tkl_pct": "60.0",
-    "interception": "12",
-    "blocks": "31",
-    "errors": "1"
-  },
-  {
-    "team_name": "Juventus",
     "player_name": "Andrea Cambiaso",
-    "tkl": "43",
-    "tklWon": "28",
-    "tkl_pct": "61.9",
-    "interception": "15",
-    "blocks": "23",
+    "tkl": "46",
+    "tklWon": "30",
+    "tkl_pct": "61.4",
+    "interception": "16",
+    "blocks": "25",
     "errors": "5"
   },
   {
@@ -992,8 +992,8 @@
   {
     "team_name": "Juventus",
     "player_name": "Dušan Vlahović",
-    "tkl": "3",
-    "tklWon": "1",
+    "tkl": "4",
+    "tklWon": "2",
     "tkl_pct": "20.0",
     "interception": "1",
     "blocks": "7",
@@ -1002,17 +1002,17 @@
   {
     "team_name": "Juventus",
     "player_name": "Nicolò Savona",
-    "tkl": "29",
+    "tkl": "30",
     "tklWon": "13",
-    "tkl_pct": "54.2",
-    "interception": "10",
-    "blocks": "10",
+    "tkl_pct": "53.8",
+    "interception": "11",
+    "blocks": "12",
     "errors": "0"
   },
   {
     "team_name": "Juventus",
     "player_name": "Timothy Weah",
-    "tkl": "35",
+    "tkl": "36",
     "tklWon": "19",
     "tkl_pct": "56.0",
     "interception": "14",
@@ -1025,7 +1025,17 @@
     "tkl": "11",
     "tklWon": "7",
     "tkl_pct": "80.0",
-    "interception": "3",
+    "interception": "4",
+    "blocks": "7",
+    "errors": "0"
+  },
+  {
+    "team_name": "Juventus",
+    "player_name": "Francisco Conceição",
+    "tkl": "23",
+    "tklWon": "13",
+    "tkl_pct": "43.3",
+    "interception": "6",
     "blocks": "7",
     "errors": "0"
   },
@@ -1035,26 +1045,16 @@
     "tkl": "17",
     "tklWon": "12",
     "tkl_pct": "64.3",
-    "interception": "17",
-    "blocks": "16",
-    "errors": "0"
-  },
-  {
-    "team_name": "Juventus",
-    "player_name": "Francisco Conceição",
-    "tkl": "22",
-    "tklWon": "13",
-    "tkl_pct": "41.4",
-    "interception": "5",
-    "blocks": "7",
+    "interception": "19",
+    "blocks": "17",
     "errors": "0"
   },
   {
     "team_name": "Juventus",
     "player_name": "Lloyd Kelly",
-    "tkl": "10",
-    "tklWon": "8",
-    "tkl_pct": "77.8",
+    "tkl": "16",
+    "tklWon": "11",
+    "tkl_pct": "80.0",
     "interception": "2",
     "blocks": "10",
     "errors": "3"
@@ -1132,9 +1132,9 @@
   {
     "team_name": "Juventus",
     "player_name": "Alberto costa",
-    "tkl": "13",
-    "tklWon": "9",
-    "tkl_pct": "75.0",
+    "tkl": "14",
+    "tklWon": "10",
+    "tkl_pct": "77.8",
     "interception": "4",
     "blocks": "5",
     "errors": "0"
@@ -1186,8 +1186,8 @@
     "tklWon": "26",
     "tkl_pct": "66.7",
     "interception": "33",
-    "blocks": "44",
-    "errors": "1"
+    "blocks": "46",
+    "errors": "2"
   },
   {
     "team_name": "Roma",
@@ -1205,7 +1205,7 @@
     "tkl": "46",
     "tklWon": "24",
     "tkl_pct": "50.0",
-    "interception": "27",
+    "interception": "28",
     "blocks": "33",
     "errors": "0"
   },
@@ -1222,11 +1222,11 @@
   {
     "team_name": "Roma",
     "player_name": "Manu Koné",
-    "tkl": "40",
-    "tklWon": "25",
+    "tkl": "41",
+    "tklWon": "26",
     "tkl_pct": "47.5",
     "interception": "24",
-    "blocks": "26",
+    "blocks": "27",
     "errors": "0"
   },
   {
@@ -1242,27 +1242,27 @@
   {
     "team_name": "Roma",
     "player_name": "Zeki Çelik",
-    "tkl": "61",
-    "tklWon": "36",
-    "tkl_pct": "54.8",
+    "tkl": "62",
+    "tklWon": "37",
+    "tkl_pct": "53.5",
     "interception": "15",
-    "blocks": "26",
+    "blocks": "28",
     "errors": "3"
   },
   {
     "team_name": "Roma",
     "player_name": "Bryan Cristante",
-    "tkl": "47",
-    "tklWon": "28",
+    "tkl": "48",
+    "tklWon": "29",
     "tkl_pct": "57.7",
     "interception": "19",
-    "blocks": "19",
+    "blocks": "20",
     "errors": "1"
   },
   {
     "team_name": "Roma",
     "player_name": "Matìas Soulé",
-    "tkl": "25",
+    "tkl": "26",
     "tklWon": "16",
     "tkl_pct": "43.5",
     "interception": "9",
@@ -1281,6 +1281,16 @@
   },
   {
     "team_name": "Roma",
+    "player_name": "Alexis Saelemaekers",
+    "tkl": "33",
+    "tklWon": "20",
+    "tkl_pct": "51.4",
+    "interception": "9",
+    "blocks": "12",
+    "errors": "1"
+  },
+  {
+    "team_name": "Roma",
     "player_name": "Paulo Dybala",
     "tkl": "17",
     "tklWon": "7",
@@ -1291,23 +1301,13 @@
   },
   {
     "team_name": "Roma",
-    "player_name": "Alexis Saelemaekers",
-    "tkl": "30",
-    "tklWon": "17",
-    "tkl_pct": "51.6",
-    "interception": "8",
-    "blocks": "12",
-    "errors": "1"
-  },
-  {
-    "team_name": "Roma",
     "player_name": "Leandro Paredes",
     "tkl": "26",
     "tklWon": "14",
     "tkl_pct": "50.0",
     "interception": "19",
-    "blocks": "13",
-    "errors": "1"
+    "blocks": "14",
+    "errors": "2"
   },
   {
     "team_name": "Roma",
@@ -1322,11 +1322,21 @@
   {
     "team_name": "Roma",
     "player_name": "Niccolò Pisilli",
-    "tkl": "23",
-    "tklWon": "10",
+    "tkl": "24",
+    "tklWon": "11",
     "tkl_pct": "54.5",
     "interception": "11",
     "blocks": "14",
+    "errors": "0"
+  },
+  {
+    "team_name": "Roma",
+    "player_name": "Eldor Shomurodov",
+    "tkl": "14",
+    "tklWon": "6",
+    "tkl_pct": "50.0",
+    "interception": "3",
+    "blocks": "10",
     "errors": "0"
   },
   {
@@ -1337,16 +1347,6 @@
     "tkl_pct": "61.1",
     "interception": "26",
     "blocks": "12",
-    "errors": "0"
-  },
-  {
-    "team_name": "Roma",
-    "player_name": "Eldor Shomurodov",
-    "tkl": "13",
-    "tklWon": "5",
-    "tkl_pct": "50.0",
-    "interception": "3",
-    "blocks": "9",
     "errors": "0"
   },
   {
@@ -1460,276 +1460,6 @@
     "errors": "0"
   },
   {
-    "team_name": "Lazio",
-    "player_name": "Mattéo Guendouzi",
-    "tkl": "36",
-    "tklWon": "20",
-    "tkl_pct": "43.5",
-    "interception": "31",
-    "blocks": "33",
-    "errors": "2"
-  },
-  {
-    "team_name": "Lazio",
-    "player_name": "Mattia Zaccagni",
-    "tkl": "37",
-    "tklWon": "26",
-    "tkl_pct": "50.0",
-    "interception": "29",
-    "blocks": "17",
-    "errors": "2"
-  },
-  {
-    "team_name": "Lazio",
-    "player_name": "Mario Gila",
-    "tkl": "53",
-    "tklWon": "36",
-    "tkl_pct": "67.9",
-    "interception": "28",
-    "blocks": "19",
-    "errors": "3"
-  },
-  {
-    "team_name": "Lazio",
-    "player_name": "Nicolò Rovella",
-    "tkl": "82",
-    "tklWon": "48",
-    "tkl_pct": "51.9",
-    "interception": "47",
-    "blocks": "19",
-    "errors": "3"
-  },
-  {
-    "team_name": "Lazio",
-    "player_name": "Alessio Romagnoli",
-    "tkl": "48",
-    "tklWon": "29",
-    "tkl_pct": "81.5",
-    "interception": "25",
-    "blocks": "32",
-    "errors": "1"
-  },
-  {
-    "team_name": "Lazio",
-    "player_name": "Ivan Provedel",
-    "tkl": "0",
-    "tklWon": "0",
-    "tkl_pct": "",
-    "interception": "1",
-    "blocks": "1",
-    "errors": "3"
-  },
-  {
-    "team_name": "Lazio",
-    "player_name": "Gustav Isaksen",
-    "tkl": "16",
-    "tklWon": "9",
-    "tkl_pct": "25.0",
-    "interception": "9",
-    "blocks": "21",
-    "errors": "1"
-  },
-  {
-    "team_name": "Lazio",
-    "player_name": "Valentín Castellanos",
-    "tkl": "13",
-    "tklWon": "6",
-    "tkl_pct": "10.0",
-    "interception": "5",
-    "blocks": "18",
-    "errors": "0"
-  },
-  {
-    "team_name": "Lazio",
-    "player_name": "Boulaye Dia",
-    "tkl": "22",
-    "tklWon": "10",
-    "tkl_pct": "43.8",
-    "interception": "5",
-    "blocks": "12",
-    "errors": "1"
-  },
-  {
-    "team_name": "Lazio",
-    "player_name": "Adam Marušić",
-    "tkl": "31",
-    "tklWon": "19",
-    "tkl_pct": "58.6",
-    "interception": "16",
-    "blocks": "18",
-    "errors": "0"
-  },
-  {
-    "team_name": "Lazio",
-    "player_name": "Nuno Tavares",
-    "tkl": "28",
-    "tklWon": "21",
-    "tkl_pct": "42.4",
-    "interception": "20",
-    "blocks": "20",
-    "errors": "1"
-  },
-  {
-    "team_name": "Lazio",
-    "player_name": "Manuel Lazzari",
-    "tkl": "26",
-    "tklWon": "16",
-    "tkl_pct": "58.3",
-    "interception": "10",
-    "blocks": "9",
-    "errors": "0"
-  },
-  {
-    "team_name": "Lazio",
-    "player_name": "Fisayo Dele-Bashiru",
-    "tkl": "10",
-    "tklWon": "6",
-    "tkl_pct": "33.3",
-    "interception": "4",
-    "blocks": "10",
-    "errors": "0"
-  },
-  {
-    "team_name": "Lazio",
-    "player_name": "Luca Pellegrini",
-    "tkl": "22",
-    "tklWon": "11",
-    "tkl_pct": "51.6",
-    "interception": "19",
-    "blocks": "10",
-    "errors": "0"
-  },
-  {
-    "team_name": "Lazio",
-    "player_name": "Tijjani Noslin",
-    "tkl": "6",
-    "tklWon": "5",
-    "tkl_pct": "12.5",
-    "interception": "1",
-    "blocks": "15",
-    "errors": "0"
-  },
-  {
-    "team_name": "Lazio",
-    "player_name": "Christos Mandas",
-    "tkl": "0",
-    "tklWon": "0",
-    "tkl_pct": "",
-    "interception": "0",
-    "blocks": "0",
-    "errors": "0"
-  },
-  {
-    "team_name": "Lazio",
-    "player_name": "Matías Vecino",
-    "tkl": "13",
-    "tklWon": "7",
-    "tkl_pct": "22.2",
-    "interception": "5",
-    "blocks": "8",
-    "errors": "0"
-  },
-  {
-    "team_name": "Lazio",
-    "player_name": "Samuel Gigot",
-    "tkl": "4",
-    "tklWon": "3",
-    "tkl_pct": "0.0",
-    "interception": "13",
-    "blocks": "8",
-    "errors": "0"
-  },
-  {
-    "team_name": "Lazio",
-    "player_name": "Pedro",
-    "tkl": "19",
-    "tklWon": "14",
-    "tkl_pct": "47.6",
-    "interception": "3",
-    "blocks": "11",
-    "errors": "1"
-  },
-  {
-    "team_name": "Lazio",
-    "player_name": "Loum Tchaouna",
-    "tkl": "8",
-    "tklWon": "4",
-    "tkl_pct": "33.3",
-    "interception": "4",
-    "blocks": "5",
-    "errors": "2"
-  },
-  {
-    "team_name": "Lazio",
-    "player_name": "Patric",
-    "tkl": "9",
-    "tklWon": "6",
-    "tkl_pct": "60.0",
-    "interception": "3",
-    "blocks": "3",
-    "errors": "1"
-  },
-  {
-    "team_name": "Lazio",
-    "player_name": "Elseid Hysaj",
-    "tkl": "11",
-    "tklWon": "6",
-    "tkl_pct": "100.0",
-    "interception": "5",
-    "blocks": "3",
-    "errors": "0"
-  },
-  {
-    "team_name": "Lazio",
-    "player_name": "Nicolò Casale",
-    "tkl": "5",
-    "tklWon": "3",
-    "tkl_pct": "",
-    "interception": "1",
-    "blocks": "4",
-    "errors": "0"
-  },
-  {
-    "team_name": "Lazio",
-    "player_name": "Reda Belahyane",
-    "tkl": "8",
-    "tklWon": "6",
-    "tkl_pct": "100.0",
-    "interception": "1",
-    "blocks": "3",
-    "errors": "0"
-  },
-  {
-    "team_name": "Lazio",
-    "player_name": "Gaetano Castrovilli",
-    "tkl": "5",
-    "tklWon": "2",
-    "tkl_pct": "50.0",
-    "interception": "3",
-    "blocks": "3",
-    "errors": "0"
-  },
-  {
-    "team_name": "Lazio",
-    "player_name": "Oliver Nielsen",
-    "tkl": "0",
-    "tklWon": "0",
-    "tkl_pct": "",
-    "interception": "1",
-    "blocks": "1",
-    "errors": "0"
-  },
-  {
-    "team_name": "Lazio",
-    "player_name": "Arijon Ibrahimović",
-    "tkl": "0",
-    "tklWon": "0",
-    "tkl_pct": "",
-    "interception": "0",
-    "blocks": "0",
-    "errors": "0"
-  },
-  {
     "team_name": "Fiorentina",
     "player_name": "David de Gea",
     "tkl": "1",
@@ -1744,19 +1474,19 @@
     "player_name": "Dodô",
     "tkl": "44",
     "tklWon": "30",
-    "tkl_pct": "52.1",
-    "interception": "35",
+    "tkl_pct": "51.0",
+    "interception": "36",
     "blocks": "22",
     "errors": "2"
   },
   {
     "team_name": "Fiorentina",
     "player_name": "Luca Ranieri",
-    "tkl": "40",
-    "tklWon": "22",
-    "tkl_pct": "81.8",
+    "tkl": "42",
+    "tklWon": "24",
+    "tkl_pct": "80.0",
     "interception": "28",
-    "blocks": "45",
+    "blocks": "47",
     "errors": "1"
   },
   {
@@ -1772,21 +1502,21 @@
   {
     "team_name": "Fiorentina",
     "player_name": "Robin Gosens",
-    "tkl": "55",
+    "tkl": "56",
     "tklWon": "32",
-    "tkl_pct": "58.1",
+    "tkl_pct": "56.8",
     "interception": "18",
-    "blocks": "31",
+    "blocks": "34",
     "errors": "0"
   },
   {
     "team_name": "Fiorentina",
     "player_name": "Pietro Comuzzo",
-    "tkl": "42",
+    "tkl": "43",
     "tklWon": "21",
-    "tkl_pct": "78.6",
-    "interception": "28",
-    "blocks": "34",
+    "tkl_pct": "79.3",
+    "interception": "29",
+    "blocks": "35",
     "errors": "4"
   },
   {
@@ -1802,19 +1532,19 @@
   {
     "team_name": "Fiorentina",
     "player_name": "Rolando Mandragora",
-    "tkl": "21",
-    "tklWon": "11",
-    "tkl_pct": "43.3",
-    "interception": "16",
+    "tkl": "23",
+    "tklWon": "13",
+    "tkl_pct": "45.2",
+    "interception": "17",
     "blocks": "22",
     "errors": "1"
   },
   {
     "team_name": "Fiorentina",
     "player_name": "Lucas Beltrán",
-    "tkl": "21",
+    "tkl": "23",
     "tklWon": "10",
-    "tkl_pct": "31.6",
+    "tkl_pct": "33.3",
     "interception": "5",
     "blocks": "15",
     "errors": "0"
@@ -1881,22 +1611,22 @@
   },
   {
     "team_name": "Fiorentina",
+    "player_name": "Pablo Marí",
+    "tkl": "14",
+    "tklWon": "9",
+    "tkl_pct": "54.5",
+    "interception": "25",
+    "blocks": "19",
+    "errors": "0"
+  },
+  {
+    "team_name": "Fiorentina",
     "player_name": "Fabiano Parisi",
     "tkl": "27",
     "tklWon": "17",
     "tkl_pct": "57.1",
     "interception": "17",
     "blocks": "14",
-    "errors": "0"
-  },
-  {
-    "team_name": "Fiorentina",
-    "player_name": "Pablo Marí",
-    "tkl": "14",
-    "tklWon": "9",
-    "tkl_pct": "54.5",
-    "interception": "21",
-    "blocks": "16",
     "errors": "0"
   },
   {
@@ -1912,21 +1642,21 @@
   {
     "team_name": "Fiorentina",
     "player_name": "Amir Richardson",
-    "tkl": "25",
-    "tklWon": "11",
-    "tkl_pct": "45.0",
-    "interception": "5",
-    "blocks": "13",
+    "tkl": "30",
+    "tklWon": "13",
+    "tkl_pct": "42.9",
+    "interception": "6",
+    "blocks": "14",
     "errors": "1"
   },
   {
     "team_name": "Fiorentina",
     "player_name": "Nicolò Fagioli",
-    "tkl": "17",
+    "tkl": "18",
     "tklWon": "10",
     "tkl_pct": "40.9",
     "interception": "5",
-    "blocks": "9",
+    "blocks": "11",
     "errors": "2"
   },
   {
@@ -2110,13 +1840,673 @@
     "errors": "0"
   },
   {
+    "team_name": "Lazio",
+    "player_name": "Mattéo Guendouzi",
+    "tkl": "37",
+    "tklWon": "20",
+    "tkl_pct": "42.6",
+    "interception": "32",
+    "blocks": "34",
+    "errors": "2"
+  },
+  {
+    "team_name": "Lazio",
+    "player_name": "Mattia Zaccagni",
+    "tkl": "38",
+    "tklWon": "27",
+    "tkl_pct": "50.0",
+    "interception": "29",
+    "blocks": "19",
+    "errors": "2"
+  },
+  {
+    "team_name": "Lazio",
+    "player_name": "Mario Gila",
+    "tkl": "55",
+    "tklWon": "37",
+    "tkl_pct": "66.1",
+    "interception": "29",
+    "blocks": "20",
+    "errors": "4"
+  },
+  {
+    "team_name": "Lazio",
+    "player_name": "Nicolò Rovella",
+    "tkl": "84",
+    "tklWon": "50",
+    "tkl_pct": "51.9",
+    "interception": "47",
+    "blocks": "19",
+    "errors": "3"
+  },
+  {
+    "team_name": "Lazio",
+    "player_name": "Alessio Romagnoli",
+    "tkl": "48",
+    "tklWon": "29",
+    "tkl_pct": "81.5",
+    "interception": "26",
+    "blocks": "33",
+    "errors": "1"
+  },
+  {
+    "team_name": "Lazio",
+    "player_name": "Ivan Provedel",
+    "tkl": "0",
+    "tklWon": "0",
+    "tkl_pct": "",
+    "interception": "1",
+    "blocks": "1",
+    "errors": "3"
+  },
+  {
+    "team_name": "Lazio",
+    "player_name": "Gustav Isaksen",
+    "tkl": "16",
+    "tklWon": "9",
+    "tkl_pct": "25.0",
+    "interception": "10",
+    "blocks": "22",
+    "errors": "1"
+  },
+  {
+    "team_name": "Lazio",
+    "player_name": "Valentín Castellanos",
+    "tkl": "13",
+    "tklWon": "6",
+    "tkl_pct": "10.0",
+    "interception": "6",
+    "blocks": "18",
+    "errors": "0"
+  },
+  {
+    "team_name": "Lazio",
+    "player_name": "Boulaye Dia",
+    "tkl": "22",
+    "tklWon": "10",
+    "tkl_pct": "43.8",
+    "interception": "6",
+    "blocks": "12",
+    "errors": "1"
+  },
+  {
+    "team_name": "Lazio",
+    "player_name": "Adam Marušić",
+    "tkl": "32",
+    "tklWon": "20",
+    "tkl_pct": "60.0",
+    "interception": "16",
+    "blocks": "18",
+    "errors": "0"
+  },
+  {
+    "team_name": "Lazio",
+    "player_name": "Nuno Tavares",
+    "tkl": "28",
+    "tklWon": "21",
+    "tkl_pct": "41.2",
+    "interception": "21",
+    "blocks": "21",
+    "errors": "2"
+  },
+  {
+    "team_name": "Lazio",
+    "player_name": "Manuel Lazzari",
+    "tkl": "26",
+    "tklWon": "16",
+    "tkl_pct": "58.3",
+    "interception": "10",
+    "blocks": "9",
+    "errors": "0"
+  },
+  {
+    "team_name": "Lazio",
+    "player_name": "Fisayo Dele-Bashiru",
+    "tkl": "10",
+    "tklWon": "6",
+    "tkl_pct": "33.3",
+    "interception": "4",
+    "blocks": "10",
+    "errors": "0"
+  },
+  {
+    "team_name": "Lazio",
+    "player_name": "Luca Pellegrini",
+    "tkl": "23",
+    "tklWon": "11",
+    "tkl_pct": "53.1",
+    "interception": "19",
+    "blocks": "10",
+    "errors": "0"
+  },
+  {
+    "team_name": "Lazio",
+    "player_name": "Christos Mandas",
+    "tkl": "0",
+    "tklWon": "0",
+    "tkl_pct": "",
+    "interception": "0",
+    "blocks": "0",
+    "errors": "0"
+  },
+  {
+    "team_name": "Lazio",
+    "player_name": "Tijjani Noslin",
+    "tkl": "6",
+    "tklWon": "5",
+    "tkl_pct": "12.5",
+    "interception": "1",
+    "blocks": "15",
+    "errors": "0"
+  },
+  {
+    "team_name": "Lazio",
+    "player_name": "Matías Vecino",
+    "tkl": "13",
+    "tklWon": "7",
+    "tkl_pct": "22.2",
+    "interception": "5",
+    "blocks": "9",
+    "errors": "0"
+  },
+  {
+    "team_name": "Lazio",
+    "player_name": "Samuel Gigot",
+    "tkl": "4",
+    "tklWon": "3",
+    "tkl_pct": "0.0",
+    "interception": "13",
+    "blocks": "8",
+    "errors": "0"
+  },
+  {
+    "team_name": "Lazio",
+    "player_name": "Pedro",
+    "tkl": "19",
+    "tklWon": "14",
+    "tkl_pct": "47.6",
+    "interception": "3",
+    "blocks": "11",
+    "errors": "1"
+  },
+  {
+    "team_name": "Lazio",
+    "player_name": "Loum Tchaouna",
+    "tkl": "8",
+    "tklWon": "4",
+    "tkl_pct": "33.3",
+    "interception": "4",
+    "blocks": "5",
+    "errors": "2"
+  },
+  {
+    "team_name": "Lazio",
+    "player_name": "Patric",
+    "tkl": "9",
+    "tklWon": "6",
+    "tkl_pct": "60.0",
+    "interception": "3",
+    "blocks": "3",
+    "errors": "1"
+  },
+  {
+    "team_name": "Lazio",
+    "player_name": "Elseid Hysaj",
+    "tkl": "11",
+    "tklWon": "6",
+    "tkl_pct": "100.0",
+    "interception": "5",
+    "blocks": "5",
+    "errors": "0"
+  },
+  {
+    "team_name": "Lazio",
+    "player_name": "Nicolò Casale",
+    "tkl": "5",
+    "tklWon": "3",
+    "tkl_pct": "",
+    "interception": "1",
+    "blocks": "4",
+    "errors": "0"
+  },
+  {
+    "team_name": "Lazio",
+    "player_name": "Reda Belahyane",
+    "tkl": "8",
+    "tklWon": "6",
+    "tkl_pct": "100.0",
+    "interception": "1",
+    "blocks": "3",
+    "errors": "0"
+  },
+  {
+    "team_name": "Lazio",
+    "player_name": "Gaetano Castrovilli",
+    "tkl": "5",
+    "tklWon": "2",
+    "tkl_pct": "50.0",
+    "interception": "3",
+    "blocks": "3",
+    "errors": "0"
+  },
+  {
+    "team_name": "Lazio",
+    "player_name": "Oliver Nielsen",
+    "tkl": "0",
+    "tklWon": "0",
+    "tkl_pct": "",
+    "interception": "1",
+    "blocks": "1",
+    "errors": "0"
+  },
+  {
+    "team_name": "Lazio",
+    "player_name": "Arijon Ibrahimović",
+    "tkl": "0",
+    "tklWon": "0",
+    "tkl_pct": "",
+    "interception": "0",
+    "blocks": "0",
+    "errors": "0"
+  },
+  {
+    "team_name": "Milan",
+    "player_name": "Mike Maignan",
+    "tkl": "0",
+    "tklWon": "0",
+    "tkl_pct": "0.0",
+    "interception": "0",
+    "blocks": "1",
+    "errors": "3"
+  },
+  {
+    "team_name": "Milan",
+    "player_name": "Tijjani Reijnders",
+    "tkl": "26",
+    "tklWon": "13",
+    "tkl_pct": "38.5",
+    "interception": "38",
+    "blocks": "22",
+    "errors": "2"
+  },
+  {
+    "team_name": "Milan",
+    "player_name": "Theo Hernández",
+    "tkl": "36",
+    "tklWon": "28",
+    "tkl_pct": "53.8",
+    "interception": "17",
+    "blocks": "25",
+    "errors": "3"
+  },
+  {
+    "team_name": "Milan",
+    "player_name": "Youssouf Fofana",
+    "tkl": "56",
+    "tklWon": "34",
+    "tkl_pct": "50.0",
+    "interception": "19",
+    "blocks": "32",
+    "errors": "3"
+  },
+  {
+    "team_name": "Milan",
+    "player_name": "Christian Pulisic",
+    "tkl": "43",
+    "tklWon": "29",
+    "tkl_pct": "40.5",
+    "interception": "5",
+    "blocks": "24",
+    "errors": "2"
+  },
+  {
+    "team_name": "Milan",
+    "player_name": "Rafael Leão",
+    "tkl": "16",
+    "tklWon": "10",
+    "tkl_pct": "37.9",
+    "interception": "6",
+    "blocks": "15",
+    "errors": "0"
+  },
+  {
+    "team_name": "Milan",
+    "player_name": "Matteo Gabbia",
+    "tkl": "21",
+    "tklWon": "15",
+    "tkl_pct": "80.0",
+    "interception": "15",
+    "blocks": "25",
+    "errors": "1"
+  },
+  {
+    "team_name": "Milan",
+    "player_name": "Strahinja Pavlović",
+    "tkl": "52",
+    "tklWon": "31",
+    "tkl_pct": "58.0",
+    "interception": "16",
+    "blocks": "17",
+    "errors": "0"
+  },
+  {
+    "team_name": "Milan",
+    "player_name": "Malick Thiaw",
+    "tkl": "24",
+    "tklWon": "17",
+    "tkl_pct": "60.0",
+    "interception": "15",
+    "blocks": "14",
+    "errors": "1"
+  },
+  {
+    "team_name": "Milan",
+    "player_name": "Fikayo Tomori",
+    "tkl": "40",
+    "tklWon": "25",
+    "tkl_pct": "68.0",
+    "interception": "20",
+    "blocks": "17",
+    "errors": "2"
+  },
+  {
+    "team_name": "Milan",
+    "player_name": "",
+    "tkl": "",
+    "tklWon": "",
+    "tkl_pct": "",
+    "interception": "",
+    "blocks": "",
+    "errors": ""
+  },
+  {
+    "team_name": "Milan",
+    "player_name": "Player",
+    "tkl": "",
+    "tklWon": "",
+    "tkl_pct": "",
+    "interception": "",
+    "blocks": "",
+    "errors": ""
+  },
+  {
+    "team_name": "Milan",
+    "player_name": "Yunus Musah",
+    "tkl": "27",
+    "tklWon": "19",
+    "tkl_pct": "70.6",
+    "interception": "7",
+    "blocks": "9",
+    "errors": "3"
+  },
+  {
+    "team_name": "Milan",
+    "player_name": "Emerson",
+    "tkl": "45",
+    "tklWon": "28",
+    "tkl_pct": "47.1",
+    "interception": "14",
+    "blocks": "13",
+    "errors": "0"
+  },
+  {
+    "team_name": "Milan",
+    "player_name": "Alejandro Jiménez",
+    "tkl": "24",
+    "tklWon": "13",
+    "tkl_pct": "40.7",
+    "interception": "15",
+    "blocks": "24",
+    "errors": "0"
+  },
+  {
+    "team_name": "Milan",
+    "player_name": "Álvaro Morata",
+    "tkl": "16",
+    "tklWon": "10",
+    "tkl_pct": "62.5",
+    "interception": "5",
+    "blocks": "7",
+    "errors": "0"
+  },
+  {
+    "team_name": "Milan",
+    "player_name": "Tammy Abraham",
+    "tkl": "17",
+    "tklWon": "11",
+    "tkl_pct": "75.0",
+    "interception": "2",
+    "blocks": "13",
+    "errors": "0"
+  },
+  {
+    "team_name": "Milan",
+    "player_name": "Ruben Loftus-Cheek",
+    "tkl": "19",
+    "tklWon": "8",
+    "tkl_pct": "50.0",
+    "interception": "3",
+    "blocks": "3",
+    "errors": "0"
+  },
+  {
+    "team_name": "Milan",
+    "player_name": "Samuel Chukwueze",
+    "tkl": "17",
+    "tklWon": "11",
+    "tkl_pct": "26.3",
+    "interception": "2",
+    "blocks": "3",
+    "errors": "0"
+  },
+  {
+    "team_name": "Milan",
+    "player_name": "João Félix",
+    "tkl": "6",
+    "tklWon": "6",
+    "tkl_pct": "28.6",
+    "interception": "1",
+    "blocks": "2",
+    "errors": "0"
+  },
+  {
+    "team_name": "Milan",
+    "player_name": "Santiago Giménez",
+    "tkl": "5",
+    "tklWon": "3",
+    "tkl_pct": "75.0",
+    "interception": "1",
+    "blocks": "3",
+    "errors": "0"
+  },
+  {
+    "team_name": "Milan",
+    "player_name": "Kyle Walker",
+    "tkl": "17",
+    "tklWon": "9",
+    "tkl_pct": "76.5",
+    "interception": "9",
+    "blocks": "9",
+    "errors": "1"
+  },
+  {
+    "team_name": "Milan",
+    "player_name": "",
+    "tkl": "",
+    "tklWon": "",
+    "tkl_pct": "",
+    "interception": "",
+    "blocks": "",
+    "errors": ""
+  },
+  {
+    "team_name": "Milan",
+    "player_name": "Player",
+    "tkl": "",
+    "tklWon": "",
+    "tkl_pct": "",
+    "interception": "",
+    "blocks": "",
+    "errors": ""
+  },
+  {
+    "team_name": "Milan",
+    "player_name": "Luka Jović",
+    "tkl": "0",
+    "tklWon": "0",
+    "tkl_pct": "",
+    "interception": "1",
+    "blocks": "2",
+    "errors": "0"
+  },
+  {
+    "team_name": "Milan",
+    "player_name": "Filippo Terracciano",
+    "tkl": "9",
+    "tklWon": "6",
+    "tkl_pct": "50.0",
+    "interception": "6",
+    "blocks": "1",
+    "errors": "0"
+  },
+  {
+    "team_name": "Milan",
+    "player_name": "Noah Okafor",
+    "tkl": "2",
+    "tklWon": "1",
+    "tkl_pct": "0.0",
+    "interception": "2",
+    "blocks": "1",
+    "errors": "0"
+  },
+  {
+    "team_name": "Milan",
+    "player_name": "Davide Calabria",
+    "tkl": "10",
+    "tklWon": "7",
+    "tkl_pct": "57.1",
+    "interception": "8",
+    "blocks": "1",
+    "errors": "0"
+  },
+  {
+    "team_name": "Milan",
+    "player_name": "Ismaël Bennacer",
+    "tkl": "5",
+    "tklWon": "4",
+    "tkl_pct": "14.3",
+    "interception": "3",
+    "blocks": "5",
+    "errors": "0"
+  },
+  {
+    "team_name": "Milan",
+    "player_name": "Warren Bondo",
+    "tkl": "5",
+    "tklWon": "3",
+    "tkl_pct": "100.0",
+    "interception": "0",
+    "blocks": "1",
+    "errors": "0"
+  },
+  {
+    "team_name": "Milan",
+    "player_name": "Francesco Camarda",
+    "tkl": "5",
+    "tklWon": "2",
+    "tkl_pct": "33.3",
+    "interception": "0",
+    "blocks": "2",
+    "errors": "0"
+  },
+  {
+    "team_name": "Milan",
+    "player_name": "Marco Sportiello",
+    "tkl": "0",
+    "tklWon": "0",
+    "tkl_pct": "",
+    "interception": "0",
+    "blocks": "0",
+    "errors": "0"
+  },
+  {
+    "team_name": "Milan",
+    "player_name": "Riccardo Sottil",
+    "tkl": "1",
+    "tklWon": "1",
+    "tkl_pct": "",
+    "interception": "0",
+    "blocks": "0",
+    "errors": "0"
+  },
+  {
+    "team_name": "Milan",
+    "player_name": "Davide Bartesaghi",
+    "tkl": "4",
+    "tklWon": "2",
+    "tkl_pct": "100.0",
+    "interception": "3",
+    "blocks": "1",
+    "errors": "0"
+  },
+  {
+    "team_name": "Milan",
+    "player_name": "Alexis Saelemaekers",
+    "tkl": "1",
+    "tklWon": "1",
+    "tkl_pct": "100.0",
+    "interception": "1",
+    "blocks": "0",
+    "errors": "0"
+  },
+  {
+    "team_name": "Milan",
+    "player_name": "Mattia Liberali",
+    "tkl": "2",
+    "tklWon": "1",
+    "tkl_pct": "100.0",
+    "interception": "0",
+    "blocks": "0",
+    "errors": "0"
+  },
+  {
+    "team_name": "Milan",
+    "player_name": "Kevin Zeroli",
+    "tkl": "1",
+    "tklWon": "1",
+    "tkl_pct": "",
+    "interception": "0",
+    "blocks": "0",
+    "errors": "0"
+  },
+  {
+    "team_name": "Milan",
+    "player_name": "Alessandro Florenzi",
+    "tkl": "0",
+    "tklWon": "0",
+    "tkl_pct": "",
+    "interception": "0",
+    "blocks": "0",
+    "errors": "0"
+  },
+  {
+    "team_name": "Milan",
+    "player_name": "Bob Murphy Omoregbe",
+    "tkl": "0",
+    "tklWon": "0",
+    "tkl_pct": "",
+    "interception": "0",
+    "blocks": "0",
+    "errors": "0"
+  },
+  {
     "team_name": "Bologna",
     "player_name": "Remo Freuler",
-    "tkl": "78",
+    "tkl": "79",
     "tklWon": "40",
-    "tkl_pct": "42.3",
+    "tkl_pct": "41.8",
     "interception": "38",
-    "blocks": "37",
+    "blocks": "38",
     "errors": "1"
   },
   {
@@ -2132,10 +2522,10 @@
   {
     "team_name": "Bologna",
     "player_name": "Jhon Lucumí",
-    "tkl": "51",
-    "tklWon": "29",
-    "tkl_pct": "70.0",
-    "interception": "25",
+    "tkl": "53",
+    "tklWon": "30",
+    "tkl_pct": "70.7",
+    "interception": "26",
     "blocks": "32",
     "errors": "7"
   },
@@ -2161,6 +2551,16 @@
   },
   {
     "team_name": "Bologna",
+    "player_name": "Dan Ndoye",
+    "tkl": "26",
+    "tklWon": "19",
+    "tkl_pct": "57.1",
+    "interception": "9",
+    "blocks": "23",
+    "errors": "0"
+  },
+  {
+    "team_name": "Bologna",
     "player_name": "Juan Miranda",
     "tkl": "32",
     "tklWon": "18",
@@ -2168,16 +2568,6 @@
     "interception": "23",
     "blocks": "21",
     "errors": "1"
-  },
-  {
-    "team_name": "Bologna",
-    "player_name": "Dan Ndoye",
-    "tkl": "24",
-    "tklWon": "18",
-    "tkl_pct": "56.0",
-    "interception": "8",
-    "blocks": "22",
-    "errors": "0"
   },
   {
     "team_name": "Bologna",
@@ -2192,11 +2582,11 @@
   {
     "team_name": "Bologna",
     "player_name": "Riccardo Orsolini",
-    "tkl": "14",
-    "tklWon": "12",
-    "tkl_pct": "40.0",
+    "tkl": "16",
+    "tklWon": "13",
+    "tkl_pct": "45.5",
     "interception": "8",
-    "blocks": "25",
+    "blocks": "26",
     "errors": "1"
   },
   {
@@ -2242,11 +2632,11 @@
   {
     "team_name": "Bologna",
     "player_name": "Tommaso Pobega",
-    "tkl": "32",
+    "tkl": "33",
     "tklWon": "19",
-    "tkl_pct": "72.4",
-    "interception": "13",
-    "blocks": "15",
+    "tkl_pct": "73.3",
+    "interception": "14",
+    "blocks": "16",
     "errors": "0"
   },
   {
@@ -2261,20 +2651,10 @@
   },
   {
     "team_name": "Bologna",
-    "player_name": "Thijs Dallinga",
-    "tkl": "10",
-    "tklWon": "5",
-    "tkl_pct": "100.0",
-    "interception": "1",
-    "blocks": "10",
-    "errors": "1"
-  },
-  {
-    "team_name": "Bologna",
     "player_name": "Emil Holm",
     "tkl": "34",
     "tklWon": "21",
-    "tkl_pct": "66.7",
+    "tkl_pct": "64.5",
     "interception": "10",
     "blocks": "19",
     "errors": "1"
@@ -2282,11 +2662,21 @@
   {
     "team_name": "Bologna",
     "player_name": "Charalambos Lykogiannis",
-    "tkl": "21",
-    "tklWon": "12",
+    "tkl": "23",
+    "tklWon": "14",
     "tkl_pct": "50.0",
-    "interception": "10",
-    "blocks": "9",
+    "interception": "11",
+    "blocks": "10",
+    "errors": "1"
+  },
+  {
+    "team_name": "Bologna",
+    "player_name": "Thijs Dallinga",
+    "tkl": "10",
+    "tklWon": "5",
+    "tkl_pct": "100.0",
+    "interception": "1",
+    "blocks": "10",
     "errors": "1"
   },
   {
@@ -2301,6 +2691,16 @@
   },
   {
     "team_name": "Bologna",
+    "player_name": "Lewis Ferguson",
+    "tkl": "24",
+    "tklWon": "13",
+    "tkl_pct": "56.3",
+    "interception": "5",
+    "blocks": "9",
+    "errors": "0"
+  },
+  {
+    "team_name": "Bologna",
     "player_name": "Giovanni Fabbian",
     "tkl": "10",
     "tklWon": "6",
@@ -2311,23 +2711,13 @@
   },
   {
     "team_name": "Bologna",
-    "player_name": "Lewis Ferguson",
-    "tkl": "21",
-    "tklWon": "11",
-    "tkl_pct": "53.8",
-    "interception": "5",
-    "blocks": "9",
-    "errors": "0"
-  },
-  {
-    "team_name": "Bologna",
     "player_name": "Nicolò Casale",
-    "tkl": "9",
-    "tklWon": "4",
+    "tkl": "11",
+    "tklWon": "5",
     "tkl_pct": "50.0",
-    "interception": "14",
-    "blocks": "14",
-    "errors": "2"
+    "interception": "17",
+    "blocks": "15",
+    "errors": "3"
   },
   {
     "team_name": "Bologna",
@@ -2352,10 +2742,10 @@
   {
     "team_name": "Bologna",
     "player_name": "Michel Aebischer",
-    "tkl": "17",
-    "tklWon": "12",
-    "tkl_pct": "69.2",
-    "interception": "6",
+    "tkl": "18",
+    "tklWon": "13",
+    "tkl_pct": "71.4",
+    "interception": "7",
     "blocks": "4",
     "errors": "0"
   },
@@ -2375,7 +2765,7 @@
     "tkl": "12",
     "tklWon": "8",
     "tkl_pct": "41.7",
-    "interception": "2",
+    "interception": "3",
     "blocks": "4",
     "errors": "1"
   },
@@ -2442,386 +2832,6 @@
   {
     "team_name": "Bologna",
     "player_name": "Estanis",
-    "tkl": "0",
-    "tklWon": "0",
-    "tkl_pct": "",
-    "interception": "0",
-    "blocks": "0",
-    "errors": "0"
-  },
-  {
-    "team_name": "Milan",
-    "player_name": "Mike Maignan",
-    "tkl": "0",
-    "tklWon": "0",
-    "tkl_pct": "0.0",
-    "interception": "0",
-    "blocks": "1",
-    "errors": "3"
-  },
-  {
-    "team_name": "Milan",
-    "player_name": "Tijjani Reijnders",
-    "tkl": "25",
-    "tklWon": "13",
-    "tkl_pct": "38.5",
-    "interception": "35",
-    "blocks": "22",
-    "errors": "2"
-  },
-  {
-    "team_name": "Milan",
-    "player_name": "Theo Hernández",
-    "tkl": "36",
-    "tklWon": "28",
-    "tkl_pct": "53.8",
-    "interception": "17",
-    "blocks": "25",
-    "errors": "3"
-  },
-  {
-    "team_name": "Milan",
-    "player_name": "Youssouf Fofana",
-    "tkl": "56",
-    "tklWon": "34",
-    "tkl_pct": "50.0",
-    "interception": "19",
-    "blocks": "32",
-    "errors": "3"
-  },
-  {
-    "team_name": "Milan",
-    "player_name": "Christian Pulisic",
-    "tkl": "42",
-    "tklWon": "28",
-    "tkl_pct": "40.5",
-    "interception": "5",
-    "blocks": "24",
-    "errors": "2"
-  },
-  {
-    "team_name": "Milan",
-    "player_name": "Rafael Leão",
-    "tkl": "16",
-    "tklWon": "10",
-    "tkl_pct": "37.9",
-    "interception": "6",
-    "blocks": "15",
-    "errors": "0"
-  },
-  {
-    "team_name": "Milan",
-    "player_name": "Matteo Gabbia",
-    "tkl": "21",
-    "tklWon": "15",
-    "tkl_pct": "80.0",
-    "interception": "13",
-    "blocks": "24",
-    "errors": "1"
-  },
-  {
-    "team_name": "Milan",
-    "player_name": "Strahinja Pavlović",
-    "tkl": "51",
-    "tklWon": "31",
-    "tkl_pct": "58.0",
-    "interception": "16",
-    "blocks": "15",
-    "errors": "0"
-  },
-  {
-    "team_name": "Milan",
-    "player_name": "Malick Thiaw",
-    "tkl": "24",
-    "tklWon": "17",
-    "tkl_pct": "60.0",
-    "interception": "15",
-    "blocks": "14",
-    "errors": "1"
-  },
-  {
-    "team_name": "Milan",
-    "player_name": "Yunus Musah",
-    "tkl": "26",
-    "tklWon": "18",
-    "tkl_pct": "68.8",
-    "interception": "7",
-    "blocks": "9",
-    "errors": "3"
-  },
-  {
-    "team_name": "Milan",
-    "player_name": "",
-    "tkl": "",
-    "tklWon": "",
-    "tkl_pct": "",
-    "interception": "",
-    "blocks": "",
-    "errors": ""
-  },
-  {
-    "team_name": "Milan",
-    "player_name": "Player",
-    "tkl": "",
-    "tklWon": "",
-    "tkl_pct": "",
-    "interception": "",
-    "blocks": "",
-    "errors": ""
-  },
-  {
-    "team_name": "Milan",
-    "player_name": "Fikayo Tomori",
-    "tkl": "37",
-    "tklWon": "23",
-    "tkl_pct": "65.2",
-    "interception": "19",
-    "blocks": "16",
-    "errors": "2"
-  },
-  {
-    "team_name": "Milan",
-    "player_name": "Emerson",
-    "tkl": "45",
-    "tklWon": "28",
-    "tkl_pct": "47.1",
-    "interception": "14",
-    "blocks": "13",
-    "errors": "0"
-  },
-  {
-    "team_name": "Milan",
-    "player_name": "Alejandro Jiménez",
-    "tkl": "23",
-    "tklWon": "13",
-    "tkl_pct": "40.7",
-    "interception": "15",
-    "blocks": "24",
-    "errors": "0"
-  },
-  {
-    "team_name": "Milan",
-    "player_name": "Álvaro Morata",
-    "tkl": "16",
-    "tklWon": "10",
-    "tkl_pct": "62.5",
-    "interception": "5",
-    "blocks": "7",
-    "errors": "0"
-  },
-  {
-    "team_name": "Milan",
-    "player_name": "Tammy Abraham",
-    "tkl": "17",
-    "tklWon": "11",
-    "tkl_pct": "75.0",
-    "interception": "2",
-    "blocks": "13",
-    "errors": "0"
-  },
-  {
-    "team_name": "Milan",
-    "player_name": "Ruben Loftus-Cheek",
-    "tkl": "16",
-    "tklWon": "7",
-    "tkl_pct": "45.5",
-    "interception": "3",
-    "blocks": "3",
-    "errors": "0"
-  },
-  {
-    "team_name": "Milan",
-    "player_name": "Samuel Chukwueze",
-    "tkl": "16",
-    "tklWon": "10",
-    "tkl_pct": "27.8",
-    "interception": "2",
-    "blocks": "3",
-    "errors": "0"
-  },
-  {
-    "team_name": "Milan",
-    "player_name": "João Félix",
-    "tkl": "6",
-    "tklWon": "6",
-    "tkl_pct": "28.6",
-    "interception": "1",
-    "blocks": "2",
-    "errors": "0"
-  },
-  {
-    "team_name": "Milan",
-    "player_name": "Santiago Giménez",
-    "tkl": "5",
-    "tklWon": "3",
-    "tkl_pct": "75.0",
-    "interception": "1",
-    "blocks": "3",
-    "errors": "0"
-  },
-  {
-    "team_name": "Milan",
-    "player_name": "Kyle Walker",
-    "tkl": "17",
-    "tklWon": "9",
-    "tkl_pct": "76.5",
-    "interception": "9",
-    "blocks": "9",
-    "errors": "1"
-  },
-  {
-    "team_name": "Milan",
-    "player_name": "",
-    "tkl": "",
-    "tklWon": "",
-    "tkl_pct": "",
-    "interception": "",
-    "blocks": "",
-    "errors": ""
-  },
-  {
-    "team_name": "Milan",
-    "player_name": "Player",
-    "tkl": "",
-    "tklWon": "",
-    "tkl_pct": "",
-    "interception": "",
-    "blocks": "",
-    "errors": ""
-  },
-  {
-    "team_name": "Milan",
-    "player_name": "Filippo Terracciano",
-    "tkl": "9",
-    "tklWon": "6",
-    "tkl_pct": "50.0",
-    "interception": "6",
-    "blocks": "1",
-    "errors": "0"
-  },
-  {
-    "team_name": "Milan",
-    "player_name": "Luka Jović",
-    "tkl": "0",
-    "tklWon": "0",
-    "tkl_pct": "",
-    "interception": "1",
-    "blocks": "2",
-    "errors": "0"
-  },
-  {
-    "team_name": "Milan",
-    "player_name": "Noah Okafor",
-    "tkl": "2",
-    "tklWon": "1",
-    "tkl_pct": "0.0",
-    "interception": "2",
-    "blocks": "1",
-    "errors": "0"
-  },
-  {
-    "team_name": "Milan",
-    "player_name": "Davide Calabria",
-    "tkl": "10",
-    "tklWon": "7",
-    "tkl_pct": "57.1",
-    "interception": "8",
-    "blocks": "1",
-    "errors": "0"
-  },
-  {
-    "team_name": "Milan",
-    "player_name": "Ismaël Bennacer",
-    "tkl": "5",
-    "tklWon": "4",
-    "tkl_pct": "14.3",
-    "interception": "3",
-    "blocks": "5",
-    "errors": "0"
-  },
-  {
-    "team_name": "Milan",
-    "player_name": "Warren Bondo",
-    "tkl": "5",
-    "tklWon": "3",
-    "tkl_pct": "100.0",
-    "interception": "0",
-    "blocks": "1",
-    "errors": "0"
-  },
-  {
-    "team_name": "Milan",
-    "player_name": "Francesco Camarda",
-    "tkl": "5",
-    "tklWon": "2",
-    "tkl_pct": "33.3",
-    "interception": "0",
-    "blocks": "1",
-    "errors": "0"
-  },
-  {
-    "team_name": "Milan",
-    "player_name": "Marco Sportiello",
-    "tkl": "0",
-    "tklWon": "0",
-    "tkl_pct": "",
-    "interception": "0",
-    "blocks": "0",
-    "errors": "0"
-  },
-  {
-    "team_name": "Milan",
-    "player_name": "Riccardo Sottil",
-    "tkl": "1",
-    "tklWon": "1",
-    "tkl_pct": "",
-    "interception": "0",
-    "blocks": "0",
-    "errors": "0"
-  },
-  {
-    "team_name": "Milan",
-    "player_name": "Alexis Saelemaekers",
-    "tkl": "1",
-    "tklWon": "1",
-    "tkl_pct": "100.0",
-    "interception": "1",
-    "blocks": "0",
-    "errors": "0"
-  },
-  {
-    "team_name": "Milan",
-    "player_name": "Mattia Liberali",
-    "tkl": "2",
-    "tklWon": "1",
-    "tkl_pct": "100.0",
-    "interception": "0",
-    "blocks": "0",
-    "errors": "0"
-  },
-  {
-    "team_name": "Milan",
-    "player_name": "Davide Bartesaghi",
-    "tkl": "2",
-    "tklWon": "1",
-    "tkl_pct": "100.0",
-    "interception": "2",
-    "blocks": "1",
-    "errors": "0"
-  },
-  {
-    "team_name": "Milan",
-    "player_name": "Kevin Zeroli",
-    "tkl": "1",
-    "tklWon": "1",
-    "tkl_pct": "",
-    "interception": "0",
-    "blocks": "0",
-    "errors": "0"
-  },
-  {
-    "team_name": "Milan",
-    "player_name": "Bob Murphy Omoregbe",
     "tkl": "0",
     "tklWon": "0",
     "tkl_pct": "",
@@ -3282,11 +3292,11 @@
   {
     "team_name": "Torino",
     "player_name": "Samuele Ricci",
-    "tkl": "33",
-    "tklWon": "19",
-    "tkl_pct": "66.7",
+    "tkl": "35",
+    "tklWon": "21",
+    "tkl_pct": "64.3",
     "interception": "25",
-    "blocks": "21",
+    "blocks": "23",
     "errors": "2"
   },
   {
@@ -3302,9 +3312,9 @@
   {
     "team_name": "Torino",
     "player_name": "Che Adams",
-    "tkl": "10",
-    "tklWon": "5",
-    "tkl_pct": "0.0",
+    "tkl": "12",
+    "tklWon": "6",
+    "tkl_pct": "14.3",
     "interception": "2",
     "blocks": "13",
     "errors": "0"
@@ -3312,11 +3322,11 @@
   {
     "team_name": "Torino",
     "player_name": "Guillermo Maripán",
-    "tkl": "37",
-    "tklWon": "22",
-    "tkl_pct": "62.5",
+    "tkl": "40",
+    "tklWon": "23",
+    "tkl_pct": "63.6",
     "interception": "40",
-    "blocks": "26",
+    "blocks": "27",
     "errors": "1"
   },
   {
@@ -3324,7 +3334,7 @@
     "player_name": "Valentino Lazaro",
     "tkl": "26",
     "tklWon": "12",
-    "tkl_pct": "53.6",
+    "tkl_pct": "50.0",
     "interception": "11",
     "blocks": "28",
     "errors": "1"
@@ -3332,12 +3342,22 @@
   {
     "team_name": "Torino",
     "player_name": "Nikola Vlašić",
-    "tkl": "35",
-    "tklWon": "18",
+    "tkl": "37",
+    "tklWon": "19",
     "tkl_pct": "40.0",
     "interception": "9",
-    "blocks": "14",
+    "blocks": "15",
     "errors": "0"
+  },
+  {
+    "team_name": "Torino",
+    "player_name": "Adam Masina",
+    "tkl": "33",
+    "tklWon": "15",
+    "tkl_pct": "57.5",
+    "interception": "27",
+    "blocks": "28",
+    "errors": "2"
   },
   {
     "team_name": "Torino",
@@ -3348,16 +3368,6 @@
     "interception": "18",
     "blocks": "21",
     "errors": "0"
-  },
-  {
-    "team_name": "Torino",
-    "player_name": "Adam Masina",
-    "tkl": "33",
-    "tklWon": "15",
-    "tkl_pct": "57.5",
-    "interception": "26",
-    "blocks": "27",
-    "errors": "2"
   },
   {
     "team_name": "Torino",
@@ -3431,20 +3441,10 @@
   },
   {
     "team_name": "Torino",
-    "player_name": "Mërgim Vojvoda",
-    "tkl": "18",
-    "tklWon": "10",
-    "tkl_pct": "50.0",
-    "interception": "7",
-    "blocks": "13",
-    "errors": "1"
-  },
-  {
-    "team_name": "Torino",
     "player_name": "Cristiano Biraghi",
-    "tkl": "14",
+    "tkl": "16",
     "tklWon": "10",
-    "tkl_pct": "56.3",
+    "tkl_pct": "61.1",
     "interception": "8",
     "blocks": "15",
     "errors": "0"
@@ -3456,17 +3456,27 @@
     "tklWon": "5",
     "tkl_pct": "50.0",
     "interception": "5",
-    "blocks": "3",
+    "blocks": "4",
     "errors": "0"
   },
   {
     "team_name": "Torino",
+    "player_name": "Mërgim Vojvoda",
+    "tkl": "18",
+    "tklWon": "10",
+    "tkl_pct": "50.0",
+    "interception": "7",
+    "blocks": "13",
+    "errors": "1"
+  },
+  {
+    "team_name": "Torino",
     "player_name": "Elif Elmas",
-    "tkl": "8",
-    "tklWon": "5",
-    "tkl_pct": "44.4",
+    "tkl": "10",
+    "tklWon": "7",
+    "tkl_pct": "40.0",
     "interception": "6",
-    "blocks": "7",
+    "blocks": "8",
     "errors": "2"
   },
   {
@@ -3536,7 +3546,7 @@
     "tklWon": "5",
     "tkl_pct": "100.0",
     "interception": "1",
-    "blocks": "5",
+    "blocks": "6",
     "errors": "1"
   },
   {
@@ -3572,9 +3582,9 @@
   {
     "team_name": "Torino",
     "player_name": "Sergiu Perciun",
-    "tkl": "1",
-    "tklWon": "1",
-    "tkl_pct": "0.0",
+    "tkl": "2",
+    "tklWon": "2",
+    "tkl_pct": "25.0",
     "interception": "1",
     "blocks": "2",
     "errors": "0"
@@ -3586,6 +3596,16 @@
     "tklWon": "0",
     "tkl_pct": "",
     "interception": "1",
+    "blocks": "0",
+    "errors": "0"
+  },
+  {
+    "team_name": "Torino",
+    "player_name": "Tommaso Gabellini",
+    "tkl": "0",
+    "tklWon": "0",
+    "tkl_pct": "",
+    "interception": "0",
     "blocks": "0",
     "errors": "0"
   },
@@ -3612,10 +3632,10 @@
   {
     "team_name": "Udinese",
     "player_name": "Jesper Karlström",
-    "tkl": "60",
-    "tklWon": "33",
-    "tkl_pct": "50.0",
-    "interception": "34",
+    "tkl": "61",
+    "tklWon": "34",
+    "tkl_pct": "49.0",
+    "interception": "35",
     "blocks": "28",
     "errors": "4"
   },
@@ -3624,9 +3644,9 @@
     "player_name": "Jaka Bijol",
     "tkl": "43",
     "tklWon": "25",
-    "tkl_pct": "53.8",
+    "tkl_pct": "52.5",
     "interception": "38",
-    "blocks": "37",
+    "blocks": "38",
     "errors": "1"
   },
   {
@@ -3645,29 +3665,19 @@
     "tkl": "54",
     "tklWon": "35",
     "tkl_pct": "61.0",
-    "interception": "23",
-    "blocks": "38",
+    "interception": "24",
+    "blocks": "41",
     "errors": "5"
   },
   {
     "team_name": "Udinese",
     "player_name": "Lorenzo Lucca",
-    "tkl": "9",
+    "tkl": "10",
     "tklWon": "6",
-    "tkl_pct": "40.0",
+    "tkl_pct": "45.5",
     "interception": "6",
     "blocks": "18",
     "errors": "0"
-  },
-  {
-    "team_name": "Udinese",
-    "player_name": "Hassane Kamara",
-    "tkl": "35",
-    "tklWon": "25",
-    "tkl_pct": "57.1",
-    "interception": "26",
-    "blocks": "23",
-    "errors": "1"
   },
   {
     "team_name": "Udinese",
@@ -3677,6 +3687,16 @@
     "tkl_pct": "",
     "interception": "0",
     "blocks": "0",
+    "errors": "1"
+  },
+  {
+    "team_name": "Udinese",
+    "player_name": "Hassane Kamara",
+    "tkl": "35",
+    "tklWon": "25",
+    "tkl_pct": "57.1",
+    "interception": "26",
+    "blocks": "23",
     "errors": "1"
   },
   {
@@ -3692,11 +3712,11 @@
   {
     "team_name": "Udinese",
     "player_name": "Jurgen Ekkelenkamp",
-    "tkl": "35",
-    "tklWon": "24",
-    "tkl_pct": "51.5",
+    "tkl": "36",
+    "tklWon": "25",
+    "tkl_pct": "51.4",
     "interception": "12",
-    "blocks": "25",
+    "blocks": "26",
     "errors": "0"
   },
   {
@@ -3736,7 +3756,7 @@
     "tklWon": "19",
     "tkl_pct": "70.0",
     "interception": "17",
-    "blocks": "31",
+    "blocks": "32",
     "errors": "4"
   },
   {
@@ -3752,12 +3772,32 @@
   {
     "team_name": "Udinese",
     "player_name": "Jordan Zemura",
-    "tkl": "28",
-    "tklWon": "13",
-    "tkl_pct": "57.7",
-    "interception": "15",
-    "blocks": "16",
+    "tkl": "31",
+    "tklWon": "14",
+    "tkl_pct": "58.6",
+    "interception": "16",
+    "blocks": "17",
     "errors": "0"
+  },
+  {
+    "team_name": "Udinese",
+    "player_name": "Arthur Atta",
+    "tkl": "20",
+    "tklWon": "12",
+    "tkl_pct": "66.7",
+    "interception": "7",
+    "blocks": "8",
+    "errors": "1"
+  },
+  {
+    "team_name": "Udinese",
+    "player_name": "Christian Kabasele",
+    "tkl": "17",
+    "tklWon": "9",
+    "tkl_pct": "78.6",
+    "interception": "14",
+    "blocks": "14",
+    "errors": "1"
   },
   {
     "team_name": "Udinese",
@@ -3768,26 +3808,6 @@
     "interception": "0",
     "blocks": "0",
     "errors": "2"
-  },
-  {
-    "team_name": "Udinese",
-    "player_name": "Arthur Atta",
-    "tkl": "20",
-    "tklWon": "12",
-    "tkl_pct": "66.7",
-    "interception": "7",
-    "blocks": "7",
-    "errors": "1"
-  },
-  {
-    "team_name": "Udinese",
-    "player_name": "Christian Kabasele",
-    "tkl": "16",
-    "tklWon": "9",
-    "tkl_pct": "83.3",
-    "interception": "12",
-    "blocks": "11",
-    "errors": "1"
   },
   {
     "team_name": "Udinese",
@@ -3822,11 +3842,11 @@
   {
     "team_name": "Udinese",
     "player_name": "Oier Zarraga",
-    "tkl": "17",
-    "tklWon": "11",
-    "tkl_pct": "45.0",
+    "tkl": "19",
+    "tklWon": "13",
+    "tkl_pct": "45.5",
     "interception": "2",
-    "blocks": "8",
+    "blocks": "9",
     "errors": "0"
   },
   {
@@ -3851,6 +3871,16 @@
   },
   {
     "team_name": "Udinese",
+    "player_name": "Alexis Sánchez",
+    "tkl": "3",
+    "tklWon": "1",
+    "tkl_pct": "14.3",
+    "interception": "4",
+    "blocks": "5",
+    "errors": "1"
+  },
+  {
+    "team_name": "Udinese",
     "player_name": "Brenner",
     "tkl": "6",
     "tklWon": "4",
@@ -3861,22 +3891,12 @@
   },
   {
     "team_name": "Udinese",
-    "player_name": "Alexis Sánchez",
-    "tkl": "3",
-    "tklWon": "1",
-    "tkl_pct": "20.0",
-    "interception": "3",
-    "blocks": "4",
-    "errors": "1"
-  },
-  {
-    "team_name": "Udinese",
     "player_name": "Iker Bravo",
-    "tkl": "9",
-    "tklWon": "5",
-    "tkl_pct": "50.0",
+    "tkl": "10",
+    "tklWon": "6",
+    "tkl_pct": "55.6",
     "interception": "1",
-    "blocks": "3",
+    "blocks": "4",
     "errors": "0"
   },
   {
@@ -3950,6 +3970,16 @@
     "errors": "0"
   },
   {
+    "team_name": "Udinese",
+    "player_name": "Matteo Palma",
+    "tkl": "0",
+    "tklWon": "0",
+    "tkl_pct": "",
+    "interception": "0",
+    "blocks": "1",
+    "errors": "0"
+  },
+  {
     "team_name": "Genoa",
     "player_name": "Morten Frendrup",
     "tkl": "102",
@@ -3961,22 +3991,22 @@
   },
   {
     "team_name": "Genoa",
+    "player_name": "Aarón Martín",
+    "tkl": "71",
+    "tklWon": "47",
+    "tkl_pct": "64.7",
+    "interception": "19",
+    "blocks": "33",
+    "errors": "1"
+  },
+  {
+    "team_name": "Genoa",
     "player_name": "Johan Vásquez",
     "tkl": "56",
     "tklWon": "31",
     "tkl_pct": "59.1",
     "interception": "50",
     "blocks": "59",
-    "errors": "1"
-  },
-  {
-    "team_name": "Genoa",
-    "player_name": "Aarón Martín",
-    "tkl": "70",
-    "tklWon": "46",
-    "tkl_pct": "64.0",
-    "interception": "19",
-    "blocks": "32",
     "errors": "1"
   },
   {
@@ -4001,23 +4031,23 @@
   },
   {
     "team_name": "Genoa",
-    "player_name": "Stefano Sabelli",
-    "tkl": "57",
-    "tklWon": "31",
-    "tkl_pct": "37.3",
-    "interception": "22",
-    "blocks": "28",
-    "errors": "0"
-  },
-  {
-    "team_name": "Genoa",
     "player_name": "Koni De Winter",
     "tkl": "33",
     "tklWon": "19",
-    "tkl_pct": "70.8",
-    "interception": "23",
-    "blocks": "10",
+    "tkl_pct": "68.0",
+    "interception": "25",
+    "blocks": "11",
     "errors": "3"
+  },
+  {
+    "team_name": "Genoa",
+    "player_name": "Stefano Sabelli",
+    "tkl": "58",
+    "tklWon": "31",
+    "tkl_pct": "38.5",
+    "interception": "22",
+    "blocks": "28",
+    "errors": "0"
   },
   {
     "team_name": "Genoa",
@@ -4082,31 +4112,31 @@
   {
     "team_name": "Genoa",
     "player_name": "Mattia Bani",
-    "tkl": "18",
-    "tklWon": "9",
+    "tkl": "19",
+    "tklWon": "10",
     "tkl_pct": "63.6",
-    "interception": "20",
+    "interception": "22",
     "blocks": "13",
     "errors": "2"
   },
   {
     "team_name": "Genoa",
     "player_name": "Patrizio Masini",
-    "tkl": "51",
-    "tklWon": "28",
+    "tkl": "54",
+    "tklWon": "29",
     "tkl_pct": "47.5",
-    "interception": "13",
-    "blocks": "24",
+    "interception": "15",
+    "blocks": "26",
     "errors": "0"
   },
   {
     "team_name": "Genoa",
     "player_name": "Vitinha",
-    "tkl": "22",
-    "tklWon": "7",
-    "tkl_pct": "37.9",
-    "interception": "11",
-    "blocks": "13",
+    "tkl": "23",
+    "tklWon": "8",
+    "tkl_pct": "36.7",
+    "interception": "12",
+    "blocks": "14",
     "errors": "0"
   },
   {
@@ -4121,22 +4151,12 @@
   },
   {
     "team_name": "Genoa",
-    "player_name": "Alessandro Vogliacco",
-    "tkl": "15",
-    "tklWon": "3",
-    "tkl_pct": "83.3",
-    "interception": "9",
-    "blocks": "11",
-    "errors": "0"
-  },
-  {
-    "team_name": "Genoa",
     "player_name": "Junior Messias",
-    "tkl": "12",
+    "tkl": "13",
     "tklWon": "7",
-    "tkl_pct": "37.5",
+    "tkl_pct": "30.0",
     "interception": "6",
-    "blocks": "7",
+    "blocks": "8",
     "errors": "0"
   },
   {
@@ -4144,9 +4164,19 @@
     "player_name": "Brooke Norton-Cuffy",
     "tkl": "12",
     "tklWon": "7",
-    "tkl_pct": "90.0",
+    "tkl_pct": "81.8",
     "interception": "3",
-    "blocks": "10",
+    "blocks": "12",
+    "errors": "0"
+  },
+  {
+    "team_name": "Genoa",
+    "player_name": "Alessandro Vogliacco",
+    "tkl": "15",
+    "tklWon": "3",
+    "tkl_pct": "83.3",
+    "interception": "9",
+    "blocks": "11",
     "errors": "0"
   },
   {
@@ -4164,7 +4194,7 @@
     "player_name": "Jeff Ekhator",
     "tkl": "7",
     "tklWon": "4",
-    "tkl_pct": "50.0",
+    "tkl_pct": "44.4",
     "interception": "2",
     "blocks": "10",
     "errors": "0"
@@ -4221,6 +4251,26 @@
   },
   {
     "team_name": "Genoa",
+    "player_name": "Sebastian Otoa",
+    "tkl": "1",
+    "tklWon": "0",
+    "tkl_pct": "50.0",
+    "interception": "3",
+    "blocks": "1",
+    "errors": "0"
+  },
+  {
+    "team_name": "Genoa",
+    "player_name": "Jean Onana",
+    "tkl": "12",
+    "tklWon": "6",
+    "tkl_pct": "55.6",
+    "interception": "4",
+    "blocks": "6",
+    "errors": "1"
+  },
+  {
+    "team_name": "Genoa",
     "player_name": "Maxwel Cornet",
     "tkl": "2",
     "tklWon": "1",
@@ -4241,23 +4291,23 @@
   },
   {
     "team_name": "Genoa",
-    "player_name": "Sebastian Otoa",
+    "player_name": "Benjamin Siegrist",
     "tkl": "0",
     "tklWon": "0",
-    "tkl_pct": "0.0",
+    "tkl_pct": "",
     "interception": "1",
     "blocks": "0",
     "errors": "0"
   },
   {
     "team_name": "Genoa",
-    "player_name": "Jean Onana",
-    "tkl": "9",
-    "tklWon": "6",
-    "tkl_pct": "57.1",
-    "interception": "2",
+    "player_name": "Lorenzo Venturino",
+    "tkl": "5",
+    "tklWon": "3",
+    "tkl_pct": "50.0",
+    "interception": "0",
     "blocks": "3",
-    "errors": "1"
+    "errors": "0"
   },
   {
     "team_name": "Genoa",
@@ -4267,26 +4317,6 @@
     "tkl_pct": "40.0",
     "interception": "1",
     "blocks": "2",
-    "errors": "0"
-  },
-  {
-    "team_name": "Genoa",
-    "player_name": "Benjamin Siegrist",
-    "tkl": "0",
-    "tklWon": "0",
-    "tkl_pct": "",
-    "interception": "0",
-    "blocks": "0",
-    "errors": "0"
-  },
-  {
-    "team_name": "Genoa",
-    "player_name": "Filippo Melegoni",
-    "tkl": "1",
-    "tklWon": "1",
-    "tkl_pct": "0.0",
-    "interception": "0",
-    "blocks": "0",
     "errors": "0"
   },
   {
@@ -4311,22 +4341,22 @@
   },
   {
     "team_name": "Genoa",
-    "player_name": "Alessandro Marcandalli",
+    "player_name": "Filippo Melegoni",
     "tkl": "1",
-    "tklWon": "0",
-    "tkl_pct": "",
+    "tklWon": "1",
+    "tkl_pct": "0.0",
     "interception": "0",
     "blocks": "0",
     "errors": "0"
   },
   {
     "team_name": "Genoa",
-    "player_name": "Lorenzo Venturino",
-    "tkl": "3",
-    "tklWon": "2",
-    "tkl_pct": "33.3",
+    "player_name": "Alessandro Marcandalli",
+    "tkl": "1",
+    "tklWon": "0",
+    "tkl_pct": "",
     "interception": "0",
-    "blocks": "1",
+    "blocks": "0",
     "errors": "0"
   },
   {
@@ -4361,12 +4391,382 @@
   },
   {
     "team_name": "Genoa",
+    "player_name": "Daniele Sommariva",
+    "tkl": "0",
+    "tklWon": "0",
+    "tkl_pct": "",
+    "interception": "0",
+    "blocks": "0",
+    "errors": "0"
+  },
+  {
+    "team_name": "Genoa",
     "player_name": "Federico Accornero",
     "tkl": "0",
     "tklWon": "0",
     "tkl_pct": "",
     "interception": "0",
     "blocks": "0",
+    "errors": "0"
+  },
+  {
+    "team_name": "Hellas Verona",
+    "player_name": "Lorenzo Montipò",
+    "tkl": "1",
+    "tklWon": "0",
+    "tkl_pct": "25.0",
+    "interception": "0",
+    "blocks": "0",
+    "errors": "4"
+  },
+  {
+    "team_name": "Hellas Verona",
+    "player_name": "Jackson Tchatchoua",
+    "tkl": "50",
+    "tklWon": "31",
+    "tkl_pct": "65.1",
+    "interception": "14",
+    "blocks": "21",
+    "errors": "2"
+  },
+  {
+    "team_name": "Hellas Verona",
+    "player_name": "Diego Coppola",
+    "tkl": "66",
+    "tklWon": "36",
+    "tkl_pct": "70.0",
+    "interception": "72",
+    "blocks": "44",
+    "errors": "2"
+  },
+  {
+    "team_name": "Hellas Verona",
+    "player_name": "Ondrej Duda",
+    "tkl": "46",
+    "tklWon": "27",
+    "tkl_pct": "45.5",
+    "interception": "31",
+    "blocks": "28",
+    "errors": "4"
+  },
+  {
+    "team_name": "Hellas Verona",
+    "player_name": "Tomáš Suslov",
+    "tkl": "55",
+    "tklWon": "38",
+    "tkl_pct": "32.9",
+    "interception": "18",
+    "blocks": "29",
+    "errors": "1"
+  },
+  {
+    "team_name": "Hellas Verona",
+    "player_name": "Amin Sarr",
+    "tkl": "22",
+    "tklWon": "12",
+    "tkl_pct": "50.0",
+    "interception": "3",
+    "blocks": "18",
+    "errors": "0"
+  },
+  {
+    "team_name": "Hellas Verona",
+    "player_name": "Domagoj Bradarić",
+    "tkl": "36",
+    "tklWon": "28",
+    "tkl_pct": "62.1",
+    "interception": "15",
+    "blocks": "17",
+    "errors": "1"
+  },
+  {
+    "team_name": "Hellas Verona",
+    "player_name": "Paweł Dawidowicz",
+    "tkl": "45",
+    "tklWon": "24",
+    "tkl_pct": "66.7",
+    "interception": "20",
+    "blocks": "16",
+    "errors": "2"
+  },
+  {
+    "team_name": "Hellas Verona",
+    "player_name": "Daniele Ghilardi",
+    "tkl": "44",
+    "tklWon": "29",
+    "tkl_pct": "61.0",
+    "interception": "30",
+    "blocks": "29",
+    "errors": "0"
+  },
+  {
+    "team_name": "Hellas Verona",
+    "player_name": "Casper Tengstedt",
+    "tkl": "7",
+    "tklWon": "5",
+    "tkl_pct": "44.4",
+    "interception": "4",
+    "blocks": "5",
+    "errors": "0"
+  },
+  {
+    "team_name": "Hellas Verona",
+    "player_name": "",
+    "tkl": "",
+    "tklWon": "",
+    "tkl_pct": "",
+    "interception": "",
+    "blocks": "",
+    "errors": ""
+  },
+  {
+    "team_name": "Hellas Verona",
+    "player_name": "Player",
+    "tkl": "",
+    "tklWon": "",
+    "tkl_pct": "",
+    "interception": "",
+    "blocks": "",
+    "errors": ""
+  },
+  {
+    "team_name": "Hellas Verona",
+    "player_name": "Reda Belahyane",
+    "tkl": "36",
+    "tklWon": "26",
+    "tkl_pct": "76.5",
+    "interception": "10",
+    "blocks": "20",
+    "errors": "1"
+  },
+  {
+    "team_name": "Hellas Verona",
+    "player_name": "Darko Lazović",
+    "tkl": "21",
+    "tklWon": "10",
+    "tkl_pct": "39.3",
+    "interception": "11",
+    "blocks": "19",
+    "errors": "0"
+  },
+  {
+    "team_name": "Hellas Verona",
+    "player_name": "Suat Serdar",
+    "tkl": "35",
+    "tklWon": "21",
+    "tkl_pct": "38.5",
+    "interception": "8",
+    "blocks": "19",
+    "errors": "0"
+  },
+  {
+    "team_name": "Hellas Verona",
+    "player_name": "Nicolás Valentini",
+    "tkl": "35",
+    "tklWon": "23",
+    "tkl_pct": "63.3",
+    "interception": "15",
+    "blocks": "15",
+    "errors": "0"
+  },
+  {
+    "team_name": "Hellas Verona",
+    "player_name": "Daniel Mosquera",
+    "tkl": "11",
+    "tklWon": "8",
+    "tkl_pct": "6.7",
+    "interception": "2",
+    "blocks": "11",
+    "errors": "0"
+  },
+  {
+    "team_name": "Hellas Verona",
+    "player_name": "Giangiacomo Magnani",
+    "tkl": "20",
+    "tklWon": "15",
+    "tkl_pct": "100.0",
+    "interception": "17",
+    "blocks": "16",
+    "errors": "1"
+  },
+  {
+    "team_name": "Hellas Verona",
+    "player_name": "Flavius Daniliuc",
+    "tkl": "26",
+    "tklWon": "21",
+    "tkl_pct": "62.5",
+    "interception": "7",
+    "blocks": "10",
+    "errors": "0"
+  },
+  {
+    "team_name": "Hellas Verona",
+    "player_name": "Dailon Livramento",
+    "tkl": "15",
+    "tklWon": "11",
+    "tkl_pct": "53.8",
+    "interception": "3",
+    "blocks": "10",
+    "errors": "0"
+  },
+  {
+    "team_name": "Hellas Verona",
+    "player_name": "Grigoris Kastanos",
+    "tkl": "23",
+    "tklWon": "16",
+    "tkl_pct": "42.9",
+    "interception": "7",
+    "blocks": "17",
+    "errors": "0"
+  },
+  {
+    "team_name": "Hellas Verona",
+    "player_name": "Cheikh Tidiane Niasse",
+    "tkl": "18",
+    "tklWon": "15",
+    "tkl_pct": "52.6",
+    "interception": "17",
+    "blocks": "17",
+    "errors": "2"
+  },
+  {
+    "team_name": "Hellas Verona",
+    "player_name": "",
+    "tkl": "",
+    "tklWon": "",
+    "tkl_pct": "",
+    "interception": "",
+    "blocks": "",
+    "errors": ""
+  },
+  {
+    "team_name": "Hellas Verona",
+    "player_name": "Player",
+    "tkl": "",
+    "tklWon": "",
+    "tkl_pct": "",
+    "interception": "",
+    "blocks": "",
+    "errors": ""
+  },
+  {
+    "team_name": "Hellas Verona",
+    "player_name": "Antoine Bernede",
+    "tkl": "15",
+    "tklWon": "8",
+    "tkl_pct": "62.5",
+    "interception": "5",
+    "blocks": "6",
+    "errors": "0"
+  },
+  {
+    "team_name": "Hellas Verona",
+    "player_name": "Martin Frese",
+    "tkl": "18",
+    "tklWon": "11",
+    "tkl_pct": "53.8",
+    "interception": "8",
+    "blocks": "5",
+    "errors": "1"
+  },
+  {
+    "team_name": "Hellas Verona",
+    "player_name": "Abdou Harroui",
+    "tkl": "9",
+    "tklWon": "6",
+    "tkl_pct": "100.0",
+    "interception": "2",
+    "blocks": "5",
+    "errors": "0"
+  },
+  {
+    "team_name": "Hellas Verona",
+    "player_name": "Daniel Bandeira",
+    "tkl": "4",
+    "tklWon": "0",
+    "tkl_pct": "50.0",
+    "interception": "6",
+    "blocks": "2",
+    "errors": "0"
+  },
+  {
+    "team_name": "Hellas Verona",
+    "player_name": "Davide Faraoni",
+    "tkl": "10",
+    "tklWon": "9",
+    "tkl_pct": "33.3",
+    "interception": "2",
+    "blocks": "7",
+    "errors": "1"
+  },
+  {
+    "team_name": "Hellas Verona",
+    "player_name": "Simone Perilli",
+    "tkl": "0",
+    "tklWon": "0",
+    "tkl_pct": "",
+    "interception": "0",
+    "blocks": "0",
+    "errors": "0"
+  },
+  {
+    "team_name": "Hellas Verona",
+    "player_name": "Daniel Oyegoke",
+    "tkl": "2",
+    "tklWon": "2",
+    "tkl_pct": "100.0",
+    "interception": "1",
+    "blocks": "1",
+    "errors": "0"
+  },
+  {
+    "team_name": "Hellas Verona",
+    "player_name": "Mathis Lambourde",
+    "tkl": "3",
+    "tklWon": "1",
+    "tkl_pct": "33.3",
+    "interception": "0",
+    "blocks": "3",
+    "errors": "0"
+  },
+  {
+    "team_name": "Hellas Verona",
+    "player_name": "Faride Alidou",
+    "tkl": "0",
+    "tklWon": "0",
+    "tkl_pct": "",
+    "interception": "1",
+    "blocks": "1",
+    "errors": "1"
+  },
+  {
+    "team_name": "Hellas Verona",
+    "player_name": "Junior Ajayi",
+    "tkl": "0",
+    "tklWon": "0",
+    "tkl_pct": "",
+    "interception": "0",
+    "blocks": "0",
+    "errors": "0"
+  },
+  {
+    "team_name": "Hellas Verona",
+    "player_name": "Alphadjo Cissè",
+    "tkl": "0",
+    "tklWon": "0",
+    "tkl_pct": "",
+    "interception": "0",
+    "blocks": "0",
+    "errors": "0"
+  },
+  {
+    "team_name": "Hellas Verona",
+    "player_name": "Yllan Okou",
+    "tkl": "0",
+    "tklWon": "0",
+    "tkl_pct": "",
+    "interception": "0",
+    "blocks": "1",
     "errors": "0"
   },
   {
@@ -4650,366 +5050,6 @@
     "errors": "0"
   },
   {
-    "team_name": "Hellas Verona",
-    "player_name": "Lorenzo Montipò",
-    "tkl": "1",
-    "tklWon": "0",
-    "tkl_pct": "25.0",
-    "interception": "0",
-    "blocks": "0",
-    "errors": "4"
-  },
-  {
-    "team_name": "Hellas Verona",
-    "player_name": "Jackson Tchatchoua",
-    "tkl": "50",
-    "tklWon": "31",
-    "tkl_pct": "65.1",
-    "interception": "13",
-    "blocks": "21",
-    "errors": "2"
-  },
-  {
-    "team_name": "Hellas Verona",
-    "player_name": "Diego Coppola",
-    "tkl": "65",
-    "tklWon": "35",
-    "tkl_pct": "69.2",
-    "interception": "71",
-    "blocks": "42",
-    "errors": "2"
-  },
-  {
-    "team_name": "Hellas Verona",
-    "player_name": "Ondrej Duda",
-    "tkl": "44",
-    "tklWon": "26",
-    "tkl_pct": "46.8",
-    "interception": "31",
-    "blocks": "26",
-    "errors": "4"
-  },
-  {
-    "team_name": "Hellas Verona",
-    "player_name": "Tomáš Suslov",
-    "tkl": "52",
-    "tklWon": "36",
-    "tkl_pct": "30.4",
-    "interception": "18",
-    "blocks": "29",
-    "errors": "1"
-  },
-  {
-    "team_name": "Hellas Verona",
-    "player_name": "Amin Sarr",
-    "tkl": "22",
-    "tklWon": "12",
-    "tkl_pct": "50.0",
-    "interception": "3",
-    "blocks": "17",
-    "errors": "0"
-  },
-  {
-    "team_name": "Hellas Verona",
-    "player_name": "Domagoj Bradarić",
-    "tkl": "35",
-    "tklWon": "27",
-    "tkl_pct": "62.1",
-    "interception": "15",
-    "blocks": "17",
-    "errors": "1"
-  },
-  {
-    "team_name": "Hellas Verona",
-    "player_name": "Paweł Dawidowicz",
-    "tkl": "44",
-    "tklWon": "23",
-    "tkl_pct": "66.7",
-    "interception": "20",
-    "blocks": "15",
-    "errors": "2"
-  },
-  {
-    "team_name": "Hellas Verona",
-    "player_name": "Daniele Ghilardi",
-    "tkl": "40",
-    "tklWon": "25",
-    "tkl_pct": "59.0",
-    "interception": "28",
-    "blocks": "28",
-    "errors": "0"
-  },
-  {
-    "team_name": "Hellas Verona",
-    "player_name": "Casper Tengstedt",
-    "tkl": "7",
-    "tklWon": "5",
-    "tkl_pct": "44.4",
-    "interception": "4",
-    "blocks": "5",
-    "errors": "0"
-  },
-  {
-    "team_name": "Hellas Verona",
-    "player_name": "",
-    "tkl": "",
-    "tklWon": "",
-    "tkl_pct": "",
-    "interception": "",
-    "blocks": "",
-    "errors": ""
-  },
-  {
-    "team_name": "Hellas Verona",
-    "player_name": "Player",
-    "tkl": "",
-    "tklWon": "",
-    "tkl_pct": "",
-    "interception": "",
-    "blocks": "",
-    "errors": ""
-  },
-  {
-    "team_name": "Hellas Verona",
-    "player_name": "Reda Belahyane",
-    "tkl": "36",
-    "tklWon": "26",
-    "tkl_pct": "76.5",
-    "interception": "10",
-    "blocks": "20",
-    "errors": "1"
-  },
-  {
-    "team_name": "Hellas Verona",
-    "player_name": "Darko Lazović",
-    "tkl": "21",
-    "tklWon": "10",
-    "tkl_pct": "39.3",
-    "interception": "11",
-    "blocks": "19",
-    "errors": "0"
-  },
-  {
-    "team_name": "Hellas Verona",
-    "player_name": "Suat Serdar",
-    "tkl": "32",
-    "tklWon": "19",
-    "tkl_pct": "37.5",
-    "interception": "8",
-    "blocks": "19",
-    "errors": "0"
-  },
-  {
-    "team_name": "Hellas Verona",
-    "player_name": "Daniel Mosquera",
-    "tkl": "10",
-    "tklWon": "7",
-    "tkl_pct": "7.1",
-    "interception": "2",
-    "blocks": "11",
-    "errors": "0"
-  },
-  {
-    "team_name": "Hellas Verona",
-    "player_name": "Nicolás Valentini",
-    "tkl": "33",
-    "tklWon": "22",
-    "tkl_pct": "67.9",
-    "interception": "14",
-    "blocks": "12",
-    "errors": "0"
-  },
-  {
-    "team_name": "Hellas Verona",
-    "player_name": "Giangiacomo Magnani",
-    "tkl": "20",
-    "tklWon": "15",
-    "tkl_pct": "100.0",
-    "interception": "17",
-    "blocks": "16",
-    "errors": "1"
-  },
-  {
-    "team_name": "Hellas Verona",
-    "player_name": "Flavius Daniliuc",
-    "tkl": "26",
-    "tklWon": "21",
-    "tkl_pct": "62.5",
-    "interception": "7",
-    "blocks": "10",
-    "errors": "0"
-  },
-  {
-    "team_name": "Hellas Verona",
-    "player_name": "Dailon Livramento",
-    "tkl": "13",
-    "tklWon": "9",
-    "tkl_pct": "50.0",
-    "interception": "3",
-    "blocks": "9",
-    "errors": "0"
-  },
-  {
-    "team_name": "Hellas Verona",
-    "player_name": "Grigoris Kastanos",
-    "tkl": "23",
-    "tklWon": "16",
-    "tkl_pct": "42.9",
-    "interception": "7",
-    "blocks": "17",
-    "errors": "0"
-  },
-  {
-    "team_name": "Hellas Verona",
-    "player_name": "Cheikh Tidiane Niasse",
-    "tkl": "18",
-    "tklWon": "15",
-    "tkl_pct": "52.6",
-    "interception": "17",
-    "blocks": "17",
-    "errors": "2"
-  },
-  {
-    "team_name": "Hellas Verona",
-    "player_name": "",
-    "tkl": "",
-    "tklWon": "",
-    "tkl_pct": "",
-    "interception": "",
-    "blocks": "",
-    "errors": ""
-  },
-  {
-    "team_name": "Hellas Verona",
-    "player_name": "Player",
-    "tkl": "",
-    "tklWon": "",
-    "tkl_pct": "",
-    "interception": "",
-    "blocks": "",
-    "errors": ""
-  },
-  {
-    "team_name": "Hellas Verona",
-    "player_name": "Antoine Bernede",
-    "tkl": "15",
-    "tklWon": "8",
-    "tkl_pct": "62.5",
-    "interception": "5",
-    "blocks": "6",
-    "errors": "0"
-  },
-  {
-    "team_name": "Hellas Verona",
-    "player_name": "Martin Frese",
-    "tkl": "17",
-    "tklWon": "10",
-    "tkl_pct": "54.5",
-    "interception": "8",
-    "blocks": "5",
-    "errors": "1"
-  },
-  {
-    "team_name": "Hellas Verona",
-    "player_name": "Abdou Harroui",
-    "tkl": "9",
-    "tklWon": "6",
-    "tkl_pct": "100.0",
-    "interception": "2",
-    "blocks": "5",
-    "errors": "0"
-  },
-  {
-    "team_name": "Hellas Verona",
-    "player_name": "Daniel Bandeira",
-    "tkl": "4",
-    "tklWon": "0",
-    "tkl_pct": "50.0",
-    "interception": "6",
-    "blocks": "2",
-    "errors": "0"
-  },
-  {
-    "team_name": "Hellas Verona",
-    "player_name": "Davide Faraoni",
-    "tkl": "10",
-    "tklWon": "9",
-    "tkl_pct": "33.3",
-    "interception": "2",
-    "blocks": "7",
-    "errors": "1"
-  },
-  {
-    "team_name": "Hellas Verona",
-    "player_name": "Simone Perilli",
-    "tkl": "0",
-    "tklWon": "0",
-    "tkl_pct": "",
-    "interception": "0",
-    "blocks": "0",
-    "errors": "0"
-  },
-  {
-    "team_name": "Hellas Verona",
-    "player_name": "Daniel Oyegoke",
-    "tkl": "2",
-    "tklWon": "2",
-    "tkl_pct": "100.0",
-    "interception": "1",
-    "blocks": "1",
-    "errors": "0"
-  },
-  {
-    "team_name": "Hellas Verona",
-    "player_name": "Mathis Lambourde",
-    "tkl": "3",
-    "tklWon": "1",
-    "tkl_pct": "33.3",
-    "interception": "0",
-    "blocks": "3",
-    "errors": "0"
-  },
-  {
-    "team_name": "Hellas Verona",
-    "player_name": "Faride Alidou",
-    "tkl": "0",
-    "tklWon": "0",
-    "tkl_pct": "",
-    "interception": "1",
-    "blocks": "1",
-    "errors": "1"
-  },
-  {
-    "team_name": "Hellas Verona",
-    "player_name": "Junior Ajayi",
-    "tkl": "0",
-    "tklWon": "0",
-    "tkl_pct": "",
-    "interception": "0",
-    "blocks": "0",
-    "errors": "0"
-  },
-  {
-    "team_name": "Hellas Verona",
-    "player_name": "Alphadjo Cissè",
-    "tkl": "0",
-    "tklWon": "0",
-    "tkl_pct": "",
-    "interception": "0",
-    "blocks": "0",
-    "errors": "0"
-  },
-  {
-    "team_name": "Hellas Verona",
-    "player_name": "Yllan Okou",
-    "tkl": "0",
-    "tklWon": "0",
-    "tkl_pct": "",
-    "interception": "0",
-    "blocks": "1",
-    "errors": "0"
-  },
-  {
     "team_name": "Parma",
     "player_name": "Zion Suzuki",
     "tkl": "1",
@@ -5025,8 +5065,8 @@
     "tkl": "28",
     "tklWon": "17",
     "tkl_pct": "45.7",
-    "interception": "25",
-    "blocks": "10",
+    "interception": "26",
+    "blocks": "11",
     "errors": "0"
   },
   {
@@ -5034,19 +5074,19 @@
     "player_name": "Emanuele Valeri",
     "tkl": "51",
     "tklWon": "31",
-    "tkl_pct": "50.0",
-    "interception": "28",
+    "tkl_pct": "49.2",
+    "interception": "29",
     "blocks": "31",
     "errors": "4"
   },
   {
     "team_name": "Parma",
     "player_name": "Enrico Del Prato",
-    "tkl": "32",
+    "tkl": "33",
     "tklWon": "17",
     "tkl_pct": "73.1",
     "interception": "19",
-    "blocks": "68",
+    "blocks": "69",
     "errors": "2"
   },
   {
@@ -5057,16 +5097,6 @@
     "tkl_pct": "57.1",
     "interception": "3",
     "blocks": "17",
-    "errors": "0"
-  },
-  {
-    "team_name": "Parma",
-    "player_name": "Dennis Man",
-    "tkl": "13",
-    "tklWon": "6",
-    "tkl_pct": "25.0",
-    "interception": "8",
-    "blocks": "15",
     "errors": "0"
   },
   {
@@ -5082,12 +5112,22 @@
   {
     "team_name": "Parma",
     "player_name": "Botond Balogh",
-    "tkl": "32",
-    "tklWon": "13",
-    "tkl_pct": "73.9",
+    "tkl": "36",
+    "tklWon": "16",
+    "tkl_pct": "71.4",
     "interception": "25",
-    "blocks": "32",
+    "blocks": "34",
     "errors": "2"
+  },
+  {
+    "team_name": "Parma",
+    "player_name": "Dennis Man",
+    "tkl": "13",
+    "tklWon": "6",
+    "tkl_pct": "25.0",
+    "interception": "8",
+    "blocks": "15",
+    "errors": "0"
   },
   {
     "team_name": "Parma",
@@ -5101,12 +5141,12 @@
   },
   {
     "team_name": "Parma",
-    "player_name": "Adrian Bernabe",
-    "tkl": "28",
-    "tklWon": "18",
-    "tkl_pct": "45.2",
-    "interception": "7",
-    "blocks": "22",
+    "player_name": "Lautaro Valenti",
+    "tkl": "17",
+    "tklWon": "12",
+    "tkl_pct": "77.8",
+    "interception": "13",
+    "blocks": "26",
     "errors": "1"
   },
   {
@@ -5131,12 +5171,12 @@
   },
   {
     "team_name": "Parma",
-    "player_name": "Lautaro Valenti",
-    "tkl": "16",
-    "tklWon": "12",
-    "tkl_pct": "100.0",
-    "interception": "11",
-    "blocks": "24",
+    "player_name": "Adrian Bernabe",
+    "tkl": "29",
+    "tklWon": "18",
+    "tkl_pct": "43.8",
+    "interception": "7",
+    "blocks": "22",
     "errors": "1"
   },
   {
@@ -5152,9 +5192,9 @@
   {
     "team_name": "Parma",
     "player_name": "Hernani",
-    "tkl": "45",
-    "tklWon": "24",
-    "tkl_pct": "53.2",
+    "tkl": "47",
+    "tklWon": "26",
+    "tkl_pct": "54.0",
     "interception": "19",
     "blocks": "26",
     "errors": "1"
@@ -5187,7 +5227,7 @@
     "tkl_pct": "69.2",
     "interception": "15",
     "blocks": "17",
-    "errors": "0"
+    "errors": "1"
   },
   {
     "team_name": "Parma",
@@ -5214,17 +5254,17 @@
     "player_name": "Mateo Pellegrino",
     "tkl": "3",
     "tklWon": "2",
-    "tkl_pct": "33.3",
-    "interception": "0",
-    "blocks": "5",
+    "tkl_pct": "25.0",
+    "interception": "1",
+    "blocks": "6",
     "errors": "0"
   },
   {
     "team_name": "Parma",
     "player_name": "Nahuel Estévez",
-    "tkl": "14",
-    "tklWon": "5",
-    "tkl_pct": "35.7",
+    "tkl": "16",
+    "tklWon": "6",
+    "tkl_pct": "40.0",
     "interception": "3",
     "blocks": "9",
     "errors": "0"
@@ -5252,10 +5292,10 @@
   {
     "team_name": "Parma",
     "player_name": "Alessandro Circati",
-    "tkl": "5",
-    "tklWon": "3",
-    "tkl_pct": "100.0",
-    "interception": "2",
+    "tkl": "7",
+    "tklWon": "5",
+    "tkl_pct": "50.0",
+    "interception": "3",
     "blocks": "5",
     "errors": "1"
   },
@@ -5392,41 +5432,41 @@
   {
     "team_name": "Lecce",
     "player_name": "Nikola Krstović",
-    "tkl": "17",
+    "tkl": "18",
     "tklWon": "8",
     "tkl_pct": "40.0",
     "interception": "7",
-    "blocks": "10",
+    "blocks": "12",
     "errors": "0"
   },
   {
     "team_name": "Lecce",
     "player_name": "Antonino Gallo",
-    "tkl": "64",
-    "tklWon": "41",
-    "tkl_pct": "55.0",
+    "tkl": "65",
+    "tklWon": "42",
+    "tkl_pct": "54.8",
     "interception": "20",
-    "blocks": "31",
+    "blocks": "33",
     "errors": "0"
   },
   {
     "team_name": "Lecce",
     "player_name": "Frederic Guilbert",
-    "tkl": "64",
-    "tklWon": "35",
-    "tkl_pct": "64.8",
-    "interception": "46",
-    "blocks": "27",
+    "tkl": "65",
+    "tklWon": "36",
+    "tkl_pct": "65.5",
+    "interception": "47",
+    "blocks": "28",
     "errors": "3"
   },
   {
     "team_name": "Lecce",
     "player_name": "Lassana Coulibaly",
-    "tkl": "47",
-    "tklWon": "29",
-    "tkl_pct": "38.3",
+    "tkl": "49",
+    "tklWon": "30",
+    "tkl_pct": "40.3",
     "interception": "18",
-    "blocks": "42",
+    "blocks": "45",
     "errors": "1"
   },
   {
@@ -5435,8 +5475,8 @@
     "tkl": "34",
     "tklWon": "12",
     "tkl_pct": "70.6",
-    "interception": "30",
-    "blocks": "43",
+    "interception": "32",
+    "blocks": "44",
     "errors": "1"
   },
   {
@@ -5452,11 +5492,11 @@
   {
     "team_name": "Lecce",
     "player_name": "Santiago Pierotti",
-    "tkl": "45",
-    "tklWon": "24",
-    "tkl_pct": "45.8",
+    "tkl": "46",
+    "tklWon": "25",
+    "tkl_pct": "45.1",
     "interception": "14",
-    "blocks": "29",
+    "blocks": "31",
     "errors": "0"
   },
   {
@@ -5491,6 +5531,16 @@
   },
   {
     "team_name": "Lecce",
+    "player_name": "Ylber Ramadani",
+    "tkl": "51",
+    "tklWon": "28",
+    "tkl_pct": "63.5",
+    "interception": "24",
+    "blocks": "26",
+    "errors": "3"
+  },
+  {
+    "team_name": "Lecce",
     "player_name": "Balthazar Pierret",
     "tkl": "51",
     "tklWon": "31",
@@ -5498,16 +5548,6 @@
     "interception": "19",
     "blocks": "19",
     "errors": "1"
-  },
-  {
-    "team_name": "Lecce",
-    "player_name": "Ylber Ramadani",
-    "tkl": "51",
-    "tklWon": "28",
-    "tkl_pct": "66.0",
-    "interception": "24",
-    "blocks": "26",
-    "errors": "3"
   },
   {
     "team_name": "Lecce",
@@ -5535,7 +5575,7 @@
     "tkl": "10",
     "tklWon": "7",
     "tkl_pct": "53.8",
-    "interception": "5",
+    "interception": "6",
     "blocks": "7",
     "errors": "2"
   },
@@ -5555,7 +5595,7 @@
     "tkl": "12",
     "tklWon": "8",
     "tkl_pct": "50.0",
-    "interception": "10",
+    "interception": "11",
     "blocks": "6",
     "errors": "2"
   },
@@ -5576,7 +5616,7 @@
     "tklWon": "2",
     "tkl_pct": "25.0",
     "interception": "0",
-    "blocks": "1",
+    "blocks": "2",
     "errors": "0"
   },
   {
@@ -5614,9 +5654,9 @@
     "player_name": "Mohamed Kaba",
     "tkl": "13",
     "tklWon": "8",
-    "tkl_pct": "88.9",
+    "tkl_pct": "80.0",
     "interception": "4",
-    "blocks": "10",
+    "blocks": "11",
     "errors": "1"
   },
   {
@@ -5624,7 +5664,7 @@
     "player_name": "Danilo Veiga",
     "tkl": "8",
     "tklWon": "6",
-    "tkl_pct": "50.0",
+    "tkl_pct": "46.2",
     "interception": "4",
     "blocks": "5",
     "errors": "0"
@@ -5726,18 +5766,18 @@
     "tklWon": "29",
     "tkl_pct": "63.2",
     "interception": "11",
-    "blocks": "26",
+    "blocks": "27",
     "errors": "0"
   },
   {
     "team_name": "Empoli",
     "player_name": "Giuseppe Pezzella",
-    "tkl": "54",
-    "tklWon": "30",
-    "tkl_pct": "50.0",
-    "interception": "15",
-    "blocks": "31",
-    "errors": "1"
+    "tkl": "55",
+    "tklWon": "31",
+    "tkl_pct": "50.9",
+    "interception": "16",
+    "blocks": "32",
+    "errors": "2"
   },
   {
     "team_name": "Empoli",
@@ -5754,37 +5794,37 @@
     "player_name": "Mattia Viti",
     "tkl": "65",
     "tklWon": "45",
-    "tkl_pct": "66.7",
+    "tkl_pct": "65.4",
     "interception": "48",
-    "blocks": "40",
+    "blocks": "41",
     "errors": "4"
   },
   {
     "team_name": "Empoli",
     "player_name": "Saba Goglichidze",
-    "tkl": "63",
+    "tkl": "64",
     "tklWon": "37",
-    "tkl_pct": "50.0",
+    "tkl_pct": "49.0",
     "interception": "33",
-    "blocks": "35",
+    "blocks": "36",
     "errors": "3"
   },
   {
     "team_name": "Empoli",
     "player_name": "Ardian Ismajli",
-    "tkl": "28",
-    "tklWon": "22",
-    "tkl_pct": "82.4",
-    "interception": "55",
-    "blocks": "33",
+    "tkl": "30",
+    "tklWon": "23",
+    "tkl_pct": "80.0",
+    "interception": "56",
+    "blocks": "35",
     "errors": "3"
   },
   {
     "team_name": "Empoli",
     "player_name": "Liam Henderson",
-    "tkl": "41",
-    "tklWon": "21",
-    "tkl_pct": "41.2",
+    "tkl": "42",
+    "tklWon": "22",
+    "tkl_pct": "41.5",
     "interception": "15",
     "blocks": "19",
     "errors": "0"
@@ -5801,22 +5841,22 @@
   },
   {
     "team_name": "Empoli",
+    "player_name": "Alberto Grassi",
+    "tkl": "39",
+    "tklWon": "21",
+    "tkl_pct": "63.6",
+    "interception": "32",
+    "blocks": "22",
+    "errors": "1"
+  },
+  {
+    "team_name": "Empoli",
     "player_name": "Lorenzo Colombo",
     "tkl": "31",
     "tklWon": "14",
     "tkl_pct": "33.3",
     "interception": "2",
     "blocks": "33",
-    "errors": "1"
-  },
-  {
-    "team_name": "Empoli",
-    "player_name": "Alberto Grassi",
-    "tkl": "39",
-    "tklWon": "21",
-    "tkl_pct": "66.7",
-    "interception": "32",
-    "blocks": "22",
     "errors": "1"
   },
   {
@@ -5872,10 +5912,10 @@
   {
     "team_name": "Empoli",
     "player_name": "Faustino Anjorin",
-    "tkl": "27",
-    "tklWon": "12",
+    "tkl": "29",
+    "tklWon": "13",
     "tkl_pct": "50.0",
-    "interception": "12",
+    "interception": "13",
     "blocks": "18",
     "errors": "0"
   },
@@ -5962,8 +6002,8 @@
   {
     "team_name": "Empoli",
     "player_name": "Junior Sambia",
-    "tkl": "13",
-    "tklWon": "9",
+    "tkl": "14",
+    "tklWon": "10",
     "tkl_pct": "100.0",
     "interception": "2",
     "blocks": "3",
@@ -6112,12 +6152,22 @@
   {
     "team_name": "Venezia",
     "player_name": "Hans Nicolussi Caviglia",
-    "tkl": "46",
+    "tkl": "47",
     "tklWon": "28",
-    "tkl_pct": "44.4",
+    "tkl_pct": "45.3",
     "interception": "27",
-    "blocks": "38",
+    "blocks": "39",
     "errors": "2"
+  },
+  {
+    "team_name": "Venezia",
+    "player_name": "Mikael Ellertsson",
+    "tkl": "58",
+    "tklWon": "26",
+    "tkl_pct": "54.1",
+    "interception": "16",
+    "blocks": "42",
+    "errors": "0"
   },
   {
     "team_name": "Venezia",
@@ -6137,16 +6187,6 @@
     "tkl_pct": "42.6",
     "interception": "19",
     "blocks": "36",
-    "errors": "0"
-  },
-  {
-    "team_name": "Venezia",
-    "player_name": "Mikael Ellertsson",
-    "tkl": "57",
-    "tklWon": "26",
-    "tkl_pct": "54.2",
-    "interception": "14",
-    "blocks": "41",
     "errors": "0"
   },
   {
@@ -6175,18 +6215,18 @@
     "tkl": "25",
     "tklWon": "19",
     "tkl_pct": "69.6",
-    "interception": "14",
-    "blocks": "20",
+    "interception": "15",
+    "blocks": "21",
     "errors": "2"
   },
   {
     "team_name": "Venezia",
     "player_name": "Alessio Zerbin",
-    "tkl": "49",
+    "tkl": "51",
     "tklWon": "28",
-    "tkl_pct": "55.1",
+    "tkl_pct": "55.8",
     "interception": "15",
-    "blocks": "27",
+    "blocks": "28",
     "errors": "1"
   },
   {
@@ -6221,16 +6261,6 @@
   },
   {
     "team_name": "Venezia",
-    "player_name": "Michael Svoboda",
-    "tkl": "26",
-    "tklWon": "14",
-    "tkl_pct": "42.1",
-    "interception": "22",
-    "blocks": "19",
-    "errors": "2"
-  },
-  {
-    "team_name": "Venezia",
     "player_name": "Ionuț Radu",
     "tkl": "0",
     "tklWon": "0",
@@ -6241,23 +6271,53 @@
   },
   {
     "team_name": "Venezia",
+    "player_name": "Michael Svoboda",
+    "tkl": "26",
+    "tklWon": "14",
+    "tkl_pct": "42.1",
+    "interception": "22",
+    "blocks": "19",
+    "errors": "2"
+  },
+  {
+    "team_name": "Venezia",
     "player_name": "Ridgeciano Haps",
-    "tkl": "28",
-    "tklWon": "15",
-    "tkl_pct": "65.0",
+    "tkl": "30",
+    "tklWon": "16",
+    "tkl_pct": "63.6",
     "interception": "7",
-    "blocks": "17",
+    "blocks": "18",
     "errors": "0"
   },
   {
     "team_name": "Venezia",
     "player_name": "Kike Pérez",
-    "tkl": "40",
-    "tklWon": "25",
+    "tkl": "41",
+    "tklWon": "26",
     "tkl_pct": "40.9",
     "interception": "10",
     "blocks": "14",
     "errors": "0"
+  },
+  {
+    "team_name": "Venezia",
+    "player_name": "Joël Schingtienne",
+    "tkl": "27",
+    "tklWon": "17",
+    "tkl_pct": "63.2",
+    "interception": "14",
+    "blocks": "18",
+    "errors": "5"
+  },
+  {
+    "team_name": "Venezia",
+    "player_name": "Marin Šverko",
+    "tkl": "20",
+    "tklWon": "9",
+    "tkl_pct": "83.3",
+    "interception": "16",
+    "blocks": "10",
+    "errors": "3"
   },
   {
     "team_name": "Venezia",
@@ -6281,28 +6341,8 @@
   },
   {
     "team_name": "Venezia",
-    "player_name": "Marin Šverko",
-    "tkl": "17",
-    "tklWon": "6",
-    "tkl_pct": "80.0",
-    "interception": "16",
-    "blocks": "9",
-    "errors": "3"
-  },
-  {
-    "team_name": "Venezia",
-    "player_name": "Joël Schingtienne",
-    "tkl": "21",
-    "tklWon": "13",
-    "tkl_pct": "62.5",
-    "interception": "13",
-    "blocks": "16",
-    "errors": "5"
-  },
-  {
-    "team_name": "Venezia",
     "player_name": "John Yeboah",
-    "tkl": "5",
+    "tkl": "6",
     "tklWon": "3",
     "tkl_pct": "10.0",
     "interception": "4",
@@ -6312,11 +6352,11 @@
   {
     "team_name": "Venezia",
     "player_name": "Issa Doumbia",
-    "tkl": "13",
+    "tkl": "14",
     "tklWon": "8",
-    "tkl_pct": "46.7",
-    "interception": "7",
-    "blocks": "16",
+    "tkl_pct": "41.2",
+    "interception": "9",
+    "blocks": "17",
     "errors": "1"
   },
   {
@@ -6386,15 +6426,15 @@
     "tklWon": "0",
     "tkl_pct": "0.0",
     "interception": "0",
-    "blocks": "5",
+    "blocks": "6",
     "errors": "0"
   },
   {
     "team_name": "Venezia",
     "player_name": "Alessandro Marcandalli",
-    "tkl": "7",
-    "tklWon": "5",
-    "tkl_pct": "40.0",
+    "tkl": "8",
+    "tklWon": "6",
+    "tkl_pct": "50.0",
     "interception": "2",
     "blocks": "6",
     "errors": "0"
@@ -6402,9 +6442,9 @@
   {
     "team_name": "Venezia",
     "player_name": "Mirko Marić",
-    "tkl": "3",
-    "tklWon": "2",
-    "tkl_pct": "25.0",
+    "tkl": "6",
+    "tklWon": "3",
+    "tkl_pct": "40.0",
     "interception": "1",
     "blocks": "3",
     "errors": "0"
@@ -6522,7 +6562,7 @@
   {
     "team_name": "Monza",
     "player_name": "Giorgos Kyriakopoulos",
-    "tkl": "42",
+    "tkl": "43",
     "tklWon": "26",
     "tkl_pct": "49.2",
     "interception": "23",
@@ -6535,9 +6575,9 @@
     "tkl": "53",
     "tklWon": "32",
     "tkl_pct": "63.6",
-    "interception": "18",
-    "blocks": "25",
-    "errors": "4"
+    "interception": "21",
+    "blocks": "26",
+    "errors": "5"
   },
   {
     "team_name": "Monza",
@@ -6552,11 +6592,11 @@
   {
     "team_name": "Monza",
     "player_name": "Alessandro Bianco",
-    "tkl": "50",
+    "tkl": "51",
     "tklWon": "28",
-    "tkl_pct": "67.5",
+    "tkl_pct": "65.9",
     "interception": "22",
-    "blocks": "39",
+    "blocks": "40",
     "errors": "4"
   },
   {
@@ -6571,6 +6611,16 @@
   },
   {
     "team_name": "Monza",
+    "player_name": "Andrea Carboni",
+    "tkl": "60",
+    "tklWon": "35",
+    "tkl_pct": "66.0",
+    "interception": "27",
+    "blocks": "31",
+    "errors": "4"
+  },
+  {
+    "team_name": "Monza",
     "player_name": "Dany Mota",
     "tkl": "13",
     "tklWon": "3",
@@ -6578,16 +6628,6 @@
     "interception": "9",
     "blocks": "18",
     "errors": "3"
-  },
-  {
-    "team_name": "Monza",
-    "player_name": "Andrea Carboni",
-    "tkl": "57",
-    "tklWon": "32",
-    "tkl_pct": "64.0",
-    "interception": "27",
-    "blocks": "30",
-    "errors": "4"
   },
   {
     "team_name": "Monza",
@@ -6615,7 +6655,7 @@
     "tkl": "19",
     "tklWon": "11",
     "tkl_pct": "50.0",
-    "interception": "7",
+    "interception": "8",
     "blocks": "14",
     "errors": "1"
   },
@@ -6642,11 +6682,11 @@
   {
     "team_name": "Monza",
     "player_name": "Samuele Birindelli",
-    "tkl": "19",
-    "tklWon": "14",
-    "tkl_pct": "46.2",
-    "interception": "9",
-    "blocks": "14",
+    "tkl": "22",
+    "tklWon": "15",
+    "tkl_pct": "42.9",
+    "interception": "10",
+    "blocks": "15",
     "errors": "2"
   },
   {
@@ -6671,16 +6711,6 @@
   },
   {
     "team_name": "Monza",
-    "player_name": "Danilo D'Ambrosio",
-    "tkl": "28",
-    "tklWon": "15",
-    "tkl_pct": "60.9",
-    "interception": "15",
-    "blocks": "12",
-    "errors": "2"
-  },
-  {
-    "team_name": "Monza",
     "player_name": "Patrick Ciurria",
     "tkl": "22",
     "tklWon": "14",
@@ -6691,12 +6721,32 @@
   },
   {
     "team_name": "Monza",
-    "player_name": "Jean-Daniel Akpa-Akpro",
+    "player_name": "Danilo D'Ambrosio",
     "tkl": "28",
+    "tklWon": "15",
+    "tkl_pct": "60.9",
+    "interception": "15",
+    "blocks": "12",
+    "errors": "2"
+  },
+  {
+    "team_name": "Monza",
+    "player_name": "Jean-Daniel Akpa-Akpro",
+    "tkl": "30",
     "tklWon": "18",
-    "tkl_pct": "50.0",
-    "interception": "11",
+    "tkl_pct": "42.9",
+    "interception": "13",
     "blocks": "19",
+    "errors": "1"
+  },
+  {
+    "team_name": "Monza",
+    "player_name": "Luca Caldirola",
+    "tkl": "11",
+    "tklWon": "7",
+    "tkl_pct": "57.1",
+    "interception": "11",
+    "blocks": "9",
     "errors": "1"
   },
   {
@@ -6711,16 +6761,6 @@
   },
   {
     "team_name": "Monza",
-    "player_name": "Luca Caldirola",
-    "tkl": "11",
-    "tklWon": "7",
-    "tkl_pct": "57.1",
-    "interception": "11",
-    "blocks": "8",
-    "errors": "0"
-  },
-  {
-    "team_name": "Monza",
     "player_name": "Semuel Pizzignacco",
     "tkl": "0",
     "tklWon": "0",
@@ -6731,12 +6771,12 @@
   },
   {
     "team_name": "Monza",
-    "player_name": "Gaetano Castrovilli",
-    "tkl": "12",
-    "tklWon": "7",
-    "tkl_pct": "36.4",
+    "player_name": "Keita Baldé",
+    "tkl": "1",
+    "tklWon": "1",
+    "tkl_pct": "50.0",
     "interception": "2",
-    "blocks": "8",
+    "blocks": "4",
     "errors": "0"
   },
   {
@@ -6761,12 +6801,12 @@
   },
   {
     "team_name": "Monza",
-    "player_name": "Keita Baldé",
-    "tkl": "1",
-    "tklWon": "1",
-    "tkl_pct": "50.0",
+    "player_name": "Gaetano Castrovilli",
+    "tkl": "12",
+    "tklWon": "7",
+    "tkl_pct": "36.4",
     "interception": "2",
-    "blocks": "4",
+    "blocks": "8",
     "errors": "0"
   },
   {
@@ -6856,8 +6896,28 @@
     "tklWon": "5",
     "tkl_pct": "83.3",
     "interception": "3",
-    "blocks": "3",
+    "blocks": "4",
     "errors": "1"
+  },
+  {
+    "team_name": "Monza",
+    "player_name": "",
+    "tkl": "",
+    "tklWon": "",
+    "tkl_pct": "",
+    "interception": "",
+    "blocks": "",
+    "errors": ""
+  },
+  {
+    "team_name": "Monza",
+    "player_name": "Player",
+    "tkl": "",
+    "tklWon": "",
+    "tkl_pct": "",
+    "interception": "",
+    "blocks": "",
+    "errors": ""
   },
   {
     "team_name": "Monza",
@@ -6907,6 +6967,16 @@
     "tkl_pct": "0.0",
     "interception": "0",
     "blocks": "2",
+    "errors": "0"
+  },
+  {
+    "team_name": "Monza",
+    "player_name": "Andrea Mazza",
+    "tkl": "0",
+    "tklWon": "0",
+    "tkl_pct": "",
+    "interception": "0",
+    "blocks": "0",
     "errors": "0"
   }
 ]

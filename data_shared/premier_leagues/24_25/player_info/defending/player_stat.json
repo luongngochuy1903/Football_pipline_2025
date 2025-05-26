@@ -4181,6 +4181,16 @@
   },
   {
     "team_name": "Manchester Utd",
+    "player_name": "Bruno Fernandes",
+    "tkl": "84",
+    "tklWon": "51",
+    "tkl_pct": "40.7",
+    "interception": "26",
+    "blocks": "35",
+    "errors": "3"
+  },
+  {
+    "team_name": "Manchester Utd",
     "player_name": "André Onana",
     "tkl": "2",
     "tklWon": "2",
@@ -4191,20 +4201,10 @@
   },
   {
     "team_name": "Manchester Utd",
-    "player_name": "Bruno Fernandes",
-    "tkl": "79",
-    "tklWon": "47",
-    "tkl_pct": "38.3",
-    "interception": "26",
-    "blocks": "35",
-    "errors": "3"
-  },
-  {
-    "team_name": "Manchester Utd",
     "player_name": "Noussair Mazraoui",
-    "tkl": "112",
-    "tklWon": "65",
-    "tkl_pct": "62.4",
+    "tkl": "115",
+    "tklWon": "68",
+    "tkl_pct": "63.2",
     "interception": "34",
     "blocks": "36",
     "errors": "1"
@@ -4212,8 +4212,8 @@
   {
     "team_name": "Manchester Utd",
     "player_name": "Diogo Dalot",
-    "tkl": "67",
-    "tklWon": "39",
+    "tkl": "68",
+    "tklWon": "40",
     "tkl_pct": "65.4",
     "interception": "37",
     "blocks": "22",
@@ -4245,7 +4245,7 @@
     "tkl": "3",
     "tklWon": "1",
     "tkl_pct": "0.0",
-    "interception": "1",
+    "interception": "2",
     "blocks": "6",
     "errors": "0"
   },
@@ -4261,6 +4261,16 @@
   },
   {
     "team_name": "Manchester Utd",
+    "player_name": "Amad Diallo",
+    "tkl": "37",
+    "tklWon": "30",
+    "tkl_pct": "59.4",
+    "interception": "11",
+    "blocks": "15",
+    "errors": "1"
+  },
+  {
+    "team_name": "Manchester Utd",
     "player_name": "Lisandro Martínez",
     "tkl": "40",
     "tklWon": "24",
@@ -4268,16 +4278,6 @@
     "interception": "32",
     "blocks": "22",
     "errors": "1"
-  },
-  {
-    "team_name": "Manchester Utd",
-    "player_name": "Amad Diallo",
-    "tkl": "36",
-    "tklWon": "29",
-    "tkl_pct": "60.0",
-    "interception": "11",
-    "blocks": "13",
-    "errors": "0"
   },
   {
     "team_name": "Manchester Utd",
@@ -4301,32 +4301,32 @@
   },
   {
     "team_name": "Manchester Utd",
-    "player_name": "Kobbie Mainoo",
-    "tkl": "45",
-    "tklWon": "28",
-    "tkl_pct": "61.5",
-    "interception": "19",
-    "blocks": "16",
-    "errors": "1"
-  },
-  {
-    "team_name": "Manchester Utd",
     "player_name": "Harry Maguire",
-    "tkl": "28",
-    "tklWon": "14",
-    "tkl_pct": "71.4",
+    "tkl": "30",
+    "tklWon": "15",
+    "tkl_pct": "73.9",
     "interception": "40",
     "blocks": "15",
     "errors": "1"
   },
   {
     "team_name": "Manchester Utd",
+    "player_name": "Kobbie Mainoo",
+    "tkl": "46",
+    "tklWon": "29",
+    "tkl_pct": "60.0",
+    "interception": "19",
+    "blocks": "16",
+    "errors": "1"
+  },
+  {
+    "team_name": "Manchester Utd",
     "player_name": "Casemiro",
-    "tkl": "80",
-    "tklWon": "48",
-    "tkl_pct": "62.3",
-    "interception": "13",
-    "blocks": "37",
+    "tkl": "83",
+    "tklWon": "50",
+    "tkl_pct": "60.8",
+    "interception": "14",
+    "blocks": "39",
     "errors": "3"
   },
   {
@@ -4364,19 +4364,19 @@
     "player_name": "Christian Eriksen",
     "tkl": "19",
     "tklWon": "9",
-    "tkl_pct": "42.3",
+    "tkl_pct": "40.7",
     "interception": "7",
-    "blocks": "14",
+    "blocks": "15",
     "errors": "0"
   },
   {
     "team_name": "Manchester Utd",
     "player_name": "Patrick Dorgu",
-    "tkl": "30",
-    "tklWon": "23",
+    "tkl": "31",
+    "tklWon": "24",
     "tkl_pct": "69.6",
     "interception": "4",
-    "blocks": "10",
+    "blocks": "11",
     "errors": "2"
   },
   {
@@ -4384,7 +4384,7 @@
     "player_name": "Mason Mount",
     "tkl": "15",
     "tklWon": "5",
-    "tkl_pct": "81.8",
+    "tkl_pct": "75.0",
     "interception": "4",
     "blocks": "11",
     "errors": "0"
@@ -4395,7 +4395,7 @@
     "tkl": "7",
     "tklWon": "2",
     "tkl_pct": "75.0",
-    "interception": "7",
+    "interception": "8",
     "blocks": "6",
     "errors": "2"
   },
@@ -4421,6 +4421,16 @@
   },
   {
     "team_name": "Manchester Utd",
+    "player_name": "Altay Bayındır",
+    "tkl": "0",
+    "tklWon": "0",
+    "tkl_pct": "0.0",
+    "interception": "0",
+    "blocks": "0",
+    "errors": "1"
+  },
+  {
+    "team_name": "Manchester Utd",
     "player_name": "Luke Shaw",
     "tkl": "4",
     "tklWon": "3",
@@ -4442,22 +4452,22 @@
   {
     "team_name": "Manchester Utd",
     "player_name": "Jonny Evans",
-    "tkl": "7",
-    "tklWon": "5",
+    "tkl": "8",
+    "tklWon": "6",
     "tkl_pct": "50.0",
-    "interception": "4",
-    "blocks": "2",
+    "interception": "5",
+    "blocks": "3",
     "errors": "0"
   },
   {
     "team_name": "Manchester Utd",
-    "player_name": "Altay Bayındır",
-    "tkl": "0",
-    "tklWon": "0",
-    "tkl_pct": "0.0",
-    "interception": "0",
-    "blocks": "0",
-    "errors": "1"
+    "player_name": "Ayden Heaven",
+    "tkl": "4",
+    "tklWon": "3",
+    "tkl_pct": "100.0",
+    "interception": "4",
+    "blocks": "2",
+    "errors": "0"
   },
   {
     "team_name": "Manchester Utd",
@@ -4487,16 +4497,6 @@
     "tkl_pct": "100.0",
     "interception": "0",
     "blocks": "0",
-    "errors": "0"
-  },
-  {
-    "team_name": "Manchester Utd",
-    "player_name": "Ayden Heaven",
-    "tkl": "3",
-    "tklWon": "3",
-    "tkl_pct": "100.0",
-    "interception": "1",
-    "blocks": "2",
     "errors": "0"
   },
   {
@@ -4532,12 +4532,12 @@
   {
     "team_name": "Tottenham",
     "player_name": "Pedro Porro",
-    "tkl": "63",
-    "tklWon": "46",
-    "tkl_pct": "57.5",
-    "interception": "34",
+    "tkl": "67",
+    "tklWon": "49",
+    "tkl_pct": "58.4",
+    "interception": "35",
     "blocks": "44",
-    "errors": "1"
+    "errors": "2"
   },
   {
     "team_name": "Tottenham",
@@ -4554,29 +4554,19 @@
     "player_name": "Dominic Solanke",
     "tkl": "18",
     "tklWon": "11",
-    "tkl_pct": "28.6",
-    "interception": "0",
-    "blocks": "18",
+    "tkl_pct": "25.0",
+    "interception": "1",
+    "blocks": "20",
     "errors": "0"
-  },
-  {
-    "team_name": "Tottenham",
-    "player_name": "Son Heung-min",
-    "tkl": "17",
-    "tklWon": "9",
-    "tkl_pct": "18.5",
-    "interception": "5",
-    "blocks": "11",
-    "errors": "1"
   },
   {
     "team_name": "Tottenham",
     "player_name": "Brennan Johnson",
     "tkl": "39",
     "tklWon": "26",
-    "tkl_pct": "51.6",
+    "tkl_pct": "48.5",
     "interception": "4",
-    "blocks": "25",
+    "blocks": "26",
     "errors": "0"
   },
   {
@@ -4591,22 +4581,32 @@
   },
   {
     "team_name": "Tottenham",
+    "player_name": "Son Heung-min",
+    "tkl": "17",
+    "tklWon": "9",
+    "tkl_pct": "18.5",
+    "interception": "5",
+    "blocks": "11",
+    "errors": "1"
+  },
+  {
+    "team_name": "Tottenham",
     "player_name": "Destiny Udogie",
-    "tkl": "74",
+    "tkl": "75",
     "tklWon": "47",
     "tkl_pct": "70.2",
-    "interception": "21",
+    "interception": "22",
     "blocks": "40",
     "errors": "1"
   },
   {
     "team_name": "Tottenham",
     "player_name": "Pape Matar Sarr",
-    "tkl": "48",
+    "tkl": "49",
     "tklWon": "36",
     "tkl_pct": "50.0",
-    "interception": "29",
-    "blocks": "25",
+    "interception": "30",
+    "blocks": "26",
     "errors": "1"
   },
   {
@@ -4622,10 +4622,10 @@
   {
     "team_name": "Tottenham",
     "player_name": "Rodrigo Bentancur",
-    "tkl": "39",
-    "tklWon": "21",
-    "tkl_pct": "48.7",
-    "interception": "36",
+    "tkl": "40",
+    "tklWon": "22",
+    "tkl_pct": "47.5",
+    "interception": "40",
     "blocks": "25",
     "errors": "1"
   },
@@ -4662,11 +4662,11 @@
   {
     "team_name": "Tottenham",
     "player_name": "Archie Gray",
-    "tkl": "15",
+    "tkl": "16",
     "tklWon": "8",
     "tkl_pct": "41.2",
     "interception": "18",
-    "blocks": "21",
+    "blocks": "22",
     "errors": "2"
   },
   {
@@ -4682,8 +4682,8 @@
   {
     "team_name": "Tottenham",
     "player_name": "Yves Bissouma",
-    "tkl": "48",
-    "tklWon": "30",
+    "tkl": "49",
+    "tklWon": "31",
     "tkl_pct": "55.9",
     "interception": "18",
     "blocks": "11",
@@ -4711,6 +4711,16 @@
   },
   {
     "team_name": "Tottenham",
+    "player_name": "Micky van de Ven",
+    "tkl": "10",
+    "tklWon": "6",
+    "tkl_pct": "57.1",
+    "interception": "10",
+    "blocks": "12",
+    "errors": "1"
+  },
+  {
+    "team_name": "Tottenham",
     "player_name": "Lucas Bergvall",
     "tkl": "39",
     "tklWon": "19",
@@ -4721,20 +4731,10 @@
   },
   {
     "team_name": "Tottenham",
-    "player_name": "Micky van de Ven",
-    "tkl": "10",
-    "tklWon": "6",
-    "tkl_pct": "57.1",
-    "interception": "10",
-    "blocks": "9",
-    "errors": "1"
-  },
-  {
-    "team_name": "Tottenham",
     "player_name": "Mathys Tel",
-    "tkl": "13",
-    "tklWon": "5",
-    "tkl_pct": "22.2",
+    "tkl": "16",
+    "tklWon": "6",
+    "tkl_pct": "38.5",
     "interception": "2",
     "blocks": "8",
     "errors": "2"
@@ -4742,11 +4742,11 @@
   {
     "team_name": "Tottenham",
     "player_name": "Wilson Odobert",
-    "tkl": "13",
-    "tklWon": "4",
+    "tkl": "14",
+    "tklWon": "5",
     "tkl_pct": "57.1",
     "interception": "4",
-    "blocks": "5",
+    "blocks": "6",
     "errors": "1"
   },
   {
@@ -4775,8 +4775,8 @@
     "tkl": "7",
     "tklWon": "5",
     "tkl_pct": "54.5",
-    "interception": "5",
-    "blocks": "12",
+    "interception": "6",
+    "blocks": "15",
     "errors": "1"
   },
   {
@@ -4812,7 +4812,7 @@
   {
     "team_name": "Tottenham",
     "player_name": "Richarlison",
-    "tkl": "4",
+    "tkl": "5",
     "tklWon": "3",
     "tkl_pct": "0.0",
     "interception": "0",
@@ -4892,31 +4892,31 @@
   {
     "team_name": "Leicester City",
     "player_name": "James Justin",
-    "tkl": "53",
-    "tklWon": "32",
-    "tkl_pct": "57.4",
-    "interception": "45",
-    "blocks": "45",
+    "tkl": "57",
+    "tklWon": "36",
+    "tkl_pct": "58.2",
+    "interception": "46",
+    "blocks": "49",
     "errors": "3"
   },
   {
     "team_name": "Leicester City",
     "player_name": "Wout Faes",
-    "tkl": "41",
-    "tklWon": "25",
-    "tkl_pct": "52.2",
+    "tkl": "42",
+    "tklWon": "26",
+    "tkl_pct": "52.1",
     "interception": "26",
-    "blocks": "46",
+    "blocks": "48",
     "errors": "4"
   },
   {
     "team_name": "Leicester City",
     "player_name": "Victor Bernth Kristiansen",
-    "tkl": "85",
-    "tklWon": "50",
-    "tkl_pct": "54.0",
-    "interception": "40",
-    "blocks": "37",
+    "tkl": "87",
+    "tklWon": "51",
+    "tkl_pct": "53.8",
+    "interception": "42",
+    "blocks": "38",
     "errors": "3"
   },
   {
@@ -4952,12 +4952,12 @@
   {
     "team_name": "Leicester City",
     "player_name": "Boubakary Soumaré",
-    "tkl": "36",
+    "tkl": "37",
     "tklWon": "20",
-    "tkl_pct": "62.5",
-    "interception": "26",
+    "tkl_pct": "63.6",
+    "interception": "27",
     "blocks": "22",
-    "errors": "3"
+    "errors": "4"
   },
   {
     "team_name": "Leicester City",
@@ -4966,7 +4966,7 @@
     "tklWon": "9",
     "tkl_pct": "50.0",
     "interception": "13",
-    "blocks": "31",
+    "blocks": "32",
     "errors": "2"
   },
   {
@@ -4974,9 +4974,9 @@
     "player_name": "Jordan Ayew",
     "tkl": "27",
     "tklWon": "15",
-    "tkl_pct": "33.3",
+    "tkl_pct": "30.4",
     "interception": "12",
-    "blocks": "20",
+    "blocks": "21",
     "errors": "0"
   },
   {
@@ -5036,8 +5036,18 @@
     "tklWon": "32",
     "tkl_pct": "31.3",
     "interception": "12",
-    "blocks": "33",
+    "blocks": "34",
     "errors": "0"
+  },
+  {
+    "team_name": "Leicester City",
+    "player_name": "Luke Thomas",
+    "tkl": "31",
+    "tklWon": "25",
+    "tkl_pct": "51.2",
+    "interception": "21",
+    "blocks": "15",
+    "errors": "1"
   },
   {
     "team_name": "Leicester City",
@@ -5051,22 +5061,12 @@
   },
   {
     "team_name": "Leicester City",
-    "player_name": "Luke Thomas",
-    "tkl": "30",
-    "tklWon": "24",
-    "tkl_pct": "53.8",
-    "interception": "21",
-    "blocks": "14",
-    "errors": "1"
-  },
-  {
-    "team_name": "Leicester City",
     "player_name": "Oliver Skipp",
-    "tkl": "20",
+    "tkl": "21",
     "tklWon": "4",
     "tkl_pct": "60.0",
-    "interception": "10",
-    "blocks": "19",
+    "interception": "11",
+    "blocks": "22",
     "errors": "2"
   },
   {
@@ -5081,22 +5081,22 @@
   },
   {
     "team_name": "Leicester City",
+    "player_name": "Kasey McAteer",
+    "tkl": "23",
+    "tklWon": "16",
+    "tkl_pct": "48.3",
+    "interception": "5",
+    "blocks": "18",
+    "errors": "0"
+  },
+  {
+    "team_name": "Leicester City",
     "player_name": "Bobby De Cordova-Reid",
     "tkl": "9",
     "tklWon": "4",
     "tkl_pct": "28.6",
     "interception": "0",
     "blocks": "6",
-    "errors": "0"
-  },
-  {
-    "team_name": "Leicester City",
-    "player_name": "Kasey McAteer",
-    "tkl": "19",
-    "tklWon": "15",
-    "tkl_pct": "44.0",
-    "interception": "4",
-    "blocks": "18",
     "errors": "0"
   },
   {
@@ -5121,6 +5121,16 @@
   },
   {
     "team_name": "Leicester City",
+    "player_name": "Patson Daka",
+    "tkl": "19",
+    "tklWon": "10",
+    "tkl_pct": "38.9",
+    "interception": "1",
+    "blocks": "7",
+    "errors": "0"
+  },
+  {
+    "team_name": "Leicester City",
     "player_name": "Abdul Fatawu Issahaku",
     "tkl": "21",
     "tklWon": "15",
@@ -5131,20 +5141,10 @@
   },
   {
     "team_name": "Leicester City",
-    "player_name": "Patson Daka",
-    "tkl": "18",
-    "tklWon": "9",
-    "tkl_pct": "41.2",
-    "interception": "1",
-    "blocks": "7",
-    "errors": "0"
-  },
-  {
-    "team_name": "Leicester City",
     "player_name": "Ricardo Pereira",
-    "tkl": "12",
-    "tklWon": "7",
-    "tkl_pct": "53.8",
+    "tkl": "13",
+    "tklWon": "8",
+    "tkl_pct": "50.0",
     "interception": "4",
     "blocks": "8",
     "errors": "0"
@@ -5211,6 +5211,16 @@
   },
   {
     "team_name": "Leicester City",
+    "player_name": "Olabade Aluko",
+    "tkl": "1",
+    "tklWon": "1",
+    "tkl_pct": "100.0",
+    "interception": "0",
+    "blocks": "0",
+    "errors": "0"
+  },
+  {
+    "team_name": "Leicester City",
     "player_name": "Will Alves",
     "tkl": "0",
     "tklWon": "0",
@@ -5232,12 +5242,22 @@
   {
     "team_name": "Ipswich Town",
     "player_name": "Dara O'Shea",
-    "tkl": "47",
-    "tklWon": "30",
-    "tkl_pct": "62.5",
-    "interception": "31",
+    "tkl": "49",
+    "tklWon": "31",
+    "tkl_pct": "64.7",
+    "interception": "34",
     "blocks": "62",
     "errors": "4"
+  },
+  {
+    "team_name": "Ipswich Town",
+    "player_name": "Leif Davis",
+    "tkl": "46",
+    "tklWon": "27",
+    "tkl_pct": "62.5",
+    "interception": "25",
+    "blocks": "25",
+    "errors": "3"
   },
   {
     "team_name": "Ipswich Town",
@@ -5251,23 +5271,13 @@
   },
   {
     "team_name": "Ipswich Town",
-    "player_name": "Leif Davis",
-    "tkl": "46",
-    "tklWon": "27",
-    "tkl_pct": "63.8",
-    "interception": "25",
-    "blocks": "24",
-    "errors": "3"
-  },
-  {
-    "team_name": "Ipswich Town",
     "player_name": "Sam Morsy",
-    "tkl": "66",
-    "tklWon": "39",
-    "tkl_pct": "44.1",
+    "tkl": "69",
+    "tklWon": "42",
+    "tkl_pct": "44.4",
     "interception": "29",
     "blocks": "33",
-    "errors": "4"
+    "errors": "5"
   },
   {
     "team_name": "Ipswich Town",
@@ -5275,28 +5285,28 @@
     "tkl": "32",
     "tklWon": "13",
     "tkl_pct": "27.1",
-    "interception": "11",
-    "blocks": "26",
+    "interception": "12",
+    "blocks": "27",
     "errors": "1"
   },
   {
     "team_name": "Ipswich Town",
     "player_name": "Jacob Greaves",
-    "tkl": "39",
+    "tkl": "40",
     "tklWon": "21",
-    "tkl_pct": "64.7",
-    "interception": "20",
-    "blocks": "39",
+    "tkl_pct": "62.9",
+    "interception": "22",
+    "blocks": "41",
     "errors": "3"
   },
   {
     "team_name": "Ipswich Town",
     "player_name": "Jens Cajuste",
-    "tkl": "42",
-    "tklWon": "20",
+    "tkl": "44",
+    "tklWon": "22",
     "tkl_pct": "42.9",
-    "interception": "25",
-    "blocks": "24",
+    "interception": "29",
+    "blocks": "25",
     "errors": "2"
   },
   {
@@ -5306,7 +5316,7 @@
     "tklWon": "19",
     "tkl_pct": "65.4",
     "interception": "23",
-    "blocks": "20",
+    "blocks": "21",
     "errors": "1"
   },
   {
@@ -5382,9 +5392,9 @@
   {
     "team_name": "Ipswich Town",
     "player_name": "Sammie Szmodics",
-    "tkl": "15",
-    "tklWon": "9",
-    "tkl_pct": "26.1",
+    "tkl": "16",
+    "tklWon": "10",
+    "tkl_pct": "26.9",
     "interception": "6",
     "blocks": "10",
     "errors": "0"
@@ -5402,11 +5412,11 @@
   {
     "team_name": "Ipswich Town",
     "player_name": "Jack Clarke",
-    "tkl": "31",
-    "tklWon": "19",
-    "tkl_pct": "51.5",
+    "tkl": "32",
+    "tklWon": "20",
+    "tkl_pct": "50.0",
     "interception": "7",
-    "blocks": "8",
+    "blocks": "9",
     "errors": "2"
   },
   {
@@ -5432,21 +5442,21 @@
   {
     "team_name": "Ipswich Town",
     "player_name": "Conor Chaplin",
-    "tkl": "14",
+    "tkl": "15",
     "tklWon": "5",
-    "tkl_pct": "46.2",
-    "interception": "3",
+    "tkl_pct": "42.9",
+    "interception": "4",
     "blocks": "8",
     "errors": "0"
   },
   {
     "team_name": "Ipswich Town",
     "player_name": "Nathan Broadhead",
-    "tkl": "8",
+    "tkl": "9",
     "tklWon": "4",
-    "tkl_pct": "33.3",
+    "tkl_pct": "30.0",
     "interception": "4",
-    "blocks": "6",
+    "blocks": "8",
     "errors": "0"
   },
   {
@@ -5481,6 +5491,16 @@
   },
   {
     "team_name": "Ipswich Town",
+    "player_name": "George Hirst",
+    "tkl": "3",
+    "tklWon": "3",
+    "tkl_pct": "25.0",
+    "interception": "2",
+    "blocks": "1",
+    "errors": "0"
+  },
+  {
+    "team_name": "Ipswich Town",
     "player_name": "Jaden Philogene Bidace",
     "tkl": "14",
     "tklWon": "7",
@@ -5496,17 +5516,7 @@
     "tklWon": "10",
     "tkl_pct": "44.4",
     "interception": "9",
-    "blocks": "11",
-    "errors": "0"
-  },
-  {
-    "team_name": "Ipswich Town",
-    "player_name": "George Hirst",
-    "tkl": "3",
-    "tklWon": "3",
-    "tkl_pct": "33.3",
-    "interception": "2",
-    "blocks": "1",
+    "blocks": "12",
     "errors": "0"
   },
   {
@@ -5591,6 +5601,16 @@
   },
   {
     "team_name": "Southampton",
+    "player_name": "Mateus Fernandes",
+    "tkl": "90",
+    "tklWon": "49",
+    "tkl_pct": "45.8",
+    "interception": "28",
+    "blocks": "43",
+    "errors": "7"
+  },
+  {
+    "team_name": "Southampton",
     "player_name": "Kyle Walker-Peters",
     "tkl": "44",
     "tklWon": "29",
@@ -5598,16 +5618,6 @@
     "interception": "19",
     "blocks": "27",
     "errors": "1"
-  },
-  {
-    "team_name": "Southampton",
-    "player_name": "Mateus Fernandes",
-    "tkl": "88",
-    "tklWon": "47",
-    "tkl_pct": "49.3",
-    "interception": "26",
-    "blocks": "41",
-    "errors": "7"
   },
   {
     "team_name": "Southampton",
@@ -5621,16 +5631,6 @@
   },
   {
     "team_name": "Southampton",
-    "player_name": "Jan Bednarek",
-    "tkl": "36",
-    "tklWon": "19",
-    "tkl_pct": "51.6",
-    "interception": "56",
-    "blocks": "47",
-    "errors": "5"
-  },
-  {
-    "team_name": "Southampton",
     "player_name": "Aaron Ramsdale",
     "tkl": "0",
     "tklWon": "0",
@@ -5641,12 +5641,22 @@
   },
   {
     "team_name": "Southampton",
+    "player_name": "Jan Bednarek",
+    "tkl": "36",
+    "tklWon": "19",
+    "tkl_pct": "51.6",
+    "interception": "56",
+    "blocks": "47",
+    "errors": "5"
+  },
+  {
+    "team_name": "Southampton",
     "player_name": "Flynn Downes",
-    "tkl": "48",
+    "tkl": "50",
     "tklWon": "25",
     "tkl_pct": "41.7",
-    "interception": "31",
-    "blocks": "24",
+    "interception": "32",
+    "blocks": "28",
     "errors": "4"
   },
   {
@@ -5671,6 +5681,16 @@
   },
   {
     "team_name": "Southampton",
+    "player_name": "Lesley Ugochukwu",
+    "tkl": "50",
+    "tklWon": "24",
+    "tkl_pct": "50.0",
+    "interception": "14",
+    "blocks": "27",
+    "errors": "1"
+  },
+  {
+    "team_name": "Southampton",
     "player_name": "Ryan Manning",
     "tkl": "28",
     "tklWon": "17",
@@ -5678,16 +5698,6 @@
     "interception": "17",
     "blocks": "20",
     "errors": "0"
-  },
-  {
-    "team_name": "Southampton",
-    "player_name": "Lesley Ugochukwu",
-    "tkl": "49",
-    "tklWon": "24",
-    "tkl_pct": "51.4",
-    "interception": "14",
-    "blocks": "27",
-    "errors": "1"
   },
   {
     "team_name": "Southampton",
@@ -5711,6 +5721,16 @@
   },
   {
     "team_name": "Southampton",
+    "player_name": "Kamaldeen Sulemana",
+    "tkl": "22",
+    "tklWon": "17",
+    "tkl_pct": "66.7",
+    "interception": "6",
+    "blocks": "16",
+    "errors": "0"
+  },
+  {
+    "team_name": "Southampton",
     "player_name": "Jack Stephens",
     "tkl": "34",
     "tklWon": "20",
@@ -5721,22 +5741,12 @@
   },
   {
     "team_name": "Southampton",
-    "player_name": "Kamaldeen Sulemana",
-    "tkl": "19",
-    "tklWon": "16",
-    "tkl_pct": "64.3",
-    "interception": "6",
-    "blocks": "13",
-    "errors": "0"
-  },
-  {
-    "team_name": "Southampton",
     "player_name": "Yukinari Sugawara",
-    "tkl": "29",
-    "tklWon": "16",
-    "tkl_pct": "60.0",
-    "interception": "10",
-    "blocks": "17",
+    "tkl": "31",
+    "tklWon": "18",
+    "tkl_pct": "61.3",
+    "interception": "11",
+    "blocks": "21",
     "errors": "3"
   },
   {
@@ -5752,8 +5762,8 @@
   {
     "team_name": "Southampton",
     "player_name": "Cameron Archer",
-    "tkl": "11",
-    "tklWon": "7",
+    "tkl": "13",
+    "tklWon": "8",
     "tkl_pct": "22.2",
     "interception": "2",
     "blocks": "5",
@@ -5782,11 +5792,11 @@
   {
     "team_name": "Southampton",
     "player_name": "Nathan Wood-Gordon",
-    "tkl": "11",
+    "tkl": "13",
     "tklWon": "7",
-    "tkl_pct": "66.7",
+    "tkl_pct": "70.0",
     "interception": "5",
-    "blocks": "8",
+    "blocks": "9",
     "errors": "2"
   },
   {
@@ -5794,20 +5804,20 @@
     "player_name": "William Smallbone",
     "tkl": "19",
     "tklWon": "12",
-    "tkl_pct": "33.3",
+    "tkl_pct": "31.8",
     "interception": "2",
     "blocks": "8",
     "errors": "2"
   },
   {
     "team_name": "Southampton",
-    "player_name": "Alex McCarthy",
-    "tkl": "0",
-    "tklWon": "0",
-    "tkl_pct": "",
-    "interception": "0",
-    "blocks": "0",
-    "errors": "4"
+    "player_name": "Welington",
+    "tkl": "21",
+    "tklWon": "9",
+    "tkl_pct": "63.2",
+    "interception": "7",
+    "blocks": "5",
+    "errors": "0"
   },
   {
     "team_name": "Southampton",
@@ -5831,13 +5841,13 @@
   },
   {
     "team_name": "Southampton",
-    "player_name": "Welington",
-    "tkl": "20",
-    "tklWon": "8",
-    "tkl_pct": "64.7",
-    "interception": "7",
-    "blocks": "4",
-    "errors": "0"
+    "player_name": "Alex McCarthy",
+    "tkl": "0",
+    "tklWon": "0",
+    "tkl_pct": "",
+    "interception": "0",
+    "blocks": "0",
+    "errors": "4"
   },
   {
     "team_name": "Southampton",
@@ -5861,6 +5871,16 @@
   },
   {
     "team_name": "Southampton",
+    "player_name": "Ross Stewart",
+    "tkl": "6",
+    "tklWon": "4",
+    "tkl_pct": "37.5",
+    "interception": "1",
+    "blocks": "4",
+    "errors": "0"
+  },
+  {
+    "team_name": "Southampton",
     "player_name": "Ryan Fraser",
     "tkl": "6",
     "tklWon": "2",
@@ -5871,13 +5891,13 @@
   },
   {
     "team_name": "Southampton",
-    "player_name": "Ross Stewart",
-    "tkl": "4",
-    "tklWon": "3",
-    "tkl_pct": "33.3",
-    "interception": "1",
-    "blocks": "3",
-    "errors": "0"
+    "player_name": "Charlie Taylor",
+    "tkl": "7",
+    "tklWon": "5",
+    "tkl_pct": "71.4",
+    "interception": "5",
+    "blocks": "8",
+    "errors": "1"
   },
   {
     "team_name": "Southampton",
@@ -5901,16 +5921,6 @@
   },
   {
     "team_name": "Southampton",
-    "player_name": "Charlie Taylor",
-    "tkl": "7",
-    "tklWon": "5",
-    "tkl_pct": "83.3",
-    "interception": "3",
-    "blocks": "5",
-    "errors": "1"
-  },
-  {
-    "team_name": "Southampton",
     "player_name": "Albert Grønbaek",
     "tkl": "4",
     "tklWon": "1",
@@ -5921,10 +5931,10 @@
   },
   {
     "team_name": "Southampton",
-    "player_name": "Maxwel Cornet",
-    "tkl": "5",
-    "tklWon": "5",
-    "tkl_pct": "0.0",
+    "player_name": "Jay Robinson",
+    "tkl": "4",
+    "tklWon": "1",
+    "tkl_pct": "100.0",
     "interception": "0",
     "blocks": "0",
     "errors": "0"
@@ -5951,20 +5961,20 @@
   },
   {
     "team_name": "Southampton",
-    "player_name": "Samuel Edozie",
-    "tkl": "3",
-    "tklWon": "1",
-    "tkl_pct": "100.0",
+    "player_name": "Maxwel Cornet",
+    "tkl": "5",
+    "tklWon": "5",
+    "tkl_pct": "0.0",
     "interception": "0",
     "blocks": "0",
     "errors": "0"
   },
   {
     "team_name": "Southampton",
-    "player_name": "Jay Robinson",
+    "player_name": "Samuel Edozie",
     "tkl": "3",
     "tklWon": "1",
-    "tkl_pct": "",
+    "tkl_pct": "100.0",
     "interception": "0",
     "blocks": "0",
     "errors": "0"
@@ -5976,6 +5986,16 @@
     "tklWon": "0",
     "tkl_pct": "100.0",
     "interception": "0",
+    "blocks": "0",
+    "errors": "0"
+  },
+  {
+    "team_name": "Southampton",
+    "player_name": "Joachim Kayi Sanda",
+    "tkl": "0",
+    "tklWon": "0",
+    "tkl_pct": "",
+    "interception": "2",
     "blocks": "0",
     "errors": "0"
   },
@@ -5996,16 +6016,6 @@
     "tklWon": "0",
     "tkl_pct": "",
     "interception": "1",
-    "blocks": "0",
-    "errors": "0"
-  },
-  {
-    "team_name": "Southampton",
-    "player_name": "Joachim Kayi Sanda",
-    "tkl": "0",
-    "tklWon": "0",
-    "tkl_pct": "",
-    "interception": "2",
     "blocks": "0",
     "errors": "0"
   }

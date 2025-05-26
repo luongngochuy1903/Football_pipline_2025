@@ -1,6 +1,6 @@
 from pyspark.sql import SparkSession
 from pyspark.sql.functions import lit
-from modules.module_job import checking_duplicated
+from modules.module_job import get_updated_news
 from datetime import date
 import json
 import hashlib
@@ -28,19 +28,20 @@ def news_read_from_json():
 }
 
     for league_code, shared in shared_map.items():
-        df = spark.read.json(shared)
+        df = spark.read.option("multiline","true").json(shared)
         df.printSchema()
         # df.show(3)
         for key, path in path_map.items():
                 if key == league_code:
-                    if not checking_duplicated(spark, "trusted", df, path, ["Url"]):
-                        today = date.today()
+                    today = date.today()
+                    newdf = get_updated_news(spark, "trusted", df, path)
+                    if newdf != None:
                         print("Starting loading to Raw Zone task")
-                        df = df.withColumn("year", lit(today.year)) \
+                        newdf = newdf.withColumn("year", lit(today.year)) \
                         .withColumn("month", lit(today.month)) \
                         .withColumn("day", lit(today.day))
-                        df.printSchema()
-                        df.write.mode("append").partitionBy("year","month","day").json(f"s3a://raw/{path}")
+                        newdf.printSchema()
+                        newdf.write.mode("append").partitionBy("year","month","day").json(f"s3a://raw/{path}")
                     else:
                         print(f"There is no update data to flow in Trusted/{path} at {today.day}/{today.month}/{today.year}")
                     break

@@ -2,8 +2,8 @@
   {
     "team_name": "Barcelona",
     "player_name": "Pedri",
-    "tkl": "59",
-    "tklWon": "32",
+    "tkl": "62",
+    "tklWon": "34",
     "tkl_pct": "33.8",
     "interception": "26",
     "blocks": "45",
@@ -14,8 +14,8 @@
     "player_name": "Raphinha",
     "tkl": "36",
     "tklWon": "22",
-    "tkl_pct": "50.0",
-    "interception": "10",
+    "tkl_pct": "48.7",
+    "interception": "11",
     "blocks": "29",
     "errors": "0"
   },
@@ -34,10 +34,20 @@
     "player_name": "Lamine Yamal",
     "tkl": "42",
     "tklWon": "28",
-    "tkl_pct": "44.4",
-    "interception": "15",
+    "tkl_pct": "42.1",
+    "interception": "16",
     "blocks": "12",
     "errors": "0"
+  },
+  {
+    "team_name": "Barcelona",
+    "player_name": "Pau Cubarsí",
+    "tkl": "34",
+    "tklWon": "23",
+    "tkl_pct": "63.3",
+    "interception": "16",
+    "blocks": "12",
+    "errors": "1"
   },
   {
     "team_name": "Barcelona",
@@ -48,16 +58,6 @@
     "interception": "20",
     "blocks": "35",
     "errors": "2"
-  },
-  {
-    "team_name": "Barcelona",
-    "player_name": "Pau Cubarsí",
-    "tkl": "33",
-    "tklWon": "23",
-    "tkl_pct": "63.3",
-    "interception": "15",
-    "blocks": "12",
-    "errors": "1"
   },
   {
     "team_name": "Barcelona",
@@ -91,16 +91,6 @@
   },
   {
     "team_name": "Barcelona",
-    "player_name": "Wojciech Szczęsny",
-    "tkl": "1",
-    "tklWon": "1",
-    "tkl_pct": "",
-    "interception": "0",
-    "blocks": "0",
-    "errors": "1"
-  },
-  {
-    "team_name": "Barcelona",
     "player_name": "Iñaki Peña",
     "tkl": "0",
     "tklWon": "0",
@@ -111,12 +101,32 @@
   },
   {
     "team_name": "Barcelona",
+    "player_name": "Wojciech Szczęsny",
+    "tkl": "1",
+    "tklWon": "1",
+    "tkl_pct": "",
+    "interception": "0",
+    "blocks": "0",
+    "errors": "1"
+  },
+  {
+    "team_name": "Barcelona",
     "player_name": "Eric García",
-    "tkl": "33",
-    "tklWon": "19",
-    "tkl_pct": "66.7",
+    "tkl": "38",
+    "tklWon": "21",
+    "tkl_pct": "70.0",
     "interception": "14",
     "blocks": "24",
+    "errors": "0"
+  },
+  {
+    "team_name": "Barcelona",
+    "player_name": "Gavi",
+    "tkl": "30",
+    "tklWon": "21",
+    "tkl_pct": "60.7",
+    "interception": "10",
+    "blocks": "14",
     "errors": "0"
   },
   {
@@ -131,12 +141,12 @@
   },
   {
     "team_name": "Barcelona",
-    "player_name": "Gavi",
-    "tkl": "22",
-    "tklWon": "18",
-    "tkl_pct": "57.1",
-    "interception": "10",
-    "blocks": "13",
+    "player_name": "Fermin López",
+    "tkl": "19",
+    "tklWon": "15",
+    "tkl_pct": "24.2",
+    "interception": "5",
+    "blocks": "11",
     "errors": "0"
   },
   {
@@ -151,21 +161,11 @@
   },
   {
     "team_name": "Barcelona",
-    "player_name": "Fermin López",
-    "tkl": "18",
-    "tklWon": "14",
-    "tkl_pct": "28.0",
-    "interception": "5",
-    "blocks": "11",
-    "errors": "0"
-  },
-  {
-    "team_name": "Barcelona",
     "player_name": "Gerard Martín",
     "tkl": "22",
     "tklWon": "10",
     "tkl_pct": "68.8",
-    "interception": "12",
+    "interception": "13",
     "blocks": "16",
     "errors": "0"
   },
@@ -174,7 +174,7 @@
     "player_name": "Ronald Araújo",
     "tkl": "12",
     "tklWon": "9",
-    "tkl_pct": "100.0",
+    "tkl_pct": "80.0",
     "interception": "9",
     "blocks": "6",
     "errors": "0"
@@ -256,7 +256,7 @@
     "tklWon": "4",
     "tkl_pct": "100.0",
     "interception": "4",
-    "blocks": "1",
+    "blocks": "2",
     "errors": "0"
   },
   {
@@ -282,11 +282,11 @@
   {
     "team_name": "Real Madrid",
     "player_name": "Federico Valverde",
-    "tkl": "48",
-    "tklWon": "28",
-    "tkl_pct": "67.5",
-    "interception": "53",
-    "blocks": "37",
+    "tkl": "50",
+    "tklWon": "30",
+    "tkl_pct": "67.4",
+    "interception": "55",
+    "blocks": "38",
     "errors": "1"
   },
   {
@@ -301,22 +301,22 @@
   },
   {
     "team_name": "Real Madrid",
+    "player_name": "Aurélien Tchouaméni",
+    "tkl": "47",
+    "tklWon": "23",
+    "tkl_pct": "51.2",
+    "interception": "46",
+    "blocks": "34",
+    "errors": "1"
+  },
+  {
+    "team_name": "Real Madrid",
     "player_name": "Thibaut Courtois",
     "tkl": "0",
     "tklWon": "0",
     "tkl_pct": "",
     "interception": "1",
     "blocks": "0",
-    "errors": "1"
-  },
-  {
-    "team_name": "Real Madrid",
-    "player_name": "Aurélien Tchouaméni",
-    "tkl": "47",
-    "tklWon": "23",
-    "tkl_pct": "52.5",
-    "interception": "45",
-    "blocks": "34",
     "errors": "1"
   },
   {
@@ -341,32 +341,32 @@
   },
   {
     "team_name": "Real Madrid",
+    "player_name": "Lucas Vázquez",
+    "tkl": "58",
+    "tklWon": "34",
+    "tkl_pct": "56.3",
+    "interception": "17",
+    "blocks": "24",
+    "errors": "1"
+  },
+  {
+    "team_name": "Real Madrid",
     "player_name": "Vinicius Júnior",
     "tkl": "21",
     "tklWon": "10",
     "tkl_pct": "27.8",
     "interception": "3",
-    "blocks": "7",
+    "blocks": "9",
     "errors": "2"
   },
   {
     "team_name": "Real Madrid",
-    "player_name": "Lucas Vázquez",
-    "tkl": "57",
-    "tklWon": "34",
-    "tkl_pct": "55.3",
-    "interception": "17",
-    "blocks": "22",
-    "errors": "1"
-  },
-  {
-    "team_name": "Real Madrid",
     "player_name": "Fran Garcia",
-    "tkl": "47",
-    "tklWon": "33",
-    "tkl_pct": "57.8",
+    "tkl": "51",
+    "tklWon": "36",
+    "tkl_pct": "54.9",
     "interception": "28",
-    "blocks": "25",
+    "blocks": "27",
     "errors": "1"
   },
   {
@@ -402,11 +402,11 @@
   {
     "team_name": "Real Madrid",
     "player_name": "Raúl Asencio",
-    "tkl": "21",
-    "tklWon": "15",
+    "tkl": "22",
+    "tklWon": "16",
     "tkl_pct": "76.9",
-    "interception": "14",
-    "blocks": "9",
+    "interception": "16",
+    "blocks": "11",
     "errors": "2"
   },
   {
@@ -415,8 +415,8 @@
     "tkl": "31",
     "tklWon": "20",
     "tkl_pct": "43.8",
-    "interception": "26",
-    "blocks": "16",
+    "interception": "27",
+    "blocks": "17",
     "errors": "0"
   },
   {
@@ -424,7 +424,7 @@
     "player_name": "Brahim Díaz",
     "tkl": "25",
     "tklWon": "19",
-    "tkl_pct": "38.9",
+    "tkl_pct": "36.8",
     "interception": "4",
     "blocks": "16",
     "errors": "1"
@@ -432,21 +432,21 @@
   {
     "team_name": "Real Madrid",
     "player_name": "Dani Ceballos",
-    "tkl": "39",
-    "tklWon": "20",
-    "tkl_pct": "54.5",
-    "interception": "13",
-    "blocks": "15",
+    "tkl": "41",
+    "tklWon": "21",
+    "tkl_pct": "50.0",
+    "interception": "14",
+    "blocks": "16",
     "errors": "2"
   },
   {
     "team_name": "Real Madrid",
     "player_name": "Arda Güler",
-    "tkl": "27",
-    "tklWon": "14",
-    "tkl_pct": "38.1",
-    "interception": "6",
-    "blocks": "17",
+    "tkl": "30",
+    "tklWon": "16",
+    "tkl_pct": "40.9",
+    "interception": "7",
+    "blocks": "18",
     "errors": "0"
   },
   {
@@ -481,6 +481,16 @@
   },
   {
     "team_name": "Real Madrid",
+    "player_name": "Andriy Lunin",
+    "tkl": "1",
+    "tklWon": "0",
+    "tkl_pct": "",
+    "interception": "0",
+    "blocks": "0",
+    "errors": "0"
+  },
+  {
+    "team_name": "Real Madrid",
     "player_name": "Dani Carvajal",
     "tkl": "12",
     "tklWon": "8",
@@ -488,16 +498,6 @@
     "interception": "10",
     "blocks": "8",
     "errors": "1"
-  },
-  {
-    "team_name": "Real Madrid",
-    "player_name": "Andriy Lunin",
-    "tkl": "0",
-    "tklWon": "0",
-    "tkl_pct": "",
-    "interception": "0",
-    "blocks": "0",
-    "errors": "0"
   },
   {
     "team_name": "Real Madrid",
@@ -632,9 +632,9 @@
   {
     "team_name": "Atlético Madrid",
     "player_name": "Julián Álvarez",
-    "tkl": "24",
-    "tklWon": "16",
-    "tkl_pct": "27.6",
+    "tkl": "25",
+    "tklWon": "17",
+    "tkl_pct": "26.7",
     "interception": "2",
     "blocks": "14",
     "errors": "1"
@@ -646,13 +646,23 @@
     "tklWon": "17",
     "tkl_pct": "24.1",
     "interception": "6",
-    "blocks": "16",
+    "blocks": "20",
+    "errors": "1"
+  },
+  {
+    "team_name": "Atlético Madrid",
+    "player_name": "Marcos Llorente",
+    "tkl": "69",
+    "tklWon": "52",
+    "tkl_pct": "65.5",
+    "interception": "27",
+    "blocks": "32",
     "errors": "1"
   },
   {
     "team_name": "Atlético Madrid",
     "player_name": "Pablo Barrios",
-    "tkl": "45",
+    "tkl": "46",
     "tklWon": "26",
     "tkl_pct": "48.9",
     "interception": "34",
@@ -661,20 +671,10 @@
   },
   {
     "team_name": "Atlético Madrid",
-    "player_name": "Marcos Llorente",
-    "tkl": "67",
-    "tklWon": "50",
-    "tkl_pct": "66.0",
-    "interception": "26",
-    "blocks": "31",
-    "errors": "1"
-  },
-  {
-    "team_name": "Atlético Madrid",
     "player_name": "Giuliano Simeone",
-    "tkl": "25",
+    "tkl": "27",
     "tklWon": "13",
-    "tkl_pct": "48.3",
+    "tkl_pct": "50.0",
     "interception": "14",
     "blocks": "22",
     "errors": "1"
@@ -696,16 +696,16 @@
     "tklWon": "26",
     "tkl_pct": "42.4",
     "interception": "6",
-    "blocks": "23",
+    "blocks": "25",
     "errors": "3"
   },
   {
     "team_name": "Atlético Madrid",
     "player_name": "Clément Lenglet",
-    "tkl": "25",
-    "tklWon": "16",
-    "tkl_pct": "71.4",
-    "interception": "21",
+    "tkl": "27",
+    "tklWon": "17",
+    "tkl_pct": "73.3",
+    "interception": "22",
     "blocks": "24",
     "errors": "1"
   },
@@ -721,6 +721,16 @@
   },
   {
     "team_name": "Atlético Madrid",
+    "player_name": "Samuel Lino",
+    "tkl": "33",
+    "tklWon": "17",
+    "tkl_pct": "42.3",
+    "interception": "8",
+    "blocks": "23",
+    "errors": "0"
+  },
+  {
+    "team_name": "Atlético Madrid",
     "player_name": "José María Giménez",
     "tkl": "26",
     "tklWon": "16",
@@ -731,29 +741,19 @@
   },
   {
     "team_name": "Atlético Madrid",
-    "player_name": "Samuel Lino",
-    "tkl": "31",
-    "tklWon": "16",
-    "tkl_pct": "42.6",
-    "interception": "7",
-    "blocks": "23",
-    "errors": "0"
-  },
-  {
-    "team_name": "Atlético Madrid",
     "player_name": "Koke",
-    "tkl": "44",
-    "tklWon": "22",
+    "tkl": "46",
+    "tklWon": "23",
     "tkl_pct": "48.8",
     "interception": "20",
-    "blocks": "23",
+    "blocks": "24",
     "errors": "2"
   },
   {
     "team_name": "Atlético Madrid",
     "player_name": "Conor Gallagher",
-    "tkl": "44",
-    "tklWon": "31",
+    "tkl": "45",
+    "tklWon": "32",
     "tkl_pct": "44.9",
     "interception": "20",
     "blocks": "23",
@@ -762,10 +762,10 @@
   {
     "team_name": "Atlético Madrid",
     "player_name": "Nahuel Molina",
-    "tkl": "42",
+    "tkl": "44",
     "tklWon": "19",
-    "tkl_pct": "54.5",
-    "interception": "12",
+    "tkl_pct": "55.4",
+    "interception": "13",
     "blocks": "16",
     "errors": "0"
   },
@@ -774,7 +774,7 @@
     "player_name": "Alexander Sørloth",
     "tkl": "9",
     "tklWon": "5",
-    "tkl_pct": "60.0",
+    "tkl_pct": "50.0",
     "interception": "1",
     "blocks": "6",
     "errors": "0"
@@ -792,20 +792,20 @@
   {
     "team_name": "Atlético Madrid",
     "player_name": "César Azpilicueta",
-    "tkl": "24",
-    "tklWon": "13",
+    "tkl": "25",
+    "tklWon": "14",
     "tkl_pct": "73.9",
-    "interception": "4",
-    "blocks": "8",
+    "interception": "5",
+    "blocks": "10",
     "errors": "0"
   },
   {
     "team_name": "Atlético Madrid",
     "player_name": "Axel Witsel",
-    "tkl": "13",
+    "tkl": "16",
     "tklWon": "12",
-    "tkl_pct": "83.3",
-    "interception": "9",
+    "tkl_pct": "85.7",
+    "interception": "11",
     "blocks": "15",
     "errors": "1"
   },
@@ -822,11 +822,11 @@
   {
     "team_name": "Atlético Madrid",
     "player_name": "Ángel Correa",
-    "tkl": "8",
-    "tklWon": "2",
-    "tkl_pct": "28.6",
+    "tkl": "9",
+    "tklWon": "3",
+    "tkl_pct": "33.3",
     "interception": "4",
-    "blocks": "9",
+    "blocks": "10",
     "errors": "0"
   },
   {
@@ -882,20 +882,20 @@
   {
     "team_name": "Athletic Club",
     "player_name": "Álex Berenguer",
-    "tkl": "30",
-    "tklWon": "14",
-    "tkl_pct": "46.4",
+    "tkl": "31",
+    "tklWon": "15",
+    "tkl_pct": "43.8",
     "interception": "10",
-    "blocks": "21",
+    "blocks": "22",
     "errors": "0"
   },
   {
     "team_name": "Athletic Club",
     "player_name": "Mikel Jauregizar",
-    "tkl": "82",
-    "tklWon": "47",
-    "tkl_pct": "52.6",
-    "interception": "27",
+    "tkl": "85",
+    "tklWon": "48",
+    "tkl_pct": "49.4",
+    "interception": "29",
     "blocks": "24",
     "errors": "2"
   },
@@ -904,39 +904,19 @@
     "player_name": "Yuri Berchiche",
     "tkl": "33",
     "tklWon": "21",
-    "tkl_pct": "63.3",
-    "interception": "25",
-    "blocks": "22",
-    "errors": "2"
+    "tkl_pct": "57.6",
+    "interception": "27",
+    "blocks": "25",
+    "errors": "3"
   },
   {
     "team_name": "Athletic Club",
     "player_name": "Nico Williams",
-    "tkl": "27",
-    "tklWon": "17",
-    "tkl_pct": "32.3",
-    "interception": "6",
-    "blocks": "19",
-    "errors": "0"
-  },
-  {
-    "team_name": "Athletic Club",
-    "player_name": "Gorka Guruzeta",
-    "tkl": "16",
-    "tklWon": "8",
-    "tkl_pct": "22.6",
-    "interception": "9",
-    "blocks": "28",
-    "errors": "0"
-  },
-  {
-    "team_name": "Athletic Club",
-    "player_name": "Beñat Prados",
-    "tkl": "52",
-    "tklWon": "34",
-    "tkl_pct": "45.1",
-    "interception": "28",
-    "blocks": "21",
+    "tkl": "28",
+    "tklWon": "18",
+    "tkl_pct": "34.4",
+    "interception": "7",
+    "blocks": "20",
     "errors": "0"
   },
   {
@@ -951,13 +931,33 @@
   },
   {
     "team_name": "Athletic Club",
-    "player_name": "Yeray Álvarez",
-    "tkl": "25",
+    "player_name": "Gorka Guruzeta",
+    "tkl": "16",
+    "tklWon": "8",
+    "tkl_pct": "22.6",
+    "interception": "9",
+    "blocks": "28",
+    "errors": "0"
+  },
+  {
+    "team_name": "Athletic Club",
+    "player_name": "Aitor Paredes",
+    "tkl": "15",
     "tklWon": "13",
-    "tkl_pct": "68.2",
-    "interception": "34",
-    "blocks": "10",
-    "errors": "1"
+    "tkl_pct": "53.3",
+    "interception": "22",
+    "blocks": "26",
+    "errors": "4"
+  },
+  {
+    "team_name": "Athletic Club",
+    "player_name": "Beñat Prados",
+    "tkl": "55",
+    "tklWon": "35",
+    "tkl_pct": "47.2",
+    "interception": "28",
+    "blocks": "21",
+    "errors": "0"
   },
   {
     "team_name": "Athletic Club",
@@ -981,13 +981,13 @@
   },
   {
     "team_name": "Athletic Club",
-    "player_name": "Aitor Paredes",
-    "tkl": "14",
-    "tklWon": "12",
-    "tkl_pct": "50.0",
-    "interception": "22",
-    "blocks": "24",
-    "errors": "4"
+    "player_name": "Yeray Álvarez",
+    "tkl": "25",
+    "tklWon": "13",
+    "tkl_pct": "68.2",
+    "interception": "34",
+    "blocks": "10",
+    "errors": "1"
   },
   {
     "team_name": "Athletic Club",
@@ -996,7 +996,27 @@
     "tklWon": "8",
     "tkl_pct": "35.7",
     "interception": "5",
-    "blocks": "9",
+    "blocks": "10",
+    "errors": "0"
+  },
+  {
+    "team_name": "Athletic Club",
+    "player_name": "Iñigo Ruiz de Galarreta",
+    "tkl": "36",
+    "tklWon": "22",
+    "tkl_pct": "64.5",
+    "interception": "16",
+    "blocks": "11",
+    "errors": "2"
+  },
+  {
+    "team_name": "Athletic Club",
+    "player_name": "Óscar de Marcos",
+    "tkl": "32",
+    "tklWon": "15",
+    "tkl_pct": "56.8",
+    "interception": "16",
+    "blocks": "17",
     "errors": "0"
   },
   {
@@ -1011,23 +1031,13 @@
   },
   {
     "team_name": "Athletic Club",
-    "player_name": "Iñigo Ruiz de Galarreta",
-    "tkl": "35",
-    "tklWon": "21",
-    "tkl_pct": "64.5",
-    "interception": "15",
-    "blocks": "10",
-    "errors": "2"
-  },
-  {
-    "team_name": "Athletic Club",
-    "player_name": "Óscar de Marcos",
-    "tkl": "32",
-    "tklWon": "15",
-    "tkl_pct": "56.8",
-    "interception": "15",
-    "blocks": "17",
-    "errors": "0"
+    "player_name": "Unai Gómez",
+    "tkl": "12",
+    "tklWon": "8",
+    "tkl_pct": "57.1",
+    "interception": "2",
+    "blocks": "13",
+    "errors": "1"
   },
   {
     "team_name": "Athletic Club",
@@ -1037,16 +1047,6 @@
     "tkl_pct": "0.0",
     "interception": "0",
     "blocks": "0",
-    "errors": "0"
-  },
-  {
-    "team_name": "Athletic Club",
-    "player_name": "Unai Gómez",
-    "tkl": "12",
-    "tklWon": "8",
-    "tkl_pct": "57.1",
-    "interception": "2",
-    "blocks": "13",
     "errors": "0"
   },
   {
@@ -1101,6 +1101,16 @@
   },
   {
     "team_name": "Athletic Club",
+    "player_name": "Maroan Sannadi",
+    "tkl": "5",
+    "tklWon": "0",
+    "tkl_pct": "28.6",
+    "interception": "1",
+    "blocks": "1",
+    "errors": "1"
+  },
+  {
+    "team_name": "Athletic Club",
     "player_name": "Álvaro djaló",
     "tkl": "8",
     "tklWon": "5",
@@ -1111,20 +1121,10 @@
   },
   {
     "team_name": "Athletic Club",
-    "player_name": "Maroan Sannadi",
-    "tkl": "5",
-    "tklWon": "0",
-    "tkl_pct": "28.6",
-    "interception": "0",
-    "blocks": "1",
-    "errors": "1"
-  },
-  {
-    "team_name": "Athletic Club",
     "player_name": "Unai Núñez",
-    "tkl": "9",
-    "tklWon": "4",
-    "tkl_pct": "50.0",
+    "tkl": "10",
+    "tklWon": "5",
+    "tkl_pct": "57.1",
     "interception": "17",
     "blocks": "4",
     "errors": "1"
@@ -1221,6 +1221,16 @@
   },
   {
     "team_name": "Villarreal",
+    "player_name": "Alex Baena",
+    "tkl": "28",
+    "tklWon": "15",
+    "tkl_pct": "25.6",
+    "interception": "22",
+    "blocks": "29",
+    "errors": "2"
+  },
+  {
+    "team_name": "Villarreal",
     "player_name": "Santi Comesaña",
     "tkl": "85",
     "tklWon": "49",
@@ -1231,22 +1241,12 @@
   },
   {
     "team_name": "Villarreal",
-    "player_name": "Alex Baena",
-    "tkl": "28",
-    "tklWon": "15",
-    "tkl_pct": "26.3",
-    "interception": "22",
-    "blocks": "29",
-    "errors": "2"
-  },
-  {
-    "team_name": "Villarreal",
     "player_name": "Logan Costa",
     "tkl": "38",
     "tklWon": "21",
     "tkl_pct": "82.8",
     "interception": "21",
-    "blocks": "22",
+    "blocks": "24",
     "errors": "2"
   },
   {
@@ -1274,7 +1274,7 @@
     "player_name": "Pape Gueye",
     "tkl": "54",
     "tklWon": "26",
-    "tkl_pct": "71.4",
+    "tkl_pct": "69.0",
     "interception": "27",
     "blocks": "31",
     "errors": "2"
@@ -1282,7 +1282,7 @@
   {
     "team_name": "Villarreal",
     "player_name": "Thierno Barry",
-    "tkl": "11",
+    "tkl": "12",
     "tklWon": "8",
     "tkl_pct": "40.0",
     "interception": "0",
@@ -1292,11 +1292,11 @@
   {
     "team_name": "Villarreal",
     "player_name": "Yeremi Pino",
-    "tkl": "56",
-    "tklWon": "29",
-    "tkl_pct": "46.8",
+    "tkl": "60",
+    "tklWon": "32",
+    "tkl_pct": "49.2",
     "interception": "8",
-    "blocks": "36",
+    "blocks": "38",
     "errors": "0"
   },
   {
@@ -1385,9 +1385,19 @@
     "tkl": "17",
     "tklWon": "12",
     "tkl_pct": "83.3",
-    "interception": "9",
-    "blocks": "8",
+    "interception": "10",
+    "blocks": "10",
     "errors": "1"
+  },
+  {
+    "team_name": "Villarreal",
+    "player_name": "Pau Navarro",
+    "tkl": "23",
+    "tklWon": "17",
+    "tkl_pct": "48.7",
+    "interception": "4",
+    "blocks": "13",
+    "errors": "0"
   },
   {
     "team_name": "Villarreal",
@@ -1401,12 +1411,12 @@
   },
   {
     "team_name": "Villarreal",
-    "player_name": "Pau Navarro",
-    "tkl": "22",
-    "tklWon": "17",
-    "tkl_pct": "51.4",
-    "interception": "4",
-    "blocks": "13",
+    "player_name": "Denis Suárez",
+    "tkl": "12",
+    "tklWon": "8",
+    "tkl_pct": "40.0",
+    "interception": "3",
+    "blocks": "4",
     "errors": "0"
   },
   {
@@ -1417,16 +1427,6 @@
     "tkl_pct": "50.0",
     "interception": "3",
     "blocks": "8",
-    "errors": "0"
-  },
-  {
-    "team_name": "Villarreal",
-    "player_name": "Gerard Moreno",
-    "tkl": "7",
-    "tklWon": "4",
-    "tkl_pct": "27.3",
-    "interception": "2",
-    "blocks": "0",
     "errors": "0"
   },
   {
@@ -1451,12 +1451,12 @@
   },
   {
     "team_name": "Villarreal",
-    "player_name": "Denis Suárez",
-    "tkl": "9",
-    "tklWon": "7",
-    "tkl_pct": "44.4",
-    "interception": "1",
-    "blocks": "4",
+    "player_name": "Gerard Moreno",
+    "tkl": "7",
+    "tklWon": "4",
+    "tkl_pct": "25.0",
+    "interception": "2",
+    "blocks": "0",
     "errors": "0"
   },
   {
@@ -1465,18 +1465,18 @@
     "tkl": "3",
     "tklWon": "2",
     "tkl_pct": "50.0",
-    "interception": "5",
-    "blocks": "2",
+    "interception": "6",
+    "blocks": "3",
     "errors": "0"
   },
   {
     "team_name": "Villarreal",
     "player_name": "Tajon Buchanan",
-    "tkl": "9",
+    "tkl": "10",
     "tklWon": "5",
     "tkl_pct": "66.7",
     "interception": "1",
-    "blocks": "5",
+    "blocks": "6",
     "errors": "0"
   },
   {
@@ -1541,6 +1541,16 @@
   },
   {
     "team_name": "Villarreal",
+    "player_name": "Daniel Requena",
+    "tkl": "0",
+    "tklWon": "0",
+    "tkl_pct": "",
+    "interception": "0",
+    "blocks": "0",
+    "errors": "0"
+  },
+  {
+    "team_name": "Villarreal",
     "player_name": "Thiago Ojeda",
     "tkl": "0",
     "tklWon": "0",
@@ -1582,10 +1592,10 @@
   {
     "team_name": "Betis",
     "player_name": "Marc Bartra",
-    "tkl": "34",
+    "tkl": "33",
     "tklWon": "19",
-    "tkl_pct": "56.0",
-    "interception": "32",
+    "tkl_pct": "57.7",
+    "interception": "33",
     "blocks": "41",
     "errors": "0"
   },
@@ -1615,7 +1625,7 @@
     "tkl": "61",
     "tklWon": "37",
     "tkl_pct": "60.0",
-    "interception": "23",
+    "interception": "24",
     "blocks": "28",
     "errors": "3"
   },
@@ -1625,7 +1635,7 @@
     "tkl": "21",
     "tklWon": "13",
     "tkl_pct": "33.3",
-    "interception": "24",
+    "interception": "23",
     "blocks": "24",
     "errors": "1"
   },
@@ -1694,8 +1704,8 @@
     "player_name": "Antony",
     "tkl": "25",
     "tklWon": "11",
-    "tkl_pct": "34.8",
-    "interception": "9",
+    "tkl_pct": "36.4",
+    "interception": "10",
     "blocks": "12",
     "errors": "1"
   },
@@ -1722,7 +1732,7 @@
   {
     "team_name": "Betis",
     "player_name": "Jesus Rodríguez",
-    "tkl": "17",
+    "tkl": "16",
     "tklWon": "14",
     "tkl_pct": "27.8",
     "interception": "6",
@@ -1752,9 +1762,9 @@
   {
     "team_name": "Betis",
     "player_name": "Aitor Ruibal",
-    "tkl": "33",
+    "tkl": "32",
     "tklWon": "23",
-    "tkl_pct": "55.3",
+    "tkl_pct": "53.2",
     "interception": "14",
     "blocks": "20",
     "errors": "1"
@@ -1977,24 +1987,24 @@
     "tkl_pct": "",
     "interception": "0",
     "blocks": "0",
-    "errors": "2"
+    "errors": "3"
   },
   {
     "team_name": "Celta Vigo",
     "player_name": "Óscar Mingueza",
-    "tkl": "37",
-    "tklWon": "23",
-    "tkl_pct": "37.3",
-    "interception": "21",
-    "blocks": "34",
-    "errors": "6"
+    "tkl": "38",
+    "tklWon": "24",
+    "tkl_pct": "37.7",
+    "interception": "22",
+    "blocks": "35",
+    "errors": "7"
   },
   {
     "team_name": "Celta Vigo",
     "player_name": "Marcos Alonso",
-    "tkl": "33",
-    "tklWon": "20",
-    "tkl_pct": "55.8",
+    "tkl": "35",
+    "tklWon": "21",
+    "tkl_pct": "56.8",
     "interception": "34",
     "blocks": "22",
     "errors": "4"
@@ -2002,12 +2012,22 @@
   {
     "team_name": "Celta Vigo",
     "player_name": "Fran Beltrán",
-    "tkl": "47",
-    "tklWon": "34",
-    "tkl_pct": "40.4",
+    "tkl": "50",
+    "tklWon": "35",
+    "tkl_pct": "42.9",
     "interception": "26",
-    "blocks": "25",
+    "blocks": "26",
     "errors": "4"
+  },
+  {
+    "team_name": "Celta Vigo",
+    "player_name": "Javi Rodríguez",
+    "tkl": "53",
+    "tklWon": "38",
+    "tkl_pct": "70.2",
+    "interception": "33",
+    "blocks": "29",
+    "errors": "2"
   },
   {
     "team_name": "Celta Vigo",
@@ -2021,32 +2041,22 @@
   },
   {
     "team_name": "Celta Vigo",
-    "player_name": "Javi Rodríguez",
-    "tkl": "52",
-    "tklWon": "37",
-    "tkl_pct": "70.2",
-    "interception": "32",
-    "blocks": "29",
-    "errors": "1"
-  },
-  {
-    "team_name": "Celta Vigo",
     "player_name": "Borja Iglesias",
     "tkl": "10",
     "tklWon": "9",
-    "tkl_pct": "28.6",
-    "interception": "6",
-    "blocks": "8",
+    "tkl_pct": "26.7",
+    "interception": "7",
+    "blocks": "9",
     "errors": "0"
   },
   {
     "team_name": "Celta Vigo",
     "player_name": "Ilaix Moriba",
-    "tkl": "64",
-    "tklWon": "39",
-    "tkl_pct": "55.6",
-    "interception": "13",
-    "blocks": "28",
+    "tkl": "68",
+    "tklWon": "42",
+    "tkl_pct": "56.1",
+    "interception": "14",
+    "blocks": "29",
     "errors": "1"
   },
   {
@@ -2055,8 +2065,8 @@
     "tkl": "13",
     "tklWon": "8",
     "tkl_pct": "40.0",
-    "interception": "7",
-    "blocks": "17",
+    "interception": "8",
+    "blocks": "18",
     "errors": "0"
   },
   {
@@ -2064,9 +2074,9 @@
     "player_name": "Sergio Carreira",
     "tkl": "28",
     "tklWon": "16",
-    "tkl_pct": "56.0",
+    "tkl_pct": "53.8",
     "interception": "17",
-    "blocks": "19",
+    "blocks": "20",
     "errors": "0"
   },
   {
@@ -2102,9 +2112,9 @@
   {
     "team_name": "Celta Vigo",
     "player_name": "Pablo Durán",
-    "tkl": "15",
+    "tkl": "17",
     "tklWon": "9",
-    "tkl_pct": "26.7",
+    "tkl_pct": "31.3",
     "interception": "8",
     "blocks": "12",
     "errors": "0"
@@ -2124,7 +2134,7 @@
     "player_name": "Hugo Sotelo",
     "tkl": "28",
     "tklWon": "17",
-    "tkl_pct": "43.3",
+    "tkl_pct": "41.9",
     "interception": "5",
     "blocks": "9",
     "errors": "1"
@@ -2132,11 +2142,11 @@
   {
     "team_name": "Celta Vigo",
     "player_name": "Alfon",
-    "tkl": "7",
+    "tkl": "8",
     "tklWon": "3",
-    "tkl_pct": "27.3",
-    "interception": "4",
-    "blocks": "7",
+    "tkl_pct": "33.3",
+    "interception": "5",
+    "blocks": "8",
     "errors": "1"
   },
   {
@@ -2145,8 +2155,8 @@
     "tkl": "23",
     "tklWon": "11",
     "tkl_pct": "71.4",
-    "interception": "9",
-    "blocks": "13",
+    "interception": "13",
+    "blocks": "16",
     "errors": "1"
   },
   {
@@ -2176,7 +2186,7 @@
     "tklWon": "5",
     "tkl_pct": "15.4",
     "interception": "2",
-    "blocks": "9",
+    "blocks": "10",
     "errors": "0"
   },
   {
@@ -2242,10 +2252,10 @@
   {
     "team_name": "Celta Vigo",
     "player_name": "Mihailo Ristić",
-    "tkl": "6",
-    "tklWon": "6",
+    "tkl": "7",
+    "tklWon": "7",
     "tkl_pct": "66.7",
-    "interception": "1",
+    "interception": "2",
     "blocks": "1",
     "errors": "0"
   },
@@ -2315,18 +2325,18 @@
     "tkl": "46",
     "tklWon": "28",
     "tkl_pct": "53.5",
-    "interception": "39",
+    "interception": "41",
     "blocks": "38",
     "errors": "1"
   },
   {
     "team_name": "Rayo Vallecano",
     "player_name": "Andrei Ratiu",
-    "tkl": "70",
-    "tklWon": "40",
-    "tkl_pct": "60.9",
+    "tkl": "71",
+    "tklWon": "41",
+    "tkl_pct": "60.0",
     "interception": "27",
-    "blocks": "43",
+    "blocks": "45",
     "errors": "2"
   },
   {
@@ -2346,16 +2356,16 @@
     "tklWon": "21",
     "tkl_pct": "30.4",
     "interception": "19",
-    "blocks": "21",
+    "blocks": "22",
     "errors": "1"
   },
   {
     "team_name": "Rayo Vallecano",
     "player_name": "Pep Chavarría",
-    "tkl": "43",
-    "tklWon": "33",
-    "tkl_pct": "61.4",
-    "interception": "28",
+    "tkl": "46",
+    "tklWon": "36",
+    "tkl_pct": "62.2",
+    "interception": "30",
     "blocks": "35",
     "errors": "1"
   },
@@ -2364,8 +2374,8 @@
     "player_name": "Álvaro García",
     "tkl": "33",
     "tklWon": "24",
-    "tkl_pct": "41.4",
-    "interception": "31",
+    "tkl_pct": "38.7",
+    "interception": "32",
     "blocks": "31",
     "errors": "1"
   },
@@ -2374,18 +2384,18 @@
     "player_name": "Isaac Palazón Camacho",
     "tkl": "22",
     "tklWon": "17",
-    "tkl_pct": "24.2",
+    "tkl_pct": "23.5",
     "interception": "8",
-    "blocks": "21",
+    "blocks": "22",
     "errors": "1"
   },
   {
     "team_name": "Rayo Vallecano",
     "player_name": "Pathé Ciss",
-    "tkl": "46",
-    "tklWon": "23",
-    "tkl_pct": "50.0",
-    "interception": "37",
+    "tkl": "49",
+    "tklWon": "24",
+    "tkl_pct": "48.8",
+    "interception": "40",
     "blocks": "31",
     "errors": "3"
   },
@@ -2402,11 +2412,11 @@
   {
     "team_name": "Rayo Vallecano",
     "player_name": "Unai López",
-    "tkl": "28",
-    "tklWon": "20",
-    "tkl_pct": "44.1",
+    "tkl": "31",
+    "tklWon": "21",
+    "tkl_pct": "47.2",
     "interception": "21",
-    "blocks": "17",
+    "blocks": "18",
     "errors": "0"
   },
   {
@@ -2424,9 +2434,9 @@
     "player_name": "Adri Embarba",
     "tkl": "41",
     "tklWon": "20",
-    "tkl_pct": "39.1",
+    "tkl_pct": "38.3",
     "interception": "13",
-    "blocks": "17",
+    "blocks": "18",
     "errors": "2"
   },
   {
@@ -2452,11 +2462,11 @@
   {
     "team_name": "Rayo Vallecano",
     "player_name": "Pedro Díaz",
-    "tkl": "21",
-    "tklWon": "13",
-    "tkl_pct": "30.8",
-    "interception": "6",
-    "blocks": "15",
+    "tkl": "23",
+    "tklWon": "15",
+    "tkl_pct": "34.1",
+    "interception": "7",
+    "blocks": "16",
     "errors": "1"
   },
   {
@@ -2472,11 +2482,11 @@
   {
     "team_name": "Rayo Vallecano",
     "player_name": "Aridane Hernández",
-    "tkl": "12",
-    "tklWon": "10",
-    "tkl_pct": "71.4",
-    "interception": "4",
-    "blocks": "9",
+    "tkl": "13",
+    "tklWon": "11",
+    "tkl_pct": "75.0",
+    "interception": "6",
+    "blocks": "10",
     "errors": "2"
   },
   {
@@ -2496,7 +2506,7 @@
     "tklWon": "12",
     "tkl_pct": "46.7",
     "interception": "5",
-    "blocks": "12",
+    "blocks": "13",
     "errors": "0"
   },
   {
@@ -2574,7 +2584,7 @@
     "player_name": "Sergio Herrera",
     "tkl": "2",
     "tklWon": "1",
-    "tkl_pct": "40.0",
+    "tkl_pct": "33.3",
     "interception": "0",
     "blocks": "1",
     "errors": "1"
@@ -2582,11 +2592,11 @@
   {
     "team_name": "Osasuna",
     "player_name": "Jesús Areso",
-    "tkl": "50",
-    "tklWon": "37",
-    "tkl_pct": "69.1",
+    "tkl": "53",
+    "tklWon": "38",
+    "tkl_pct": "69.6",
     "interception": "8",
-    "blocks": "25",
+    "blocks": "26",
     "errors": "0"
   },
   {
@@ -2594,10 +2604,20 @@
     "player_name": "Catena",
     "tkl": "46",
     "tklWon": "28",
-    "tkl_pct": "62.8",
-    "interception": "34",
-    "blocks": "39",
+    "tkl_pct": "61.4",
+    "interception": "35",
+    "blocks": "40",
     "errors": "2"
+  },
+  {
+    "team_name": "Osasuna",
+    "player_name": "Aimar Oroz",
+    "tkl": "35",
+    "tklWon": "19",
+    "tkl_pct": "30.4",
+    "interception": "20",
+    "blocks": "29",
+    "errors": "0"
   },
   {
     "team_name": "Osasuna",
@@ -2606,18 +2626,8 @@
     "tklWon": "41",
     "tkl_pct": "56.3",
     "interception": "45",
-    "blocks": "35",
+    "blocks": "36",
     "errors": "3"
-  },
-  {
-    "team_name": "Osasuna",
-    "player_name": "Aimar Oroz",
-    "tkl": "33",
-    "tklWon": "18",
-    "tkl_pct": "31.1",
-    "interception": "20",
-    "blocks": "27",
-    "errors": "0"
   },
   {
     "team_name": "Osasuna",
@@ -2632,9 +2642,9 @@
   {
     "team_name": "Osasuna",
     "player_name": "Enzo Boyomo",
-    "tkl": "66",
-    "tklWon": "42",
-    "tkl_pct": "78.4",
+    "tkl": "68",
+    "tklWon": "43",
+    "tkl_pct": "76.9",
     "interception": "44",
     "blocks": "34",
     "errors": "3"
@@ -2642,11 +2652,11 @@
   {
     "team_name": "Osasuna",
     "player_name": "Rubén García",
-    "tkl": "50",
-    "tklWon": "30",
-    "tkl_pct": "43.9",
-    "interception": "14",
-    "blocks": "35",
+    "tkl": "52",
+    "tklWon": "31",
+    "tkl_pct": "43.3",
+    "interception": "15",
+    "blocks": "37",
     "errors": "1"
   },
   {
@@ -2672,9 +2682,9 @@
   {
     "team_name": "Osasuna",
     "player_name": "Abel",
-    "tkl": "59",
-    "tklWon": "35",
-    "tkl_pct": "62.7",
+    "tkl": "61",
+    "tklWon": "37",
+    "tkl_pct": "61.9",
     "interception": "18",
     "blocks": "29",
     "errors": "2"
@@ -2686,7 +2696,7 @@
     "tklWon": "14",
     "tkl_pct": "62.5",
     "interception": "9",
-    "blocks": "14",
+    "blocks": "15",
     "errors": "0"
   },
   {
@@ -2705,7 +2715,7 @@
     "tkl": "20",
     "tklWon": "10",
     "tkl_pct": "25.0",
-    "interception": "17",
+    "interception": "18",
     "blocks": "20",
     "errors": "0"
   },
@@ -2744,9 +2754,9 @@
     "player_name": "Iker Muñoz",
     "tkl": "5",
     "tklWon": "2",
-    "tkl_pct": "37.5",
+    "tkl_pct": "33.3",
     "interception": "4",
-    "blocks": "8",
+    "blocks": "9",
     "errors": "1"
   },
   {
@@ -2765,7 +2775,7 @@
     "tkl": "7",
     "tklWon": "5",
     "tkl_pct": "57.1",
-    "interception": "3",
+    "interception": "5",
     "blocks": "2",
     "errors": "0"
   },
@@ -2822,21 +2832,31 @@
   {
     "team_name": "Mallorca",
     "player_name": "Antonio Raillo",
-    "tkl": "30",
-    "tklWon": "17",
-    "tkl_pct": "77.8",
-    "interception": "28",
-    "blocks": "46",
+    "tkl": "31",
+    "tklWon": "18",
+    "tkl_pct": "70.0",
+    "interception": "29",
+    "blocks": "51",
     "errors": "1"
   },
   {
     "team_name": "Mallorca",
     "player_name": "Sergi Darder",
-    "tkl": "38",
-    "tklWon": "24",
-    "tkl_pct": "37.2",
-    "interception": "15",
+    "tkl": "40",
+    "tklWon": "26",
+    "tkl_pct": "37.0",
+    "interception": "16",
     "blocks": "19",
+    "errors": "1"
+  },
+  {
+    "team_name": "Mallorca",
+    "player_name": "Dominik Greif",
+    "tkl": "0",
+    "tklWon": "0",
+    "tkl_pct": "",
+    "interception": "0",
+    "blocks": "0",
     "errors": "1"
   },
   {
@@ -2851,6 +2871,16 @@
   },
   {
     "team_name": "Mallorca",
+    "player_name": "Samu Costa",
+    "tkl": "90",
+    "tklWon": "44",
+    "tkl_pct": "44.3",
+    "interception": "32",
+    "blocks": "48",
+    "errors": "1"
+  },
+  {
+    "team_name": "Mallorca",
     "player_name": "Johan Mojica",
     "tkl": "35",
     "tklWon": "23",
@@ -2858,26 +2888,6 @@
     "interception": "26",
     "blocks": "13",
     "errors": "3"
-  },
-  {
-    "team_name": "Mallorca",
-    "player_name": "Dominik Greif",
-    "tkl": "0",
-    "tklWon": "0",
-    "tkl_pct": "",
-    "interception": "0",
-    "blocks": "0",
-    "errors": "1"
-  },
-  {
-    "team_name": "Mallorca",
-    "player_name": "Samu Costa",
-    "tkl": "86",
-    "tklWon": "42",
-    "tkl_pct": "42.1",
-    "interception": "32",
-    "blocks": "45",
-    "errors": "1"
   },
   {
     "team_name": "Mallorca",
@@ -2892,7 +2902,7 @@
   {
     "team_name": "Mallorca",
     "player_name": "Dani Rodríguez",
-    "tkl": "48",
+    "tkl": "49",
     "tklWon": "29",
     "tkl_pct": "51.9",
     "interception": "12",
@@ -2906,28 +2916,28 @@
     "tklWon": "5",
     "tkl_pct": "42.9",
     "interception": "7",
-    "blocks": "6",
+    "blocks": "7",
     "errors": "0"
+  },
+  {
+    "team_name": "Mallorca",
+    "player_name": "Omar Mascarell",
+    "tkl": "27",
+    "tklWon": "13",
+    "tkl_pct": "40.0",
+    "interception": "49",
+    "blocks": "33",
+    "errors": "3"
   },
   {
     "team_name": "Mallorca",
     "player_name": "Cyle Larin",
     "tkl": "12",
     "tklWon": "6",
-    "tkl_pct": "37.5",
+    "tkl_pct": "33.3",
     "interception": "1",
     "blocks": "12",
     "errors": "0"
-  },
-  {
-    "team_name": "Mallorca",
-    "player_name": "Omar Mascarell",
-    "tkl": "26",
-    "tklWon": "13",
-    "tkl_pct": "41.2",
-    "interception": "49",
-    "blocks": "31",
-    "errors": "3"
   },
   {
     "team_name": "Mallorca",
@@ -2946,7 +2956,7 @@
     "tklWon": "27",
     "tkl_pct": "60.0",
     "interception": "24",
-    "blocks": "18",
+    "blocks": "19",
     "errors": "0"
   },
   {
@@ -2974,20 +2984,20 @@
     "player_name": "Antonio Sánchez",
     "tkl": "28",
     "tklWon": "16",
-    "tkl_pct": "43.8",
-    "interception": "17",
-    "blocks": "15",
+    "tkl_pct": "38.9",
+    "interception": "18",
+    "blocks": "16",
     "errors": "1"
   },
   {
     "team_name": "Mallorca",
     "player_name": "Mateu Morey",
-    "tkl": "20",
-    "tklWon": "16",
-    "tkl_pct": "55.0",
-    "interception": "12",
-    "blocks": "10",
-    "errors": "1"
+    "tkl": "22",
+    "tklWon": "18",
+    "tkl_pct": "54.5",
+    "interception": "15",
+    "blocks": "11",
+    "errors": "2"
   },
   {
     "team_name": "Mallorca",
@@ -3002,11 +3012,11 @@
   {
     "team_name": "Mallorca",
     "player_name": "Toni Lato",
-    "tkl": "16",
-    "tklWon": "10",
-    "tkl_pct": "60.0",
-    "interception": "5",
-    "blocks": "8",
+    "tkl": "17",
+    "tklWon": "11",
+    "tkl_pct": "63.6",
+    "interception": "6",
+    "blocks": "10",
     "errors": "0"
   },
   {
@@ -3022,10 +3032,20 @@
   {
     "team_name": "Mallorca",
     "player_name": "Marc Domenech",
-    "tkl": "3",
-    "tklWon": "3",
-    "tkl_pct": "50.0",
+    "tkl": "4",
+    "tklWon": "4",
+    "tkl_pct": "40.0",
     "interception": "0",
+    "blocks": "2",
+    "errors": "0"
+  },
+  {
+    "team_name": "Mallorca",
+    "player_name": "David López",
+    "tkl": "3",
+    "tklWon": "2",
+    "tkl_pct": "100.0",
+    "interception": "1",
     "blocks": "2",
     "errors": "0"
   },
@@ -3061,16 +3081,6 @@
   },
   {
     "team_name": "Mallorca",
-    "player_name": "David López",
-    "tkl": "1",
-    "tklWon": "1",
-    "tkl_pct": "100.0",
-    "interception": "1",
-    "blocks": "0",
-    "errors": "0"
-  },
-  {
-    "team_name": "Mallorca",
     "player_name": "Javier Llabrés",
     "tkl": "0",
     "tklWon": "0",
@@ -3082,7 +3092,7 @@
   {
     "team_name": "Mallorca",
     "player_name": "Jan Salas",
-    "tkl": "2",
+    "tkl": "3",
     "tklWon": "1",
     "tkl_pct": "100.0",
     "interception": "0",
@@ -3116,24 +3126,34 @@
     "tklWon": "37",
     "tkl_pct": "63.6",
     "interception": "44",
-    "blocks": "41",
+    "blocks": "42",
     "errors": "3"
   },
   {
     "team_name": "Real Sociedad",
     "player_name": "Sergio Gómez",
-    "tkl": "70",
+    "tkl": "71",
     "tklWon": "39",
-    "tkl_pct": "54.5",
-    "interception": "18",
+    "tkl_pct": "53.6",
+    "interception": "19",
     "blocks": "44",
     "errors": "2"
   },
   {
     "team_name": "Real Sociedad",
+    "player_name": "Jon Aramburu",
+    "tkl": "102",
+    "tklWon": "70",
+    "tkl_pct": "66.0",
+    "interception": "30",
+    "blocks": "40",
+    "errors": "0"
+  },
+  {
+    "team_name": "Real Sociedad",
     "player_name": "Mikel Oyarzabal",
-    "tkl": "24",
-    "tklWon": "15",
+    "tkl": "25",
+    "tklWon": "16",
     "tkl_pct": "43.5",
     "interception": "4",
     "blocks": "17",
@@ -3141,13 +3161,13 @@
   },
   {
     "team_name": "Real Sociedad",
-    "player_name": "Jon Aramburu",
-    "tkl": "95",
-    "tklWon": "68",
-    "tkl_pct": "65.6",
-    "interception": "28",
+    "player_name": "Takefusa Kubo",
+    "tkl": "31",
+    "tklWon": "20",
+    "tkl_pct": "40.0",
+    "interception": "17",
     "blocks": "38",
-    "errors": "0"
+    "errors": "1"
   },
   {
     "team_name": "Real Sociedad",
@@ -3161,16 +3181,6 @@
   },
   {
     "team_name": "Real Sociedad",
-    "player_name": "Takefusa Kubo",
-    "tkl": "30",
-    "tklWon": "19",
-    "tkl_pct": "41.0",
-    "interception": "15",
-    "blocks": "35",
-    "errors": "1"
-  },
-  {
-    "team_name": "Real Sociedad",
     "player_name": "Javi López",
     "tkl": "40",
     "tklWon": "23",
@@ -3181,6 +3191,16 @@
   },
   {
     "team_name": "Real Sociedad",
+    "player_name": "Luka Sučić",
+    "tkl": "25",
+    "tklWon": "18",
+    "tkl_pct": "38.5",
+    "interception": "15",
+    "blocks": "30",
+    "errors": "1"
+  },
+  {
+    "team_name": "Real Sociedad",
     "player_name": "Nayef Aguerd",
     "tkl": "30",
     "tklWon": "24",
@@ -3188,16 +3208,6 @@
     "interception": "13",
     "blocks": "21",
     "errors": "0"
-  },
-  {
-    "team_name": "Real Sociedad",
-    "player_name": "Luka Sučić",
-    "tkl": "24",
-    "tklWon": "17",
-    "tkl_pct": "37.5",
-    "interception": "13",
-    "blocks": "29",
-    "errors": "1"
   },
   {
     "team_name": "Real Sociedad",
@@ -3242,8 +3252,8 @@
   {
     "team_name": "Real Sociedad",
     "player_name": "Ander Barrenetxea",
-    "tkl": "25",
-    "tklWon": "18",
+    "tkl": "26",
+    "tklWon": "19",
     "tkl_pct": "26.1",
     "interception": "11",
     "blocks": "15",
@@ -3252,20 +3262,20 @@
   {
     "team_name": "Real Sociedad",
     "player_name": "Pablo Marín",
-    "tkl": "24",
-    "tklWon": "16",
-    "tkl_pct": "50.0",
-    "interception": "4",
+    "tkl": "25",
+    "tklWon": "17",
+    "tkl_pct": "52.6",
+    "interception": "5",
     "blocks": "12",
     "errors": "0"
   },
   {
     "team_name": "Real Sociedad",
     "player_name": "Aihen Muñoz",
-    "tkl": "23",
+    "tkl": "24",
     "tklWon": "12",
-    "tkl_pct": "48.1",
-    "interception": "13",
+    "tkl_pct": "50.0",
+    "interception": "14",
     "blocks": "11",
     "errors": "0"
   },
@@ -3282,12 +3292,12 @@
   {
     "team_name": "Real Sociedad",
     "player_name": "Beñat Turrientes",
-    "tkl": "14",
+    "tkl": "15",
     "tklWon": "6",
-    "tkl_pct": "28.6",
+    "tkl_pct": "26.7",
     "interception": "5",
-    "blocks": "14",
-    "errors": "0"
+    "blocks": "15",
+    "errors": "1"
   },
   {
     "team_name": "Real Sociedad",
@@ -3301,6 +3311,16 @@
   },
   {
     "team_name": "Real Sociedad",
+    "player_name": "Jon Pacheco",
+    "tkl": "15",
+    "tklWon": "9",
+    "tkl_pct": "83.3",
+    "interception": "9",
+    "blocks": "8",
+    "errors": "2"
+  },
+  {
+    "team_name": "Real Sociedad",
     "player_name": "Hamari Traoré",
     "tkl": "19",
     "tklWon": "12",
@@ -3308,16 +3328,6 @@
     "interception": "9",
     "blocks": "6",
     "errors": "0"
-  },
-  {
-    "team_name": "Real Sociedad",
-    "player_name": "Jon Pacheco",
-    "tkl": "13",
-    "tklWon": "9",
-    "tkl_pct": "80.0",
-    "interception": "8",
-    "blocks": "8",
-    "errors": "2"
   },
   {
     "team_name": "Real Sociedad",
@@ -3342,21 +3352,21 @@
   {
     "team_name": "Real Sociedad",
     "player_name": "Olasagasti",
-    "tkl": "19",
-    "tklWon": "9",
-    "tkl_pct": "41.2",
-    "interception": "14",
+    "tkl": "21",
+    "tklWon": "10",
+    "tkl_pct": "44.4",
+    "interception": "15",
     "blocks": "8",
     "errors": "0"
   },
   {
     "team_name": "Real Sociedad",
     "player_name": "Jon Martin",
-    "tkl": "10",
-    "tklWon": "8",
+    "tkl": "11",
+    "tklWon": "9",
     "tkl_pct": "66.7",
     "interception": "7",
-    "blocks": "12",
+    "blocks": "13",
     "errors": "1"
   },
   {
@@ -3381,6 +3391,16 @@
   },
   {
     "team_name": "Real Sociedad",
+    "player_name": "Arkaitz Mariezkurrena",
+    "tkl": "1",
+    "tklWon": "0",
+    "tkl_pct": "0.0",
+    "interception": "1",
+    "blocks": "4",
+    "errors": "0"
+  },
+  {
+    "team_name": "Real Sociedad",
     "player_name": "Arsen Zakharyan",
     "tkl": "1",
     "tklWon": "1",
@@ -3397,16 +3417,6 @@
     "tkl_pct": "",
     "interception": "0",
     "blocks": "1",
-    "errors": "0"
-  },
-  {
-    "team_name": "Real Sociedad",
-    "player_name": "Arkaitz Mariezkurrena",
-    "tkl": "1",
-    "tklWon": "0",
-    "tkl_pct": "0.0",
-    "interception": "1",
-    "blocks": "2",
     "errors": "0"
   },
   {
@@ -3452,8 +3462,8 @@
   {
     "team_name": "Valencia",
     "player_name": "Cristhian Mosquera",
-    "tkl": "55",
-    "tklWon": "35",
+    "tkl": "56",
+    "tklWon": "36",
     "tkl_pct": "77.5",
     "interception": "35",
     "blocks": "37",
@@ -3512,7 +3522,7 @@
   {
     "team_name": "Valencia",
     "player_name": "Enzo Barrenechea",
-    "tkl": "58",
+    "tkl": "57",
     "tklWon": "30",
     "tkl_pct": "69.6",
     "interception": "28",
@@ -3831,6 +3841,16 @@
   },
   {
     "team_name": "Getafe",
+    "player_name": "Iglesias",
+    "tkl": "81",
+    "tklWon": "47",
+    "tkl_pct": "51.1",
+    "interception": "50",
+    "blocks": "47",
+    "errors": "1"
+  },
+  {
+    "team_name": "Getafe",
     "player_name": "Luis Milla",
     "tkl": "61",
     "tklWon": "40",
@@ -3841,32 +3861,22 @@
   },
   {
     "team_name": "Getafe",
-    "player_name": "Iglesias",
-    "tkl": "81",
-    "tklWon": "47",
-    "tkl_pct": "51.7",
-    "interception": "48",
-    "blocks": "46",
-    "errors": "1"
-  },
-  {
-    "team_name": "Getafe",
     "player_name": "Diego Rico",
-    "tkl": "80",
-    "tklWon": "48",
-    "tkl_pct": "56.6",
-    "interception": "33",
-    "blocks": "40",
+    "tkl": "81",
+    "tklWon": "49",
+    "tkl_pct": "55.3",
+    "interception": "34",
+    "blocks": "41",
     "errors": "2"
   },
   {
     "team_name": "Getafe",
     "player_name": "Mauro Arambarri",
-    "tkl": "45",
-    "tklWon": "26",
-    "tkl_pct": "44.7",
-    "interception": "14",
-    "blocks": "34",
+    "tkl": "48",
+    "tklWon": "29",
+    "tkl_pct": "45.8",
+    "interception": "15",
+    "blocks": "35",
     "errors": "0"
   },
   {
@@ -3874,7 +3884,7 @@
     "player_name": "Djené",
     "tkl": "25",
     "tklWon": "13",
-    "tkl_pct": "38.7",
+    "tkl_pct": "37.5",
     "interception": "21",
     "blocks": "18",
     "errors": "3"
@@ -3882,21 +3892,21 @@
   {
     "team_name": "Getafe",
     "player_name": "Christantus Uche",
-    "tkl": "31",
-    "tklWon": "20",
-    "tkl_pct": "47.1",
+    "tkl": "35",
+    "tklWon": "21",
+    "tkl_pct": "45.0",
     "interception": "10",
-    "blocks": "19",
+    "blocks": "20",
     "errors": "0"
   },
   {
     "team_name": "Getafe",
     "player_name": "Domingos Duarte",
-    "tkl": "26",
-    "tklWon": "13",
-    "tkl_pct": "78.9",
-    "interception": "15",
-    "blocks": "27",
+    "tkl": "28",
+    "tklWon": "15",
+    "tkl_pct": "81.0",
+    "interception": "18",
+    "blocks": "28",
     "errors": "1"
   },
   {
@@ -3934,8 +3944,8 @@
     "player_name": "Ramón Terrats",
     "tkl": "20",
     "tklWon": "10",
-    "tkl_pct": "29.6",
-    "interception": "7",
+    "tkl_pct": "28.6",
+    "interception": "8",
     "blocks": "9",
     "errors": "0"
   },
@@ -3975,16 +3985,16 @@
     "tkl": "14",
     "tklWon": "7",
     "tkl_pct": "71.4",
-    "interception": "13",
+    "interception": "15",
     "blocks": "6",
     "errors": "0"
   },
   {
     "team_name": "Getafe",
     "player_name": "Allan Nyom",
-    "tkl": "15",
-    "tklWon": "9",
-    "tkl_pct": "85.7",
+    "tkl": "18",
+    "tklWon": "11",
+    "tkl_pct": "88.2",
     "interception": "4",
     "blocks": "4",
     "errors": "0"
@@ -4004,9 +4014,19 @@
     "player_name": "Juanmi",
     "tkl": "14",
     "tklWon": "11",
-    "tkl_pct": "37.5",
+    "tkl_pct": "31.6",
     "interception": "2",
     "blocks": "6",
+    "errors": "0"
+  },
+  {
+    "team_name": "Getafe",
+    "player_name": "Borja Mayoral",
+    "tkl": "5",
+    "tklWon": "4",
+    "tkl_pct": "33.3",
+    "interception": "2",
+    "blocks": "4",
     "errors": "0"
   },
   {
@@ -4017,16 +4037,6 @@
     "tkl_pct": "50.0",
     "interception": "3",
     "blocks": "23",
-    "errors": "0"
-  },
-  {
-    "team_name": "Getafe",
-    "player_name": "Borja Mayoral",
-    "tkl": "5",
-    "tklWon": "4",
-    "tkl_pct": "37.5",
-    "interception": "1",
-    "blocks": "4",
     "errors": "0"
   },
   {
@@ -4064,7 +4074,7 @@
     "player_name": "Jesús Santiago",
     "tkl": "14",
     "tklWon": "8",
-    "tkl_pct": "55.6",
+    "tkl_pct": "50.0",
     "interception": "1",
     "blocks": "6",
     "errors": "0"
@@ -4101,6 +4111,16 @@
   },
   {
     "team_name": "Getafe",
+    "player_name": "Ismael Bekhoucha",
+    "tkl": "1",
+    "tklWon": "1",
+    "tkl_pct": "50.0",
+    "interception": "2",
+    "blocks": "2",
+    "errors": "0"
+  },
+  {
+    "team_name": "Getafe",
     "player_name": "Alberto Risco",
     "tkl": "4",
     "tklWon": "4",
@@ -4117,16 +4137,6 @@
     "tkl_pct": "",
     "interception": "0",
     "blocks": "1",
-    "errors": "0"
-  },
-  {
-    "team_name": "Getafe",
-    "player_name": "Ismael Bekhoucha",
-    "tkl": "0",
-    "tklWon": "0",
-    "tkl_pct": "",
-    "interception": "2",
-    "blocks": "0",
     "errors": "0"
   },
   {
@@ -4150,22 +4160,292 @@
     "errors": "0"
   },
   {
+    "team_name": "Espanyol",
+    "player_name": "Joan García",
+    "tkl": "0",
+    "tklWon": "0",
+    "tkl_pct": "0.0",
+    "interception": "0",
+    "blocks": "1",
+    "errors": "4"
+  },
+  {
+    "team_name": "Espanyol",
+    "player_name": "Omar El Hilali",
+    "tkl": "111",
+    "tklWon": "79",
+    "tkl_pct": "67.4",
+    "interception": "46",
+    "blocks": "53",
+    "errors": "2"
+  },
+  {
+    "team_name": "Espanyol",
+    "player_name": "Javi Puado",
+    "tkl": "22",
+    "tklWon": "17",
+    "tkl_pct": "40.0",
+    "interception": "5",
+    "blocks": "18",
+    "errors": "0"
+  },
+  {
+    "team_name": "Espanyol",
+    "player_name": "Marash Kumbulla",
+    "tkl": "51",
+    "tklWon": "26",
+    "tkl_pct": "58.5",
+    "interception": "34",
+    "blocks": "48",
+    "errors": "2"
+  },
+  {
+    "team_name": "Espanyol",
+    "player_name": "Leandro Cabrera",
+    "tkl": "40",
+    "tklWon": "23",
+    "tkl_pct": "57.6",
+    "interception": "30",
+    "blocks": "35",
+    "errors": "2"
+  },
+  {
+    "team_name": "Espanyol",
+    "player_name": "Alex Král",
+    "tkl": "55",
+    "tklWon": "37",
+    "tkl_pct": "53.3",
+    "interception": "28",
+    "blocks": "34",
+    "errors": "2"
+  },
+  {
+    "team_name": "Espanyol",
+    "player_name": "Carlos Romero",
+    "tkl": "73",
+    "tklWon": "47",
+    "tkl_pct": "54.9",
+    "interception": "30",
+    "blocks": "50",
+    "errors": "1"
+  },
+  {
+    "team_name": "Espanyol",
+    "player_name": "Pol Lozano",
+    "tkl": "53",
+    "tklWon": "34",
+    "tkl_pct": "43.1",
+    "interception": "22",
+    "blocks": "32",
+    "errors": "0"
+  },
+  {
+    "team_name": "Espanyol",
+    "player_name": "Jofre",
+    "tkl": "22",
+    "tklWon": "16",
+    "tkl_pct": "56.5",
+    "interception": "15",
+    "blocks": "13",
+    "errors": "0"
+  },
+  {
+    "team_name": "Espanyol",
+    "player_name": "Roberto Férnandez",
+    "tkl": "4",
+    "tklWon": "4",
+    "tkl_pct": "0.0",
+    "interception": "3",
+    "blocks": "9",
+    "errors": "0"
+  },
+  {
+    "team_name": "Espanyol",
+    "player_name": "Urko González",
+    "tkl": "46",
+    "tklWon": "28",
+    "tkl_pct": "63.6",
+    "interception": "8",
+    "blocks": "27",
+    "errors": "1"
+  },
+  {
+    "team_name": "Espanyol",
+    "player_name": "Álvaro Tejero",
+    "tkl": "14",
+    "tklWon": "4",
+    "tkl_pct": "30.4",
+    "interception": "13",
+    "blocks": "9",
+    "errors": "1"
+  },
+  {
+    "team_name": "Espanyol",
+    "player_name": "Antoniu",
+    "tkl": "21",
+    "tklWon": "10",
+    "tkl_pct": "42.9",
+    "interception": "8",
+    "blocks": "14",
+    "errors": "1"
+  },
+  {
+    "team_name": "Espanyol",
+    "player_name": "Edu Expósito",
+    "tkl": "23",
+    "tklWon": "13",
+    "tkl_pct": "39.1",
+    "interception": "15",
+    "blocks": "3",
+    "errors": "2"
+  },
+  {
+    "team_name": "Espanyol",
+    "player_name": "Brian Oliván",
+    "tkl": "13",
+    "tklWon": "10",
+    "tkl_pct": "30.8",
+    "interception": "10",
+    "blocks": "6",
+    "errors": "0"
+  },
+  {
+    "team_name": "Espanyol",
+    "player_name": "Alejo Véliz",
+    "tkl": "1",
+    "tklWon": "1",
+    "tkl_pct": "14.3",
+    "interception": "4",
+    "blocks": "12",
+    "errors": "1"
+  },
+  {
+    "team_name": "Espanyol",
+    "player_name": "José Gragera",
+    "tkl": "25",
+    "tklWon": "16",
+    "tkl_pct": "52.9",
+    "interception": "5",
+    "blocks": "9",
+    "errors": "0"
+  },
+  {
+    "team_name": "Espanyol",
+    "player_name": "Fernando Calero",
+    "tkl": "18",
+    "tklWon": "10",
+    "tkl_pct": "66.7",
+    "interception": "16",
+    "blocks": "16",
+    "errors": "1"
+  },
+  {
+    "team_name": "Espanyol",
+    "player_name": "Sergi Gómez",
+    "tkl": "8",
+    "tklWon": "5",
+    "tkl_pct": "66.7",
+    "interception": "7",
+    "blocks": "12",
+    "errors": "0"
+  },
+  {
+    "team_name": "Espanyol",
+    "player_name": "Walid Cheddira",
+    "tkl": "5",
+    "tklWon": "0",
+    "tkl_pct": "0.0",
+    "interception": "1",
+    "blocks": "4",
+    "errors": "0"
+  },
+  {
+    "team_name": "Espanyol",
+    "player_name": "Irvin Cardona",
+    "tkl": "8",
+    "tklWon": "5",
+    "tkl_pct": "37.5",
+    "interception": "4",
+    "blocks": "5",
+    "errors": "0"
+  },
+  {
+    "team_name": "Espanyol",
+    "player_name": "Álvaro Aguado",
+    "tkl": "5",
+    "tklWon": "2",
+    "tkl_pct": "33.3",
+    "interception": "4",
+    "blocks": "7",
+    "errors": "1"
+  },
+  {
+    "team_name": "Espanyol",
+    "player_name": "Justin Smith",
+    "tkl": "9",
+    "tklWon": "3",
+    "tkl_pct": "66.7",
+    "interception": "4",
+    "blocks": "5",
+    "errors": "0"
+  },
+  {
+    "team_name": "Espanyol",
+    "player_name": "Rafael Bauza",
+    "tkl": "5",
+    "tklWon": "3",
+    "tkl_pct": "57.1",
+    "interception": "0",
+    "blocks": "3",
+    "errors": "0"
+  },
+  {
+    "team_name": "Espanyol",
+    "player_name": "Pere Milla",
+    "tkl": "6",
+    "tklWon": "2",
+    "tkl_pct": "5.6",
+    "interception": "3",
+    "blocks": "10",
+    "errors": "0"
+  },
+  {
+    "team_name": "Espanyol",
+    "player_name": "Naci Ünüvar",
+    "tkl": "2",
+    "tklWon": "2",
+    "tkl_pct": "50.0",
+    "interception": "0",
+    "blocks": "0",
+    "errors": "0"
+  },
+  {
+    "team_name": "Espanyol",
+    "player_name": "Roger Hinojo",
+    "tkl": "0",
+    "tklWon": "0",
+    "tkl_pct": "",
+    "interception": "0",
+    "blocks": "0",
+    "errors": "0"
+  },
+  {
     "team_name": "Alavés",
     "player_name": "Carlos Vicente",
-    "tkl": "43",
-    "tklWon": "28",
-    "tkl_pct": "38.3",
+    "tkl": "47",
+    "tklWon": "31",
+    "tkl_pct": "39.1",
     "interception": "14",
-    "blocks": "31",
+    "blocks": "34",
     "errors": "0"
   },
   {
     "team_name": "Alavés",
     "player_name": "Nahuel Tenaglia",
-    "tkl": "93",
-    "tklWon": "58",
-    "tkl_pct": "62.2",
-    "interception": "42",
+    "tkl": "96",
+    "tklWon": "61",
+    "tkl_pct": "60.2",
+    "interception": "47",
     "blocks": "33",
     "errors": "2"
   },
@@ -4182,22 +4462,32 @@
   {
     "team_name": "Alavés",
     "player_name": "Antonio Blanco",
-    "tkl": "65",
+    "tkl": "67",
     "tklWon": "40",
-    "tkl_pct": "39.5",
-    "interception": "40",
-    "blocks": "28",
+    "tkl_pct": "38.6",
+    "interception": "42",
+    "blocks": "30",
     "errors": "1"
   },
   {
     "team_name": "Alavés",
     "player_name": "Manu Sánchez",
-    "tkl": "78",
-    "tklWon": "52",
+    "tkl": "83",
+    "tklWon": "56",
     "tkl_pct": "59.4",
     "interception": "30",
-    "blocks": "49",
+    "blocks": "51",
     "errors": "1"
+  },
+  {
+    "team_name": "Alavés",
+    "player_name": "Kiké",
+    "tkl": "19",
+    "tklWon": "14",
+    "tkl_pct": "35.3",
+    "interception": "1",
+    "blocks": "11",
+    "errors": "0"
   },
   {
     "team_name": "Alavés",
@@ -4208,16 +4498,6 @@
     "interception": "39",
     "blocks": "28",
     "errors": "1"
-  },
-  {
-    "team_name": "Alavés",
-    "player_name": "Kiké",
-    "tkl": "19",
-    "tklWon": "14",
-    "tkl_pct": "40.0",
-    "interception": "1",
-    "blocks": "9",
-    "errors": "0"
   },
   {
     "team_name": "Alavés",
@@ -4262,8 +4542,8 @@
   {
     "team_name": "Alavés",
     "player_name": "Carlos Martín",
-    "tkl": "41",
-    "tklWon": "20",
+    "tkl": "43",
+    "tklWon": "21",
     "tkl_pct": "26.5",
     "interception": "5",
     "blocks": "30",
@@ -4282,8 +4562,8 @@
   {
     "team_name": "Alavés",
     "player_name": "Carles Aleñá",
-    "tkl": "18",
-    "tklWon": "11",
+    "tkl": "19",
+    "tklWon": "12",
     "tkl_pct": "41.2",
     "interception": "2",
     "blocks": "11",
@@ -4294,7 +4574,7 @@
     "player_name": "Toni Martínez",
     "tkl": "12",
     "tklWon": "7",
-    "tkl_pct": "57.1",
+    "tkl_pct": "50.0",
     "interception": "1",
     "blocks": "8",
     "errors": "0"
@@ -4302,12 +4582,32 @@
   {
     "team_name": "Alavés",
     "player_name": "Tomás Conechny",
-    "tkl": "13",
-    "tklWon": "10",
-    "tkl_pct": "34.6",
+    "tkl": "15",
+    "tklWon": "12",
+    "tkl_pct": "33.3",
     "interception": "6",
-    "blocks": "13",
+    "blocks": "14",
     "errors": "0"
+  },
+  {
+    "team_name": "Alavés",
+    "player_name": "Facundo Garcés",
+    "tkl": "6",
+    "tklWon": "2",
+    "tkl_pct": "60.0",
+    "interception": "5",
+    "blocks": "8",
+    "errors": "0"
+  },
+  {
+    "team_name": "Alavés",
+    "player_name": "Aleksandar Sedlar",
+    "tkl": "18",
+    "tklWon": "10",
+    "tkl_pct": "80.0",
+    "interception": "10",
+    "blocks": "2",
+    "errors": "1"
   },
   {
     "team_name": "Alavés",
@@ -4321,23 +4621,23 @@
   },
   {
     "team_name": "Alavés",
-    "player_name": "Facundo Garcés",
-    "tkl": "5",
-    "tklWon": "1",
-    "tkl_pct": "60.0",
-    "interception": "4",
-    "blocks": "8",
-    "errors": "0"
+    "player_name": "Carlos Benavídez",
+    "tkl": "19",
+    "tklWon": "14",
+    "tkl_pct": "54.5",
+    "interception": "8",
+    "blocks": "5",
+    "errors": "1"
   },
   {
     "team_name": "Alavés",
-    "player_name": "Aleksandar Sedlar",
-    "tkl": "17",
-    "tklWon": "9",
-    "tkl_pct": "80.0",
+    "player_name": "Pica",
+    "tkl": "9",
+    "tklWon": "7",
+    "tkl_pct": "44.4",
     "interception": "9",
-    "blocks": "2",
-    "errors": "1"
+    "blocks": "7",
+    "errors": "0"
   },
   {
     "team_name": "Alavés",
@@ -4348,26 +4648,6 @@
     "interception": "0",
     "blocks": "0",
     "errors": "0"
-  },
-  {
-    "team_name": "Alavés",
-    "player_name": "Pica",
-    "tkl": "9",
-    "tklWon": "7",
-    "tkl_pct": "44.4",
-    "interception": "8",
-    "blocks": "7",
-    "errors": "0"
-  },
-  {
-    "team_name": "Alavés",
-    "player_name": "Carlos Benavídez",
-    "tkl": "13",
-    "tklWon": "10",
-    "tkl_pct": "55.6",
-    "interception": "8",
-    "blocks": "4",
-    "errors": "1"
   },
   {
     "team_name": "Alavés",
@@ -4452,21 +4732,21 @@
   {
     "team_name": "Girona",
     "player_name": "Daley Blind",
-    "tkl": "47",
-    "tklWon": "25",
-    "tkl_pct": "63.8",
-    "interception": "29",
-    "blocks": "30",
-    "errors": "1"
+    "tkl": "49",
+    "tklWon": "27",
+    "tkl_pct": "64.6",
+    "interception": "32",
+    "blocks": "32",
+    "errors": "2"
   },
   {
     "team_name": "Girona",
     "player_name": "Arnau Martinez",
     "tkl": "51",
     "tklWon": "28",
-    "tkl_pct": "52.5",
-    "interception": "29",
-    "blocks": "17",
+    "tkl_pct": "50.8",
+    "interception": "31",
+    "blocks": "18",
     "errors": "2"
   },
   {
@@ -4481,6 +4761,16 @@
   },
   {
     "team_name": "Girona",
+    "player_name": "Ladislav Krejčí",
+    "tkl": "23",
+    "tklWon": "16",
+    "tkl_pct": "53.8",
+    "interception": "34",
+    "blocks": "24",
+    "errors": "5"
+  },
+  {
+    "team_name": "Girona",
     "player_name": "David López",
     "tkl": "32",
     "tklWon": "24",
@@ -4491,22 +4781,12 @@
   },
   {
     "team_name": "Girona",
-    "player_name": "Ladislav Krejčí",
-    "tkl": "22",
-    "tklWon": "15",
-    "tkl_pct": "52.0",
-    "interception": "34",
-    "blocks": "24",
-    "errors": "4"
-  },
-  {
-    "team_name": "Girona",
     "player_name": "Yangel Herrera",
-    "tkl": "63",
-    "tklWon": "38",
-    "tkl_pct": "51.7",
+    "tkl": "66",
+    "tklWon": "39",
+    "tkl_pct": "50.8",
     "interception": "31",
-    "blocks": "21",
+    "blocks": "24",
     "errors": "2"
   },
   {
@@ -4516,17 +4796,17 @@
     "tklWon": "19",
     "tkl_pct": "44.1",
     "interception": "11",
-    "blocks": "18",
+    "blocks": "20",
     "errors": "1"
   },
   {
     "team_name": "Girona",
     "player_name": "Viktor Tsyhankov",
-    "tkl": "18",
-    "tklWon": "11",
-    "tkl_pct": "44.4",
-    "interception": "14",
-    "blocks": "6",
+    "tkl": "19",
+    "tklWon": "12",
+    "tkl_pct": "47.4",
+    "interception": "15",
+    "blocks": "7",
     "errors": "1"
   },
   {
@@ -4562,12 +4842,12 @@
   {
     "team_name": "Girona",
     "player_name": "Oriol Romeu",
-    "tkl": "36",
-    "tklWon": "23",
+    "tkl": "38",
+    "tklWon": "25",
     "tkl_pct": "53.8",
     "interception": "12",
-    "blocks": "21",
-    "errors": "3"
+    "blocks": "22",
+    "errors": "4"
   },
   {
     "team_name": "Girona",
@@ -4591,6 +4871,16 @@
   },
   {
     "team_name": "Girona",
+    "player_name": "Yaser Asprilla",
+    "tkl": "22",
+    "tklWon": "12",
+    "tkl_pct": "34.8",
+    "interception": "7",
+    "blocks": "14",
+    "errors": "1"
+  },
+  {
+    "team_name": "Girona",
     "player_name": "Arnaut Danjuma",
     "tkl": "8",
     "tklWon": "6",
@@ -4601,22 +4891,12 @@
   },
   {
     "team_name": "Girona",
-    "player_name": "Yaser Asprilla",
-    "tkl": "19",
-    "tklWon": "12",
-    "tkl_pct": "31.8",
-    "interception": "6",
-    "blocks": "13",
-    "errors": "1"
-  },
-  {
-    "team_name": "Girona",
     "player_name": "Alejandro Francés",
-    "tkl": "35",
+    "tkl": "36",
     "tklWon": "24",
-    "tkl_pct": "69.2",
-    "interception": "16",
-    "blocks": "16",
+    "tkl_pct": "70.0",
+    "interception": "17",
+    "blocks": "17",
     "errors": "0"
   },
   {
@@ -4634,8 +4914,8 @@
     "player_name": "Arthur Melo",
     "tkl": "25",
     "tklWon": "11",
-    "tkl_pct": "53.8",
-    "interception": "7",
+    "tkl_pct": "51.9",
+    "interception": "8",
     "blocks": "5",
     "errors": "1"
   },
@@ -4655,7 +4935,7 @@
     "tkl": "9",
     "tklWon": "7",
     "tkl_pct": "62.5",
-    "interception": "5",
+    "interception": "7",
     "blocks": "4",
     "errors": "0"
   },
@@ -4701,6 +4981,16 @@
   },
   {
     "team_name": "Girona",
+    "player_name": "Krapyvtsov Vladyslav",
+    "tkl": "0",
+    "tklWon": "0",
+    "tkl_pct": "",
+    "interception": "0",
+    "blocks": "0",
+    "errors": "1"
+  },
+  {
+    "team_name": "Girona",
     "player_name": "Silvi Clúa",
     "tkl": "8",
     "tklWon": "7",
@@ -4715,16 +5005,6 @@
     "tkl": "1",
     "tklWon": "1",
     "tkl_pct": "0.0",
-    "interception": "0",
-    "blocks": "0",
-    "errors": "0"
-  },
-  {
-    "team_name": "Girona",
-    "player_name": "Krapyvtsov Vladyslav",
-    "tkl": "0",
-    "tklWon": "0",
-    "tkl_pct": "",
     "interception": "0",
     "blocks": "0",
     "errors": "0"
@@ -4785,18 +5065,18 @@
     "tkl": "22",
     "tklWon": "14",
     "tkl_pct": "55.6",
-    "interception": "8",
+    "interception": "11",
     "blocks": "18",
     "errors": "2"
   },
   {
     "team_name": "Sevilla",
     "player_name": "Carmona",
-    "tkl": "82",
-    "tklWon": "58",
-    "tkl_pct": "54.1",
+    "tkl": "83",
+    "tklWon": "59",
+    "tkl_pct": "52.6",
     "interception": "68",
-    "blocks": "35",
+    "blocks": "37",
     "errors": "3"
   },
   {
@@ -4824,7 +5104,7 @@
     "player_name": "Nemanja Gudelj",
     "tkl": "42",
     "tklWon": "24",
-    "tkl_pct": "61.8",
+    "tkl_pct": "60.0",
     "interception": "27",
     "blocks": "27",
     "errors": "1"
@@ -4832,11 +5112,11 @@
   {
     "team_name": "Sevilla",
     "player_name": "Adrià Pedrosa",
-    "tkl": "55",
+    "tkl": "56",
     "tklWon": "32",
-    "tkl_pct": "56.6",
-    "interception": "22",
-    "blocks": "42",
+    "tkl_pct": "57.4",
+    "interception": "24",
+    "blocks": "43",
     "errors": "0"
   },
   {
@@ -4854,28 +5134,28 @@
     "player_name": "Kike Salas",
     "tkl": "47",
     "tklWon": "28",
-    "tkl_pct": "61.4",
+    "tkl_pct": "58.7",
     "interception": "32",
-    "blocks": "25",
+    "blocks": "26",
     "errors": "0"
   },
   {
     "team_name": "Sevilla",
     "player_name": "Lucien Agoume",
-    "tkl": "67",
-    "tklWon": "30",
-    "tkl_pct": "68.4",
-    "interception": "40",
-    "blocks": "28",
+    "tkl": "70",
+    "tklWon": "32",
+    "tkl_pct": "69.2",
+    "interception": "42",
+    "blocks": "30",
     "errors": "0"
   },
   {
     "team_name": "Sevilla",
     "player_name": "Djibril Sow",
-    "tkl": "23",
-    "tklWon": "13",
+    "tkl": "25",
+    "tklWon": "14",
     "tkl_pct": "47.1",
-    "interception": "26",
+    "interception": "28",
     "blocks": "18",
     "errors": "1"
   },
@@ -4902,10 +5182,10 @@
   {
     "team_name": "Sevilla",
     "player_name": "Juanlu Sánchez",
-    "tkl": "49",
+    "tkl": "50",
     "tklWon": "34",
-    "tkl_pct": "61.8",
-    "interception": "16",
+    "tkl_pct": "60.3",
+    "interception": "17",
     "blocks": "27",
     "errors": "0"
   },
@@ -4934,7 +5214,7 @@
     "player_name": "Peque",
     "tkl": "16",
     "tklWon": "5",
-    "tkl_pct": "43.8",
+    "tkl_pct": "41.2",
     "interception": "8",
     "blocks": "16",
     "errors": "0"
@@ -4971,6 +5251,16 @@
   },
   {
     "team_name": "Sevilla",
+    "player_name": "Marcão",
+    "tkl": "10",
+    "tklWon": "7",
+    "tkl_pct": "60.0",
+    "interception": "7",
+    "blocks": "9",
+    "errors": "1"
+  },
+  {
+    "team_name": "Sevilla",
     "player_name": "Tanguy Nianzou",
     "tkl": "7",
     "tklWon": "5",
@@ -4978,16 +5268,6 @@
     "interception": "8",
     "blocks": "1",
     "errors": "0"
-  },
-  {
-    "team_name": "Sevilla",
-    "player_name": "Marcão",
-    "tkl": "9",
-    "tklWon": "6",
-    "tkl_pct": "66.7",
-    "interception": "6",
-    "blocks": "9",
-    "errors": "1"
   },
   {
     "team_name": "Sevilla",
@@ -5022,11 +5302,21 @@
   {
     "team_name": "Sevilla",
     "player_name": "Suso",
-    "tkl": "9",
-    "tklWon": "6",
-    "tkl_pct": "37.5",
+    "tkl": "10",
+    "tklWon": "7",
+    "tkl_pct": "36.4",
     "interception": "4",
-    "blocks": "3",
+    "blocks": "4",
+    "errors": "0"
+  },
+  {
+    "team_name": "Sevilla",
+    "player_name": "Álvaro Pascual",
+    "tkl": "1",
+    "tklWon": "3",
+    "tkl_pct": "50.0",
+    "interception": "2",
+    "blocks": "0",
     "errors": "0"
   },
   {
@@ -5037,16 +5327,6 @@
     "tkl_pct": "0.0",
     "interception": "4",
     "blocks": "1",
-    "errors": "0"
-  },
-  {
-    "team_name": "Sevilla",
-    "player_name": "Álvaro Pascual",
-    "tkl": "1",
-    "tklWon": "1",
-    "tkl_pct": "50.0",
-    "interception": "2",
-    "blocks": "0",
     "errors": "0"
   },
   {
@@ -5072,9 +5352,9 @@
   {
     "team_name": "Sevilla",
     "player_name": "Ramón Martínez",
-    "tkl": "5",
+    "tkl": "6",
     "tklWon": "3",
-    "tkl_pct": "66.7",
+    "tkl_pct": "60.0",
     "interception": "2",
     "blocks": "2",
     "errors": "0"
@@ -5091,22 +5371,22 @@
   },
   {
     "team_name": "Sevilla",
-    "player_name": "Akor Adams",
-    "tkl": "0",
-    "tklWon": "0",
-    "tkl_pct": "",
-    "interception": "0",
-    "blocks": "1",
-    "errors": "0"
-  },
-  {
-    "team_name": "Sevilla",
     "player_name": "Manu Bueno",
     "tkl": "4",
     "tklWon": "3",
     "tkl_pct": "50.0",
     "interception": "0",
     "blocks": "0",
+    "errors": "0"
+  },
+  {
+    "team_name": "Sevilla",
+    "player_name": "Akor Adams",
+    "tkl": "0",
+    "tklWon": "0",
+    "tkl_pct": "",
+    "interception": "0",
+    "blocks": "1",
     "errors": "0"
   },
   {
@@ -5170,283 +5450,13 @@
     "errors": "0"
   },
   {
-    "team_name": "Espanyol",
-    "player_name": "Joan García",
-    "tkl": "0",
-    "tklWon": "0",
-    "tkl_pct": "0.0",
-    "interception": "0",
-    "blocks": "1",
-    "errors": "4"
-  },
-  {
-    "team_name": "Espanyol",
-    "player_name": "Omar El Hilali",
-    "tkl": "110",
-    "tklWon": "79",
-    "tkl_pct": "67.7",
-    "interception": "45",
-    "blocks": "53",
-    "errors": "2"
-  },
-  {
-    "team_name": "Espanyol",
-    "player_name": "Marash Kumbulla",
-    "tkl": "51",
-    "tklWon": "26",
-    "tkl_pct": "58.5",
-    "interception": "34",
-    "blocks": "48",
-    "errors": "2"
-  },
-  {
-    "team_name": "Espanyol",
-    "player_name": "Javi Puado",
-    "tkl": "21",
-    "tklWon": "16",
-    "tkl_pct": "42.1",
-    "interception": "5",
-    "blocks": "15",
-    "errors": "0"
-  },
-  {
-    "team_name": "Espanyol",
-    "player_name": "Leandro Cabrera",
-    "tkl": "39",
-    "tklWon": "22",
-    "tkl_pct": "56.3",
-    "interception": "30",
-    "blocks": "35",
-    "errors": "2"
-  },
-  {
-    "team_name": "Espanyol",
-    "player_name": "Alex Král",
-    "tkl": "55",
-    "tklWon": "37",
-    "tkl_pct": "55.2",
-    "interception": "28",
-    "blocks": "34",
-    "errors": "2"
-  },
-  {
-    "team_name": "Espanyol",
-    "player_name": "Carlos Romero",
-    "tkl": "66",
-    "tklWon": "43",
-    "tkl_pct": "52.6",
-    "interception": "29",
-    "blocks": "49",
-    "errors": "1"
-  },
-  {
-    "team_name": "Espanyol",
-    "player_name": "Pol Lozano",
-    "tkl": "53",
-    "tklWon": "34",
-    "tkl_pct": "44.6",
-    "interception": "21",
-    "blocks": "31",
-    "errors": "0"
-  },
-  {
-    "team_name": "Espanyol",
-    "player_name": "Jofre",
-    "tkl": "22",
-    "tklWon": "16",
-    "tkl_pct": "56.5",
-    "interception": "15",
-    "blocks": "13",
-    "errors": "0"
-  },
-  {
-    "team_name": "Espanyol",
-    "player_name": "Roberto Férnandez",
-    "tkl": "4",
-    "tklWon": "4",
-    "tkl_pct": "0.0",
-    "interception": "3",
-    "blocks": "8",
-    "errors": "0"
-  },
-  {
-    "team_name": "Espanyol",
-    "player_name": "Urko González",
-    "tkl": "42",
-    "tklWon": "25",
-    "tkl_pct": "62.5",
-    "interception": "8",
-    "blocks": "27",
-    "errors": "1"
-  },
-  {
-    "team_name": "Espanyol",
-    "player_name": "Álvaro Tejero",
-    "tkl": "14",
-    "tklWon": "4",
-    "tkl_pct": "30.4",
-    "interception": "13",
-    "blocks": "9",
-    "errors": "1"
-  },
-  {
-    "team_name": "Espanyol",
-    "player_name": "Antoniu",
-    "tkl": "21",
-    "tklWon": "10",
-    "tkl_pct": "42.9",
-    "interception": "8",
-    "blocks": "14",
-    "errors": "1"
-  },
-  {
-    "team_name": "Espanyol",
-    "player_name": "Brian Oliván",
-    "tkl": "13",
-    "tklWon": "10",
-    "tkl_pct": "30.8",
-    "interception": "10",
-    "blocks": "6",
-    "errors": "0"
-  },
-  {
-    "team_name": "Espanyol",
-    "player_name": "Edu Expósito",
-    "tkl": "23",
-    "tklWon": "13",
-    "tkl_pct": "40.9",
-    "interception": "14",
-    "blocks": "3",
-    "errors": "2"
-  },
-  {
-    "team_name": "Espanyol",
-    "player_name": "Alejo Véliz",
-    "tkl": "1",
-    "tklWon": "1",
-    "tkl_pct": "16.7",
-    "interception": "4",
-    "blocks": "11",
-    "errors": "1"
-  },
-  {
-    "team_name": "Espanyol",
-    "player_name": "José Gragera",
-    "tkl": "25",
-    "tklWon": "16",
-    "tkl_pct": "52.9",
-    "interception": "5",
-    "blocks": "9",
-    "errors": "0"
-  },
-  {
-    "team_name": "Espanyol",
-    "player_name": "Sergi Gómez",
-    "tkl": "8",
-    "tklWon": "5",
-    "tkl_pct": "66.7",
-    "interception": "7",
-    "blocks": "12",
-    "errors": "0"
-  },
-  {
-    "team_name": "Espanyol",
-    "player_name": "Walid Cheddira",
-    "tkl": "5",
-    "tklWon": "0",
-    "tkl_pct": "0.0",
-    "interception": "1",
-    "blocks": "4",
-    "errors": "0"
-  },
-  {
-    "team_name": "Espanyol",
-    "player_name": "Fernando Calero",
-    "tkl": "16",
-    "tklWon": "9",
-    "tkl_pct": "60.0",
-    "interception": "15",
-    "blocks": "14",
-    "errors": "1"
-  },
-  {
-    "team_name": "Espanyol",
-    "player_name": "Irvin Cardona",
-    "tkl": "8",
-    "tklWon": "5",
-    "tkl_pct": "37.5",
-    "interception": "4",
-    "blocks": "5",
-    "errors": "0"
-  },
-  {
-    "team_name": "Espanyol",
-    "player_name": "Álvaro Aguado",
-    "tkl": "4",
-    "tklWon": "2",
-    "tkl_pct": "25.0",
-    "interception": "4",
-    "blocks": "6",
-    "errors": "1"
-  },
-  {
-    "team_name": "Espanyol",
-    "player_name": "Justin Smith",
-    "tkl": "9",
-    "tklWon": "3",
-    "tkl_pct": "66.7",
-    "interception": "4",
-    "blocks": "5",
-    "errors": "0"
-  },
-  {
-    "team_name": "Espanyol",
-    "player_name": "Rafael Bauza",
-    "tkl": "5",
-    "tklWon": "3",
-    "tkl_pct": "57.1",
-    "interception": "0",
-    "blocks": "3",
-    "errors": "0"
-  },
-  {
-    "team_name": "Espanyol",
-    "player_name": "Pere Milla",
-    "tkl": "6",
-    "tklWon": "2",
-    "tkl_pct": "6.7",
-    "interception": "3",
-    "blocks": "10",
-    "errors": "0"
-  },
-  {
-    "team_name": "Espanyol",
-    "player_name": "Naci Ünüvar",
-    "tkl": "2",
-    "tklWon": "2",
-    "tkl_pct": "50.0",
-    "interception": "0",
-    "blocks": "0",
-    "errors": "0"
-  },
-  {
-    "team_name": "Espanyol",
-    "player_name": "Roger Hinojo",
-    "tkl": "0",
-    "tklWon": "0",
-    "tkl_pct": "",
-    "interception": "0",
-    "blocks": "0",
-    "errors": "0"
-  },
-  {
     "team_name": "Leganés",
     "player_name": "Sergi",
-    "tkl": "39",
-    "tklWon": "28",
-    "tkl_pct": "54.8",
+    "tkl": "40",
+    "tklWon": "29",
+    "tkl_pct": "56.3",
     "interception": "39",
-    "blocks": "37",
+    "blocks": "38",
     "errors": "2"
   },
   {
@@ -5462,9 +5472,9 @@
   {
     "team_name": "Leganés",
     "player_name": "Seydouba Cissé",
-    "tkl": "57",
-    "tklWon": "36",
-    "tkl_pct": "48.9",
+    "tkl": "59",
+    "tklWon": "37",
+    "tkl_pct": "46.0",
     "interception": "12",
     "blocks": "25",
     "errors": "1"
@@ -5482,12 +5492,22 @@
   {
     "team_name": "Leganés",
     "player_name": "Renato Tapia",
-    "tkl": "60",
-    "tklWon": "34",
-    "tkl_pct": "47.9",
+    "tkl": "61",
+    "tklWon": "35",
+    "tkl_pct": "48.0",
     "interception": "27",
     "blocks": "58",
     "errors": "2"
+  },
+  {
+    "team_name": "Leganés",
+    "player_name": "Javi Hernández",
+    "tkl": "26",
+    "tklWon": "15",
+    "tkl_pct": "37.0",
+    "interception": "23",
+    "blocks": "25",
+    "errors": "0"
   },
   {
     "team_name": "Leganés",
@@ -5501,22 +5521,12 @@
   },
   {
     "team_name": "Leganés",
-    "player_name": "Javi Hernández",
-    "tkl": "25",
-    "tklWon": "15",
-    "tkl_pct": "36.4",
-    "interception": "23",
-    "blocks": "25",
-    "errors": "0"
-  },
-  {
-    "team_name": "Leganés",
     "player_name": "Juan Cruz",
-    "tkl": "31",
+    "tkl": "32",
     "tklWon": "19",
-    "tkl_pct": "50.0",
-    "interception": "11",
-    "blocks": "14",
+    "tkl_pct": "48.6",
+    "interception": "13",
+    "blocks": "18",
     "errors": "0"
   },
   {
@@ -5534,7 +5544,7 @@
     "player_name": "Dani Raba",
     "tkl": "37",
     "tklWon": "23",
-    "tkl_pct": "42.5",
+    "tkl_pct": "40.5",
     "interception": "14",
     "blocks": "27",
     "errors": "1"
@@ -5542,9 +5552,9 @@
   {
     "team_name": "Leganés",
     "player_name": "Jorge Sáenz",
-    "tkl": "35",
-    "tklWon": "21",
-    "tkl_pct": "57.9",
+    "tkl": "37",
+    "tklWon": "23",
+    "tkl_pct": "55.0",
     "interception": "25",
     "blocks": "26",
     "errors": "0"
@@ -5552,11 +5562,11 @@
   {
     "team_name": "Leganés",
     "player_name": "Adrià Altimira",
-    "tkl": "40",
-    "tklWon": "23",
-    "tkl_pct": "60.5",
+    "tkl": "41",
+    "tklWon": "24",
+    "tkl_pct": "60.0",
     "interception": "15",
-    "blocks": "14",
+    "blocks": "15",
     "errors": "2"
   },
   {
@@ -5621,22 +5631,22 @@
   },
   {
     "team_name": "Leganés",
+    "player_name": "Yan Diomandé",
+    "tkl": "14",
+    "tklWon": "9",
+    "tkl_pct": "33.3",
+    "interception": "8",
+    "blocks": "8",
+    "errors": "0"
+  },
+  {
+    "team_name": "Leganés",
     "player_name": "Juan Soriano",
     "tkl": "1",
     "tklWon": "1",
     "tkl_pct": "100.0",
     "interception": "0",
     "blocks": "0",
-    "errors": "0"
-  },
-  {
-    "team_name": "Leganés",
-    "player_name": "Yan Diomandé",
-    "tkl": "10",
-    "tklWon": "5",
-    "tkl_pct": "18.2",
-    "interception": "7",
-    "blocks": "8",
     "errors": "0"
   },
   {
@@ -5665,7 +5675,7 @@
     "tkl": "11",
     "tklWon": "7",
     "tkl_pct": "62.5",
-    "interception": "3",
+    "interception": "4",
     "blocks": "2",
     "errors": "0"
   },
@@ -5682,11 +5692,11 @@
   {
     "team_name": "Leganés",
     "player_name": "Duk",
-    "tkl": "7",
-    "tklWon": "3",
+    "tkl": "8",
+    "tklWon": "4",
     "tkl_pct": "60.0",
     "interception": "1",
-    "blocks": "3",
+    "blocks": "4",
     "errors": "0"
   },
   {
@@ -5741,22 +5751,22 @@
   },
   {
     "team_name": "Las Palmas",
+    "player_name": "Mika Mármol",
+    "tkl": "61",
+    "tklWon": "29",
+    "tkl_pct": "65.4",
+    "interception": "38",
+    "blocks": "46",
+    "errors": "2"
+  },
+  {
+    "team_name": "Las Palmas",
     "player_name": "Jasper Cillessen",
     "tkl": "1",
     "tklWon": "0",
     "tkl_pct": "25.0",
     "interception": "0",
     "blocks": "0",
-    "errors": "2"
-  },
-  {
-    "team_name": "Las Palmas",
-    "player_name": "Mika Mármol",
-    "tkl": "59",
-    "tklWon": "28",
-    "tkl_pct": "65.4",
-    "interception": "38",
-    "blocks": "45",
     "errors": "2"
   },
   {
@@ -5772,9 +5782,9 @@
   {
     "team_name": "Las Palmas",
     "player_name": "Dario Essugo",
-    "tkl": "58",
-    "tklWon": "44",
-    "tkl_pct": "60.0",
+    "tkl": "59",
+    "tklWon": "45",
+    "tkl_pct": "60.9",
     "interception": "42",
     "blocks": "28",
     "errors": "7"
@@ -5851,6 +5861,16 @@
   },
   {
     "team_name": "Las Palmas",
+    "player_name": "Juan Herzog",
+    "tkl": "12",
+    "tklWon": "12",
+    "tkl_pct": "56.3",
+    "interception": "18",
+    "blocks": "17",
+    "errors": "0"
+  },
+  {
+    "team_name": "Las Palmas",
     "player_name": "José Campaña",
     "tkl": "21",
     "tklWon": "16",
@@ -5858,16 +5878,6 @@
     "interception": "19",
     "blocks": "9",
     "errors": "2"
-  },
-  {
-    "team_name": "Las Palmas",
-    "player_name": "Juan Herzog",
-    "tkl": "11",
-    "tklWon": "11",
-    "tkl_pct": "56.3",
-    "interception": "17",
-    "blocks": "16",
-    "errors": "0"
   },
   {
     "team_name": "Las Palmas",
@@ -5892,11 +5902,11 @@
   {
     "team_name": "Las Palmas",
     "player_name": "Marvin",
-    "tkl": "24",
-    "tklWon": "12",
-    "tkl_pct": "40.0",
-    "interception": "13",
-    "blocks": "15",
+    "tkl": "25",
+    "tklWon": "13",
+    "tkl_pct": "42.3",
+    "interception": "15",
+    "blocks": "17",
     "errors": "0"
   },
   {
@@ -5904,7 +5914,7 @@
     "player_name": "Manuel Fuster",
     "tkl": "19",
     "tklWon": "11",
-    "tkl_pct": "55.6",
+    "tkl_pct": "53.6",
     "interception": "4",
     "blocks": "13",
     "errors": "0"
@@ -5912,10 +5922,10 @@
   {
     "team_name": "Las Palmas",
     "player_name": "Enzo Loiodice",
-    "tkl": "13",
-    "tklWon": "5",
+    "tkl": "17",
+    "tklWon": "7",
     "tkl_pct": "30.0",
-    "interception": "5",
+    "interception": "10",
     "blocks": "4",
     "errors": "2"
   },
@@ -5944,7 +5954,7 @@
     "player_name": "Adnan Januzaj",
     "tkl": "10",
     "tklWon": "6",
-    "tkl_pct": "62.5",
+    "tkl_pct": "55.6",
     "interception": "2",
     "blocks": "6",
     "errors": "0"
@@ -5961,6 +5971,16 @@
   },
   {
     "team_name": "Las Palmas",
+    "player_name": "Benito Ramírez",
+    "tkl": "10",
+    "tklWon": "5",
+    "tkl_pct": "56.3",
+    "interception": "1",
+    "blocks": "8",
+    "errors": "1"
+  },
+  {
+    "team_name": "Las Palmas",
     "player_name": "Andy Pelmard",
     "tkl": "5",
     "tklWon": "0",
@@ -5971,13 +5991,13 @@
   },
   {
     "team_name": "Las Palmas",
-    "player_name": "Benito Ramírez",
-    "tkl": "10",
-    "tklWon": "5",
-    "tkl_pct": "56.3",
+    "player_name": "Sergio Viera",
+    "tkl": "1",
+    "tklWon": "1",
+    "tkl_pct": "0.0",
     "interception": "1",
-    "blocks": "7",
-    "errors": "1"
+    "blocks": "1",
+    "errors": "0"
   },
   {
     "team_name": "Las Palmas",
@@ -6011,12 +6031,22 @@
   },
   {
     "team_name": "Las Palmas",
-    "player_name": "Sergio Viera",
+    "player_name": "Diego Martín",
+    "tkl": "1",
+    "tklWon": "1",
+    "tkl_pct": "100.0",
+    "interception": "0",
+    "blocks": "0",
+    "errors": "0"
+  },
+  {
+    "team_name": "Las Palmas",
+    "player_name": "Arturo Rodríguez",
     "tkl": "0",
     "tklWon": "0",
-    "tkl_pct": "0.0",
+    "tkl_pct": "",
     "interception": "0",
-    "blocks": "1",
+    "blocks": "0",
     "errors": "0"
   },
   {
@@ -6031,10 +6061,10 @@
   },
   {
     "team_name": "Las Palmas",
-    "player_name": "Diego Martín",
-    "tkl": "1",
-    "tklWon": "1",
-    "tkl_pct": "100.0",
+    "player_name": "José Carlos González",
+    "tkl": "0",
+    "tklWon": "0",
+    "tkl_pct": "",
     "interception": "0",
     "blocks": "0",
     "errors": "0"
@@ -6067,15 +6097,15 @@
     "tkl_pct": "0.0",
     "interception": "0",
     "blocks": "0",
-    "errors": "1"
+    "errors": "2"
   },
   {
     "team_name": "Valladolid",
     "player_name": "Luis Pérez",
-    "tkl": "38",
-    "tklWon": "27",
+    "tkl": "41",
+    "tklWon": "30",
     "tkl_pct": "60.0",
-    "interception": "28",
+    "interception": "29",
     "blocks": "26",
     "errors": "0"
   },
@@ -6084,9 +6114,9 @@
     "player_name": "Raúl Moro",
     "tkl": "22",
     "tklWon": "13",
-    "tkl_pct": "41.9",
+    "tkl_pct": "40.6",
     "interception": "10",
-    "blocks": "7",
+    "blocks": "8",
     "errors": "1"
   },
   {
@@ -6111,6 +6141,26 @@
   },
   {
     "team_name": "Valladolid",
+    "player_name": "Eray Cömert",
+    "tkl": "24",
+    "tklWon": "14",
+    "tkl_pct": "57.1",
+    "interception": "24",
+    "blocks": "28",
+    "errors": "2"
+  },
+  {
+    "team_name": "Valladolid",
+    "player_name": "Anuar",
+    "tkl": "38",
+    "tklWon": "27",
+    "tkl_pct": "53.6",
+    "interception": "18",
+    "blocks": "24",
+    "errors": "1"
+  },
+  {
+    "team_name": "Valladolid",
     "player_name": "Mario Martín",
     "tkl": "62",
     "tklWon": "32",
@@ -6118,26 +6168,6 @@
     "interception": "21",
     "blocks": "32",
     "errors": "7"
-  },
-  {
-    "team_name": "Valladolid",
-    "player_name": "Eray Cömert",
-    "tkl": "21",
-    "tklWon": "12",
-    "tkl_pct": "57.9",
-    "interception": "21",
-    "blocks": "27",
-    "errors": "2"
-  },
-  {
-    "team_name": "Valladolid",
-    "player_name": "Anuar",
-    "tkl": "36",
-    "tklWon": "25",
-    "tkl_pct": "50.0",
-    "interception": "18",
-    "blocks": "23",
-    "errors": "1"
   },
   {
     "team_name": "Valladolid",
@@ -6182,11 +6212,11 @@
   {
     "team_name": "Valladolid",
     "player_name": "Mamadou Sylla",
-    "tkl": "6",
-    "tklWon": "3",
-    "tkl_pct": "25.0",
+    "tkl": "8",
+    "tklWon": "4",
+    "tkl_pct": "22.2",
     "interception": "3",
-    "blocks": "7",
+    "blocks": "8",
     "errors": "1"
   },
   {
@@ -6198,6 +6228,16 @@
     "interception": "10",
     "blocks": "19",
     "errors": "0"
+  },
+  {
+    "team_name": "Valladolid",
+    "player_name": "Juanmi Latasa",
+    "tkl": "4",
+    "tklWon": "2",
+    "tkl_pct": "33.3",
+    "interception": "0",
+    "blocks": "4",
+    "errors": "1"
   },
   {
     "team_name": "Valladolid",
@@ -6221,13 +6261,13 @@
   },
   {
     "team_name": "Valladolid",
-    "player_name": "Juanmi Latasa",
-    "tkl": "4",
-    "tklWon": "2",
-    "tkl_pct": "33.3",
-    "interception": "0",
-    "blocks": "4",
-    "errors": "1"
+    "player_name": "Antonio Candela",
+    "tkl": "9",
+    "tklWon": "6",
+    "tkl_pct": "36.4",
+    "interception": "6",
+    "blocks": "11",
+    "errors": "0"
   },
   {
     "team_name": "Valladolid",
@@ -6237,16 +6277,6 @@
     "tkl_pct": "44.4",
     "interception": "14",
     "blocks": "18",
-    "errors": "0"
-  },
-  {
-    "team_name": "Valladolid",
-    "player_name": "Antonio Candela",
-    "tkl": "9",
-    "tklWon": "6",
-    "tkl_pct": "44.4",
-    "interception": "6",
-    "blocks": "11",
     "errors": "0"
   },
   {
@@ -6271,13 +6301,13 @@
   },
   {
     "team_name": "Valladolid",
-    "player_name": "Chuky san jose",
-    "tkl": "8",
-    "tklWon": "2",
-    "tkl_pct": "22.2",
-    "interception": "0",
-    "blocks": "4",
-    "errors": "0"
+    "player_name": "Tamás Nikitscher",
+    "tkl": "17",
+    "tklWon": "8",
+    "tkl_pct": "61.5",
+    "interception": "11",
+    "blocks": "17",
+    "errors": "1"
   },
   {
     "team_name": "Valladolid",
@@ -6301,20 +6331,20 @@
   },
   {
     "team_name": "Valladolid",
-    "player_name": "Tamás Nikitscher",
-    "tkl": "16",
-    "tklWon": "7",
-    "tkl_pct": "63.6",
-    "interception": "10",
-    "blocks": "15",
-    "errors": "1"
+    "player_name": "Chuky san jose",
+    "tkl": "8",
+    "tklWon": "2",
+    "tkl_pct": "22.2",
+    "interception": "0",
+    "blocks": "4",
+    "errors": "0"
   },
   {
     "team_name": "Valladolid",
     "player_name": "Cenk Özkacar",
     "tkl": "9",
     "tklWon": "5",
-    "tkl_pct": "30.8",
+    "tkl_pct": "28.6",
     "interception": "18",
     "blocks": "9",
     "errors": "1"
@@ -6341,6 +6371,16 @@
   },
   {
     "team_name": "Valladolid",
+    "player_name": "Joseph Aidoo",
+    "tkl": "5",
+    "tklWon": "5",
+    "tkl_pct": "66.7",
+    "interception": "5",
+    "blocks": "8",
+    "errors": "1"
+  },
+  {
+    "team_name": "Valladolid",
     "player_name": "André Ferreira",
     "tkl": "0",
     "tklWon": "0",
@@ -6351,22 +6391,22 @@
   },
   {
     "team_name": "Valladolid",
-    "player_name": "Joseph Aidoo",
-    "tkl": "5",
-    "tklWon": "5",
-    "tkl_pct": "66.7",
-    "interception": "4",
-    "blocks": "6",
-    "errors": "1"
-  },
-  {
-    "team_name": "Valladolid",
     "player_name": "Amath",
     "tkl": "2",
     "tklWon": "0",
-    "tkl_pct": "14.3",
+    "tkl_pct": "12.5",
     "interception": "2",
     "blocks": "7",
+    "errors": "0"
+  },
+  {
+    "team_name": "Valladolid",
+    "player_name": "Henrique",
+    "tkl": "6",
+    "tklWon": "2",
+    "tkl_pct": "25.0",
+    "interception": "3",
+    "blocks": "5",
     "errors": "0"
   },
   {
@@ -6377,16 +6417,6 @@
     "tkl_pct": "100.0",
     "interception": "1",
     "blocks": "4",
-    "errors": "0"
-  },
-  {
-    "team_name": "Valladolid",
-    "player_name": "Henrique",
-    "tkl": "3",
-    "tklWon": "2",
-    "tkl_pct": "0.0",
-    "interception": "2",
-    "blocks": "5",
     "errors": "0"
   },
   {
@@ -6418,6 +6448,16 @@
     "interception": "",
     "blocks": "",
     "errors": ""
+  },
+  {
+    "team_name": "Valladolid",
+    "player_name": "Ibrahim Alani",
+    "tkl": "12",
+    "tklWon": "7",
+    "tkl_pct": "66.7",
+    "interception": "1",
+    "blocks": "3",
+    "errors": "0"
   },
   {
     "team_name": "Valladolid",
@@ -6461,31 +6501,21 @@
   },
   {
     "team_name": "Valladolid",
-    "player_name": "Ibrahim Alani",
-    "tkl": "6",
-    "tklWon": "4",
-    "tkl_pct": "100.0",
-    "interception": "1",
-    "blocks": "1",
-    "errors": "0"
-  },
-  {
-    "team_name": "Valladolid",
-    "player_name": "Adrian Baquerin",
-    "tkl": "0",
-    "tklWon": "0",
-    "tkl_pct": "",
-    "interception": "0",
-    "blocks": "0",
-    "errors": "0"
-  },
-  {
-    "team_name": "Valladolid",
     "player_name": "Mario Maroto",
     "tkl": "0",
     "tklWon": "0",
     "tkl_pct": "0.0",
     "interception": "2",
+    "blocks": "0",
+    "errors": "0"
+  },
+  {
+    "team_name": "Valladolid",
+    "player_name": "Adrian Baquerin",
+    "tkl": "1",
+    "tklWon": "1",
+    "tkl_pct": "",
+    "interception": "0",
     "blocks": "0",
     "errors": "0"
   },
