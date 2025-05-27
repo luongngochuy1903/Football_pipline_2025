@@ -1,6 +1,7 @@
 from pyspark.sql import SparkSession
 from pyspark.sql.functions import lit, explode, col, expr, substring
 from pyspark.sql.types import StructType, StructField, StringType, ArrayType
+from load_to_refined.espn_to_refined import team_load
 from datetime import date
 import json
 
