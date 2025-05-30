@@ -62,7 +62,28 @@ def espn_to_raw_dag():
         if result.returncode != 0:
             raise Exception("Spark job failed")
         logging.info("completed espn load to Trusted!")
+    
+    @task
+    def load_to_refined():
+        command = [
+    "docker", "exec",
+    "-e", "PYTHONPATH=/opt/spark_jobs",
+    "football_pipeline_2025-spark-master-1",
+    "spark-submit", "--master", "spark://spark-master:7077",
+    "/opt/spark_jobs/load_to_refined/espn_to_refined.py"
+]
+
+        result = subprocess.run(command, capture_output=True, text=True)
+
+        print("===== STDOUT =====")
+        print(result.stdout)
+        print("===== STDERR =====")
+        print(result.stderr)
+
+        if result.returncode != 0:
+            raise Exception("Spark job failed")
+        logging.info("completed espn load to refined!")
 
 
-    extract_espn_raw() >> clear_from_shared() >> transform_load()
+    extract_espn_raw() >> clear_from_shared() >> transform_load() >> load_to_refined()
 espn_to_raw_dag()

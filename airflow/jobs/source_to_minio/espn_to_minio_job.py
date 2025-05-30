@@ -1,6 +1,6 @@
 from pyspark.sql import SparkSession
 from pyspark.sql.functions import lit
-from crawling.crawlData_espn import crawl_league_news, crawl_team_season
+from crawling.crawlData_espn import crawl_team_season
 from modules.module_job import checking_duplicated
 from datetime import date
 import json

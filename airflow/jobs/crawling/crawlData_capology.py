@@ -89,6 +89,7 @@ class Scraping():
                             "expiration" : expiration,
                             "gross_remaining": gross_remaining,
                             "release_clause" : release_clause,
+                            "season": year
                         }
                         print(this_data)
                         player_salary.append(this_data)
@@ -158,6 +159,7 @@ class Scraping():
                             "gross_defense": defense,
                             "gross_midfield" : midfield,
                             "gross_forward" : forward,
+                            "season": year
                         }
                         print(this_data)
                         team_payroll.append(this_data)
@@ -194,6 +196,7 @@ class Scraping():
                             "incomes" : income,
                             "expense" : expense,
                             "balance" : balance,
+                            "season": year
                         }
                         print(this_data)
                         team_transfer.append(this_data)

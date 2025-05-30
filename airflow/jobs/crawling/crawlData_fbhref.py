@@ -113,7 +113,8 @@ class Scraping:
                         "team_name": team_name,
                         "rank": rank,
                         "point": point,
-                        "manager": manager_name
+                        "manager": manager_name,
+                        "season": item
                     }
                     club_info_list.append(this_data)
                 print(club_info_list)
@@ -231,6 +232,7 @@ class Scraping:
                             "assist":assist,
                             "xG":xG,
                             "xAG":xAG,
+                            "season": item
                         }
                         print(player_fact)
                         temp_team_info.append(player_fact)
@@ -262,7 +264,8 @@ class Scraping:
                             "SCA90":SCA90,
                             "GCA":GCA,
                             "GCA90":GCA90,
-                            "passlive":passlive
+                            "passlive":passlive,
+                            "season": item
                         }   
                         temp_team_attack.append(player_attack)
                     time.sleep(1)
@@ -297,7 +300,8 @@ class Scraping:
                             "tkl_pct":tkl_pct,
                             "interception":interception,
                             "blocks":blocks,
-                            "errors":errors
+                            "errors":errors,
+                            "season": item
                         }   
                         temp_team_defend.append(player_defend)
                     print(temp_team_defend)
