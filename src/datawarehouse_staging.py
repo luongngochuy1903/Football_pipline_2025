@@ -31,6 +31,7 @@ CREATE TABLE staging.news (
 DROP TABLE IF EXISTS staging.club_info;
 CREATE TABLE staging.club_info (
     club_name VARCHAR,
+    league_name VARCHAR,
     point INTEGER,
     position INTEGER,
     manager VARCHAR,

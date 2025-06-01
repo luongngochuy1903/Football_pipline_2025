@@ -9,7 +9,7 @@ spark = SparkSession.builder \
     .appName("esspn to minio") \
     .getOrCreate()
 
-def team_load(spark):
+def espn_team_load(spark):
     result = []
     from_map = [
     "premierleague/24_25/league",
@@ -25,7 +25,7 @@ def team_load(spark):
         df_filter = df.filter(col("standing.stage") == "REGULAR_SEASON") \
                         .select(explode(col("standing.table")).alias("table"))
         df_final = df_filter.select(
-            col("team.shortName").alias("team_name"),
+            col("team.shortName").alias("team_name"), col("competition.name").alias("league_name"),
             col("playedGames").cast("int"), col("won").cast("int"), col("draw").cast("int"),
             col("lost").cast("int"), col("goalDifference").cast("int"), col("goalsFor").cast("int"), col("goalsAgainst").cast("int")
         )
@@ -51,7 +51,7 @@ def league_load():
                            col("competition.type").alias("type"), col("seasons")
                            )
             df.printSchema()
-            df.write.parquet(f"s3a://refined/league/year={today.year}/month={today.month}/day={today.day}")
+            df.write.mode("append").parquet(f"s3a://refined/league/year={today.year}/month={today.month}/day={today.day}")
     else:
         print("League information is already in the table")
 

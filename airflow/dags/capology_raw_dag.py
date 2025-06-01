@@ -78,7 +78,28 @@ def capology_to_raw_dag():
         if result.returncode != 0:
             raise Exception("Spark job failed")
         logging.info("completed capology load to Trusted!")
+    
+    @task
+    def load_to_refined():
+        command = [
+    "docker", "exec",
+    "-e", "PYTHONPATH=/opt/spark_jobs",
+    "football_pipeline_2025-spark-master-1",
+    "spark-submit", "--master", "spark://spark-master:7077",
+    "/opt/spark_jobs/load_to_refined/capology_to_refined.py"
+]
 
-    write_finance_to_shared() >> spark_submit_to_raw() >> clear_from_shared() >> transform_load()
+        result = subprocess.run(command, capture_output=True, text=True)
+
+        print("===== STDOUT =====")
+        print(result.stdout)
+        print("===== STDERR =====")
+        print(result.stderr)
+
+        if result.returncode != 0:
+            raise Exception("Spark job failed")
+        logging.info("completed capology load to refined!")
+
+    write_finance_to_shared() >> spark_submit_to_raw() >> clear_from_shared() >> transform_load() >> load_to_refined()
 
 capology_to_raw_dag()

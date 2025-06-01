@@ -1,7 +1,7 @@
 from pyspark.sql import SparkSession
 from pyspark.sql.functions import lit, explode, col, expr, substring
 from pyspark.sql.types import StructType, StructField, StringType, ArrayType
-from espn_to_refined import team_load
+from espn_to_refined import espn_team_load
 from datetime import date
 import json
 
@@ -40,10 +40,10 @@ def player_load():
                     df = df.withColumn(col_name, col(col_name).cast("int")) if col_name not in {"player_name", "team_name", "nationality", "position"} else df
                     df = df.withColumn(col_name, col(col_name).cast("double")) if col_name in {"xG", "xAG"} else df
                 df.printSchema()
-                df.write.mode("append").parquet(f"s3a://refined/player/{attribute}/year={today.year}/month={today.month}/day={today.day}")
+                df.write.mode("append").json(f"s3a://refined/player/{attribute}/year={today.year}/month={today.month}/day={today.day}")
 
-def team_load():
-    result = team_load(spark)
+def team_load(spark):
+    result = espn_team_load(spark)
     from_map = {
     "premierleague/24_25/team":"premierleague/24_25/league",
         "laliga/24_25/team":"laliga/24_25/league",
@@ -59,7 +59,7 @@ def team_load():
             df_team = df_team.withColumn(col_name, col(col_name).cast("int")) if col_name not in {"manager", "team_name"} else df_team
         df_join = df_team.join(df_espn, on="team_name", how="outer")
         df_join.printSchema()
-        df_join.write.mode("append").parquet(f"s3a://refined/team/year={today.year}/month={today.month}/day={today.day}")
+        df_join.write.mode("append").json(f"s3a://refined/team/year={today.year}/month={today.month}/day={today.day}")
 
 player_load()
-team_load()
+team_load(spark)

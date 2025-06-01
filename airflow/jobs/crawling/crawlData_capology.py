@@ -54,7 +54,7 @@ class Scraping():
                 driver = self.get_driver()
                 driver.get(url)
                 while(True):
-                    time.sleep(7)
+                    time.sleep(5)
                     soup = BeautifulSoup(driver.page_source, 'html.parser')
                     time.sleep(1)
                     league_table = soup.find('table', class_="table table-bordered table-hover").find('tbody')
@@ -83,6 +83,7 @@ class Scraping():
                         this_data = {
                             "player_name":player_name,
                             "team":team_name,
+                            "league": folder,
                             "gross/w" : gross_per_w,
                             "gross/y" : gross_per_y,
                             "signed" : signed,
@@ -134,7 +135,7 @@ class Scraping():
                 driver = self.get_driver()
                 driver.get(url)
                 while(True):
-                    time.sleep(10)
+                    time.sleep(4)
                     soup = BeautifulSoup(driver.page_source, 'html.parser')
                     time.sleep(1)
                     league_table = soup.find('table', class_="table table-bordered table-hover").find('tbody')
@@ -153,6 +154,7 @@ class Scraping():
                         forward = attribute[8].text.strip()
                         this_data = {
                             "team":team_name,
+                            "league": folder,
                             "gross/w" : gross_per_w,
                             "gross/y" : gross_per_y,
                             "gross_keeper" : keeper,
@@ -177,7 +179,7 @@ class Scraping():
                 driver = self.get_driver()
                 driver.get(url)
                 while(True):
-                    time.sleep(8)
+                    time.sleep(3)
                     soup = BeautifulSoup(driver.page_source, 'html.parser')
                     time.sleep(1)
                     league_table = soup.find('table', class_="table table-bordered table-hover").find('tbody')
@@ -193,6 +195,7 @@ class Scraping():
                         balance = attribute[5].text.strip()
                         this_data = {
                             "team":team_name,
+                            "league": folder,
                             "incomes" : income,
                             "expense" : expense,
                             "balance" : balance,

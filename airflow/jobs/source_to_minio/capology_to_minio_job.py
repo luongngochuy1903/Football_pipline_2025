@@ -33,7 +33,7 @@ def payrolls_read_from_json():
                 df = df.withColumn("year", lit(today.year)) \
                     .withColumn("month", lit(today.month)) \
                     .withColumn("day", lit(today.day))
-                df.write.mode("append").partitionBy("year","month","day").csv(path)
+                df.write.mode("append").partitionBy("year","month","day").json(path)
                 break
     print("Load to RAW ZONE/team minio completed !")
 
@@ -62,7 +62,7 @@ def transfer_read_from_json():
                 df = df.withColumn("year", lit(today.year)) \
                     .withColumn("month", lit(today.month)) \
                     .withColumn("day", lit(today.day))
-                df.write.mode("append").partitionBy("year","month","day").csv(path)
+                df.write.mode("append").partitionBy("year","month","day").json(path)
                 break
     print("Load to RAW ZONE/team minio completed !")
 
@@ -76,8 +76,8 @@ def salary_read_from_json():
 }
     path_map = {
     "pl": "s3a://raw/premierleague/24_25/finance/salary",
-    "la": "s3a://raw/laliga/finance/24_25/salary",
-    "fl": "s3a://raw/ligue1/finance/24_25/salary",
+    "la": "s3a://raw/laliga/24_25/finance/salary",
+    "fl": "s3a://raw/ligue1/24_25/finance/salary",
     "bun": "s3a://raw/bundesliga/24_25/finance/salary",
     "se": "s3a://raw/seriea/24_25/finance/salary"
 }
@@ -91,7 +91,7 @@ def salary_read_from_json():
                 df = df.withColumn("year", lit(today.year)) \
                     .withColumn("month", lit(today.month)) \
                     .withColumn("day", lit(today.day))
-                df.write.mode("append").partitionBy("year","month","day").csv(path)
+                df.write.mode("append").partitionBy("year","month","day").json(path)
                 break
     print("Load to RAW ZONE/player minio completed !")
 

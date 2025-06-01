@@ -40,7 +40,7 @@ def transformPlayer():
         for attribute in attribute_map:
             today = date.today()
             df_team = spark.read.json(f"s3a://raw/{player}/{attribute}/year={today.year}/month={today.month}/day={today.day}")
-            if attribute == "overal":
+            if attribute == "overall":
                 df_team = df_team.withColumn("nationality", trim(substring(col("nationality"), 4, 6)))
                 df_team = df_team.withColumn("age", trim(substring(col("age"), 1, 2)))
                 df_team = df_team.withColumn("minutes", trim(regexp_replace(col("minutes"), "[,]", "")))

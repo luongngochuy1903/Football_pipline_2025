@@ -145,7 +145,7 @@ class Scraping:
                 now_url = f"https://fbref.com/en/comps/{id}/{item}/{item}-{leagues}"
                 print(now_url)
                 driver.get(now_url)
-                time.sleep(7)
+                time.sleep(5)
                 
                 soup = BeautifulSoup(driver.page_source, 'html.parser')
                 time.sleep(3)
@@ -182,7 +182,7 @@ class Scraping:
                     except Exception as e:
                         print(f"Lỗi khi tải trang chi tiết đội: {e}")
                         continue
-                    time.sleep(6)
+                    time.sleep(4)
                     soup2 = BeautifulSoup(driver.page_source, 'html.parser')
                     player_info = soup2.find('table', class_="stats_table sortable min_width now_sortable sticky_table eq1 re1 le1")
                     player_info2 = player_info.find('tbody')
@@ -268,7 +268,7 @@ class Scraping:
                             "season": item
                         }   
                         temp_team_attack.append(player_attack)
-                    time.sleep(1)
+                    time.sleep(2)
                     player_defending = soup2.find('table', {'id':f'stats_defense_{id}'}).find('tbody').find_all('tr')
                     for players in player_defending:
                         tkl = ""

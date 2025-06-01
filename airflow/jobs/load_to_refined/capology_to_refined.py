@@ -20,7 +20,7 @@ def payrolls_load():
         today = date.today()
         df = spark.read.json(f"s3a://trusted/{source}/year={today.year}/month={today.month}/day={today.day}")
         for col_name in df.columns:
-            if col_name != "team":
+            if col_name not in  {"team", "season", "league"}:
                 df = df.withColumn(col_name, col(col_name).cast("double"))
 
         df.printSchema()
@@ -38,7 +38,7 @@ def transfer_load():
         today = date.today()
         df = spark.read.json(f"s3a://trusted/{source}/year={today.year}/month={today.month}/day={today.day}")
         for col_name in df.columns:
-            if col_name != "team":
+            if col_name not in  {"team", "season", "league"}:
                 df = df.withColumn(col_name, col(col_name).cast("double"))
 
         df.printSchema()
@@ -56,7 +56,7 @@ def salary_load():
         today = date.today()
         df = spark.read.json(f"s3a://trusted/{source}/year={today.year}/month={today.month}/day={today.day}")
         for col_name in df.columns:
-            if col_name not in ["player_name", "team"]:
+            if col_name not in {"player_name", "team", "league", "season"}:
                 df = df.withColumn(col_name, col(col_name).cast("double"))
 
         df.printSchema()

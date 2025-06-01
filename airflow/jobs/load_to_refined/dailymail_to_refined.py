@@ -19,10 +19,12 @@ def news_load():
     for source in from_map:
         today = date.today()
         df = spark.read.json(f"s3a://trusted/{source}/year={today.year}/month={today.month}/day={today.day}")
-        final_df = df.select(col("headline").cast("string"), 
+        df.printSchema()
+        final_df = df.select(
+                    col("headline"), 
                     col("Published").cast("timestamp").alias("published"), 
-                    expr("array_join(transform(categories, x -> x.description), ',')").alias("categories"), 
-                    col("url").cast("string"))
+                    expr("array_join(categories, ',')").alias("categories"), 
+                    col("url"))
         final_df.printSchema()
         final_df.write.mode("append").parquet(f"s3a://refined/news/year={today.year}/month={today.month}/day={today.day}")
     
