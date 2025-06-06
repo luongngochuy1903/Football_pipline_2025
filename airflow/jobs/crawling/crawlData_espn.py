@@ -34,7 +34,8 @@ def crawl_team_season():
                 for code, target_list in league_map.items():
                     if code in item:
                         with open(target_list, "w") as f:
-                            json.dump(data, f, indent=2)
+                            json.dump(data, f)
+                            f.write("\n")
                         break
             else:
                 print("fail")

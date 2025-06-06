@@ -1,4 +1,5 @@
 ---- UPDATING ----
+docs: https://www.notion.so/Data-Engineering-Project-1d4d11d93e1b80e58482ed5dff2c1845
 ---- REMIND ----
 MariaDB: remote database lưu trữ thông tin bang biểu của hive bằng các table
 trino/hive: lưu trữ các schema, database nhưng chỉ là khung, không có dữ lieu, dữ liệu nằm trong minio

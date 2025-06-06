@@ -1,7 +1,8 @@
 from pyspark.sql import SparkSession
-from pyspark.sql.functions import lit, explode, col, expr, concat_ws, substring
+from pyspark.sql.functions import lit, explode, col, expr, concat_ws, substring, when
 from pyspark.sql.types import StructType, StructField, StringType, ArrayType
 from modules.module_job import get_latest_partition_date
+from modules.mapping import mappping_team
 from datetime import date
 import json
 
@@ -22,12 +23,20 @@ def espn_team_load(spark):
         today = date.today()
         df = spark.read.json(f"s3a://trusted/{source}/year={today.year}/month={today.month}/day={today.day}")
         df = df.withColumn("standing", explode(col("standings")))
-        df_filter = df.filter(col("standing.stage") == "REGULAR_SEASON") \
-                        .select(explode(col("standing.table")).alias("table"))
+        df_filter = df.filter(col("standing.type") == "TOTAL") \
+                        .select(explode(col("standing.table")).alias("table"), col("competition.name").alias("league_name"))
         df_final = df_filter.select(
-            col("team.shortName").alias("team_name"), col("competition.name").alias("league_name"),
-            col("playedGames").cast("int"), col("won").cast("int"), col("draw").cast("int"),
-            col("lost").cast("int"), col("goalDifference").cast("int"), col("goalsFor").cast("int"), col("goalsAgainst").cast("int")
+            col("table.team.shortName").alias("team_name"), col("league_name"),
+            col("table.playedGames").cast("int").alias("playedGames"), col("table.won").cast("int").alias("won"), 
+            col("table.draw").cast("int").alias("draw"), col("table.lost").cast("int").alias("lost"), 
+            col("table.goalDifference").cast("int").alias("goalDifference"), col("table.goalsFor").cast("int").alias("goalsFor"), 
+            col("table.goalsAgainst").cast("int").alias("goalsAgainst")
+        )
+        for target, source in mappping_team.items():
+            for item in source:
+                df_final = df_final.withColumn(
+                "team_name",
+                when(col("team_name") == item, target).otherwise(col("team_name"))
         )
         df_final.printSchema()
         result.append(df_final)

@@ -63,7 +63,7 @@ class Scraping:
                 now_url = f"https://fbref.com/en/comps/{id}/{item}/{item}-{leagues}"
                 print(now_url)
                 driver.get(now_url)
-                time.sleep(7)
+                time.sleep(6)
                 
                 soup = BeautifulSoup(driver.page_source, 'html.parser')
                 time.sleep(2)
@@ -148,7 +148,7 @@ class Scraping:
                 time.sleep(5)
                 
                 soup = BeautifulSoup(driver.page_source, 'html.parser')
-                time.sleep(3)
+                time.sleep(2)
                 print(f"div_results{item}91_overall")
                 table = soup.find('div', id=f"div_results{item}{id}1_overall") #nhớ thay id
                 if not table:

@@ -30,7 +30,7 @@ def league_read_from_json():
 }
 
     for league_code, address in league_lists.items():
-        df = spark.read.option("multiline", "true").json(address)
+        df = spark.read.json(address)
         print("bắt đầu df chưa transformed")
         df.printSchema()
         # df.show(3)

@@ -21,7 +21,7 @@ def handle_null(spark, df):
             else:
                 default = lit(None)  # fallback cho các loại không xử lý
 
-            return when(col(name).isNull(), default).otherwise(col(name)).alias(name)
+            return when((col(name).isNull()) | (col(name) == ""), default).otherwise(col(name)).alias(name)
 
     new_columns = []
     for f in df.schema.fields:
