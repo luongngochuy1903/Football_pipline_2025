@@ -1,5 +1,6 @@
 from airflow.decorators import dag, task
 from airflow.utils.dates import datetime
+from airflow.operators.trigger_dagrun import TriggerDagRunOperator
 import boto3
 import logging
 import subprocess
@@ -82,8 +83,14 @@ def espn_to_raw_dag():
 
         if result.returncode != 0:
             raise Exception("Spark job failed")
-        logging.info("completed espn load to refined!")
+        print("completed espn load to refined!")
 
+    trigger_target = TriggerDagRunOperator(
+        task_id='trigger_target_dag',
+        trigger_dag_id='dw_process',  
+        wait_for_completion=False,   
+        reset_dag_run=True,          
+    )
 
-    extract_espn_raw() >> clear_from_shared() >> transform_load() >> load_to_refined()
+    extract_espn_raw() >> clear_from_shared() >> transform_load() >> load_to_refined() >> trigger_target
 espn_to_raw_dag()

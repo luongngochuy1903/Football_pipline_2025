@@ -3,16 +3,16 @@ from datetime import date, datetime
 import boto3
 
 S3_ENDPOINT = 'http://minio:9000' 
-S3_ENDPOINT_IP = '172.18.0.7:9000'
+S3_ENDPOINT_IP = '172.18.0.11:9000'
 S3_ACCESS_KEY = 'minio_access_key'
 S3_SECRET_KEY = 'minio_secret_key'
 BUCKET = 'refined'
 objects = {"player/attacking": "player_attacking_fact", 
            "player/overall": "player_info", 
            "player/defending": "player_defending_fact", 
-           "team": "team_info", "league": "leagues", "season": "season", "news": "news",
+        "league": "leagues", "season": "season", "news": "news",
            "payrolls": "club_expense", "transfer": "club_transfer", 
-           "salary":"player_salary"}
+           "salary":"player_salary", "team": "team_info"}
 
 con = duckdb.connect("/app/volume/datawarehouse.duckdb")
 

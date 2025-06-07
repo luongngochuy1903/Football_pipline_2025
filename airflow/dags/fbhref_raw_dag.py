@@ -1,6 +1,7 @@
 from airflow.decorators import dag, task
 from airflow.utils.dates import datetime
 from datetime import datetime, timedelta
+from airflow.operators.trigger_dagrun import TriggerDagRunOperator
 import subprocess
 import logging
 import os
@@ -35,7 +36,7 @@ def fbref_to_raw_dag():
     def spark_submit_to_raw():
         command = [
     "docker", "exec",
-    "-e", "PYTHONPATH=/opt/spark_jobs",  # thêm dòng này
+    "-e", "PYTHONPATH=/opt/spark_jobs",  
     "football_pipeline_2025-spark-master-1",
     "spark-submit", "--master", "spark://spark-master:7077",
     "/opt/spark_jobs/source_to_minio/fbhref_to_minio_job.py"
@@ -101,7 +102,14 @@ def fbref_to_raw_dag():
         if result.returncode != 0:
             raise Exception("Spark job failed")
         logging.info("completed fbhref load to refined!")
+    
+    trigger_target = TriggerDagRunOperator(
+        task_id='trigger_target_dag',
+        trigger_dag_id='dw_process',  
+        wait_for_completion=False,   
+        reset_dag_run=True,          
+    )
 
-    write_team_player_to_shared() >> spark_submit_to_raw() >> clear_from_shared() >> transform_load() >> load_to_refined()
+    write_team_player_to_shared() >> spark_submit_to_raw() >> clear_from_shared() >> transform_load() >> load_to_refined() >> trigger_target
 
 fbref_to_raw_dag()

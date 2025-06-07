@@ -10,7 +10,10 @@ DROP TABLE IF EXISTS staging.season;
 CREATE TABLE staging.season (
     season VARCHAR,
     start_date TIMESTAMP,
-    end_date TIMESTAMP
+    end_date TIMESTAMP,
+    year INTEGER,
+    month INTEGER,
+    day INTEGER
 );
 
 DROP TABLE IF EXISTS staging.leagues;
@@ -18,7 +21,10 @@ CREATE TABLE staging.leagues (
     area VARCHAR,
     league_name VARCHAR,
     type VARCHAR,
-    season VARCHAR
+    season VARCHAR,
+    year INTEGER,
+    month INTEGER,
+    day INTEGER
 );
 
 DROP TABLE IF EXISTS staging.news;
@@ -26,13 +32,16 @@ CREATE TABLE staging.news (
     headline VARCHAR,
     published TIMESTAMP,
     categories VARCHAR,
-    url VARCHAR
+    url VARCHAR,
+    year INTEGER,
+    month INTEGER,
+    day INTEGER
 );
 
 DROP TABLE IF EXISTS staging.club_info;
 CREATE TABLE staging.club_info (
     club_name VARCHAR,
-    league_name VARCHAR,
+    league VARCHAR,
     point INTEGER,
     position INTEGER,
     manager VARCHAR,
@@ -43,7 +52,10 @@ CREATE TABLE staging.club_info (
     goalDifference INTEGER,
     goalsFor INTEGER,
     goalsAgainst INTEGER,
-    season VARCHAR
+    season VARCHAR,
+    year INTEGER,
+    month INTEGER,
+    day INTEGER
 );
 
 DROP TABLE IF EXISTS staging.club_transfer;
@@ -53,7 +65,10 @@ CREATE TABLE staging.club_transfer (
     income DOUBLE,
     expense DOUBLE,
     balance DOUBLE,
-    season VARCHAR
+    season VARCHAR,
+    year INTEGER,
+    month INTEGER,
+    day INTEGER
 );
 
 DROP TABLE IF EXISTS staging.club_expense;
@@ -66,7 +81,10 @@ CREATE TABLE staging.club_expense (
     defense DOUBLE,
     midfield DOUBLE,
     forward DOUBLE,
-    season VARCHAR
+    season VARCHAR,
+    year INTEGER,
+    month INTEGER,
+    day INTEGER
 );
 
 DROP TABLE IF EXISTS staging.player_info;
@@ -82,7 +100,10 @@ CREATE TABLE staging.player_info (
     assist INTEGER,
     xG DOUBLE,
     xAG DOUBLE,
-    season VARCHAR
+    season VARCHAR,
+    year INTEGER,
+    month INTEGER,
+    day INTEGER
 );
 
 DROP TABLE IF EXISTS staging.player_attacking_fact;
@@ -110,7 +131,10 @@ CREATE TABLE staging.player_defending_fact (
     interception INTEGER,
     blocks INTEGER,
     errors INTEGER,
-    season VARCHAR
+    season VARCHAR,
+    year INTEGER,
+    month INTEGER,
+    day INTEGER
 );
 
 DROP TABLE IF EXISTS staging.player_salary;
@@ -124,7 +148,10 @@ CREATE TABLE staging.player_salary (
     expiration TIMESTAMP,
     gross_remaining DOUBLE,
     release_clause DOUBLE,
-    season VARCHAR
+    season VARCHAR,
+    year INTEGER,
+    month INTEGER,
+    day INTEGER
 );
     """
 

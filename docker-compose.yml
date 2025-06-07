@@ -11,7 +11,6 @@ x-airflow-common: &airflow-common
     - PYTHONPATH=/opt/airflow
   volumes:
     - /var/run/docker.sock:/var/run/docker.sock
-    - ./airflow/jobs:/opt/airflow/jobs
     - ./airflow/dags:/opt/airflow/dags
     - ./logs:/opt/airflow/logs
     - ./data_shared:/opt/shared
@@ -109,7 +108,7 @@ services:
       SPARK_MODE: master
     volumes:
       - ./data_shared:/opt/shared
-      - ./airflow/jobs:/opt/spark_jobs
+      - ./jobs:/opt/spark_jobs
       - ./spark/spark-config/spark-defaults.conf:/opt/bitnami/spark/conf/spark-defaults.conf
     depends_on:
       - minio
@@ -127,11 +126,11 @@ services:
     environment:
       SPARK_MODE: worker
       SPARK_MASTER_URL: spark://spark-master:7077
-      SPARK_WORKER_MEMORY: 1G
-      SPARK_WORKER_CORES: 1
+      SPARK_WORKER_MEMORY: 3G
+      SPARK_WORKER_CORES: 2
     volumes:
       - ./data_shared:/opt/shared
-      - ./airflow/jobs:/opt/spark_jobs
+      - ./jobs:/opt/spark_jobs
       - ./spark/spark-config/spark-defaults.conf:/opt/bitnami/spark/conf/spark-defaults.conf
     depends_on:
       - spark-master
@@ -186,7 +185,7 @@ services:
       dockerfile: Dockerfile
     container_name: selenium-crawler
     volumes:
-      - ./airflow/jobs/crawling:/app/scripts
+      - ./jobs/crawling:/app/scripts
       - ./data_shared:/app/output       
     environment:
       - PYTHONUNBUFFERED=1

@@ -1,4 +1,5 @@
 from airflow.decorators import dag, task
+from airflow.operators.trigger_dagrun import TriggerDagRunOperator
 from airflow.utils.dates import datetime
 import subprocess
 import logging
@@ -99,7 +100,14 @@ def capology_to_raw_dag():
         if result.returncode != 0:
             raise Exception("Spark job failed")
         logging.info("completed capology load to refined!")
+    
+    trigger_target = TriggerDagRunOperator(
+        task_id='trigger_target_dag',
+        trigger_dag_id='dw_process',  
+        wait_for_completion=False,   
+        reset_dag_run=True,          
+    )
 
-    write_finance_to_shared() >> spark_submit_to_raw() >> clear_from_shared() >> transform_load() >> load_to_refined()
+    write_finance_to_shared() >> spark_submit_to_raw() >> clear_from_shared() >> transform_load() >> load_to_refined() >> trigger_target
 
 capology_to_raw_dag()
