@@ -1,15 +1,17 @@
 from pyspark.sql import SparkSession
-from pyspark.sql.functions import lit, explode, col, expr, concat_ws, substring, when
+from pyspark.sql.functions import lit, explode, col, expr, concat_ws, substring, coalesce, create_map
 from pyspark.sql.types import StructType, StructField, StringType, ArrayType
 from modules.module_job import get_latest_partition_date
-from modules.mapping import mappping_team
+from modules.mapping import mapping_team
+from itertools import chain
 from datetime import date
 import json
 
 spark = SparkSession.builder \
-    .appName("esspn to minio") \
+    .appName("espn to Refined") \
     .getOrCreate()
 
+#transforming team info (half) to Refined
 def espn_team_load(spark):
     result = []
     from_map = [
@@ -32,16 +34,17 @@ def espn_team_load(spark):
             col("table.goalDifference").cast("int").alias("goalDifference"), col("table.goalsFor").cast("int").alias("goalsFor"), 
             col("table.goalsAgainst").cast("int").alias("goalsAgainst")
         )
-        for target, source in mappping_team.items():
-            for item in source:
-                df_final = df_final.withColumn(
-                "team_name",
-                when(col("team_name") == item, target).otherwise(col("team_name"))
-        )
+        mapping_expr = create_map([lit(x) for x in chain(*[(item, target) for target, source in mapping_team.items() for item in source
+        ])])
+        df_final = df_final.withColumn(
+            "team_name",
+            coalesce(mapping_expr.getItem(col("team_name")), col("team_name"))
+)
         df_final.printSchema()
         result.append(df_final)
     return result
 
+#transforming league info to Refined
 def league_load():
     from_map = [
     "premierleague/24_25/league",
@@ -57,13 +60,14 @@ def league_load():
             df = spark.read.json(f"s3a://trusted/{source}/year={today.year}/month={today.month}/day={today.day}")
             df = df.withColumn("seasons", concat_ws("-", substring(col("season.startDate"), 1, 4), substring(col("season.endDate"), 1, 4)))
             df = df.select(col("area.name").alias("country"), col("competition.name").alias("league_name"), 
-                           col("competition.type").alias("type"), col("seasons")
+                           col("competition.type").alias("type")
                            )
             df.printSchema()
             df.write.mode("append").parquet(f"s3a://refined/league/year={today.year}/month={today.month}/day={today.day}")
     else:
         print("League information is already in the table")
 
+#transforming season to Refined
 def season_load():
     from_map = [
     "premierleague/24_25/league",

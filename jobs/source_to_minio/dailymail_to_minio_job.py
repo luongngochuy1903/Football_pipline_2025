@@ -8,9 +8,10 @@ import logging
 
 
 spark = SparkSession.builder \
-    .appName("esspn to minio") \
+    .appName("dailymail to minio") \
     .getOrCreate()
 
+#reading news from shared_data
 def news_read_from_json():
     shared_map = {
     "pl": "/opt/shared/news/dailymail/premierleague_dailymailnews.json",

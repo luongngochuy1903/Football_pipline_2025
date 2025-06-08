@@ -18,7 +18,7 @@ def espn_to_raw_dag():
     def extract_espn_raw():
         command = [
     "docker", "exec",
-    "-e", "PYTHONPATH=/opt/spark_jobs",  # thêm dòng này
+    "-e", "PYTHONPATH=/opt/spark_jobs",  
     "football_pipeline_2025-spark-master-1",
     "spark-submit", "--master", "spark://spark-master:7077",
     "/opt/spark_jobs/source_to_minio/espn_to_minio_job.py"
@@ -38,7 +38,6 @@ def espn_to_raw_dag():
     def clear_from_shared():
         league_folder = ["bundesliga", "laliga", "ligue 1", "premier_leagues", "seria"]
         attribute_folder = "team_info/team_season.json"
-        os.system("rm -rf /opt/shared/news/espn/*")
         for league in league_folder:
             os.system(f"rm -f /opt/shared/{league}/24_25/{attribute_folder}")
         print("Deleted shared data")

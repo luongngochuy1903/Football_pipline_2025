@@ -5,9 +5,10 @@ from datetime import date
 import json
 
 spark = SparkSession.builder \
-    .appName("esspn to minio") \
+    .appName("fbref to minio") \
     .getOrCreate()
 
+#reading team info from shared_data
 def team_read_from_json():
     shared_map = {
     "pl": "/opt/shared/premier_leagues/24_25/team_info/teams_overall.json",
@@ -42,6 +43,7 @@ def team_read_from_json():
                     break
     print("Pipeline: fbhref-team: Load to RAW ZONE/news minio completed !")
 
+#reading player info from shared_data
 def player_read_from_json():
     shared_map = {
     "pl": "/opt/shared/premier_leagues/24_25/player_info",

@@ -51,9 +51,9 @@ class Scraping:
             all_href = []
             full_url = f"{self.url}{league}"
             driver.get(full_url)
-            time.sleep(5)
+            time.sleep(4)
             soup = BeautifulSoup(driver.page_source, 'html.parser')
-            time.sleep(1)
+            time.sleep(4)
             main_article = soup.find('div', class_="mainArticle--F664X article").find('a')
             main_article_url = main_article['href']
             print(main_article_url)
@@ -74,8 +74,9 @@ class Scraping:
             news_list = []
             for news in all_href:
                 driver.get(news)
-                time.sleep(4)
+                time.sleep(3)
                 soup2 = BeautifulSoup(driver.page_source, 'html.parser')
+                time.sleep(3)
                 headlines = soup2.find('div', {'id':'js-article-text'}).find('h1').text.strip()
                 time_published_button = soup2.find('span', class_='article-timestamp article-timestamp-published').find('time')
                 time_published = time_published_button['datetime']

@@ -4,9 +4,10 @@ from modules.module_null import handle_null
 from datetime import date
 
 spark = SparkSession.builder \
-    .appName("esspn to minio") \
+    .appName("fbref to Trusted") \
     .getOrCreate()
 
+#transforming team info to Trusted
 def transformTeam():
     team_map = [
         "premierleague/24_25/team",
@@ -27,6 +28,7 @@ def transformTeam():
         transform_df.write.mode("append").partitionBy("year", "month", "day").json(f"s3a://trusted/{team}")
         print(f"Complete loading to Trusted/{team} !")
 
+#transforming player stats to Trusted
 def transformPlayer():
     attribute_map = ["attacking", "defending", "overall"]
     player_map = [

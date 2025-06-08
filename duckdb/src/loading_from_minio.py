@@ -2,6 +2,9 @@ import duckdb
 from datetime import date, datetime
 import boto3
 
+"""
+    Loading data from Minio to Duckdb
+"""
 S3_ENDPOINT = 'http://minio:9000' 
 S3_ENDPOINT_IP = '172.18.0.11:9000'
 S3_ACCESS_KEY = 'minio_access_key'

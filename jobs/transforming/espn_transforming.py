@@ -4,9 +4,10 @@ from modules.module_null import handle_null
 from datetime import date
 
 spark = SparkSession.builder \
-    .appName("esspn to minio") \
+    .appName("esspn to Trusted") \
     .getOrCreate()
 
+#transforming leagues to Trusted
 def transformEspn():
     league_map = [
         "premierleague/24_25/league",
@@ -17,7 +18,7 @@ def transformEspn():
     ]
     for league in league_map:
         today = date.today()
-        df_league = spark.read.option("multiline","true").json(f"s3a://raw/{league}/year={today.year}/month={today.month}/day={today.day}")
+        df_league = spark.read.json(f"s3a://raw/{league}/year={today.year}/month={today.month}/day={today.day}")
         df_league = df_league.select("area", "competition", "season", "standings")
         transform_df = handle_null(spark, df_league)
         print("Starting transforming to Trusted Zone task")

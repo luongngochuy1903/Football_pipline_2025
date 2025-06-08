@@ -1,5 +1,8 @@
 import duckdb
 conn = duckdb.connect("/app/volume/datawarehouse.duckdb")
+"""
+    Setting up staging layer data warehouse
+"""
 
 sql_script = """
 -- Create schema

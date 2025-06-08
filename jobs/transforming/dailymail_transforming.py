@@ -3,9 +3,10 @@ from pyspark.sql.functions import lit, substring, to_date, col
 from modules.module_null import handle_null
 from datetime import date
 spark = SparkSession.builder \
-    .appName("esspn to minio") \
+    .appName("dailymail to trusted") \
     .getOrCreate()
 
+#transforming news to Trusted
 def transformDailymail():
     news_map = [
         "premierleague/24_25/news/dailymail",

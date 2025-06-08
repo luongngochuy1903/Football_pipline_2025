@@ -9,6 +9,7 @@ def print_context(**kwargs):
 
 @dag(
     dag_id='dw_process',
+    start_date=datetime(2025, 5, 12),
     schedule_interval=None,
     catchup=False,
 )

@@ -5,9 +5,10 @@ from datetime import date
 import json
 
 spark = SparkSession.builder \
-    .appName("esspn to minio") \
+    .appName("dailymail to refined") \
     .getOrCreate()
 
+#transforming news to Refined
 def news_load():
     from_map = [
     "premierleague/24_25/news/dailymail",

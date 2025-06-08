@@ -1,4 +1,7 @@
-mappping_team = {
+"""
+mapping to fix inconsistent call
+"""
+mapping_team = {
     "Como": ["Como 1907"],
     "Hellas Verona": ["Verona"],
     "Venezia": ["Venezia FC"],

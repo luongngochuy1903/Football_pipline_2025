@@ -1,6 +1,10 @@
 import duckdb
 
 conn = duckdb.connect("/app/volume/datawarehouse.duckdb")
+"""
+    Transforming data from staging to core
+"""
+
 #LOADING TO NEWS
 season_count = conn.execute("SELECT COUNT(*) FROM staging.season").fetchone()[0]
 if season_count > 0:

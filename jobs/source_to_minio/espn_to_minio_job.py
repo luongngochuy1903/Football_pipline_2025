@@ -7,11 +7,11 @@ import json
 import hashlib
 import logging
 
-# Tạo SparkSession với cấu hình S3 (MinIO)
 spark = SparkSession.builder \
     .appName("espn to minio") \
     .getOrCreate()
 
+#reading league from shared_data
 def league_read_from_json():
     crawl_team_season()
     league_lists = {

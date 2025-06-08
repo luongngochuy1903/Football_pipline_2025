@@ -5,9 +5,10 @@ from datetime import date
 import json
 
 spark = SparkSession.builder \
-    .appName("esspn to minio") \
+    .appName("capology to minio") \
     .getOrCreate()
 
+#reading payrolls from shared_data
 def payrolls_read_from_json():
     shared_map = {
     "pl": "/opt/shared/premier_leagues/24_25/team_info/team_finance/club_payrolls.json",
@@ -37,6 +38,7 @@ def payrolls_read_from_json():
                 break
     print("Load to RAW ZONE/team minio completed !")
 
+#reading transfer from shared_data
 def transfer_read_from_json():
     shared_map = {
     "pl": "/opt/shared/premier_leagues/24_25/team_info/team_finance/club_transfer.json",
@@ -66,6 +68,7 @@ def transfer_read_from_json():
                 break
     print("Load to RAW ZONE/team minio completed !")
 
+#reading salary from shared_data
 def salary_read_from_json():
     shared_map = {
     "pl": "/opt/shared/premier_leagues/24_25/player_info/salary/player_salary.json",

@@ -6,11 +6,10 @@ from datetime import date
 import json
 
 spark = SparkSession.builder \
-    .appName("esspn to minio") \
-    .config("spark.driver.memory", "4g") \
-    .config("spark.executor.memory", "4g") \
+    .appName("player, team to Refined") \
     .getOrCreate()
 
+#transforming player stats to Refined
 def player_load():
     from_map = [
     "premierleague/24_25/player",
@@ -57,6 +56,7 @@ def player_load():
                 df.printSchema()
                 df.write.mode("append").parquet(f"s3a://refined/player/{attribute}/year={today.year}/month={today.month}/day={today.day}")
 
+#transforming team info to Refined
 def team_load(spark):
     result = espn_team_load(spark)
     from_map = [
@@ -67,17 +67,17 @@ def team_load(spark):
         "seriea/24_25/team"
     ]
     for team in from_map:
-        df_espn = result[0]
+        df_espn = result[0].persist()
         today = date.today()
         df_team = spark.read.json(f"s3a://trusted/{team}/year={today.year}/month={today.month}/day={today.day}")
         for col_name in df_team.columns:
-            df_team = df_team.withColumn(col_name, col(col_name).cast("int")) if col_name not in {"manager", "team_name"} else df_team
+            df_team = df_team.withColumn(col_name, col(col_name).cast("int")) if col_name not in {"manager", "team_name", "season"} else df_team
         df_join = df_team.join(df_espn, on="team_name", how="outer")
         df_join = df_join.select(col("team_name"), col("league_name"), col("point"), col("rank"), col("manager"),
                                  col("playedGames"), col("won"), col("draw"), col("lost"), col("goalDifference"),
                                  col("goalsFor"), col("goalsAgainst"), col("season"))
         df_join.printSchema()
-        df_join.write.mode("append").json(f"s3a://refined/team/year={today.year}/month={today.month}/day={today.day}")
+        df_join.write.mode("append").parquet(f"s3a://refined/team/year={today.year}/month={today.month}/day={today.day}")
         result.pop(0)
 
 player_load()

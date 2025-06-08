@@ -6,9 +6,10 @@ from datetime import date
 import json
 
 spark = SparkSession.builder \
-    .appName("esspn to minio") \
+    .appName("capology to Refined") \
     .getOrCreate()
 
+#transforming Payrolls to Refined
 def payrolls_load():
     from_map = [
     "premierleague/24_25/finance/payrolls",
@@ -26,10 +27,16 @@ def payrolls_load():
 
         df = df.select(col("team"), col("league"), col("gross/w"), col("gross/y"), col("gross_keeper"),
                   col("gross_defense"), col("gross_midfield"), col("gross_forward"), col("season"))
-        
+        for target, source in mapping_league.items():
+            for item in source:
+                df = df.withColumn(
+                "league",
+                when(col("league") == item, target).otherwise(col("league"))
+        )
         df.printSchema()
         df.write.mode("append").parquet(f"s3a://refined/payrolls/year={today.year}/month={today.month}/day={today.day}")
 
+#transforming transfer to Refined
 def transfer_load():
     from_map = [
     "premierleague/24_25/finance/transfer",
@@ -56,6 +63,7 @@ def transfer_load():
         df.printSchema()
         df.write.mode("append").parquet(f"s3a://refined/transfer/year={today.year}/month={today.month}/day={today.day}")
 
+#transforming salary to Refined
 def salary_load():
     from_map = [
     "premierleague/24_25/finance/salary",

@@ -6,6 +6,7 @@ import boto3
 from pyspark.sql.functions import col, to_json, struct, md5
 import logging
 
+#checking duplicated from Trusted zone to decide whether or not loading data to Raw Zone
 def checking_duplicated(spark, target, raw_df, address, list_value):
     latest = get_latest_partition_date(target, address)
     if not latest:
@@ -26,7 +27,7 @@ def checking_duplicated(spark, target, raw_df, address, list_value):
             return False
     return True
     
-
+#get the latest partition date
 def get_latest_partition_date(bucket, prefix):
         s3_client = boto3.client(
             "s3",

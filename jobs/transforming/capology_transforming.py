@@ -4,9 +4,10 @@ from modules.module_null import handle_null
 from datetime import date
 
 spark = SparkSession.builder \
-    .appName("esspn to minio") \
+    .appName("capology to Trusted") \
     .getOrCreate()
 
+#transforming Payrolls to Trusted
 def transformPayroll():
     payroll_map = [
         "premierleague/24_25/finance/payrolls",
@@ -31,6 +32,7 @@ def transformPayroll():
         transform_df.write.mode("append").partitionBy("year", "month", "day").json(f"s3a://trusted/{pay}")
         print(f"Complete loading to Trusted/{pay} !")
 
+#transforming transfer to Trusted
 def transformTransfer():
     transfer_map = [
         "premierleague/24_25/finance/transfer",
@@ -54,7 +56,7 @@ def transformTransfer():
         transform_df.write.mode("append").partitionBy("year", "month", "day").json(f"s3a://trusted/{pay}")
         print(f"Complete loading to Trusted/{pay} !")
 
-
+#transforming salary to Trusted
 def transformSalary():
     salary_map = [
         "premierleague/24_25/finance/salary",

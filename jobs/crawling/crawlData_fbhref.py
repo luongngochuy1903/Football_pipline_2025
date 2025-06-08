@@ -150,7 +150,7 @@ class Scraping:
                 soup = BeautifulSoup(driver.page_source, 'html.parser')
                 time.sleep(2)
                 print(f"div_results{item}91_overall")
-                table = soup.find('div', id=f"div_results{item}{id}1_overall") #nhớ thay id
+                table = soup.find('div', id=f"div_results{item}{id}1_overall") 
                 if not table:
                     print("Không tìm thấy table")
                     continue
@@ -162,14 +162,12 @@ class Scraping:
 
                 get_table = tbody.find_all('tr')
                 
-                temp_team_attack = [] # mảng lưu clb
+                temp_team_attack = [] 
                 temp_team_info = []
                 temp_team_defend = []
                 for element in get_table:
                     atribute = element.find('td')
                     team_name = ""
-                    # for items in atribute:
-                    #     if items.get('data-stat', '') == "team":
                     team_detail_url = base_url + atribute.find('a')['href']
                     team_name = atribute.find('a').text.strip()
                     print(f"Team Detail URL: {team_detail_url}")
