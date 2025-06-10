@@ -1,9 +1,6 @@
 ---- UPDATING ----
 docs: https://www.notion.so/Data-Engineering-Project-1d4d11d93e1b80e58482ed5dff2c1845
 ---- REMIND ----
-MariaDB: remote database lưu trữ thông tin bang biểu của hive bằng các table
-trino/hive: lưu trữ các schema, database nhưng chỉ là khung, không có dữ lieu, dữ liệu nằm trong minio
-
 CLI: vào vùng query của trino: docker exec -it datalake-trinio trino --server http://localhost:8080 --catalog minio
 sql: thêm vào partition cho hive metastore khi trino tạo bang partition mà không hiển thị: CALL system.sync_partition_metadata('test', 'query_parquet', 'ADD');
 kiểm tra các partition của trino table trong metastore: SELECT p.*, s.LOCATION FROM DBS d  JOIN TBLS t ON d.DB_ID = t.DB_ID  JOIN PARTITIONS p ON t.TBL_ID = p.TBL_ID  JOIN SDS s ON p.SD_ID = s.SD_ID WHERE t.TBL_NAME = 'query_parquet' AND d.NAME='test';
