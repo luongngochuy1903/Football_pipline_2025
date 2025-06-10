@@ -1,6 +1,7 @@
 from pyspark.sql import SparkSession
 from pyspark.sql.functions import lit
 from modules.module_job import checking_duplicated
+from modules.data_quality import checking_fbref
 from datetime import date
 import json
 
@@ -31,7 +32,7 @@ def team_read_from_json():
         for key, path in path_map.items():
                 if key == league_code:
                     today = date.today()
-                    if not checking_duplicated(spark, "trusted", df, path, ["point"]):
+                    if not checking_duplicated(spark, "trusted", df, path, ["point"]) and checking_fbref(df, spark, key, path):
                         print("Starting loading to Raw Zone task")
                         df = df.withColumn("year", lit(today.year)) \
                         .withColumn("month", lit(today.month)) \
@@ -69,7 +70,7 @@ def player_read_from_json():
                 if key == league_code:
                     today = date.today()
                     complete_path = f"{path}/{attribute}"
-                    if not checking_duplicated(spark, "trusted", df, complete_path, ["SCA", "GCA"]):
+                    if not checking_duplicated(spark, "trusted", df, complete_path, ["SCA", "GCA"]) and checking_fbref(df, spark, key, complete_path):
                         print("Starting loading to Raw Zone task")
                         df = df.withColumn("year", lit(today.year)) \
                         .withColumn("month", lit(today.month)) \

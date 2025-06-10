@@ -1,6 +1,7 @@
 from pyspark.sql import SparkSession
 from pyspark.sql.functions import lit
 from pyspark.sql.types import StructType, StructField, StringType, ArrayType
+from modules.data_quality import checking_capology
 from datetime import date
 import json
 
@@ -30,12 +31,13 @@ def payrolls_read_from_json():
         df.printSchema()
         for key, path in path_map.items():
             if key == league_code:
-                today = date.today()
-                df = df.withColumn("year", lit(today.year)) \
-                    .withColumn("month", lit(today.month)) \
-                    .withColumn("day", lit(today.day))
-                df.write.mode("append").partitionBy("year","month","day").json(path)
-                break
+                if checking_capology(df, spark, key):
+                    today = date.today()
+                    df = df.withColumn("year", lit(today.year)) \
+                        .withColumn("month", lit(today.month)) \
+                        .withColumn("day", lit(today.day))
+                    df.write.mode("append").partitionBy("year","month","day").json(path)
+                    break
     print("Load to RAW ZONE/team minio completed !")
 
 #reading transfer from shared_data
@@ -60,12 +62,13 @@ def transfer_read_from_json():
         df.printSchema()
         for key, path in path_map.items():
             if key == league_code:
-                today = date.today()
-                df = df.withColumn("year", lit(today.year)) \
-                    .withColumn("month", lit(today.month)) \
-                    .withColumn("day", lit(today.day))
-                df.write.mode("append").partitionBy("year","month","day").json(path)
-                break
+                if checking_capology(df, spark, key):
+                    today = date.today()
+                    df = df.withColumn("year", lit(today.year)) \
+                        .withColumn("month", lit(today.month)) \
+                        .withColumn("day", lit(today.day))
+                    df.write.mode("append").partitionBy("year","month","day").json(path)
+                    break
     print("Load to RAW ZONE/team minio completed !")
 
 #reading salary from shared_data
@@ -90,12 +93,13 @@ def salary_read_from_json():
         df.printSchema()
         for key, path in path_map.items():
             if key == league_code:
-                today = date.today()
-                df = df.withColumn("year", lit(today.year)) \
-                    .withColumn("month", lit(today.month)) \
-                    .withColumn("day", lit(today.day))
-                df.write.mode("append").partitionBy("year","month","day").json(path)
-                break
+                if checking_capology(df, spark, key):
+                    today = date.today()
+                    df = df.withColumn("year", lit(today.year)) \
+                        .withColumn("month", lit(today.month)) \
+                        .withColumn("day", lit(today.day))
+                    df.write.mode("append").partitionBy("year","month","day").json(path)
+                    break
     print("Load to RAW ZONE/player minio completed !")
 
 payrolls_read_from_json()

@@ -2,6 +2,7 @@ from pyspark.sql import SparkSession
 from pyspark.sql.functions import lit
 from crawling.crawlData_espn import crawl_team_season
 from modules.module_job import checking_duplicated
+from modules.data_quality import checking_espn
 from datetime import date
 import json
 import hashlib
@@ -37,7 +38,7 @@ def league_read_from_json():
         for key, path in path_map.items():
             if key == league_code:
                 today = date.today()
-                if not checking_duplicated(spark, "trusted", df, path, ["season.currentMatchday"]):
+                if not checking_duplicated(spark, "trusted", df, path, ["season.currentMatchday"]) and checking_espn(df, spark, key):
                     print("Starting loading to Raw Zone task")
                     df = df.withColumn("year", lit(today.year)) \
                     .withColumn("month", lit(today.month)) \
