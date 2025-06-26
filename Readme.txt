@@ -1,5 +1,5 @@
 ---- UPDATING ----
-docs: https://www.notion.so/Data-Engineering-Project-1d4d11d93e1b80e58482ed5dff2c1845
+docs: https://www.notion.so/Data-Engineering-Project-1d4d11d93e1b80e58482ed5dff2c1845?source=copy_link
 ---- REMIND ----
 CLI: vào vùng query của trino: docker exec -it datalake-trinio trino --server http://localhost:8080 --catalog minio
 sql: thêm vào partition cho hive metastore khi trino tạo bang partition mà không hiển thị: CALL system.sync_partition_metadata('test', 'query_parquet', 'ADD');
