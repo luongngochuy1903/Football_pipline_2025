@@ -5,3 +5,4 @@ logs
 pgdata
 credentials.json
 spark/spark-jars/*.jar
+remind.txt
